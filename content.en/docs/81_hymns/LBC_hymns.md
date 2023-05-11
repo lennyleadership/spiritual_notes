@@ -157,7 +157,7 @@ Ah, Lord God, Thou has made the heavens
 <br>Nothing is too difficult for Thee
     </p></td>
     <td style = "border-style: none"><p>
-<br>啊，主神 啊，主上帝，你用你的大能创造了天地 
+啊，主神 啊，主上帝，你用你的大能创造了天地 
 <br>啊，主上帝，你用你伸出的臂膀创造了天地 ，
 
 <br>没有什么对你来说太难，
@@ -217,7 +217,21 @@ All heaven declares
 <br>We gladly bow our knee and worship you alone
     </p></td>
     <td style = "border-style: none"><p>
-全天宣告 全天庭宣告 复活主的荣耀谁能比 以主的美丽 祂永远是宝座上的羔羊，我欣然屈膝单单敬拜祂 ，我们将宣告 复活主的荣耀 ，谁曾经被杀 使人与神和好 ，永远你是宝座上的羔羊 我们欣然屈膝敬拜你。
+全天宣告 
+<br>全天庭宣告 
+<br>复活主的荣耀
+<br>谁能比 
+<br>以主的美丽 
+<br>祂永远是宝座上的羔羊
+<br>我欣然屈膝单单敬拜祂
+
+<br>我们将宣告 
+<br>复活主的荣耀
+<br>祂曾经被杀
+<br>使人与神和好
+<br>永远你是宝座上的羔羊
+<br>我们欣然屈膝敬拜你
+<br>唯独你
     </p></td>
   </tr>
 </tbody>
