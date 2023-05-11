@@ -14,7 +14,8 @@ toc: true
 
 <!--more-->
 
-<h1>1. purple robe</h1>
+# 1. purple robe
+
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -68,4 +69,151 @@ toc: true
 </table>
 
 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+    <td style = "border-style: none"><p>
+
+    </p></td>
+    <td style = "border-style: none"><p>
+
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+    <td style = "border-style: none"><p>
+
+    </p></td>
+    <td style = "border-style: none"><p>
+
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+    <td style = "border-style: none"><p>
+
+    </p></td>
+    <td style = "border-style: none"><p>
+
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+    <td style = "border-style: none"><p>
+
+    </p></td>
+    <td style = "border-style: none"><p>
+
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+    <td style = "border-style: none"><p>
+
+    </p></td>
+    <td style = "border-style: none"><p>
+
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 2. A Thousand, A Thousand Thanksgivings
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+    <td style = "border-style: none"><p>
+<br>Thou Life of my life, blessed Jesus
+<br>Thou death of the death that was mine
+<br>For me was Thy cross and Thine anguish
+<br>Thy love and Thy sorrow divine
+<br>Thou suffered the cross and the torment
+<br>That I might forever go free
+<br>A thousand, a thousand thanksgivings
+<br>I bring, blessed Savior, to Thee
+
+<br>For me Thou hast borne the reproaches
+<br>The mockery, hate and disdain
+<br>The blows and the spitting of sinners
+<br>The scourging, the shame and the pain
+<br>To save me from bondage and judgment
+<br>Thou gladly hast suffered for me
+<br>A thousand, a thousand thanksgivings
+<br>I bring, blessed Savior, to Thee
+
+<br>O Lord, from my heart I do thank Thee
+<br>For all Thou hast borne in my room
+<br>Thine agony, dying, unsolaced
+<br>Alone in the darkness of doom
+<br>That I, in the glory of heaven
+<br>Forever and ever might be
+<br>A thousand, a thousand thanksgivings
+<br>I bring, blessed Savior, to Thee
+    </p></td>
+    <td style = "border-style: none"><p>
+<br>无尽的感恩 
+<br>感谢耶稣，我与你一同活
+<br>我与你一同死
+<br>你为我上十架，你为我受痛苦
+<br>你的爱和你的悲伤全然伟大
+<br>你忍受了十字架和折磨
+<br>我可以永远自由
+<br>无尽的感恩
+<br>我将感恩带到你面前，感谢耶稣！
+
+<br>你为我忍受了给罪人的辱骂、
+<br>嘲笑、仇恨和蔑视 
+<br>打击和唾沫 
+<br>鞭打、羞辱和痛苦 ，
+<br>为救我脱离奴役和审判 
+<br>你欣然为我受苦 ，
+<br>无尽的感恩
+<br>我将感恩带到你面前，感谢耶稣！
+
+<br>主啊，我从心里感谢你
+<br>因为，在黑暗的墓穴中
+<br>你为我背负了
+<br>痛苦、死亡、难过、孤独
+<br>我可以进入天国的荣耀中
+<br>永远
+<br>无尽的感恩
+<br>我将感恩带到你面前，感谢耶稣！
+    </p></td>
+  </tr>
+</tbody>
+</table>
 
