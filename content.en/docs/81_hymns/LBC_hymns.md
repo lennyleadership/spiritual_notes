@@ -680,10 +680,8 @@ I've found a treasure that can't be taken
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-
     </p></td>
     <td style = "border-style: none"><p>
-
     </p></td>
   </tr>
 </tbody>
