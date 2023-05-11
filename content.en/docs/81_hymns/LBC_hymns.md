@@ -21,6 +21,16 @@ toc: true
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
+  <td style = "border-style: none">
+  <p>A Purple Robe
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>紫色的袍 
+  </p>  
+  </td>
+  </tr>
+  <tr>
     <td style = "border-style: none"><p>
 A purple robe, a crown of thorn
 <br>A reed in his right hand
@@ -48,8 +58,7 @@ A purple robe, a crown of thorn
 <br>I sing my Saviour's name
     </p></td>
     <td style = "border-style: none"><p>
-紫色的袍 
-<br>紫色的袍荊棘冠冕，蘆葦杖在右手；
+紫色的袍荊棘冠冕，蘆葦杖在右手；
 <br>兵丁唾面，嘲笑譏諷，我見救主站立；
 <br>
 <br>祂在羅馬守衛面前，承受我們罪責，
@@ -74,6 +83,16 @@ A purple robe, a crown of thorn
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
 <tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>A Thousand, A Thousand Thanksgivings
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>无尽的感恩
+  </p>  
+  </td>
+  </tr>
   <tr>
     <td style = "border-style: none"><p>
 Thou Life of my life, blessed Jesus
@@ -104,8 +123,7 @@ Thou Life of my life, blessed Jesus
 <br>I bring, blessed Savior, to Thee
     </p></td>
     <td style = "border-style: none"><p>
-无尽的感恩 
-<br>感谢耶稣，我与你一同活
+感谢耶稣，我与你一同活
 <br>我与你一同死
 <br>你为我上十架，你为我受痛苦
 <br>你的爱和你的悲伤全然伟大
@@ -143,6 +161,16 @@ Thou Life of my life, blessed Jesus
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
+  <td style = "border-style: none">
+  <p>Ah, Lord God
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>啊，主上帝 
+  </p>  
+  </td>
+  </tr>
+  <tr>
     <td style = "border-style: none"><p>
 Ah, Lord God, Thou has made the heavens
 <br>And the earth by thy great power
@@ -157,7 +185,7 @@ Ah, Lord God, Thou has made the heavens
 <br>Nothing is too difficult for Thee
     </p></td>
     <td style = "border-style: none"><p>
-啊，主神 啊，主上帝，你用你的大能创造了天地 
+啊，主上帝，你用你的大能创造了天地 
 <br>啊，主上帝，你用你伸出的臂膀创造了天地 ，
 
 <br>没有什么对你来说太难，
@@ -175,6 +203,16 @@ Ah, Lord God, Thou has made the heavens
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
+  <td style = "border-style: none">
+  <p>All hail King Jesus
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>万福君王耶稣
+  </p>  
+  </td>
+  </tr>
+  <tr>
     <td style = "border-style: none"><p>
 All hail, King Jesus
 <br>All hail, Emmanuel
@@ -183,8 +221,7 @@ All hail, King Jesus
 <br>And we’ll reign with you throughout eternity
     </p></td>
     <td style = "border-style: none"><p>
-万福君王耶稣 
-<br>万福，君王耶稣 
+万福，君王耶稣 
 <br>万福，伊曼纽尔 
 <br>万王之王，万主之主，明亮的晨星 
 <br>永远，我们将歌颂你 
@@ -201,9 +238,18 @@ All hail, King Jesus
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
+  <td style = "border-style: none">
+  <p>All heaven declares
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>齐来宣告 
+  </p>  
+  </td>
+  </tr>
+  <tr>
     <td style = "border-style: none"><p>
-All heaven declares
-<br>The glory of the risen Lord
+The glory of the risen Lord
 <br>Who can compare
 <br>With the beauty of the Lord
 <br>Forever He will be the Lamb upon the throne
@@ -217,9 +263,7 @@ All heaven declares
 <br>We gladly bow our knee and worship you alone
     </p></td>
     <td style = "border-style: none"><p>
-全天宣告 
-<br>全天庭宣告 
-<br>复活主的荣耀
+复活主的荣耀
 <br>谁能比 
 <br>以主的美丽 
 <br>祂永远是宝座上的羔羊
@@ -243,6 +287,16 @@ All heaven declares
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
 <tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>All I have is Christ
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>我所有的就是基督
+  </p>  
+  </td>
+  </tr>
   <tr>
     <td style = "border-style: none"><p>
 I once was lost in darkest night
@@ -279,8 +333,7 @@ I once was lost in darkest night
 <br>My only boast is You
     </p></td>
     <td style = "border-style: none"><p>
-6.我所有的就是基督
-<br>我曾迷失幽暗深夜
+我曾迷失幽暗深夜
 <br>自信知道前路
 <br>浮生醉夢罪中之樂
 <br>卻領我到滅亡
@@ -322,6 +375,16 @@ I once was lost in darkest night
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
+  <td style = "border-style: none">
+  <p>Be exalted, O God
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>至高真神
+  </p>  
+  </td>
+  </tr>
+  <tr>
     <td style = "border-style: none"><p>
 I will give thanks to Thee
 <br>O Lord, among the people
@@ -340,9 +403,7 @@ I will give thanks to Thee
 <br>Let Thy glory be over all the earth
     </p></td>
     <td style = "border-style: none"><p>
-至高真神 
-<br>
-<br>我要向祢稱謝，哦，主，在萬民當中。
+我要向祢稱謝，哦，主，在萬民當中。
 <br>我要讚美祢的名在列邦之中。
 <br>祢的慈愛不改變，慈愛高過諸天，
 <br>祢的信實，祢的信實達到穹蒼。
@@ -362,6 +423,16 @@ I will give thanks to Thee
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
 <tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>Because He lives
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>因祂活着
+  </p>  
+  </td>
+  </tr>
   <tr>
     <td style = "border-style: none"><p>
 God sent His son, they called Him Jesus
@@ -412,6 +483,16 @@ God sent His son, they called Him Jesus
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
+  <td style = "border-style: none">
+  <p>Before the throne of God above
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>在高天主的宝座前
+  </p>  
+  </td>
+  </tr>
+  <tr>
     <td style = "border-style: none"><p>
 Before the throne of God above
 <br>I have a strong and perfect plea
@@ -444,9 +525,7 @@ Before the throne of God above
 <br>With Christ my Savior and my God
     </p></td>
     <td style = "border-style: none"><p>
-在高天主的宝座前
-<br>
-<br>在高天神的寶座前，
+在高天神的寶座前，
 <br>有大能至善者代言，
 <br>祂是大祭司祂是愛，
 <br>今在永在為我分辯，
@@ -486,6 +565,16 @@ Before the throne of God above
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
+  <td style = "border-style: none">
+  <p>Christ is all
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>基督是一切
+  </p>  
+  </td>
+  </tr>
+  <tr>
     <td style = "border-style: none"><p>
 I've found a treasure that can't be taken
 <br>Found a well that won't run dry
@@ -514,44 +603,32 @@ I've found a treasure that can't be taken
 <br>My great desire, my true reward
     </p></td>
     <td style = "border-style: none"><p>
-基督是一切
-<br>
-<br>我找到了一件拿不走的宝物 
+我找到了一件拿不走的宝物 
 <br>找到一口不会干涸的井 
 <br>哦，世俗的快乐现在被抛弃了 
-<br>看看，我的爱是怎样的生活
-<br>无休止的奋斗现在能使我正义吗 
-<br>现在我所有的作品能给我希望吗 
+<br>看吧！我的爱、我的生命是何等宝贵！
+
+<br>无休止的奋斗现在能使我公义吗 
+<br>我所做的一切现在能给我希望吗 
 <br>哦，哈利路亚，耶稣的宝血 
-<br>我唯一的请求，我唯一的夸耀
+<br>我唯一的代求，我唯一的夸耀
+<br>
+[副歌]
 <br>基督是一切，基督是一切 
-<br>我的歌将永远 
+<br>我要永远歌唱 
 <br>基督是一切，一切的一切 
-<br>我的歌将永远 
+<br>我要永远歌唱 
 <br>基督就是一切
+<br>
 <br>而在暴风雨肆虐的试炼中 
 <br>虽然眼泪可能会掉下来，但我的灵魂会升起 
-<br>因为有一种和平是我不变的 
-<br>有一种永不消逝的快乐
-<br>基督是一切，基督是一切 
-<br>我的歌将永远 
-<br>基督是一切，一切的一切 
-<br>我的歌将永远 
-<br>基督就是一切
-<br>当生命在流逝，力量在消退 
-<br>我会看到我崇拜的人 
+<br>因为有一种平安，属于我，永不变！ 
+<br>有一种快乐，永不消逝！
+<br>
+<br>当生命在流逝，力量在衰竭 
+<br>我会看到我崇拜的那一位 
 <br>让这个世界消失，哦，给我耶稣 
-<br>我的伟大愿望，我真正的回报
-<br>基督是一切，基督是一切 
-<br>我的歌将永远 
-<br>基督是一切，一切的一切 
-<br>我的歌将永远 
-<br>基督就是一切
-<br>基督是一切，基督是一切 
-<br>我的歌将永远 
-<br>基督是一切，一切的一切 
-<br>我的歌将永远 
-<br>基督就是一切
+<br>祂是我最大的愿望，真正的奖赏
     </p></td>
   </tr>
 </tbody>
@@ -563,6 +640,16 @@ I've found a treasure that can't be taken
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
 <tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
   <tr>
     <td style = "border-style: none"><p>
 
