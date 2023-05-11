@@ -64,7 +64,7 @@ A purple robe, a crown of thorn
 <br>我見救主站立；
 <br>
 <br>祂在羅馬守衛面前，
-承受我們罪責，
+<br>承受我們罪責，
 <br>鞭打刑罰，令人掩面，
 <br>我見救主前行。
 <br>
@@ -186,7 +186,7 @@ Ah, Lord God, Thou has made the heavens
 <br>And the earth by thy great power
 <br>Ah, Lord God, Thou has made the heavens
 <br>And the earth by Thine outstretched arm
-
+<br>
 <br>Nothing is too difficult for Thee
 <br>Nothing is too difficult for Thee
 <br>Great and mighty God
@@ -397,7 +397,7 @@ I once was lost in darkest night
   </p>
   </td>
   <td style = "border-style: none">
-  <p>至高真神
+  <p>我願尊崇祢
   </p>  
   </td>
   </tr>
@@ -420,15 +420,21 @@ I will give thanks to Thee
 <br>Let Thy glory be over all the earth
     </p></td>
     <td style = "border-style: none"><p>
-我要向祢稱謝，哦，主，在萬民當中。
-<br>我要讚美祢的名在列邦之中。
-<br>祢的慈愛不改變，慈愛高過諸天，
-<br>祢的信實，祢的信實達到穹蒼。
+我要向祢稱謝，
+<br>哦，主，在萬民當中。
+<br>我要讚美祢的名
+<br>在列邦之中。
+<br>因祢不变的慈愛伟大，
+<br>高過諸天，
+<br>祢的信實達到穹蒼。
 <br>
-<br>至高真神，哦，主，我願尊崇祢。
-<br>祢的榮耀與崇高高過天地。 
-<br>至高真神，哦，主，我願尊崇祢。
-<br>祢的榮耀與崇高高過天地。
+<br>你的信实上达云彩，
+<br>哦，主，我願尊崇祢
+<br>上及诸天
+<br>愿祢的榮耀荫蔽大地。 
+<br>哦，主，我願尊崇祢。
+<br>上及诸天
+<br>愿祢的榮耀荫蔽大地。 
     </p></td>
   </tr>
 </tbody>
@@ -457,11 +463,11 @@ God sent His son, they called Him Jesus
 <br>He lived and died to buy my pardon
 <br>An empty grave is there to prove my Savior lives
 <br>
-<br>Chorus
+<br><i>[Chorus]
 <br>Because He lives, I can face tomorrow
 <br>Because He lives, all fear is gone
 <br>Because I know He holds the future
-<br>And life is worth the living just because He lives
+<br>And life is worth the living just because He lives</i>
 <br>
 <br>How sweet to hold a newborn baby
 <br>And feel the pride and joy he gives
@@ -475,20 +481,25 @@ God sent His son, they called Him Jesus
     </p></td>
     <td style = "border-style: none"><p>
 神差爱子 祂名叫耶稣
-<br>祂赐下爱 医治宽恕
-<br>死里复活 使我得自由
-<br>那空坟墓就是我得救的记号
+<br>祂来到世间爱我、医治我、饶恕我
+<br>祂为我活、为我死、为要替我赎罪
+<br>那空坟墓就是为要证明我的救主复活了
 <br>
 <br>[副歌]
 <br>因祂活着 我能面对明天
 <br>因祂活着 不再惧怕
 <br>我深知道 祂掌管明天
-<br>生命充满了希望 只因祂活着
+<br>生命充满了希望 只因祂复活了
 <br>
-<br>当我走完 人生的路程
-<br>痛苦面对 最后征战
-<br>救主为我 战胜了死亡
-<br>在荣光中我见就主祂是活着
+<br>抱着一个新生婴孩何等甘甜
+<br>我感受到祂带给我的自豪、喜乐
+<br>更觉安慰乃是我确信
+<br>这位婴孩能面对未知，因祂复活了
+<br>
+<br>有一天，我会渡生命河
+<br>痛苦面对最后的征战
+<br>胜利最终战胜死亡
+<br>我将看到他荣耀的光辉，因我知道祂复活了
     </p></td>
   </tr>
 </tbody>
@@ -603,11 +614,11 @@ I've found a treasure that can't be taken
 <br>Oh hallelujah, the blood of Jesus
 <br>My only plea, my only boast
 <br>
-<br>Chorus
+<br><i>Chorus
 <br>Christ is all, Christ is all
 <br>And my song will ever be
 <br>Christ is all, All in all
-<br>And my song will ever be, Christ is all
+<br>And my song will ever be, Christ is all</i>
 <br>
 <br>And in the trial when storms are raging
 <br>Though tears may fall my soul will rise
