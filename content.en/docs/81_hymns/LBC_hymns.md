@@ -25,12 +25,13 @@ toc: true
 <br>A reed in his right hand
 <br>Before the soldiers' spite and scorn 
 <br>I see my Saviour stand
+<br>
 <br>He bears between the Roman guard
 <br>The weight of all our woe
 <br>A stumbling figure bowed and scarred 
 <br>I see my Saviour go
 <br>
-<br>Fast to the cross's spreading span
+<br>Fast to the cross spreading span
 <br>High in the sunlit air
 <br>All the unnumbered sins of man
 <br>I see my Saviour bear
@@ -39,29 +40,28 @@ toc: true
 <br>Beneath the darkened sky
 <br>The everlasting ransom paid
 <br>I see my Saviour die
+<br>
 <br>He shares on high His Father's throne
 <br>Who once in mercy came
 <br>For all His love to sinners shown
 <br>I sing my Saviour's name
     </p></td>
     <td style = "border-style: none"><p>
-紫袍 
-<br>紫色长袍，荆棘冠冕 
-<br>右手拿着芦苇 
-<br>我看到我的救世主走了 ，
-<br>在士兵们的恶意和蔑视面前 ，
-<br>我看到我的救世主站在罗马守卫之间 
-<br>我们所有痛苦的重担承担到十字架上。
+<br>紫色的袍 
+<br>紫色的袍荊棘冠冕，蘆葦杖在右手；
+<br>兵丁唾面，嘲笑譏諷，我見救主站立；
 <br>
-<br>高高在阳光普照的空中，人类所有无数的罪恶 。我看到我的救世主熊 
+<br>祂在羅馬守衛面前，承受我們罪責，
+<br>鞭打刑罰，令人掩面，我見救主前行。
+<br>
+<br>急步奔向巨大十架，高懸在烈日下，
+<br>人類數不盡的罪惡，我見我救主擔當；
+<br>
+<br>懸在十架是創造主，天色漸漸昏暗；
+<br>永遠的贖價已償還，我見救主逝去；
 
-<br>他被吊死了，世界是由谁创造的 
-<br>在漆黑的天空下，
-<br>付出了永恒的赎金 ，
-<br>我看到我的救世主死了，
-<br>他坐在他父亲的宝座 ，
-<br>因为他对我们的罪人的仁慈。
-<br>我歌唱我救主的名字 。
+<br>祂曾懷憐憫到世上，現在高天掌權，
+<br>因為祂對罪人的愛，我歌頌祂的名。
     </p></td>
   </tr>
 </tbody>
