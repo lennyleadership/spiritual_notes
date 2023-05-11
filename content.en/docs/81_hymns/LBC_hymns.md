@@ -14,13 +14,13 @@ toc: true
 
 <!--more-->
 
+<h1>1. purple robe</h1>
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
     <td style = "border-style: none"><p>
-1. purple robe
 <br>A purple robe, a crown of thorn
 <br>A reed in his right hand
 <br>Before the soldiers' spite and scorn 
