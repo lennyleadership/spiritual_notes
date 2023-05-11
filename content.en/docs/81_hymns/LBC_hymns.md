@@ -181,7 +181,6 @@ All hail, Emmanuel
 King of kings, Lord of lords, bright Morning Star
 And for all eternity, we’ll sing your praises
 And we’ll reign with you throughout eternity
-
     </p></td>
     <td style = "border-style: none"><p>
 <br>万福君王耶稣 
@@ -196,13 +195,26 @@ And we’ll reign with you throughout eternity
 </table>
 
 
+# 5. All heaven declares
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
     <td style = "border-style: none"><p>
+All heaven declares
+The glory of the risen Lord
+Who can compare
+With the beauty of the Lord
+Forever He will be the Lamb upon the throne
+I gladly bow the knee and worship Him alone
 
+We will proclaim
+The glory of the risen Lord
+Who once was slain
+To reconcile man to God
+Forever you will be the Lamb upon the throne
+We gladly bow our knee and worship you alone
     </p></td>
     <td style = "border-style: none"><p>
 
