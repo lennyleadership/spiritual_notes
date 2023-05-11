@@ -69,87 +69,6 @@ toc: true
 </table>
 
 
-<table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
-</colgroup>
-<tbody VALIGN=TOP>
-  <tr>
-    <td style = "border-style: none"><p>
-
-    </p></td>
-    <td style = "border-style: none"><p>
-
-    </p></td>
-  </tr>
-</tbody>
-</table>
-
-
-
-<table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
-</colgroup>
-<tbody VALIGN=TOP>
-  <tr>
-    <td style = "border-style: none"><p>
-
-    </p></td>
-    <td style = "border-style: none"><p>
-
-    </p></td>
-  </tr>
-</tbody>
-</table>
-
-
-<table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
-</colgroup>
-<tbody VALIGN=TOP>
-  <tr>
-    <td style = "border-style: none"><p>
-
-    </p></td>
-    <td style = "border-style: none"><p>
-
-    </p></td>
-  </tr>
-</tbody>
-</table>
-
-
-<table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
-</colgroup>
-<tbody VALIGN=TOP>
-  <tr>
-    <td style = "border-style: none"><p>
-
-    </p></td>
-    <td style = "border-style: none"><p>
-
-    </p></td>
-  </tr>
-</tbody>
-</table>
-
-
-<table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
-</colgroup>
-<tbody VALIGN=TOP>
-  <tr>
-    <td style = "border-style: none"><p>
-
-    </p></td>
-    <td style = "border-style: none"><p>
-
-    </p></td>
-  </tr>
-</tbody>
-</table>
-
-
 # 2. A Thousand, A Thousand Thanksgivings
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
@@ -217,3 +136,109 @@ toc: true
 </tbody>
 </table>
 
+
+# 3. Ah, Lord God
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+    <td style = "border-style: none"><p>
+<br>Ah, Lord God, Thou has made the heavens
+<br>And the earth by thy great power
+<br>Ah, Lord God, Thou has made the heavens
+<br>And the earth by Thine outstretched arm
+
+<br>Nothing is too difficult for Thee
+<br>Nothing is too difficult for Thee
+<br>Great and mighty God
+<br>Great in counsel and mighty in deed
+<br>Nothing, nothing, absolutely nothing
+<br>Nothing is too difficult for Thee
+    </p></td>
+    <td style = "border-style: none"><p>
+<br>啊，主神 啊，主上帝，你用你的大能创造了天地 
+<br>啊，主上帝，你用你伸出的臂膀创造了天地 ，
+
+<br>没有什么对你来说太难，
+<br>没有什么对你来说太难，
+<br>伟大而全能的神。
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 4. All hail King Jesus
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+    <td style = "border-style: none"><p>
+All hail, King Jesus
+All hail, Emmanuel
+King of kings, Lord of lords, bright Morning Star
+And for all eternity, we’ll sing your praises
+And we’ll reign with you throughout eternity
+
+    </p></td>
+    <td style = "border-style: none"><p>
+<br>万福君王耶稣 
+<br>万福，君王耶稣 
+<br>万福，伊曼纽尔 
+<br>万王之王，万主之主，明亮的晨星 
+<br>永远，我们将歌颂你 
+<br>我们将与你一起统治永恒。
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+    <td style = "border-style: none"><p>
+
+    </p></td>
+    <td style = "border-style: none"><p>
+
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+    <td style = "border-style: none"><p>
+
+    </p></td>
+    <td style = "border-style: none"><p>
+
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+# The end
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+    <td style = "border-style: none"><p>
+
+    </p></td>
+    <td style = "border-style: none"><p>
+
+    </p></td>
+  </tr>
+</tbody>
+</table>
