@@ -663,7 +663,2894 @@ I've found a treasure that can't be taken
 </table>
 
 
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>11. Christ the sure and steady anchor
+Christ the sure and steady anchor
+In the fury of the storm
+When the winds of doubt blow through me
+And my sails have all been torn
+In the suffering, in the sorrow
+When my sinking hopes are few
+I will hold fast to the anchor
+It will never be removed
+
+Christ the sure and steady anchor
+While the tempest rages on
+When temptation claims the battle
+And it seems the night has won
+Deeper still then goes the anchor
+Though I justly stand accused
+I will hold fast to the anchor
+It shall never be removed
+
+Christ the sure and steady anchor
+Through the floods of unbelief
+Hopeless somehow, O my soul, now
+Lift your eyes to Calvary
+This my ballast of assurance
+See his love forever proved
+I will hold fast to the anchor
+It will never be removed
+
+Christ the sure and steady anchor
+As we face the wave of death
+When these trials give way to glory
+As we draw our final breath
+We will cross that great horizon
+Clouds behind and life secure
+And the calm will be the better
+For the storms that we endure
+
+Christ the sure of our salvation
+Ever faithful, ever true
+We will hold fast to the anchor
+It shall never be removed
+
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>12. Come behold the wondrous mystery
+Come behold the wondrous mystery
+In the dawning of the King
+He the theme of heaven’s praises
+Robed in frail humanity
+In our longing, in our darkness
+Now the light of life has come
+Look to Christ, who condescended
+Took on flesh to ransom us
+
+
+
+
+Come behold the wondrous mystery
+He the perfect Son of Man
+In His living, in His suffering
+Never trace nor stain of sin
+See the true and better Adam
+Come to save the hell-bound man
+Christ the great and sure fulfillment
+Of the law; in Him we stand
+
+Come behold the wondrous mystery
+Christ the Lord upon the tree
+In the stead of ruined sinners
+Hangs the Lamb in victory
+See the price of our redemption
+See the Father’s plan unfold
+Bringing many sons to glory
+Grace unmeasured, love untold
+
+Come behold the wondrous mystery
+Slain by death the God of life
+But no grave could ever restrain Him
+Praise the Lord; He is alive!
+What a foretaste of deliverance
+How unwavering our hope
+Christ in power resurrected
+As we will be when He comes
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>13.Crown Him with many crowns
+Crown Him with many crowns
+The Lamb upon His throne
+Hark! How the heavenly anthem drowns
+All music but its own
+Awake, my soul and sing
+Of Him Who died for thee
+And hail Him as thy matchless King
+Through all eternity
+
+Crown Him the Lord of love
+Behold His hands and side
+Rich wounds, yet visible above
+In beauty glorified
+No angel in the sky
+Can fully bear that sight
+But downward bends His wondering eye
+At mysteries so bright
+
+Crown Him the Lord of life
+Who triumphed o’er the grave
+Who rose victorious in the strife
+For those He came to save
+His glories now we sing
+Who died, and rose on high
+Who died eternal life to bring
+And lives that death may die
+
+Crown Him the Lord of heaven
+One with the Father known
+One with the Spirit through Him given
+From yonder glorious throne
+To Thee be endless praise
+For Thou for us hast died
+Be Thou, O Lord, through endless days
+Adored and magnified
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>14. Down from His glory
+Down from His glory, ever living story
+My God and Savior came, and Jesus was His name
+Born in a manger, to His own a stranger
+A Man of sorrows, tears and agony
+
+Chorus
+O how I love Him! How I adore Him
+My breath, my sunshine, my all in all
+The great Creator became my Savior
+And all God’s fulness dwelleth in Him
+
+What condescension, bringing us redemption
+That in the dead of night, not one faint hope in sight
+God, gracious, tender, laid aside His splendor
+Stooping to woo, to win, to save my soul
+
+Without reluctance, flesh and blood His substance
+He took the form of man, revealed the hidden plan
+O glorious mystery, sacrifice of Calvary
+And now I know Thou art the great “I AM”
+
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>15. Emmanuel
+Emmanuel, Emmanuel
+His name is called Emmanuel
+God with us, revealed in us
+His name is called Emmanuel
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>16. Fairest Lord Jesus
+Fairest Lord Jesus, ruler of all nature
+O Thou of God and man the Son
+Thee will I cherish, Thee will I honor
+Thou, my soul's glory, joy, and crown
+
+Fair are the meadows, fairer still the woodlands
+Robed in the blooming garb of spring
+Jesus is fairer, Jesus is purer
+Who makes the woeful heart to sing
+
+Fair is the sunshine, fairer still the moonlight
+And all the twinkling starry host
+Jesus shines brighter, Jesus shines purer
+Than all the angels heaven can boast
+
+Beautiful Savior! Lord of all the nations
+Son of God and Son of Man
+Glory and honor, praise, adoration
+Now and forevermore be thine
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>17. Father, I thank You
+Father I thank You for all that You’ve done
+You gave Your Son freely for me
+And I praise You for calling me drawing me near
+Out of blindness You caused me to see
+
+Spirit of life, You are God’s holy fire
+You’ve kindled my heart with Your blaze
+And I know You're refining me changing my life
+And by faith You're revealing Your ways
+
+Jesus, I need You as Lord of my life
+I give all I have unto You
+Lord, I want to come under your heavenly hand
+And to praise You in all that I do
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    18. For those tears I died
+You said you'd come and share all my sorrows
+You said you'd be there for all my tomorrows
+I came so close from sending you away
+But just like you promised
+You came here to stay
+I just had to pray
+
+Chorus
+And Jesus said, come to the water
+Stand by my side
+I know you are thirsty
+You won’t be denied
+I felt every teardrop
+When in darkness you cried
+And I strove to remind you
+That for those tears I died
+
+Your goodness so great I can’t understand
+And dear Lord, I know that this was all planned
+I know your here now, and always will be
+Your love loosed my chains and in you I’m free
+But Jesus, why me
+Jesus, I give you my heart and my soul
+I know that without you, I’d never be whole
+Savior, you opened all the right doors
+And I thank you and praise you from earth’s humble shores
+Lord Jesus, I’m yours
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    19. Forever grateful
+You did not wait for me to draw nigh to You
+But You clothed Yourself in frail humanity
+You did not wait for me to cry out to You
+But You let me hear Your voice calling me
+And I'm forever grateful, Lord, to You
+And I'm forever grateful for the cross
+And I'm forever grateful to You
+That You came to seek and save the lost
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    20. Give thanks
+Give thanks with a grateful heart
+Give thanks to the Holy One
+Give thanks because He's given Jesus Christ, His Son
+And now let the weak say, I am strong
+Let the poor say, I am rich
+Because of what the Lord has done for us
+And now let the weak say, I am strong
+Let the poor say, I am rich
+Because of what the Lord has done for us
+Give thanks
+</p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    21. God is so good
+God is so good (x3)
+He’s so good to me
+
+He took my sin (x3)
+He’s so good to me
+
+Now I am free (x3)
+He’s so good to me
+</p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    22. God will make a way
+God will make a way
+Where there seems to be no way
+He works in ways we cannot see
+He will make a way for me
+He will be my guide
+Hold me closely to His side
+With love and strength for each new day
+He will make a way, He will make a way
+
+By a roadway in the wilderness, He'll lead me
+And rivers in the desert will I see
+Heaven and earth will fade
+But His Word will still remain
+And He will do something new today
+
+God will make a way
+Where there seems to be no way
+He works in ways we cannot see
+He will make a way for me
+He will be my guide
+Hold me closely to His side
+With love and strength for each new day
+He will make a way, He will make a way
+</p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    23. Grace of God
+Grace of God reaching me
+When He found me despairing
+Blood of Christ cleansing me
+Bringing joy to my sorrow
+Praise to the Lord for His love to me
+Love to me forever
+Joy and peace undeserved
+Day by day and forever
+</p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    24. Hallelujah, what a Saviour
+Man of sorrows what a name
+for the Son of God, who came
+ruined sinners to reclaim
+Hallelujah, what a Savior
+
+Bearing shame and scoffing rude
+in my place condemned he stood
+sealed my pardon with his blood
+Hallelujah, what a Savior
+
+Guilty, helpless, lost were we
+blameless Lamb of God was he
+sacrificed to set us free
+Hallelujah, what a Savior
+
+He was lifted up to die
+"It is finished" was his cry
+now in heaven exalted high
+Hallelujah, what a Savior
+
+When he comes, our glorious King
+all his ransomed home to bring
+then anew this song we'll sing
+Hallelujah, what a Savior
+</p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    25. He looked beyond my faults
+Amazing grace shall always be my song of praise
+For it was grace that brought me liberty
+I do not know just why He ever came to love me so
+He looked beyond my faults and saw my need
+I shall forever lift mine eyes to Calvary
+To view the cross where Jesus died for me
+How marvelous the grace that caught my falling soul
+He looked beyond my faults and saw my need
+
+For God so loved the world, I find it written
+In verse sixteen, John’s gospel, chapter three
+He gave His Son who was for sinners smitten
+When nailed upon the cross of Calvary
+Such wondrous love! It passes human knowledge
+For Jesus died that we might ever live
+Eternal life! So none need ever perish
+This life to all believing souls he now will give
+</p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    26. Here is Love
+Here is love vast as the ocean
+Loving-kindness as the flood
+When the Prince of Life, our ransom
+Shed for us His precious blood
+Who His love will not remember
+Who can cease to sing His praise
+He can never be forgotten
+Throughout heaven’s eternal days
+
+On the Mount of Crucifixion
+Fountains opened deep and wide
+Through the floodgates of God’s mercy
+Flowed a vast and gracious tide
+Grace and love like mighty rivers
+Poured incessant from above
+Heaven’s peace and perfect justice
+Kissed a guilty world in love
+
+In Thy truth Thou dost direct me
+By Thy Spirit through Thy Word
+And Thy grace my need is meeting
+As I trust in Thee, my Lord
+Of Thy fullness Thou art pouring
+Thy great love and power on me
+Without measure, full and boundless
+Drawing out my heart to Thee
+
+Let me, all Thy love accepting
+Love Thee, ever all my days
+Let me seek Thy kingdom only
+And my life be to Thy praise
+Thou alone shalt be my glory
+Nothing in the world I see
+Thou hast cleansed and sanctified me
+Thou Thyself hast set me free
+</p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+27. His mercy is more
+What love could remember no wrongs we have done
+Omniscient, all-knowing, He counts not their sum
+Thrown into a sea without bottom or shore
+Our sins they are many, His mercy is more
+
+Chorus
+Praise the Lord
+His mercy is more
+Stronger than darkness
+New every morn’
+Our sins they are many, His mercy is more
+Our sins they are many, His mercy is more
+
+What patience would wait as we constantly roam
+What Father so tender is calling us home
+He welcomes the weakest, the vilest, the poor
+Our sins they are many, His mercy is more
+
+What riches of kindness He lavished on us
+His blood was the payment His life was the cost
+We stood ‘neath a debt we could never afford
+Our sins they are many, His mercy is more
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+28. His name is wonderful
+His name is wonderful
+His name is wonderful
+His name is wonderful
+Jesus my Lord
+He is the mighty King
+Master of everything
+His name is wonderful
+Jesus my Lord
+
+He's the Great Shepherd
+The Rock of all ages
+Almighty God is He
+Bow down before Him
+Love and adore Him
+His name is wonderful
+Jesus my Lord
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+29. How deep the Father’s love
+How deep the Father's love for us
+How vast beyond all measure
+That He should give His only Son
+To make a wretch His treasure
+How great the pain of searing loss
+The Father turns His face away
+As wounds which mar the Chosen One
+Bring many sons to glory
+
+Behold the man upon a cross
+My sin upon His shoulders
+Ashamed, I hear my mocking voice
+Call out among the scoffers
+It was my sin that held Him there
+Until it was accomplished
+His dying breath has brought me life
+I know that it is finished
+
+I will not boast in anything
+No gifts, no power, no wisdom
+But I will boast in Jesus Christ
+His death and resurrection
+Why should I gain from His reward?
+I cannot give an answer
+But this I know with all my heart
+His wounds have paid my ransom
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+30. How great Thou art
+O Lord my God, When I in awesome wonder
+Consider all the worlds Thy Hands have made
+I see the stars, I hear the rolling thunder
+Thy power throughout the universe displayed
+
+Chorus
+Then sings my soul, My Saviour God, to Thee
+How great Thou art, How great Thou art
+Then sings my soul, My Saviour God, to Thee
+How great Thou art, How great Thou art
+
+When through the woods, and forest glades I wander
+And hear the birds sing sweetly in the trees
+When I look down, from lofty mountain grandeur
+And see the brook, and feel the gentle breeze
+
+And when I think, that God, His Son not sparing
+Sent Him to die, I scarce can take it in
+That on the Cross, my burden gladly bearing
+He bled and died to take away my sin
+
+When Christ shall come, with shout of acclamation
+And take me home, what joy shall fill my heart
+Then I shall bow, in humble adoration
+And then proclaim, my God, how great Thou art
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+31. Hosanna
+Hosanna, Hosanna
+Hosanna in the highest
+Hosanna, Hosanna
+Hosanna in the highest
+Lord we lift up Your name
+With hearts full of praise
+Be exalted oh Lord my God
+Hosanna in the highest
+
+Glory, Glory
+Glory to the King of Kings
+Glory, Glory,
+Glory to the King of Kings
+Lord we lift up Your name
+With hearts full of praise
+Be exalted oh Lord my God
+Glory to the King of Kings
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+32. My Saviour’s love
+I stand amazed in the presence
+Of Jesus the Nazarene
+And wonder how He could love me
+A sinner condemned, unclean
+
+Chorus
+How marvelous! How wonderful
+And my song shall ever be
+How marvelous! How wonderful
+Is my Savior’s love for me
+
+For me it was in the garden,
+He prayed, not My will, but Thine
+He had no tears for His own griefs
+But sweat drops of blood for mine
+
+He took my sins and my sorrows
+He made them His very own
+He bore the burden to Calvary
+And suffered and died alone.
+
+When with the ransomed in glory
+His face I at last shall see
+It will be my joy through the ages
+To sing of His love for me
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+33. I stand in awe of You
+You are beautiful beyond description
+Too marvelous for words
+Too wonderful for comprehension
+Like nothing ever seen or heard
+Who can grasp Your infinite wisdom?
+Who can fathom the depth of Your love?
+You are beautiful beyond description
+Majesty, enthroned above
+
+Chorus
+And I stand, I stand in awe of You
+I stand, I stand in awe of You
+Holy God, to whom all praise is due
+I stand in awe of You
+
+You are beautiful beyond description
+Yet God crushed You for my sin
+In agony and deep affliction
+Cut off that I might enter in
+Who can grasp such tender compassion?
+Who can fathom this mercy so free?
+You are beautiful beyond description
+Lamb of God who died for me
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+34. I will sing of my Redeemer
+I will sing of my Redeemer
+And His wondrous love to me
+On the cruel cross He suffered
+From the curse to set me free
+
+Chorus
+Sing, oh, sing of my Redeemer
+With His blood He purchased me
+On the cross He sealed my pardon
+Paid the debt and made me free
+
+I will tell the wondrous story
+How my lost estate to save
+In His boundless love and mercy
+He the ransom freely gave
+
+I will praise my dear Redeemer
+His triumphant power I’ll tell
+How the victory He giveth
+Over sin, and death, and hell
+I will sing of my Redeemer
+And His heavenly love to me
+He from death to life hath brought me
+Son of God with Him to be
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+35. I will sing of the mercies of the Lord
+I will sing of the mercies of the Lord forever
+I will sing, I will sing
+I will sing of the mercies of the Lord forever
+I will sing of the mercies of the Lord
+
+With my mouth will I make known
+Thy faithfulness, thy faithfulness
+With my mouth will I make known
+Thy faithfulness to all generation
+I will sing of the mercies of the Lord forever
+I will sing of the mercies of the Lord
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+36. In Christ alone
+In Christ alone my hope is found
+He is my light, my strength, my song
+This cornerstone, this solid ground
+Firm through the fiercest drought and storm
+What heights of love, what depths of peace
+When fears are stilled, when strivings cease!
+My comforter, my all in all
+Here in the love of Christ I stand
+
+In Christ alone, who took on flesh
+Fullness of God in helpless babe!
+This gift of love and righteousness
+Scorned by the ones He came to save
+Till on that cross as Jesus died
+The wrath of God was satisfied
+For every sin on Him was laid
+Here in the death of Christ I live
+
+There in the ground His body lay
+Light of the world by darkness slain
+Then bursting forth in glorious day
+Up from the grave He rose again!
+And as He stands in victory
+Sin’s curse has lost its grip on me
+For I am His and He is mine
+Bought with the precious blood of Christ
+
+No guilt in life, no fear in death
+This is the power of Christ in me
+From life’s first cry to final breath,
+Jesus commands my destiny.
+No power of hell, no scheme of man
+Can ever pluck me from His hand
+Till He returns or calls me home
+Here in the power of Christ I’ll stand
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+37. Jesus, name above all names
+Jesus, name above all names
+Beautiful Saviour, Glorious Lord
+Emmanuel, God is with us
+Blessed Redeemer, Living Word
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+38. Lamb of God
+Your only Son no sin to hide
+But You have sent Him from Your side
+To walk upon this guilty sod
+And to become the Lamb of God
+
+Chorus
+O Lamb of God, Sweet lamb of God
+I love the Holy Lamb of God
+Oh, wash me in His precious Blood
+Lord Jesus Christ, the Lamb of God
+
+Your gift of love they crucified
+They laughed and scorned Him as he died
+The humble King they named a fraud
+And sacrificed the Lamb of God
+
+I was so lost I should have died
+But You have brought me to Your side
+To be led by Your staff and rod
+And to be called a lamb of God
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+39. Living hope
+How great the chasm that lay between us
+How high the mountain I could not climb
+In desperation I turned to Heaven
+And spoke Your name into the night
+Then through the darkness, Your loving kindness
+Tore through the shadows of my soul
+The work is finished, the end is written
+Jesus Christ, my living hope
+
+Chorus
+Hallelujah, praise the one who set me free
+Hallelujah, death has lost its grip on me
+You have broken every chain
+There’s salvation in Your name
+Jesus Christ, my living hope
+
+Who could imagine so great a mercy
+What heart could fathom, such boundless grace
+The God of angels stepped down from glory
+To wear my sin and bear my shame
+The cross has spoken I am forgiven
+The King of kings calls me His own
+Beautiful Savior I’m Yours forever
+Jesus Christ, my living hope
+
+Then came the morning that sealed the promise
+Your buried body began to breathe
+Out of the silence the roaring lion
+Declared the grave has no claim on me
+Jesus, Yours is the victory
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+40. Majesty
+Majesty, worship His Majesty
+Unto Jesus be all glory, honor, and praise
+Majesty, kingdom authority
+Flow from His throne unto His own, His anthems raise
+So exalt, lift up on high the name of Jesus
+Magnify, come glorify Christ Jesus, the King
+Majesty, worship HIs Majesty
+Jesus who died, now glorified
+King of all Kings
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+41.Meekness and majesty
+Meekness and majesty
+Manhood and deity
+In perfect harmony, the Man who is God
+Lord of eternity
+Dwells in humanity
+Kneels in humility and washes our feet
+
+Chorus
+O what a mystery
+Meekness and majesty
+Bow down and worship
+For this is your God
+
+Father's pure radiance
+Perfect in innocence
+Yet learns obedience to death on a cross
+Suffering to give us life
+Conquering through sacrifice
+And as they crucify prays Father forgive
+
+Wisdom unsearchable
+God the invisible
+Love indestructible in frailty appears
+Lord of infinity
+Stooping so tenderly
+Lifts our humanity to the heights of His throne
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+42. My heart is filled with thankfulness
+My heart is filled with thankfulness
+To Him who bore my pain
+Who plumbed the depths of my disgrace
+And gave me life again
+Who crushed my curse of sinfulness
+And clothed me in His light
+And wrote His law of righteousness
+With power upon my heart
+
+My heart is filled with thankfulness
+To Him who walks beside
+Who floods my weaknesses with strength
+And causes fears to fly
+Whose every promise is enough
+For every step I take
+Sustaining me with arms of love
+And crowning me with grace
+
+My heart is filled with thankfulness
+To Him who reigns above
+Whose wisdom is my perfect peace
+Whose every thought is love
+For every day I have on earth
+Is given by the King
+So I will give my life, my all
+To love and follow Him
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+43. My tribute
+How can I say thanks
+For the things You have done for me?
+Things so undeserved
+Yet You gave to prove Your love for me
+The voices of a million angels
+Could not express my gratitude
+All that I am and ever hope to be
+I owe it all to Thee
+
+Chorus
+To God be the glory
+To God be the glory
+To God be the glory
+For the things He has done
+With His blood He has saved me
+With His power He has raised me
+To God be the glory
+For the things He has done
+
+Just let me live my life
+Let it pleasing, Lord to Thee
+And if I gain any praise
+Let it go to Calvary
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+44. Never in a million years
+Have you ever wondered why the Savior came
+From heaven to earth to die on a cross of shame?
+Have you ever sought to know why He paid the price?
+Why He did to Calvary go as the sinner's sacrifice?
+
+Chorus
+Never in a million years, if that could be
+Could we know the reason why
+He suffered on the cross for you and me
+Willingly He died that day
+Died to take our sins away
+But never in a million years could we understand such love!
+
+No, we cannot comprehend why Jesus cared
+Why He became our friend and our sorrows shared
+O the secret will remain with God above
+But we can praise His name for the wonder of His love
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+45. Oh, how He loves you and me
+Oh, how He loves you and me
+Oh how He loves you and me
+He gave his life, what more could he give?
+Oh, how He loves you
+Oh, how he loves me
+Oh, how he loves you and me
+
+Jesus to Calvary did go
+His love for sinners to show
+What He did there brought hope from despair
+Oh, how He loves you
+Oh, how he loves me
+Oh, how he loves you and me
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+46. Praise the name of Jesus
+Praise the name of Jesus
+Praise the name of Jesus
+He's my Rock, He's my Fortress
+He's my Deliverer, in Him will I trust
+Praise the name of Jesus.
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+47. Speak, O Lord
+Speak, O Lord, as we come to You
+To receive the food of Your Holy Word
+Take Your truth, plant it deep in us
+Shape and fashion us in Your likeness
+That the light of Christ might be seen today
+In our acts of love and our deeds of faith
+Speak, O Lord, and fulfill in u
+All Your purposes for Your glory
+
+Teach us, Lord, full obedience
+Holy reverence, true humility
+Test our thoughts and our attitudes
+In the radiance of Your purity
+Cause our faith to rise; cause our eyes to see
+Your majestic love and authority
+Words of power that can never fail
+Let their truth prevail over unbelief
+
+Speak, O Lord, and renew our minds
+Help us grasp the heights of Your plans for us
+Truths unchanged from the dawn of time
+That will echo down through eternity
+And by grace we'll stand on Your promises
+And by faith we'll walk as You walk with us
+Speak, O Lord, till Your church is built
+And the earth is filled with Your glory
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+48. To God be the glory
+To God be the glory great things He has done
+So loved He the world that He gave us His son
+Who yielded His life an atonement for sin
+And opened the life gate that all may go in
+
+Chorus
+Praise the Lord, praise the Lord let the earth hear His voice
+Praise the Lord, praise the Lord let the people rejoice
+So come to the Father through Jesus the Son
+Give Him the glory great things He has done
+
+O perfect redemption the purchase of blood
+To every believer the promise of God
+The vilest offender who truly believes
+That moment from Jesus a pardon receives
+
+Great things He has taught us great things He has done
+And great our rejoicing through Jesus the Son
+But purer and higher and greater will be
+Our wonder our worship when Jesus we see
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+49. The love of God
+The love of God is greater far
+Than tongue or pen can ever tell
+It goes beyond the highest star
+And reaches to the lowest hell
+The guilty pair, bowed down with care
+God gave His Son to win
+His erring child He reconciled
+And pardoned from his sin
+
+Chorus
+O love of God, how rich and pure
+How measureless and strong
+It shall forevermore endure
+The saints’ and angels’ song
+
+When all of time shall pass away
+And earthly thrones and kingdoms fall
+When men who here refuse to pray
+On rocks and hills and mountains call
+God’s love, so sure, shall still endure
+All measureless and strong
+Redeeming grace to Adam’s race
+The saints’ and angels’ song
+
+Could we with ink the ocean fill
+And were the skies of parchment made
+Were every stalk on earth a quill
+And every man a scribe by trade
+To write the love of God above
+Would drain the ocean dry
+Nor could the scroll contain the whole
+Though stretched from sky to sky
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+50. The power of the Cross
+Oh, to see the dawn of the darkest day
+Christ on a road to Calvary
+Tried by sinful men, torn and beaten then
+Nailed to the cross of wood
+
+Chorus
+This the power of the cross
+Christ became sin for us
+Took the blame, bore the wrath
+We stand forgiven at the cross
+
+Oh, to see the pain written on your face
+Bearing the awesome weight of sin
+Every bitter thought, every evil deed
+Crowning your blood stain brow
+
+Now the day light flees, now the ground beneath
+Quakes as its maker bows his head
+Curtain torn in two, dead are raised to life
+Finished! The victory cry
+
+Oh, to see my name written in Your wounds
+For through your suffering I am free
+Dead are crushed to death, life is mine to live
+Won through Your selfless love
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+51. The Servant King
+From heaven you came helpless babe
+Entered our world, your glory veiled
+Not to be served but to serve
+And give Your life that we might live
+
+Chorus
+This is our God, 
+The Servant King
+He calls us now to follow Him
+To bring our lives as a daily offering
+Of worship to The Servant King
+
+There in the garden of tears
+My heavy load he chose to bear
+His heart with sorrow was torn
+'Yet not My will but Yours, ' He said
+
+
+Come see His hands and His feet
+The scars that speak of sacrifice
+Hands that flung stars into space
+To cruel nails surrendered
+
+So let us learn how to serve
+And in our lives enthrone Him
+Each other's needs to prefer
+For it is Christ we're serving
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+52. The steadfast love of the Lord
+The steadfast love of the Lord never ceases
+Your mercies never come to an end
+They are new every morning
+New every morning
+Great is your faithfulness, O Lord
+Great is your faithfulness
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+53. Thank you for the Cross
+Thank You for the cross
+The mighty cross
+That God Himself should die for such as us
+And every day we’re changed
+Into Your image more and more
+Yes by the cross, we’ve truly been transformed
+
+Chorus
+And we’re so amazed
+And we give You praise
+That You would save us
+At such a cost
+We’re so amazed
+And we give You praise
+For the power of the cross
+For the power of the cross
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+54. Thank you, Lord
+Thank you, Lord, for saving my soul
+Thank you, Lord, for making me whole
+Thank you, Lord, for giving to me
+Your great salvation so rich and free
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+55. Thanks to God
+Thanks, O God, for boundless mercy
+From your gracious throne above
+Thanks for every need provided
+From the fulness of your love
+Thanks for daily toil and labour
+And for rest when shadows fall
+Thanks for love of friend and neighbor
+And your goodness to us all
+
+Thanks for thorns as well as roses
+Thanks for weakness and for health
+Thanks for clouds as well as sunshine
+Thanks for poverty and wealth
+Thanks for pain as well as pleasure
+All you send us day by day
+And your Word, our dearest treasure
+Shedding light upon our way
+
+Thanks, O God, for home and family
+Where we share our daily bread
+Thanks for hours of sweet communion
+When by you our souls are fed
+Thanks for grace in times of sorrow
+And for joy and peace so free
+Thanks for hope today, tomorrow
+And for all eternity
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+56. There is a Redeemer
+There is a redeemer
+Jesus, God's own Son
+Precious Lamb of God, Messiah
+Holy One
+
+Jesus, my redeemer
+Name above all names
+Precious Lamb of God, Messiah
+Oh, for sinners slain
+
+Chorus
+Thank you, oh my Father
+For giving us Your Son
+And leaving Your Spirit
+'Til the work on Earth is done
+
+
+When I stand in glory
+I will see His face
+And there I'll serve my King forever
+In that holy place
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+57. There was no other way
+Before the stars were hung or planets fashioned
+Before the clay was formed to make a man
+Christ was the Lamb of God for sinners offered
+This was redemption's one and only plan
+
+Chorus
+There was no other way a God of love could find
+To reconcile the world and save a lost mankind
+It took the death of His own Son upon tree
+There was no other way but Calvary
+
+The wealth of all the world could not redeem us
+Nor could our feeble works -- so great the price
+Our only hope is in the blood of Jesus
+The blood He shed for us in sacrifice
+
+So, friend, if you would find the way to heaven
+If from the guilt of sin you would be free
+Accept the only way by God provided
+The great redeeming work at Calvary
+
+O I must tell the news wherever He leads me
+Proclaim the gospel sound both far and near
+The way, the truth, the life is found in Jesus
+This is the message all the world must hear
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+58. There’s just something about that name
+Jesus, Jesus, Jesus
+There's just something about that name
+Master, Savior, Jesus, 
+Like the fragrance after the rain
+Jesus, Jesus, Jesus
+Let all Heaven and earth proclaim
+Kings and kingdoms will all pass away
+But there's something about that name
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+59. This is my Father’s world
+This is my Father's world
+And to my listening ears
+All nature sings, and round me rings
+The music of the spheres
+This is my Father's world
+I rest me in the thought
+Of rocks and trees, of skies and seas
+His hand the wonders wrought
+
+This is my Father's world
+The birds their carols raise
+The morning light, the lily white
+Declare their maker's praise
+This is my Father's world
+He shines in all that's fair
+In the rustling grass, I hear him pass
+He speaks to me everywhere
+
+This is my Father's world
+Oh, let me never forget
+That though the wrong seems oft so strong
+God is the ruler yet
+This is my Father's world
+The battle is not done
+Jesus who died shall be satisfied
+And earth and heaven be one
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+60. What a friend we have in Jesus
+What a friend we have in Jesus
+All our sins and griefs to bear
+What a privilege to carry
+Everything to God in prayer
+Oh, what peace we often forfeit
+Oh, what needless pain we bear
+All because we do not carry
+Everything to God in prayer
+
+Have we trials and temptations?
+Is there trouble anywhere?
+We should never be discouraged
+Take it to the Lord in prayer
+Can we find a friend so faithful
+Who will all our sorrows share?
+Jesus knows our every weakness
+Take it to the Lord in prayer
+Are we weak and heavy-laden
+Cumbered with a load of care?
+Precious Savior, still our refuge
+Take it to the Lord in prayer
+Do thy friends despise, forsake thee?
+Take it to the Lord in prayer
+In His arms He’ll take and shield thee
+Thou wilt find a solace there
+
+Blessed Saviour, Thou hast promised
+Thou wilt all our burdens bear
+May we ever, Lord, be bringing
+All to Thee in earnest prayer
+Soon in glory bright, unclouded
+There will be no need for prayer
+Rapture, praise, and endless worship
+Will be our sweet portion there
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+61. What grace is mine
+What grace is mine that He who dwells in endless light
+Called through the night to find my distant soul
+And from his scars poured mercy that would plead for me
+That I might live and in his name be known
+
+Chorus
+So I will go wherever He is calling me
+I lose my life to find my life in Him
+I give my all to gain the hope that never dies
+I bow my heart, take up my cross and follow Him
+
+What grace is mine to know His breath alive in me
+Beneath his wings my wakened soul may soar
+All fear can flee for death’s dark night is overcome
+My Saviour lives and reigns forevermore
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+    </p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
 # The end
+
+# 
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
