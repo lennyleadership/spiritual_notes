@@ -663,14 +663,23 @@ I've found a treasure that can't be taken
 </table>
 
 
-# 
+# 11. Christ the sure and steady anchor
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>11. Christ the sure and steady anchor
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
 Christ the sure and steady anchor
 In the fury of the storm
 When the winds of doubt blow through me
@@ -711,7 +720,22 @@ Christ the sure of our salvation
 Ever faithful, ever true
 We will hold fast to the anchor
 It shall never be removed
+</p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
 
+
+# 12. Come behold the wondrous mystery
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
   </p>
   </td>
   <td style = "border-style: none">
@@ -721,22 +745,6 @@ It shall never be removed
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-    </p></td>
-    <td style = "border-style: none"><p>
-    </p></td>
-  </tr>
-</tbody>
-</table>
-
-
-# 
-<table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
-</colgroup>
-<tbody VALIGN=TOP>
-  <tr>
-  <td style = "border-style: none">
-  <p>12. Come behold the wondrous mystery
 Come behold the wondrous mystery
 In the dawning of the King
 He the theme of heaven’s praises
@@ -745,9 +753,6 @@ In our longing, in our darkness
 Now the light of life has come
 Look to Christ, who condescended
 Took on flesh to ransom us
-
-
-
 
 Come behold the wondrous mystery
 He the perfect Son of Man
@@ -775,6 +780,22 @@ What a foretaste of deliverance
 How unwavering our hope
 Christ in power resurrected
 As we will be when He comes
+</p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+# 13.Crown Him with many crowns
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
   </p>
   </td>
   <td style = "border-style: none">
@@ -784,22 +805,6 @@ As we will be when He comes
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-    </p></td>
-    <td style = "border-style: none"><p>
-    </p></td>
-  </tr>
-</tbody>
-</table>
-
-
-# 
-<table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
-</colgroup>
-<tbody VALIGN=TOP>
-  <tr>
-  <td style = "border-style: none">
-  <p>13.Crown Him with many crowns
 Crown Him with many crowns
 The Lamb upon His throne
 Hark! How the heavenly anthem drowns
@@ -835,6 +840,23 @@ To Thee be endless praise
 For Thou for us hast died
 Be Thou, O Lord, through endless days
 Adored and magnified
+</p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+
+# 14. Down from His glory
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
   </p>
   </td>
   <td style = "border-style: none">
@@ -844,23 +866,6 @@ Adored and magnified
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-    </p></td>
-    <td style = "border-style: none"><p>
-    </p></td>
-  </tr>
-</tbody>
-</table>
-
-
-
-# 
-<table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
-</colgroup>
-<tbody VALIGN=TOP>
-  <tr>
-  <td style = "border-style: none">
-  <p>14. Down from His glory
 Down from His glory, ever living story
 My God and Savior came, and Jesus was His name
 Born in a manger, to His own a stranger
@@ -881,7 +886,23 @@ Without reluctance, flesh and blood His substance
 He took the form of man, revealed the hidden plan
 O glorious mystery, sacrifice of Calvary
 And now I know Thou art the great “I AM”
+</p></td>
+    <td style = "border-style: none"><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
 
+
+
+# 15. Emmanuel
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<tbody VALIGN=TOP>
+  <tr>
+  <td style = "border-style: none">
+  <p>
   </p>
   </td>
   <td style = "border-style: none">
@@ -891,7 +912,11 @@ And now I know Thou art the great “I AM”
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-    </p></td>
+Emmanuel, Emmanuel
+His name is called Emmanuel
+God with us, revealed in us
+His name is called Emmanuel
+</p></td>
     <td style = "border-style: none"><p>
     </p></td>
   </tr>
@@ -899,23 +924,23 @@ And now I know Thou art the great “I AM”
 </table>
 
 
-
-# 
+# 16. Fairest Lord Jesus
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>15. Emmanuel
-Emmanuel, Emmanuel
-His name is called Emmanuel
-God with us, revealed in us
-His name is called Emmanuel
+  <p>
   </p>
   </td>
   <td style = "border-style: none">
-  <p>16. Fairest Lord Jesus
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
 Fairest Lord Jesus, ruler of all nature
 O Thou of God and man the Son
 Thee will I cherish, Thee will I honor
@@ -935,12 +960,7 @@ Beautiful Savior! Lord of all the nations
 Son of God and Son of Man
 Glory and honor, praise, adoration
 Now and forevermore be thine
-  </p>  
-  </td>
-  </tr>
-  <tr>
-    <td style = "border-style: none"><p>
-    </p></td>
+</p></td>
     <td style = "border-style: none"><p>
     </p></td>
   </tr>
@@ -948,14 +968,23 @@ Now and forevermore be thine
 </table>
 
 
-# 
+# 17. Father, I thank You
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>17. Father, I thank You
+  <p>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+  </p>  
+  </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
 Father I thank You for all that You’ve done
 You gave Your Son freely for me
 And I praise You for calling me drawing me near
@@ -970,16 +999,7 @@ Jesus, I need You as Lord of my life
 I give all I have unto You
 Lord, I want to come under your heavenly hand
 And to praise You in all that I do
-  </p>
-  </td>
-  <td style = "border-style: none">
-  <p>
-  </p>  
-  </td>
-  </tr>
-  <tr>
-    <td style = "border-style: none"><p>
-    </p></td>
+</p></td>
     <td style = "border-style: none"><p>
     </p></td>
   </tr>
@@ -987,7 +1007,7 @@ And to praise You in all that I do
 </table>
 
 
-# 
+# 18. For those tears I died
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -1004,7 +1024,6 @@ And to praise You in all that I do
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-    18. For those tears I died
 You said you'd come and share all my sorrows
 You said you'd be there for all my tomorrows
 I came so close from sending you away
@@ -1040,7 +1059,7 @@ Lord Jesus, I’m yours
 </table>
 
 
-# 
+# 19. Forever grateful
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -1057,7 +1076,6 @@ Lord Jesus, I’m yours
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-    19. Forever grateful
 You did not wait for me to draw nigh to You
 But You clothed Yourself in frail humanity
 You did not wait for me to cry out to You
@@ -1074,7 +1092,7 @@ That You came to seek and save the lost
 </table>
 
 
-# 
+# 20. Give thanks
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -1091,7 +1109,6 @@ That You came to seek and save the lost
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-    20. Give thanks
 Give thanks with a grateful heart
 Give thanks to the Holy One
 Give thanks because He's given Jesus Christ, His Son
@@ -1110,7 +1127,7 @@ Give thanks
 </table>
 
 
-# 
+# 21. God is so good
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -1127,7 +1144,6 @@ Give thanks
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-    21. God is so good
 God is so good (x3)
 He’s so good to me
 
@@ -1144,7 +1160,7 @@ He’s so good to me
 </table>
 
 
-# 
+# 22. God will make a way
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -1161,7 +1177,6 @@ He’s so good to me
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-    22. God will make a way
 God will make a way
 Where there seems to be no way
 He works in ways we cannot see
@@ -1193,7 +1208,7 @@ He will make a way, He will make a way
 </table>
 
 
-# 
+# 23. Grace of God
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -1210,7 +1225,6 @@ He will make a way, He will make a way
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-    23. Grace of God
 Grace of God reaching me
 When He found me despairing
 Blood of Christ cleansing me
@@ -1227,7 +1241,7 @@ Day by day and forever
 </table>
 
 
-# 
+# 24. Hallelujah, what a Saviour
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -1244,7 +1258,6 @@ Day by day and forever
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-    24. Hallelujah, what a Saviour
 Man of sorrows what a name
 for the Son of God, who came
 ruined sinners to reclaim
@@ -1277,7 +1290,7 @@ Hallelujah, what a Savior
 </table>
 
 
-# 
+# 25. He looked beyond my faults
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -1294,7 +1307,6 @@ Hallelujah, what a Savior
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-    25. He looked beyond my faults
 Amazing grace shall always be my song of praise
 For it was grace that brought me liberty
 I do not know just why He ever came to love me so
@@ -1320,7 +1332,7 @@ This life to all believing souls he now will give
 </table>
 
 
-# 
+# 26. Here is Love
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -1337,7 +1349,6 @@ This life to all believing souls he now will give
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-    26. Here is Love
 Here is love vast as the ocean
 Loving-kindness as the flood
 When the Prince of Life, our ransom
@@ -1381,7 +1392,7 @@ Thou Thyself hast set me free
 </table>
 
 
-# 
+# 27. His mercy is more
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -1398,7 +1409,6 @@ Thou Thyself hast set me free
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-27. His mercy is more
 What love could remember no wrongs we have done
 Omniscient, all-knowing, He counts not their sum
 Thrown into a sea without bottom or shore
@@ -1429,7 +1439,7 @@ Our sins they are many, His mercy is more
 </table>
 
 
-# 
+# 28. His name is wonderful
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -1446,7 +1456,6 @@ Our sins they are many, His mercy is more
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-28. His name is wonderful
 His name is wonderful
 His name is wonderful
 His name is wonderful
@@ -1471,7 +1480,7 @@ Jesus my Lord
 </table>
 
 
-# 
+# 29. How deep the Father’s love
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -1488,7 +1497,6 @@ Jesus my Lord
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-29. How deep the Father’s love
 How deep the Father's love for us
 How vast beyond all measure
 That He should give His only Son
@@ -1523,7 +1531,7 @@ His wounds have paid my ransom
 </table>
 
 
-# 
+# 30. How great Thou art
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -1540,7 +1548,6 @@ His wounds have paid my ransom
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-30. How great Thou art
 O Lord my God, When I in awesome wonder
 Consider all the worlds Thy Hands have made
 I see the stars, I hear the rolling thunder
@@ -1574,7 +1581,7 @@ And then proclaim, my God, how great Thou art
 </table>
 
 
-# 
+# 31. Hosanna
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -1591,7 +1598,6 @@ And then proclaim, my God, how great Thou art
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-31. Hosanna
 Hosanna, Hosanna
 Hosanna in the highest
 Hosanna, Hosanna
@@ -1617,7 +1623,7 @@ Glory to the King of Kings
 </table>
 
 
-# 
+# 32. My Saviour’s love
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -1634,7 +1640,6 @@ Glory to the King of Kings
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-32. My Saviour’s love
 I stand amazed in the presence
 Of Jesus the Nazarene
 And wonder how He could love me
@@ -1668,7 +1673,7 @@ To sing of His love for me
 </table>
 
 
-# 
+# 33. I stand in awe of You
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -1685,7 +1690,6 @@ To sing of His love for me
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-33. I stand in awe of You
 You are beautiful beyond description
 Too marvelous for words
 Too wonderful for comprehension
@@ -1717,7 +1721,7 @@ Lamb of God who died for me
 </table>
 
 
-# 
+# 34. I will sing of my Redeemer
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -1734,32 +1738,6 @@ Lamb of God who died for me
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-    </p></td>
-    <td style = "border-style: none"><p>
-    </p></td>
-  </tr>
-</tbody>
-</table>
-
-
-# 
-<table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
-</colgroup>
-<tbody VALIGN=TOP>
-  <tr>
-  <td style = "border-style: none">
-  <p>
-  </p>
-  </td>
-  <td style = "border-style: none">
-  <p>
-  </p>  
-  </td>
-  </tr>
-  <tr>
-    <td style = "border-style: none"><p>
-34. I will sing of my Redeemer
 I will sing of my Redeemer
 And His wondrous love to me
 On the cruel cross He suffered
@@ -1792,7 +1770,7 @@ Son of God with Him to be
 </table>
 
 
-# 
+# 35. I will sing of the mercies of the Lord
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -1809,7 +1787,6 @@ Son of God with Him to be
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-35. I will sing of the mercies of the Lord
 I will sing of the mercies of the Lord forever
 I will sing, I will sing
 I will sing of the mercies of the Lord forever
@@ -1829,7 +1806,7 @@ I will sing of the mercies of the Lord
 </table>
 
 
-# 
+# 36. In Christ alone
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -1846,7 +1823,6 @@ I will sing of the mercies of the Lord
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-36. In Christ alone
 In Christ alone my hope is found
 He is my light, my strength, my song
 This cornerstone, this solid ground
@@ -1890,7 +1866,7 @@ Here in the power of Christ I’ll stand
 </table>
 
 
-# 
+# 37. Jesus, name above all names
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -1907,7 +1883,6 @@ Here in the power of Christ I’ll stand
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-37. Jesus, name above all names
 Jesus, name above all names
 Beautiful Saviour, Glorious Lord
 Emmanuel, God is with us
@@ -1920,7 +1895,7 @@ Blessed Redeemer, Living Word
 </table>
 
 
-# 
+# 38. Lamb of God
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -1937,7 +1912,6 @@ Blessed Redeemer, Living Word
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-38. Lamb of God
 Your only Son no sin to hide
 But You have sent Him from Your side
 To walk upon this guilty sod
@@ -1966,7 +1940,7 @@ And to be called a lamb of God
 </table>
 
 
-# 
+# 39. Living hope
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -1983,7 +1957,6 @@ And to be called a lamb of God
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-39. Living hope
 How great the chasm that lay between us
 How high the mountain I could not climb
 In desperation I turned to Heaven
@@ -2022,7 +1995,7 @@ Jesus, Yours is the victory
 </table>
 
 
-# 
+# 40. Majesty
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -2039,7 +2012,6 @@ Jesus, Yours is the victory
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-40. Majesty
 Majesty, worship His Majesty
 Unto Jesus be all glory, honor, and praise
 Majesty, kingdom authority
@@ -2057,7 +2029,7 @@ King of all Kings
 </table>
 
 
-# 
+# 41. Meekness and majesty
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -2074,7 +2046,6 @@ King of all Kings
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-41.Meekness and majesty
 Meekness and majesty
 Manhood and deity
 In perfect harmony, the Man who is God
@@ -2109,7 +2080,7 @@ Lifts our humanity to the heights of His throne
 </table>
 
 
-# 
+# 42. My heart is filled with thankfulness
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -2126,7 +2097,6 @@ Lifts our humanity to the heights of His throne
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-42. My heart is filled with thankfulness
 My heart is filled with thankfulness
 To Him who bore my pain
 Who plumbed the depths of my disgrace
@@ -2161,7 +2131,7 @@ To love and follow Him
 </table>
 
 
-# 
+# 43. My tribute
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -2178,7 +2148,6 @@ To love and follow Him
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-43. My tribute
 How can I say thanks
 For the things You have done for me?
 Things so undeserved
@@ -2210,7 +2179,7 @@ Let it go to Calvary
 </table>
 
 
-# 
+# 44. Never in a million years
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -2227,7 +2196,6 @@ Let it go to Calvary
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-44. Never in a million years
 Have you ever wondered why the Savior came
 From heaven to earth to die on a cross of shame?
 Have you ever sought to know why He paid the price?
@@ -2253,7 +2221,7 @@ But we can praise His name for the wonder of His love
 </table>
 
 
-# 
+# 45. Oh, how He loves you and me
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -2270,7 +2238,6 @@ But we can praise His name for the wonder of His love
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-45. Oh, how He loves you and me
 Oh, how He loves you and me
 Oh how He loves you and me
 He gave his life, what more could he give?
@@ -2292,7 +2259,7 @@ Oh, how he loves you and me
 </table>
 
 
-# 
+# 46. Praise the name of Jesus
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -2309,7 +2276,6 @@ Oh, how he loves you and me
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-46. Praise the name of Jesus
 Praise the name of Jesus
 Praise the name of Jesus
 He's my Rock, He's my Fortress
@@ -2323,7 +2289,7 @@ Praise the name of Jesus.
 </table>
 
 
-# 
+# 47. Speak, O Lord
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -2340,7 +2306,6 @@ Praise the name of Jesus.
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-47. Speak, O Lord
 Speak, O Lord, as we come to You
 To receive the food of Your Holy Word
 Take Your truth, plant it deep in us
@@ -2375,7 +2340,7 @@ And the earth is filled with Your glory
 </table>
 
 
-# 
+# 48. To God be the glory
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -2392,7 +2357,6 @@ And the earth is filled with Your glory
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-48. To God be the glory
 To God be the glory great things He has done
 So loved He the world that He gave us His son
 Who yielded His life an atonement for sin
@@ -2421,7 +2385,7 @@ Our wonder our worship when Jesus we see
 </table>
 
 
-# 
+# 49. The love of God
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -2438,7 +2402,6 @@ Our wonder our worship when Jesus we see
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-49. The love of God
 The love of God is greater far
 Than tongue or pen can ever tell
 It goes beyond the highest star
@@ -2479,7 +2442,7 @@ Though stretched from sky to sky
 </table>
 
 
-# 
+# 50. The power of the Cross
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -2496,7 +2459,6 @@ Though stretched from sky to sky
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-50. The power of the Cross
 Oh, to see the dawn of the darkest day
 Christ on a road to Calvary
 Tried by sinful men, torn and beaten then
@@ -2530,7 +2492,7 @@ Won through Your selfless love
 </table>
 
 
-# 
+# 51. The Servant King
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -2547,7 +2509,6 @@ Won through Your selfless love
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-51. The Servant King
 From heaven you came helpless babe
 Entered our world, your glory veiled
 Not to be served but to serve
@@ -2583,7 +2544,13 @@ For it is Christ we're serving
 </table>
 
 
-# 
+# 52. The steadfast love of the Lord
+The steadfast love of the Lord never ceases
+Your mercies never come to an end
+They are new every morning
+New every morning
+Great is your faithfulness, O Lord
+Great is your faithfulness
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -2600,13 +2567,7 @@ For it is Christ we're serving
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-52. The steadfast love of the Lord
-The steadfast love of the Lord never ceases
-Your mercies never come to an end
-They are new every morning
-New every morning
-Great is your faithfulness, O Lord
-Great is your faithfulness
+
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -2615,7 +2576,7 @@ Great is your faithfulness
 </table>
 
 
-# 
+# 53. Thank you for the Cross
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -2632,7 +2593,6 @@ Great is your faithfulness
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-53. Thank you for the Cross
 Thank You for the cross
 The mighty cross
 That God Himself should die for such as us
@@ -2657,7 +2617,7 @@ For the power of the cross
 </table>
 
 
-# 
+# 54. Thank you, Lord
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -2674,7 +2634,6 @@ For the power of the cross
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-54. Thank you, Lord
 Thank you, Lord, for saving my soul
 Thank you, Lord, for making me whole
 Thank you, Lord, for giving to me
@@ -2687,7 +2646,7 @@ Your great salvation so rich and free
 </table>
 
 
-# 
+# 55. Thanks to God
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -2704,7 +2663,6 @@ Your great salvation so rich and free
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-55. Thanks to God
 Thanks, O God, for boundless mercy
 From your gracious throne above
 Thanks for every need provided
@@ -2739,7 +2697,8 @@ And for all eternity
 </table>
 
 
-# 
+
+# 56. There is a Redeemer
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -2756,32 +2715,6 @@ And for all eternity
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-    </p></td>
-    <td style = "border-style: none"><p>
-    </p></td>
-  </tr>
-</tbody>
-</table>
-
-
-# 
-<table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
-</colgroup>
-<tbody VALIGN=TOP>
-  <tr>
-  <td style = "border-style: none">
-  <p>
-  </p>
-  </td>
-  <td style = "border-style: none">
-  <p>
-  </p>  
-  </td>
-  </tr>
-  <tr>
-    <td style = "border-style: none"><p>
-56. There is a Redeemer
 There is a redeemer
 Jesus, God's own Son
 Precious Lamb of God, Messiah
@@ -2811,7 +2744,7 @@ In that holy place
 </table>
 
 
-# 
+# 57. There was no other way
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -2828,7 +2761,6 @@ In that holy place
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-57. There was no other way
 Before the stars were hung or planets fashioned
 Before the clay was formed to make a man
 Christ was the Lamb of God for sinners offered
@@ -2862,7 +2794,7 @@ This is the message all the world must hear
 </table>
 
 
-# 
+# 58. There’s just something about that name
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -2879,7 +2811,6 @@ This is the message all the world must hear
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-58. There’s just something about that name
 Jesus, Jesus, Jesus
 There's just something about that name
 Master, Savior, Jesus, 
@@ -2896,7 +2827,7 @@ But there's something about that name
 </table>
 
 
-# 
+# 59. This is my Father’s world
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -2913,7 +2844,6 @@ But there's something about that name
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-59. This is my Father’s world
 This is my Father's world
 And to my listening ears
 All nature sings, and round me rings
@@ -2948,7 +2878,7 @@ And earth and heaven be one
 </table>
 
 
-# 
+# 60. What a friend we have in Jesus
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -2965,7 +2895,6 @@ And earth and heaven be one
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-60. What a friend we have in Jesus
 What a friend we have in Jesus
 All our sins and griefs to bear
 What a privilege to carry
@@ -3008,7 +2937,7 @@ Will be our sweet portion there
 </table>
 
 
-# 
+# 61. What grace is mine
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -3025,7 +2954,6 @@ Will be our sweet portion there
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-61. What grace is mine
 What grace is mine that He who dwells in endless light
 Called through the night to find my distant soul
 And from his scars poured mercy that would plead for me
@@ -3049,7 +2977,7 @@ My Saviour lives and reigns forevermore
 </table>
 
 
-# 
+# 62. When I look into Your holiness
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -3066,6 +2994,20 @@ My Saviour lives and reigns forevermore
   </tr>
   <tr>
     <td style = "border-style: none"><p>
+When I look into Your holiness
+When I gaze into Your loveliness
+When all things that surround become shadows
+In the light of You
+When I've found the joy of reaching Your heart
+When my will becomes enthroned in Your love
+When all things that surround become shadows
+In the light of You
+I worship You
+I worship You
+The reason I live is to worship You
+I worship You
+I worship You
+The reason I live is to worship You
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3074,7 +3016,7 @@ My Saviour lives and reigns forevermore
 </table>
 
 
-# 
+# 63.Yet not I but through Christ in Me
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -3091,6 +3033,41 @@ My Saviour lives and reigns forevermore
   </tr>
   <tr>
     <td style = "border-style: none"><p>
+What gift of grace is Jesus my redeemer
+There is no more for heaven now to give
+He is my joy, my righteousness, and freedom
+My steadfast love, my deep and boundless peace
+To this I hold, my hope is only Jesus
+For my life is wholly bound to His
+Oh how strange and divine, I can sing: all is mine!
+Yet not I, but through Christ in me
+
+The night is dark but I am not forsaken
+For by my side, the Saviour He will stay
+I labour on in weakness and rejoicing
+For in my need, His power is displayed
+To this I hold, my Shepherd will defend me
+Through the deepest valley He will lead
+Oh the night has been won, and I shall overcome!
+Yet not I, but through Christ in me
+
+No fate I dread, I know I am forgiven
+The future sure, the price it has been paid
+For Jesus bled and suffered for my pardon
+And He was raised to overthrow the grave
+To this I hold, my sin has been defeated
+Jesus now and ever is my plea
+Oh the chains are released, I can sing: I am free!
+Yet not I, but through Christ in me
+
+With every breath I long to follow Jesus
+For He has said that He will bring me home
+And day by day I know He will renew me
+Until I stand with joy before the throne
+To this I hold, my hope is only Jesus
+All the glory evermore to Him
+When the race is complete, still my lips shall repeat
+Yet not I, but through Christ in me!
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3099,7 +3076,7 @@ My Saviour lives and reigns forevermore
 </table>
 
 
-# 
+# 64. Let the beauty of Jesus 
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -3116,6 +3093,10 @@ My Saviour lives and reigns forevermore
   </tr>
   <tr>
     <td style = "border-style: none"><p>
+Let the beauty of Jesus be seen in me
+All his wonderful passion and purity
+O thou Spirit divine, All my nature refine
+Till the beauty of Jesus be seen in me
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3124,7 +3105,7 @@ My Saviour lives and reigns forevermore
 </table>
 
 
-# 
+# 65. Amazing Grace 
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -3141,6 +3122,40 @@ My Saviour lives and reigns forevermore
   </tr>
   <tr>
     <td style = "border-style: none"><p>
+Amazing grace! How sweet the sound
+That saved a wretch like me!
+I once was lost, but now am found;
+Was blind, but now I see.
+
+’Twas grace that taught my heart to fear,
+And grace my fears relieved;
+How precious did that grace appear
+The hour I first believed.
+
+Through many dangers, toils, and snares,
+I have already come;
+’Tis grace hath brought me safe thus far,
+And grace will lead me home.
+
+The Lord has promised good to me,
+His Word my hope secures;
+He will my Shield and Portion be,
+As long as life endures.
+
+Yea, when this flesh and heart shall fail,
+And mortal life shall cease,
+I shall possess, within the veil,
+A life of joy and peace.
+
+The earth shall soon dissolve like snow,
+The sun forbear to shine;
+But God, who called me here below,
+Will be forever mine.
+
+When we’ve been there ten thousand years,
+Bright shining as the sun,
+We’ve no less days to sing God’s praise
+Than when we’d first begun.
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3149,7 +3164,7 @@ My Saviour lives and reigns forevermore
 </table>
 
 
-# 
+# 66. O Christ What Burdens Bowed Thy Head
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -3166,6 +3181,47 @@ My Saviour lives and reigns forevermore
   </tr>
   <tr>
     <td style = "border-style: none"><p>
+O Christ, what burdens bow'd Thy head!
+Our load was laid on Thee;
+Thou stoodest in the sinner's stead,
+Didst bear all ill for me.
+A victim led; Thy blood was shed;
+Now there's no load for me.
+
+Death and the curse were in our cup,
+O Christ, 'twas full for Thee!
+But Thou hast drained the last dark drop—
+'Tis empty now for me.
+That bitter cup—love drank it up;
+Now blessings' draught for me.
+
+Jehovah lifted up His rod,
+O Christ, it fell on Thee!
+Thou wast sore stricken of Thy God;
+There's not one stroke for me.
+Thy tears, Thy blood, beneath it flowed;
+Thy bruising healeth me.
+
+The tempest's awful voice was heard,
+O Christ, it broke on Thee!
+Thy open bosom was my ward,
+It braved the storm for me.
+Thy form was scarred, Thy visage marred;
+Now cloudless peace for me.
+
+Jehovah bade His sword awake,
+O Christ, it woke 'gainst Thee!
+Thy blood the flaming blade must slake;
+Thy heart its sheath must be—
+All for my sake, my peace to make;
+Now sleeps that sword for me.
+
+For me, Lord Jesus, Thou hast died,
+And I have died in Thee;
+Thou'rt ris'n: my bands are all untied,
+And now Thou liv'st in me.
+When purified, made white, and tried,
+Thy glory then for me!
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3174,7 +3230,7 @@ My Saviour lives and reigns forevermore
 </table>
 
 
-# 
+# 67. I shall know Him
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -3191,6 +3247,38 @@ My Saviour lives and reigns forevermore
   </tr>
   <tr>
     <td style = "border-style: none"><p>
+When my life work is ended, and I cross the swelling tide,
+When the bright and glorious morning I shall see,
+I shall know my Redeemer when I reach the other side,
+And His smile will be the first to welcome me.
+
+I shall know Him, I shall know Him
+And redeemed by His side, I shall stand.
+I shall know Him, I shall know Him,
+By the print of the nails in His hand.
+
+Oh, the soul thrilling rapture when I view His blessed face
+And the luster of His kindly beaming eyes;
+How my full heart will praise Him for the mercy, love, and grace
+That prepared for me a mansion in the sky.
+
+Oh, the dear ones in glory, how they beckon me to come,
+And our parting at the river I recall;
+To the sweet vales of Eden they will sing my welcome home,
+But I long to meet my Saviour first of all.
+
+Thro' the gates to the city in a robe of spotless white,
+He will lead me where no tears will ever fall;
+In the glad song of ages I shall mingle with delight,
+But I long to meet my Saviour first of all.
+
+I shall know Him, I shall know Him
+And redeemed by His side, I shall stand.
+I shall know Him, I shall know Him,
+By the print of the nails in His hand.
+I shall know Him, I shall know Him,
+By the print of the nails in His hand.
+By the print of the nails in His hand.
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3199,7 +3287,7 @@ My Saviour lives and reigns forevermore
 </table>
 
 
-# 
+# 68. Wonder of It All
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -3216,6 +3304,26 @@ My Saviour lives and reigns forevermore
   </tr>
   <tr>
     <td style = "border-style: none"><p>
+There's the wonder of sunset at evening,
+The wonder as sunrise I see;
+But the wonder of wonders that thrills my soul
+Is the wonder that God loves me.
+
+O, the wonder of it all! The wonder of it all!
+Just to think that God loves me.
+O, the wonder of it all! The wonder of it all!
+Just to think that God loves me.
+
+There's the wonder of springtime and harvest,
+The sky, the stars, and the sun;
+But the wonder of wonders that thrills my soul
+Is a wonder that's just begun.
+
+O, the wonder of it all! The wonder of it all!
+Just to think that God loves me.
+O, the wonder of it all! The wonder of it all!
+Just to think that God loves me
+Just to think that God loves me
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3224,7 +3332,7 @@ My Saviour lives and reigns forevermore
 </table>
 
 
-# 
+# 69. God on the mountain (1 Kings 20:28)
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -3241,6 +3349,27 @@ My Saviour lives and reigns forevermore
   </tr>
   <tr>
     <td style = "border-style: none"><p>
+Life is easy when you're up on the mountain
+And you've got peace of mind like you've never known.
+But then things change and you're down in the valley.
+Don't lose faith for you're never alone.
+
+For the God on the mountain is still God in the valley.
+When things go wrong, He'll make them right.
+And the God of the good times
+Is still God in the bad times.
+The God of the day is still God in the night.
+
+You talk of faith when you're up on the mountain.
+Oh but the talk comes easy when life's at its best.
+But it's down in the valley of trials and temptation
+That's when faith is really put to the test.
+
+For the God on the mountain is still God in the valley.
+When things go wrong, He'll make them right.
+And the God of the good times
+Is still God in the bad times.
+The God of the day is still God in the night. (2X)
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3249,7 +3378,7 @@ My Saviour lives and reigns forevermore
 </table>
 
 
-# 
+# 70. In shady green pastures 
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -3266,6 +3395,31 @@ My Saviour lives and reigns forevermore
   </tr>
   <tr>
     <td style = "border-style: none"><p>
+In shady, green pastures, so rich and so sweet,
+God leads His dear children along;
+Where the water’s cool flow bathes the weary one’s feet,
+God leads His dear children along.
+
+Refrain:
+Some through the waters, some through the flood,
+Some through the fire, but all through the blood;
+Some through great sorrow, but God gives a song,
+In the night season and all the day long.
+
+Sometimes on the mount where the sun shines so bright,
+God leads His dear children along;
+Sometimes in the valley, in darkest of night,
+God leads His dear children along.
+
+Though sorrows befall us and Satan oppose,
+God leads His dear children along;
+Through grace we can conquer, defeat all our foes,
+God leads His dear children along.
+
+Away from the mire, and away from the clay,
+God leads His dear children along;
+Away up in glory, eternity’s day,
+God leads His dear children along.
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3274,7 +3428,7 @@ My Saviour lives and reigns forevermore
 </table>
 
 
-# 
+# 71. The crowning day is coming
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -3291,6 +3445,46 @@ My Saviour lives and reigns forevermore
   </tr>
   <tr>
     <td style = "border-style: none"><p>
+Our Lord is now rejected,
+And by the world disowned,
+By the many still neglected,
+And by the few enthroned,
+But soon He'll come in glory,
+The hour is drawing nigh,
+For the crowning day is coming by and by.
+
+(Chorus)
+Oh, the crowning day is coming,
+Is coming by and by,
+When our Lord shall come in "power,"
+And "glory" from on high,
+Oh, the glorious night will gladden,
+Each waiting watchful eye,
+In the crowning day that's coming by and by.
+
+The heav'ns shall glow with splendor,
+But brighter far than they
+The saints shall shine in glory,
+As Christ shall them array,
+The beauty of the Saviour,
+Shall dazzle ev'ry eye,
+In the crowning day that's coming by and by.
+
+Our pain shall then be over,
+We'll sin and sigh no more,
+Behind us all of sorrow,
+And naught but joy before,
+A joy in our Redeemer,
+As we to Him are nigh,
+In the crowning day that's coming by and by.
+
+Let all that look for, hasten
+The coming joyful day,
+By earnest consecration,
+To walk the narrow way,
+By gath'ring in the lost ones,
+For whom our Lord did die,
+For the crowning day that's coming by and by.
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3299,7 +3493,7 @@ My Saviour lives and reigns forevermore
 </table>
 
 
-# 
+# 72. He touched me
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -3316,6 +3510,25 @@ My Saviour lives and reigns forevermore
   </tr>
   <tr>
     <td style = "border-style: none"><p>
+Shackled by a heavy burden,
+'Neath a load of guilt and shame.
+Then the hand of Jesus touched me,
+And now I am no longer the same.
+
+He touched me, Oh He touched me,
+And oh the joy that floods my soul!
+Something happened and now I know,
+He touched me and made me whole.
+
+Since I met this blessed Savior,
+Since He cleansed and made me whole,
+I will never cease to praise Him,
+I'll shout it while eternity rolls.
+
+He touched me, Oh He touched me,
+And oh the joy that floods my soul!
+Something happened and now I know
+He touched me and made me whole.
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3324,7 +3537,7 @@ My Saviour lives and reigns forevermore
 </table>
 
 
-# 
+# 73. Day by day
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -3341,6 +3554,32 @@ My Saviour lives and reigns forevermore
   </tr>
   <tr>
     <td style = "border-style: none"><p>
+Day by day and with each passing moment,
+Strength I find to meet my trials here;
+Trusting in my Father's wise bestowment,
+I've no cause for worry or for fear.
+He whose heart is kind beyond all measure
+Gives unto each day what he deems best–
+Lovingly, its part of pain and pleasure,
+Mingling toil with peace and rest.
+
+ Ev'ry day the Lord himself is near me,
+With a special mercy for each hour;
+All my cares he gladly bears and cheers me,
+He whose name is Counselor and Pow'r.
+The protection of his child and treasure
+Is a charge that on himself he laid:
+"As your days, your strength shall be in measure"–
+This the pledge to me he made.
+
+Help me then in ev'ry tribulation
+So to trust your promises, O Lord,
+That I lose not faith's sweet consolation
+Offered me within your holy Word.
+Help me, Lord, when, toil and trouble meeting,
+E'er to take, as from a father's hand,
+One by one, the days, the moments fleeting,
+Till I reach the promised land.
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3349,7 +3588,7 @@ My Saviour lives and reigns forevermore
 </table>
 
 
-# 
+# 74. There is a fountain
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -3366,6 +3605,50 @@ My Saviour lives and reigns forevermore
   </tr>
   <tr>
     <td style = "border-style: none"><p>
+There is a fountain filled with blood
+  Drawn from Immanuel’s veins;
+And sinners, plunged beneath that flood,
+  Lose all their guilty stains:
+  Lose all their guilty stains,
+  Lose all their guilty stains;
+And sinners, plunged beneath that flood,
+  Lose all their guilty stains.
+
+The dying thief rejoiced to see
+  That fountain in his day;
+And there may I, though vile as he,
+  Wash all my sins away:
+  Wash all my sins away,
+  Wash all my sins away;
+And there may I, though vile as he,
+  Wash all my sins away.
+
+Dear dying Lamb, Thy precious blood
+  Shall never lose its power,
+Till all the ransomed ones of God
+  Be saved, to sin no more:
+  Be saved, to sin no more,
+  Be saved, to sin no more;
+Till all the ransomed ones of God,
+  Be saved to sin no more.
+
+E’er since by faith I saw the stream
+  Thy flowing wounds supply,
+Redeeming love has been my theme,
+  And shall be till I die:
+  And shall be till I die,
+  And shall be till I die;
+Redeeming love has been my theme,
+  And shall be till I die.
+
+When this poor lisping, stammering tongue
+  Lies silent in the grave,
+Then in a nobler, sweeter song,
+  I’ll sing Thy power to save:
+  I’ll sing Thy power to save,
+  I’ll sing Thy power to save;
+Then in a nobler, sweeter song,
+  I’ll sing Thy power to save.
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3374,7 +3657,7 @@ My Saviour lives and reigns forevermore
 </table>
 
 
-# 
+# 75. Calvary covers it all
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -3391,6 +3674,45 @@ My Saviour lives and reigns forevermore
   </tr>
   <tr>
     <td style = "border-style: none"><p>
+Far dearer than all that the world can impart
+Was the message that came to my heart.
+How that Jesus alone for my sin did atone,
+And Calvary covers it all.
+Calvary covers it all,
+My past with its sin and stain;
+My guilt and despair
+Jesus took on Him there,
+And Calvary covers it all.
+
+The stripes that He bore and the thorns that He wore
+Told His mercy and love ever more
+And my heart bowed in shame as I called on His name,
+And Calvary covers it all.
+Calvary covers it all,
+My past with its sin and stain;
+My guilt and despair
+Jesus took on Him there,
+And Calvary covers it all.
+
+How matchless the grace, when I looked in the face
+Of this Jesus, my crucified Lord;
+My redemption complete I then found at His feet,
+And Calvary covers it all.
+Calvary covers it all,
+My past with its sin and stain;
+My guilt and despair
+Jesus took on Him there,
+And Calvary covers it all.
+
+How blessed the thought, that my soul by Him bought,
+Shall be His in the glory on high;
+Where with gladness and song, I'll be one of the throng
+And Calvary covers it all.
+Calvary covers it all,
+My past with its sin and stain;
+My guilt and despair
+Jesus took on Him there,
+And Calvary covers it all.
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3399,7 +3721,7 @@ My Saviour lives and reigns forevermore
 </table>
 
 
-# 
+# 76. Christ the True and Better Adam
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -3416,6 +3738,55 @@ My Saviour lives and reigns forevermore
   </tr>
   <tr>
     <td style = "border-style: none"><p>
+Christ the true and better Adam
+Son of God and Son of man
+Who, when tempted in the garden
+Never yielded, never sinned
+He who makes the many righteous
+Brings us back to life again
+Dying, He reversed the curse
+Then rising, crushed the serpent’s head
+
+Verse 2: 
+Christ the true and better Isaac
+Humble son of sacrifice
+Who would climb the fearful mountain
+Therе to offer up his life
+Laid with faith upon the altar
+Fathеr's joy and only son
+There salvation was provided
+Oh what full and boundless love
+
+Amen, amen
+From beginning to end
+Christ the story, His the glory
+Alleluia, amen
+
+Verse 3: 
+Christ the true and better Moses
+Called to lead a people home
+Standing bold to earthly powers
+God's great glory to be known
+With his arms stretched wide to heaven
+See the waters part in two
+See the veil is torn forever
+Cleansed with blood we pass now through
+
+Chorus:
+Amen, amen
+From beginning to end
+Christ the story, His the glory
+Alleluia, amen
+
+Verse 4: 
+Christ the true and better David
+Lowly shepherd, mighty King
+He the champion in the battle
+Where, oh, death, is now thy sting?
+In our place He bled and conquered
+Crown Him Lord of majesty
+His shall be the throne forever
+We shall e’er His people be
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3424,7 +3795,7 @@ My Saviour lives and reigns forevermore
 </table>
 
 
-# 
+# 77. In Christ Alone will I glory
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -3441,6 +3812,39 @@ My Saviour lives and reigns forevermore
   </tr>
   <tr>
     <td style = "border-style: none"><p>
+In Christ alone will I glory
+Though I could pride myself in battles won
+For Ive been blessed beyond measure
+And by His strength alone Ill overcome
+Oh, I could stop and count successes like diamonds in my hands
+But those trophies could not equal to the grace by which I stand
+
+[chorus]
+In Christ alone
+I place my trust
+And find my glory in the power of the cross
+In every victory
+Let it be said of me
+My source of strength
+My source of hope
+Is Christ alone
+
+In Christ alone do I glory
+For only by His grace I am redeemed
+For only His tender mercy
+Could reach beyond my weakness to my need
+And now I seek no greater honor in just to know Him more
+And to count my gains but losses to the glory of my Lord
+
+[chorus]
+In Christ alone
+I place my trust
+And find my glory in the power of the cross
+In every victory
+Let it be said of me
+My source of strength
+My source of hope
+Is Christ alone
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3449,7 +3853,7 @@ My Saviour lives and reigns forevermore
 </table>
 
 
-# 
+# 78. King Of My Life
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -3466,6 +3870,36 @@ My Saviour lives and reigns forevermore
   </tr>
   <tr>
     <td style = "border-style: none"><p>
+King of my life, I crown Thee now,
+  Thine shall the glory be;
+Lest I forget Thy thorn-crowned brow,
+  Lead me to Calvary.
+ 
+Chorus
+Lest I forget Gethsemane;
+Lest I forget Thine agony;
+Lest I forget Thy love for me,
+  Lead me to Calvary.
+
+Show me the tomb where Thou wast laid,
+  Tenderly mourned and wept;
+Angels in robes of light arrayed
+  Guarded Thee while Thou slept.
+
+Let me like Mary, through the gloom,
+  Come with a gift to Thee;
+Show to me now the empty tomb,
+  Lead me to Calvary.
+
+May I be willing, Lord, to bear
+  Daily my cross for Thee;
+Even Thy cup of grief to share,
+  Thou hast borne all for me.
+
+Fill me, O Lord, with Thy desire
+  For all that know not Thee;
+Then touch my lips with holy fire,
+  To speak of Calvary.
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3474,7 +3908,7 @@ My Saviour lives and reigns forevermore
 </table>
 
 
-# 
+# 79: Sweet Hour Of Prayer
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -3491,6 +3925,32 @@ My Saviour lives and reigns forevermore
   </tr>
   <tr>
     <td style = "border-style: none"><p>
+Sweet hour of prayer! sweet hour of prayer!
+that calls me from a world of care,
+and bids me at my Father's throne
+make all my wants and wishes known.
+In seasons of distress and grief,
+my soul has often found relief,
+and oft escaped the tempter's snare
+by thy return, sweet hour of prayer!
+
+Sweet hour of prayer! sweet hour of prayer!
+the joys I feel, the bliss I share
+of those whose anxious spirits burn
+with strong desires for thy return!
+With such I hasten to the place
+where God my Savior shows his face,
+and gladly take my station there,
+and wait for thee, sweet hour of prayer!
+
+Sweet hour of prayer! sweet hour of prayer!
+thy wings shall my petition bear
+to him whose truth and faithfulness
+engage the waiting soul to bless.
+And since he bids me seek his face,
+believe his word, and trust his grace,
+I'll cast on him my every care,
+and wait for thee, sweet hour of prayer!
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3499,7 +3959,7 @@ My Saviour lives and reigns forevermore
 </table>
 
 
-# 
+# 80. I don’t Know About Tomorrow
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -3516,6 +3976,38 @@ My Saviour lives and reigns forevermore
   </tr>
   <tr>
     <td style = "border-style: none"><p>
+1 I don't know about tomorrow,
+I just live from day to day.
+I don't borrow from its sunshine,
+For its skies may turn to gray.
+I don't worry o'er the future,
+For I know what Jesus said,
+And today I'll walk beside Him,
+For He knows what is ahead.
+
+Chorus
+Many things about tomorrow,
+I don't seem to understand;
+But I know who holds tomorrow,
+And I know who holds my hand.
+
+Every step is getting brighter,
+As the golden stairs I climb;
+Every burden's getting lighter;
+Every cloud is silver lined.
+There the sun is always shining,
+There no tear will dim the eye,
+At the ending of the rainbow,
+Where the mountains touch the sky. 
+
+I don't know about tomorrow,
+It may bring me poverty;
+But the one who feeds the sparrow,
+Is the one who stands by me.
+And the path that be my portion,
+May be through the flame or flood,
+But His presence goes before me,
+And I'm covered with His blood. 
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3524,7 +4016,7 @@ My Saviour lives and reigns forevermore
 </table>
 
 
-# 
+# 81. A Wonderful Saviour is Jesus
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -3541,6 +4033,32 @@ My Saviour lives and reigns forevermore
   </tr>
   <tr>
     <td style = "border-style: none"><p>
+A wonderful Savior is Jesus my Lord,
+a wonderful Savior to me.
+He hideth my soul in the cleft of the rock,
+where rivers of pleasure I see.
+
+Chorus:
+He hideth my soul in the cleft of the rock
+that shadows a dry, thirsty land.
+He hideth my life in the depths of his love,
+and covers me there with his hand,
+and covers me there with his hand.
+
+A wonderful Savior is Jesus my Lord;
+he taketh my burden away.
+He holdeth me up, and I shall not be moved;
+he giveth me strength as my day. 
+
+With numberless blessings each moment he crowns,
+and filled with his fullness divine,
+I sing in my rapture,“Oh, glory to God
+for such a Redeemer as mine!” 
+
+When clothed in his brightness, transported I rise
+to meet him in clouds of the sky,
+his perfect salvation, his wonderful love,
+I’ll shout with the millions on high. [Refrain]
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
