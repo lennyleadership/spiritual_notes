@@ -77,7 +77,7 @@ A purple robe, a crown of thorn
 <br>天色漸漸昏暗；
 <br>永遠的贖價已償還，
 <br>我見救主逝去；
-
+<br>
 <br>祂曾懷憐憫到世上，
 <br>現在高天掌權，
 <br>因為祂對罪人的愛，
