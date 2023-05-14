@@ -87,6 +87,10 @@ A purple robe, a crown of thorn
 </tbody>
 </table>
 
+<div class="scroll-container">
+    <a href="#top">To Top</a>
+</div>
+
 
 # 2. A Thousand, A Thousand Thanksgivings
 <table>
@@ -237,7 +241,7 @@ All hail, King Jesus
     </p></td>
     <td style = "border-style: none"><p>
 万福，君王耶稣 
-<br>万福，伊曼纽尔 
+<br>万福，以马内利  
 <br>万王之王，万主之主，明亮的晨星 
 <br>永远，我们将歌颂你 
 <br>我们将与你一起统治永恒。
@@ -670,59 +674,99 @@ I've found a treasure that can't be taken
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>Christ the sure and steady anchor
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>基督是锚，坚固牢靠
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 Christ the sure and steady anchor
-In the fury of the storm
-When the winds of doubt blow through me
-And my sails have all been torn
-In the suffering, in the sorrow
-When my sinking hopes are few
-I will hold fast to the anchor
-It will never be removed
-
-Christ the sure and steady anchor
-While the tempest rages on
-When temptation claims the battle
-And it seems the night has won
-Deeper still then goes the anchor
-Though I justly stand accused
-I will hold fast to the anchor
-It shall never be removed
-
-Christ the sure and steady anchor
-Through the floods of unbelief
-Hopeless somehow, O my soul, now
-Lift your eyes to Calvary
-This my ballast of assurance
-See his love forever proved
-I will hold fast to the anchor
-It will never be removed
-
-Christ the sure and steady anchor
-As we face the wave of death
-When these trials give way to glory
-As we draw our final breath
-We will cross that great horizon
-Clouds behind and life secure
-And the calm will be the better
-For the storms that we endure
-
-Christ the sure of our salvation
-Ever faithful, ever true
-We will hold fast to the anchor
-It shall never be removed
+<br>In the fury of the storm
+<br>When the winds of doubt blow through me
+<br>And my sails have all been torn
+<br>In the suffering, in the sorrow
+<br>When my sinking hopes are few
+<br>I will hold fast to the anchor
+<br>It will never be removed
+<br>
+<br>Christ the sure and steady anchor
+<br>While the tempest rages on
+<br>When temptation claims the battle
+<br>And it seems the night has won
+<br>Deeper still then goes the anchor
+<br>Though I justly stand accused
+<br>I will hold fast to the anchor
+<br>It shall never be removed
+<br>
+<br>Christ the sure and steady anchor
+<br>Through the floods of unbelief
+<br>Hopeless somehow, O my soul, now
+<br>Lift your eyes to Calvary
+<br>This my ballast of assurance
+<br>See his love forever proved
+<br>I will hold fast to the anchor
+<br>It will never be removed
+<br>
+<br>Christ the sure and steady anchor
+<br>As we face the wave of death
+<br>When these trials give way to glory
+<br>As we draw our final breath
+<br>We will cross that great horizon
+<br>Clouds behind and life secure
+<br>And the calm will be the better
+<br>For the storms that we endure
+<br>
+<br>Christ the sure of our salvation
+<br>Ever faithful, ever true
+<br>We will hold fast to the anchor
+<br>It shall never be removed
 </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+基督是锚，坚固牢靠，
+<br>虽暴风肆虐狂啸
+<br>怀疑之风，席卷横扫，
+<br>风帆全毁船飘摇
+<br>逼迫患难，愁苦忧伤，
+<br>当盼望沉寂渺茫
+<br>我要专心，依靠这锚，
+<br>祂稳固永不动摇
+<br>
+<br>基督是锚，坚固牢靠，
+<br>虽航程骇浪惊涛
+<br>世间诱惑，得势猖狂，
+<br>似黑夜夸胜炫耀
+<br>此锚更深，且更牢靠，
+<br>尽管我该受控告
+<br>我要专心，依靠这锚，
+<br>祂稳固永不动摇
+<br>
+<br>基督是锚，坚固牢靠，
+<br>虽不信如洪涛涛
+<br>我的心哪，无助绝望，
+<br>当仰望加略山岗
+<br>十架极重，确据稳妥，
+<br>永远显明主大爱
+<br>我要专心，依靠这锚，
+<br>祂稳固永不动摇
+<br>
+<br>基督是锚，坚固牢靠，
+<br>当死亡波浪环绕
+<br>我们走完，人生道路，
+<br>经试炼进入荣耀
+<br>穿越风浪，到达彼岸，
+<br>出黑云生命得保
+<br>忍受试炼，历经风暴，
+<br>那宁静将更美好
+<br>
+<br>基督是我们救恩的确据，
+<br>永远信实，永远真切，
+<br>我们当专心依靠这锚，
+<br>祂稳固永不动摇
+</p></td>
   </tr>
 </tbody>
 </table>
@@ -735,114 +779,184 @@ It shall never be removed
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>Come behold the wondrous mystery
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>來看看哪驚人奧秘
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 Come behold the wondrous mystery
-In the dawning of the King
-He the theme of heaven’s praises
-Robed in frail humanity
-In our longing, in our darkness
-Now the light of life has come
-Look to Christ, who condescended
-Took on flesh to ransom us
-
-Come behold the wondrous mystery
-He the perfect Son of Man
-In His living, in His suffering
-Never trace nor stain of sin
-See the true and better Adam
-Come to save the hell-bound man
-Christ the great and sure fulfillment
-Of the law; in Him we stand
-
-Come behold the wondrous mystery
-Christ the Lord upon the tree
-In the stead of ruined sinners
-Hangs the Lamb in victory
-See the price of our redemption
-See the Father’s plan unfold
-Bringing many sons to glory
-Grace unmeasured, love untold
-
-Come behold the wondrous mystery
-Slain by death the God of life
-But no grave could ever restrain Him
-Praise the Lord; He is alive!
-What a foretaste of deliverance
-How unwavering our hope
-Christ in power resurrected
-As we will be when He comes
+<br>In the dawning of the King
+<br>He the theme of heaven’s praises
+<br>Robed in frail humanity
+<br>In our longing, in our darkness
+<br>Now the light of life has come
+<br>Look to Christ, who condescended
+<br>Took on flesh to ransom us
+<br>
+<br>Come behold the wondrous mystery
+<br>He the perfect Son of Man
+<br>In His living, in His suffering
+<br>Never trace nor stain of sin
+<br>See the true and better Adam
+<br>Come to save the hell-bound man
+<br>Christ the great and sure fulfillment
+<br>Of the law; in Him we stand
+<br>
+<br>Come behold the wondrous mystery
+<br>Christ the Lord upon the tree
+<br>In the stead of ruined sinners
+<br>Hangs the Lamb in victory
+<br>See the price of our redemption
+<br>See the Father’s plan unfold
+<br>Bringing many sons to glory
+<br>Grace unmeasured, love untold
+<br>
+<br>Come behold the wondrous mystery
+<br>Slain by death the God of life
+<br>But no grave could ever restrain Him
+<br>Praise the Lord; He is alive!
+<br>What a foretaste of deliverance
+<br>How unwavering our hope
+<br>Christ in power resurrected
+<br>As we will be when He comes
 </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+來看看哪驚人奧秘：
+<br>在大君王曙光裡，
+<br>祂，是天國讚美的主旋律，
+<br>軟弱人性添勇力。
+<br>在飢渴中，在黑暗裡，
+<br>生命之光已臨至，
+<br>看啊！基督屈尊降世，
+<br>肉身獻作贖罪祭。
+<br>
+<br>來看看哪驚人奧秘：
+<br>祂，是完全的人子，
+<br>多受痛苦，常經憂患，
+<br>沒罪愆，沒瑕疵。
+<br>看啊！真正善良的亚当，
+<br>來拯救要下地獄的人，
+<br>圣哉！基督，經上所寫都得應驗，
+<br>基督裡面我们站立。
+<br>
+<br>來看看哪驚人奧秘：
+<br>基督，十架上的主，
+<br>祂成为罪人的羔羊，
+<br>虽被钉，却得勝。
+<br>看啊！救贖是何價值，
+<br>看啊！父神計劃已展示，
+<br>帶領子民進榮耀裡，
+<br>恩典慈愛無邊際。
+<br>
+<br>來看看哪驚人奧秘：
+<br>生命之主尝死味，
+<br>但阴间卻不能留住祂，
+<br>感谢主，祂復活了。
+<br>拯救預言何等真實，
+<br>信心堅定志不移，
+<br>基督復活顯大能力，
+<br>等主再來我也是。    
+</p></td>
   </tr>
 </tbody>
 </table>
 
 
-# 13.Crown Him with many crowns
+# 13. Crown Him with many crowns
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
-  </p>
+  <p>Crown Him with many crowns
+  </p>Crown Him with many crowns
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>拥戴我主为王
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 Crown Him with many crowns
-The Lamb upon His throne
-Hark! How the heavenly anthem drowns
-All music but its own
-Awake, my soul and sing
-Of Him Who died for thee
-And hail Him as thy matchless King
-Through all eternity
-
-Crown Him the Lord of love
-Behold His hands and side
-Rich wounds, yet visible above
-In beauty glorified
-No angel in the sky
-Can fully bear that sight
-But downward bends His wondering eye
-At mysteries so bright
-
-Crown Him the Lord of life
-Who triumphed o’er the grave
-Who rose victorious in the strife
-For those He came to save
-His glories now we sing
-Who died, and rose on high
-Who died eternal life to bring
-And lives that death may die
-
-Crown Him the Lord of heaven
-One with the Father known
-One with the Spirit through Him given
-From yonder glorious throne
-To Thee be endless praise
-For Thou for us hast died
-Be Thou, O Lord, through endless days
-Adored and magnified
+<br>The Lamb upon His throne
+<br>Hark! How the heavenly anthem drowns
+<br>All music but its own
+<br>Awake, my soul and sing
+<br>Of Him Who died for thee
+<br>And hail Him as thy matchless King
+<br>Through all eternity
+<br>
+<br>Crown Him the Lord of love
+<br>Behold His hands and side
+<br>Rich wounds, yet visible above
+<br>In beauty glorified
+<br>No angel in the sky
+<br>Can fully bear that sight
+<br>But downward bends His wondering eye
+<br>At mysteries so bright
+<br>
+<br>Crown Him the Lord of life
+<br>Who triumphed o’er the grave
+<br>Who rose victorious in the strife
+<br>For those He came to save
+<br>His glories now we sing
+<br>Who died, and rose on high
+<br>Who died eternal life to bring
+<br>And lives that death may die
+<br>
+<br>Crown Him the Lord of heaven
+<br>One with the Father known
+<br>One with the Spirit through Him given
+<br>From yonder glorious throne
+<br>To Thee be endless praise
+<br>For Thou for us hast died
+<br>Be Thou, O Lord, through endless days
+<br>Adored and magnified
 </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+拥戴我主为王，
+<br>圣羔在宝座上，
+<br>请听天上歌声悠扬，
+<br>乐声压倒群响，
+<br>我灵速醒同唱，
+<br>颂主为我受死，
+<br>欢呼祂为至大君王，
+<br>千秋万岁无疆。
+<br>
+<br>拥戴我主为王，祂是仁爱之王，
+<br>祂手、祂肋旁，
+<br>受伤，今仍显明天上，
+<br>何等奇妙奥秘，发出荣美光芒，
+<br>天使惊奇
+<br>不敢仰视，
+<br>一同俯首
+<br>颂扬。
+<br>
+<br>拥戴我主为王，祂是生命之王，
+<br>胜过阴间权势，
+<br>死里复活得胜，
+<br>为救赎我们而降生，
+<br>今來向祂歌頌，
+<br>祂死后升天，
+<br>祂带给我们永生，
+<br>让该死的灵魂得活。
+<br>
+<br>拥戴我主为王，祂是天国之王，
+<br>是祂，我们得以认识上帝，
+<br>是祂，赐下圣灵，
+<br>从上面荣耀的宝座上。
+<br>祂配得无尽的赞美，
+<br>皆因祂为我们而死。
+<br>甚愿你永作我们的主
+<br>我们敬拜你、传扬你。
+</p></td>
   </tr>
 </tbody>
 </table>
@@ -856,39 +970,73 @@ Adored and magnified
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>Down from His glory
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>從榮耀降臨
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 Down from His glory, ever living story
-My God and Savior came, and Jesus was His name
-Born in a manger, to His own a stranger
-A Man of sorrows, tears and agony
-
-Chorus
-O how I love Him! How I adore Him
-My breath, my sunshine, my all in all
-The great Creator became my Savior
-And all God’s fulness dwelleth in Him
-
-What condescension, bringing us redemption
-That in the dead of night, not one faint hope in sight
-God, gracious, tender, laid aside His splendor
-Stooping to woo, to win, to save my soul
-
-Without reluctance, flesh and blood His substance
-He took the form of man, revealed the hidden plan
-O glorious mystery, sacrifice of Calvary
-And now I know Thou art the great “I AM”
+<br>My God and Savior came, and Jesus was His name
+<br>Born in a manger, to His own a stranger
+<br>A Man of sorrows, tears and agony
+<br>
+<br><i>Chorus
+<br>O how I love Him! How I adore Him
+<br>My breath, my sunshine, my all in all
+<br>The great Creator became my Savior
+<br>And all God’s fulness dwelleth in Him</i>
+<br>
+<br>What condescension, bringing us redemption
+<br>That in the dead of night, not one faint hope in sight
+<br>God, gracious, tender, laid aside His splendor
+<br>Stooping to woo, to win, to save my soul
+<br>
+<br>Without reluctance, flesh and blood His substance
+<br>He took the form of man, revealed the hidden plan
+<br>O glorious mystery, sacrifice of Calvary
+<br>And now I know Thou art the great “I AM”
 </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+從榮耀降臨，永遠奇妙福音，
+<br>我神我主降臨，
+<br>耶穌是祂聖名。
+<br>生在馬槽裡，
+<br>世人看為客旅，
+<br>在世受盡悲傷，
+<br>流淚，飄零。
+<br>
+<br>副歌：
+<br>我何等愛主！
+<br>何等崇拜主！
+<br>我生命亮光，
+<br>我的一切！
+<br>宇宙大主宰，
+<br>成為我救主，
+<br>神一切豐盛，
+<br>全在主裡。
+<br>
+<br>主卑微順服，
+<br>使我們得救贖，
+<br>雖在黑夜茫茫，
+<br>毫無半點指望，
+<br>但慈悲上主，
+<br>甘願離榮光處，
+<br>降世救贖我
+<br>靈魂免滅亡。(副歌)
+<br>
+<br>主甘心樂意，
+<br>道成血肉身體，
+<br>取了世人樣式，
+<br>顯明隱藏美旨。
+<br>榮耀的奧祕，
+<br>加略山的燔祭，
+<br>自有永有的神
+<br>偉大無比。(副歌)    </p></td>
   </tr>
 </tbody>
 </table>
@@ -902,23 +1050,27 @@ And now I know Thou art the great “I AM”
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>Emmanuel
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>以马内利
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 Emmanuel, Emmanuel
-His name is called Emmanuel
-God with us, revealed in us
-His name is called Emmanuel
+<br>His name is called Emmanuel
+<br>God with us, revealed in us
+<br>His name is called Emmanuel
 </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+以马内利, 以马内利 
+<br>他的名字叫以马内利 
+<br>神与我们同在，启示在我们里面
+<br>他的名字叫以马内利    
+</p></td>
   </tr>
 </tbody>
 </table>
@@ -931,37 +1083,56 @@ His name is called Emmanuel
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>Fairest Lord Jesus
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>最美丽的主耶稣
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 Fairest Lord Jesus, ruler of all nature
-O Thou of God and man the Son
-Thee will I cherish, Thee will I honor
-Thou, my soul's glory, joy, and crown
-
-Fair are the meadows, fairer still the woodlands
-Robed in the blooming garb of spring
-Jesus is fairer, Jesus is purer
-Who makes the woeful heart to sing
-
-Fair is the sunshine, fairer still the moonlight
-And all the twinkling starry host
-Jesus shines brighter, Jesus shines purer
-Than all the angels heaven can boast
-
-Beautiful Savior! Lord of all the nations
-Son of God and Son of Man
-Glory and honor, praise, adoration
-Now and forevermore be thine
+<br>O Thou of God and man the Son
+<br>Thee will I cherish, Thee will I honor
+<br>Thou, my soul's glory, joy, and crown
+<br>
+<br>Fair are the meadows, fairer still the woodlands
+<br>Robed in the blooming garb of spring
+<br>Jesus is fairer, Jesus is purer
+<br>Who makes the woeful heart to sing
+<br>
+<br>Fair is the sunshine, fairer still the moonlight
+<br>And all the twinkling starry host
+<br>Jesus shines brighter, Jesus shines purer
+<br>Than all the angels heaven can boast
+<br>
+<br>Beautiful Savior! Lord of all the nations
+<br>Son of God and Son of Man
+<br>Glory and honor, praise, adoration
+<br>Now and forevermore be thine
 </p></td>
     <td style = "border-style: none"><p>
+最美的主耶稣，万物的主宰 
+<br>神人之子啊 
+<br>我会珍惜你，我会尊重你 
+<br>你是我灵魂的荣耀、喜乐和冠冕
+<br>
+<br>美丽的草地，更美丽的林地 
+<br>披上盛开的春装 
+<br>耶稣更公平，耶稣更纯洁 
+<br>谁让悲哀的心歌唱
+<br>
+<br>阳光很美，月光更美 
+<br>以及所有闪烁的星空宿主 
+<br>耶稣更耀眼，耶稣更纯洁 
+<br>比天堂所有的天使都夸耀的
+<br>
+<br>美丽的救世主！万国之主 
+<br>神子与人子 
+<br>荣耀和尊贵，赞美，崇拜 
+<br>现在和永远是你的
     </p></td>
   </tr>
 </tbody>
@@ -975,33 +1146,47 @@ Now and forevermore be thine
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>Father, I thank You
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>父亲 我感谢你
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 Father I thank You for all that You’ve done
-You gave Your Son freely for me
-And I praise You for calling me drawing me near
-Out of blindness You caused me to see
-
-Spirit of life, You are God’s holy fire
-You’ve kindled my heart with Your blaze
-And I know You're refining me changing my life
-And by faith You're revealing Your ways
-
-Jesus, I need You as Lord of my life
-I give all I have unto You
-Lord, I want to come under your heavenly hand
-And to praise You in all that I do
+<br>You gave Your Son freely for me
+<br>And I praise You for calling me drawing me near
+<br>Out of blindness You caused me to see
+<br>
+<br>Spirit of life, You are God’s holy fire
+<br>You’ve kindled my heart with Your blaze
+<br>And I know You're refining me changing my life
+<br>And by faith You're revealing Your ways
+<br>
+<br>Jesus, I need You as Lord of my life
+<br>I give all I have unto You
+<br>Lord, I want to come under your heavenly hand
+<br>And to praise You in all that I do
 </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+父亲,我感谢你所做的一切
+<br>你把你的儿子白白地赐给我
+<br>我赞美你呼召我 
+<br>使我从瞎眼能看到
+<br>
+<br>生命之灵 你是神的圣洁的火
+<br>你用你的火焰点燃了我的心
+<br>我知道你在磨炼我改变我的生命
+<br>凭着信心你在显明你的道路
+<br>
+<br>耶稣，我需要你作我生命的主
+<br>我把我所有的都给你
+<br>主，我要在你属天的手下
+<br>在我所做的一切事上赞美你。
+</p></td>
   </tr>
 </tbody>
 </table>
@@ -1014,45 +1199,72 @@ And to praise You in all that I do
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>For those tears I died
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>我为那些流泪的人而死
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 You said you'd come and share all my sorrows
-You said you'd be there for all my tomorrows
-I came so close from sending you away
-But just like you promised
-You came here to stay
-I just had to pray
-
-Chorus
-And Jesus said, come to the water
-Stand by my side
-I know you are thirsty
-You won’t be denied
-I felt every teardrop
-When in darkness you cried
-And I strove to remind you
-That for those tears I died
-
-Your goodness so great I can’t understand
-And dear Lord, I know that this was all planned
-I know your here now, and always will be
-Your love loosed my chains and in you I’m free
-But Jesus, why me
-Jesus, I give you my heart and my soul
-I know that without you, I’d never be whole
-Savior, you opened all the right doors
-And I thank you and praise you from earth’s humble shores
-Lord Jesus, I’m yours
+<br>You said you'd be there for all my tomorrows
+<br>I came so close from sending you away
+<br>But just like you promised
+<br>You came here to stay
+<br>I just had to pray
+<br>
+<br><i>Chorus
+<br>And Jesus said, come to the water
+<br>Stand by my side
+<br>I know you are thirsty
+<br>You won’t be denied
+<br>I felt every teardrop
+<br>When in darkness you cried
+<br>And I strove to remind you
+<br>That for those tears I died</i>
+<br>
+<br>Your goodness so great I can’t understand
+<br>And dear Lord, I know that this was all planned
+<br>I know your here now, and always will be
+<br>Your love loosed my chains and in you I’m free
+<br>But Jesus, why me
+<br>Jesus, I give you my heart and my soul
+<br>I know that without you, I’d never be whole
+<br>Savior, you opened all the right doors
+<br>And I thank you and praise you from earth’s humble shores
+<br>Lord Jesus, I’m yours
     </p></td>
     <td style = "border-style: none"><p>
+你说你会来分担我所有的悲伤 
+<br>你说你会陪我度过所有的明天 
+<br>我差点把你送走 
+<br>但就像你承诺的那样 
+<br>你来这里是为了留下来 
+<br>我只需要祈祷 
+<br>
+<br>[副歌]
+<br>耶稣说“来到水边 
+<br>站在我身边 
+<br>我知道你渴了 
+<br>你不会被拒绝
+<br>我感觉到每一滴泪珠 
+<br>当你在黑暗中哭泣 
+<br>我努力提醒你 
+<br>为了那些眼泪我死了 
+<br>
+<br>你的善良太棒了我无法理解 
+<br>亲爱的上帝，我知道这一切都是计划好的 
+<br>我知道你现在在这里，而且永远都在 
+<br>你的爱松开了我的枷锁，在你心中我自由了 
+<br>但是耶稣，为什么是我？ 
+<br>耶稣，我献上我心、我魂
+<br>我知，没有了你，我不会完整
+<br>救主，你开了所有当开的门
+<br>为此，我在最卑微的地方感谢你，赞美你
+<br>主耶稣，我属你。
     </p></td>
   </tr>
 </tbody>
@@ -1066,26 +1278,34 @@ Lord Jesus, I’m yours
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>Forever grateful
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>我永远感激你
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 You did not wait for me to draw nigh to You
-But You clothed Yourself in frail humanity
-You did not wait for me to cry out to You
-But You let me hear Your voice calling me
-And I'm forever grateful, Lord, to You
-And I'm forever grateful for the cross
-And I'm forever grateful to You
-That You came to seek and save the lost
+<br>But You clothed Yourself in frail humanity
+<br>You did not wait for me to cry out to You
+<br>But You let me hear Your voice calling me
+<br>And I'm forever grateful, Lord, to You
+<br>And I'm forever grateful for the cross
+<br>And I'm forever grateful to You
+<br>That You came to seek and save the lost
     </p></td>
     <td style = "border-style: none"><p>
+不等我亲近你 
+<br>但你披上了脆弱的人性。 
+<br>你没有等我向你呼求 
+<br>但你让我听到你呼唤我的声音。
+<br>主啊，我永远感激你。 
+<br>我永远感激十字架。 
+<br>我永远感激你 
+<br>你来寻找拯救失丧的人。
     </p></td>
   </tr>
 </tbody>
@@ -1099,28 +1319,38 @@ That You came to seek and save the lost
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>Give thanks
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>献上感谢
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 Give thanks with a grateful heart
-Give thanks to the Holy One
-Give thanks because He's given Jesus Christ, His Son
-And now let the weak say, I am strong
-Let the poor say, I am rich
-Because of what the Lord has done for us
-And now let the weak say, I am strong
-Let the poor say, I am rich
-Because of what the Lord has done for us
-Give thanks
+<br>Give thanks to the Holy One
+<br>Give thanks because He's given Jesus Christ, His Son
+<br>And now let the weak say, I am strong
+<br>Let the poor say, I am rich
+<br>Because of what the Lord has done for us
+<br>And now let the weak say, I am strong
+<br>Let the poor say, I am rich
+<br>Because of what the Lord has done for us
+<br>Give thanks
 </p></td>
     <td style = "border-style: none"><p>
+以感恩的心感恩 
+<br>感谢圣者 
+<br>感恩，因为他赐下耶稣基督，他的儿子
+<br>现在让弱者说“我很强” 
+<br>让穷人说：“我很富有” 
+<br>因为主为我们所做的
+<br>现在让弱者说“我很强” 
+<br>让穷人说：“我很富有 
+<br>因为主为我们所做的
+<br>献上感谢
     </p></td>
   </tr>
 </tbody>
@@ -1134,27 +1364,35 @@ Give thanks
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>God is so good
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>上帝真好
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 God is so good (x3)
-He’s so good to me
-
-He took my sin (x3)
-He’s so good to me
-
-Now I am free (x3)
-He’s so good to me
+<br>He’s so good to me
+<br>
+<br>He took my sin (x3)
+<br>He’s so good to me
+<br>
+<br>Now I am free (x3)
+<br>He’s so good to me
 </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+上帝真好 (x3) 
+<br>他对我真好 
+<br>
+<br>他带走了我的罪（x3）
+<br>他对我很好 
+<br>
+<br>我如今得自由(x3)
+<br>他对我真好    
+</p></td>
   </tr>
 </tbody>
 </table>
@@ -1167,41 +1405,64 @@ He’s so good to me
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>God will make a way
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>车到山前必有路 
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 God will make a way
-Where there seems to be no way
-He works in ways we cannot see
-He will make a way for me
-He will be my guide
-Hold me closely to His side
-With love and strength for each new day
-He will make a way, He will make a way
-
-By a roadway in the wilderness, He'll lead me
-And rivers in the desert will I see
-Heaven and earth will fade
-But His Word will still remain
-And He will do something new today
-
-God will make a way
-Where there seems to be no way
-He works in ways we cannot see
-He will make a way for me
-He will be my guide
-Hold me closely to His side
-With love and strength for each new day
-He will make a way, He will make a way
+<br>Where there seems to be no way
+<br>He works in ways we cannot see
+<br>He will make a way for me
+<br>He will be my guide
+<br>Hold me closely to His side
+<br>With love and strength for each new day
+<br>He will make a way, He will make a way
+<br>
+<br>By a roadway in the wilderness, He'll lead me
+<br>And rivers in the desert will I see
+<br>Heaven and earth will fade
+<br>But His Word will still remain
+<br>And He will do something new today
+<br>
+<br>God will make a way
+<br>Where there seems to be no way
+<br>He works in ways we cannot see
+<br>He will make a way for me
+<br>He will be my guide
+<br>Hold me closely to His side
+<br>With love and strength for each new day
+<br>He will make a way, He will make a way
 </p></td>
     <td style = "border-style: none"><p>
+车到山前必有路 
+<br>似乎没有办法的地方 
+<br>他以我们看不见的方式工作 
+<br>他会为我开路
+<br>他将是我的向导 
+<br>将我紧紧抱在祂身边 
+<br>每一个新的一天都充满爱和力量 
+<br>他会开一条路，他会开一条路 
+<br>
+<br>在旷野开道路，他会带领我 
+<br>我会看到沙漠中的河流 
+<br>天地会消逝
+<br>但他的话会长存 
+<br>他今天会做些新事
+<br>
+<br>车到山前必有路 
+<br>似乎没有办法的地方 
+<br>他以我们看不见的方式工作 
+<br>他会为我开路
+<br>他将是我的向导 
+<br>将我紧紧抱在祂身边 
+<br>每一个新的一天都充满爱和力量 
+<br>他会开一条路，他会开一条路 
     </p></td>
   </tr>
 </tbody>
@@ -1215,27 +1476,34 @@ He will make a way, He will make a way
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>Grace of God
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>神的恩典
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 Grace of God reaching me
-When He found me despairing
-Blood of Christ cleansing me
-Bringing joy to my sorrow
-Praise to the Lord for His love to me
-Love to me forever
-Joy and peace undeserved
-Day by day and forever
+<br>When He found me despairing
+<br>Blood of Christ cleansing me
+<br>Bringing joy to my sorrow
+<br>Praise to the Lord for His love to me
+<br>Love to me forever
+<br>Joy and peace undeserved
+<br>Day by day and forever
 </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+神的恩典临到我 
+<br>当他发现我绝望时 
+<br>基督的宝血洗净我 
+<br>为我的悲伤带来欢乐 
+<br>赞美主 因他对我的爱 
+<br>永远爱我 
+<br>给我想不到的喜乐与平安
+<br>日复一日，直到永远    </p></td>
   </tr>
 </tbody>
 </table>
@@ -1248,42 +1516,66 @@ Day by day and forever
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>Hallelujah, what a Saviour
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>哈雷路亚，何等的救主
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 Man of sorrows what a name
-for the Son of God, who came
-ruined sinners to reclaim
-Hallelujah, what a Savior
-
-Bearing shame and scoffing rude
-in my place condemned he stood
-sealed my pardon with his blood
-Hallelujah, what a Savior
-
-Guilty, helpless, lost were we
-blameless Lamb of God was he
-sacrificed to set us free
-Hallelujah, what a Savior
-
-He was lifted up to die
-"It is finished" was his cry
-now in heaven exalted high
-Hallelujah, what a Savior
-
-When he comes, our glorious King
-all his ransomed home to bring
-then anew this song we'll sing
-Hallelujah, what a Savior
+<br>for the Son of God, who came
+<br>ruined sinners to reclaim
+<br>Hallelujah, what a Savior
+<br>
+<br>Bearing shame and scoffing rude
+<br>in my place condemned he stood
+<br>sealed my pardon with his blood
+<br>Hallelujah, what a Savior
+<br>
+<br>Guilty, helpless, lost were we
+<br>blameless Lamb of God was he
+<br>sacrificed to set us free
+<br>Hallelujah, what a Savior
+<br>
+<br>He was lifted up to die
+<br>"It is finished" was his cry
+<br>now in heaven exalted high
+<br>Hallelujah, what a Savior
+<br>
+<br>When he comes, our glorious King
+<br>all his ransomed home to bring
+<br>then anew this song we'll sing
+<br>Hallelujah, what a Savior
 </p></td>
     <td style = "border-style: none"><p>
+“悲伤之人！” 何等名字啊，
+<br>上帝之子，他来
+<br>拯救被毁坏的罪人
+<br>哈利路亚！何等的救主！
+<br>
+<br>忍受羞辱和粗鲁的嘲笑，
+<br>他站在我的位置上被定罪；
+<br>以祂的宝血封印了我的赦免。
+<br>哈利路亚！何等的救主！
+<br>
+<br>有罪、卑鄙和无助的我们；
+<br>无瑕疵的上帝羔羊是他；
+<br>“彻底赎罪！” 是真的吗？
+<br>哈利路亚！何等的救主！
+<br>
+<br>祂被举起来要死；
+<br>“完成了！” 是他的呼喊；
+<br>现在在天堂崇高。
+<br>哈利路亚！何等的救主！
+<br>
+<br>当祂来，我们荣耀的君王，
+<br>带回祂赎回的家园，
+<br>然后我们将重新唱祂的歌：
+<br>哈利路亚！何等的救主！
     </p></td>
   </tr>
 </tbody>
@@ -1297,7 +1589,7 @@ Hallelujah, what a Savior
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>He looked beyond my faults
   </p>
   </td>
   <td style = "border-style: none">
@@ -1308,25 +1600,42 @@ Hallelujah, what a Savior
   <tr>
     <td style = "border-style: none"><p>
 Amazing grace shall always be my song of praise
-For it was grace that brought me liberty
-I do not know just why He ever came to love me so
-He looked beyond my faults and saw my need
-I shall forever lift mine eyes to Calvary
-To view the cross where Jesus died for me
-How marvelous the grace that caught my falling soul
-He looked beyond my faults and saw my need
-
-For God so loved the world, I find it written
-In verse sixteen, John’s gospel, chapter three
-He gave His Son who was for sinners smitten
-When nailed upon the cross of Calvary
-Such wondrous love! It passes human knowledge
-For Jesus died that we might ever live
-Eternal life! So none need ever perish
-This life to all believing souls he now will give
+<br>For it was grace that brought me liberty
+<br>I do not know just why He ever came to love me so
+<br>He looked beyond my faults and saw my need
+<br>I shall forever lift mine eyes to Calvary
+<br>To view the cross where Jesus died for me
+<br>How marvelous the grace that caught my falling soul
+<br>He looked beyond my faults and saw my need
+<br>
+<br>For God so loved the world, I find it written
+<br>In verse sixteen, John’s gospel, chapter three
+<br>He gave His Son who was for sinners smitten
+<br>When nailed upon the cross of Calvary
+<br>Such wondrous love! It passes human knowledge
+<br>For Jesus died that we might ever live
+<br>Eternal life! So none need ever perish
+<br>This life to all believing souls he now will give
 </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+奇异恩典永远是我的赞美之歌 
+<br>因为是恩典给我带来了自由 
+<br>我永远不会知道他为什么如此爱我
+<br>他超越了我的缺点，看到了我所有的需要 
+<br>我将永远举目仰望髑髅地 
+<br>观看耶稣为我而死的十字架 
+<br>多么奇妙的恩典抓住了我堕落的灵魂 
+<br>他超越了我的缺点，看到了我所有的需要
+<br>
+<br>因上帝爱世人，我在圣经里读到
+<br>约翰福音，三章，十六节
+<br>祂把祂的儿子交出来，为罪人死
+<br>被钉在加利利的十字架上
+<br>大哉！祂的爱，超乎世人的理解
+<br>因祂死，我们才能活
+<br>有永生！不致灭亡
+<br>凡信的人，祂都赐给他们永生。
+</p></td>
   </tr>
 </tbody>
 </table>
@@ -1339,54 +1648,89 @@ This life to all believing souls he now will give
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>Here is Love
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>爱
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 Here is love vast as the ocean
-Loving-kindness as the flood
-When the Prince of Life, our ransom
-Shed for us His precious blood
-Who His love will not remember
-Who can cease to sing His praise
-He can never be forgotten
-Throughout heaven’s eternal days
-
-On the Mount of Crucifixion
-Fountains opened deep and wide
-Through the floodgates of God’s mercy
-Flowed a vast and gracious tide
-Grace and love like mighty rivers
-Poured incessant from above
-Heaven’s peace and perfect justice
-Kissed a guilty world in love
-
-In Thy truth Thou dost direct me
-By Thy Spirit through Thy Word
-And Thy grace my need is meeting
-As I trust in Thee, my Lord
-Of Thy fullness Thou art pouring
-Thy great love and power on me
-Without measure, full and boundless
-Drawing out my heart to Thee
-
-Let me, all Thy love accepting
-Love Thee, ever all my days
-Let me seek Thy kingdom only
-And my life be to Thy praise
-Thou alone shalt be my glory
-Nothing in the world I see
-Thou hast cleansed and sanctified me
-Thou Thyself hast set me free
+<br>Loving-kindness as the flood
+<br>When the Prince of Life, our ransom
+<br>Shed for us His precious blood
+<br>Who His love will not remember
+<br>Who can cease to sing His praise
+<br>He can never be forgotten
+<br>Throughout heaven’s eternal days
+<br>
+<br>On the Mount of Crucifixion
+<br>Fountains opened deep and wide
+<br>Through the floodgates of God’s mercy
+<br>Flowed a vast and gracious tide
+<br>Grace and love like mighty rivers
+<br>Poured incessant from above
+<br>Heaven’s peace and perfect justice
+<br>Kissed a guilty world in love
+<br>
+<br>In Thy truth Thou dost direct me
+<br>By Thy Spirit through Thy Word
+<br>And Thy grace my need is meeting
+<br>As I trust in Thee, my Lord
+<br>Of Thy fullness Thou art pouring
+<br>Thy great love and power on me
+<br>Without measure, full and boundless
+<br>Drawing out my heart to Thee
+<br>
+<br>Let me, all Thy love accepting
+<br>Love Thee, ever all my days
+<br>Let me seek Thy kingdom only
+<br>And my life be to Thy praise
+<br>Thou alone shalt be my glory
+<br>Nothing in the world I see
+<br>Thou hast cleansed and sanctified me
+<br>Thou Thyself hast set me free
 </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+主的爱浩瀚如大海 
+<br>慈爱良善如洪流
+<br>主为我舍己成救赎 
+<br>他宝血为我流下
+<br>谁能忘记他的大爱 
+<br>谁能停止赞美他 
+<br>我一生仰望跟随主 
+<br>从今时直到永远 
+<br>
+<br>加略山上，主牺牲的爱 
+<br>长阔高深如江河 
+<br>神怜悯如波涛汹涌  
+<br>潮水涌溢满我身 
+<br>恩与爱滚滚如江河 
+<br>从天浇灌永不息 
+<br>属天平安完全公义 
+<br>今以爱救我罪人 
+<br>
+<br>在真理中，你引导我
+<br>籍着圣灵，透过你的话
+<br>又因你的恩典，你满足了我的需要
+<br>因我信靠你，我的主
+<br>你把你的一切
+<br>你的爱、你的权柄都给了我
+<br>无法测量，充满，没有限量
+<br>你吸引我心
+<br>
+<br>你的爱完全包容我 
+<br>爱你主直到永远 
+<br>我呼求你国度降临 
+<br>一生要赞美你名 
+<br>唯有你 是我的荣耀 
+<br>远胜过世上一切 
+<br>你宝血使我得洁净
+<br>释放我自由生命    
+</p></td>
   </tr>
 </tbody>
 </table>
@@ -1399,40 +1743,62 @@ Thou Thyself hast set me free
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>His mercy is more
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>祂怜悯更多
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 What love could remember no wrongs we have done
-Omniscient, all-knowing, He counts not their sum
-Thrown into a sea without bottom or shore
-Our sins they are many, His mercy is more
-
-Chorus
-Praise the Lord
-His mercy is more
-Stronger than darkness
-New every morn’
-Our sins they are many, His mercy is more
-Our sins they are many, His mercy is more
-
-What patience would wait as we constantly roam
-What Father so tender is calling us home
-He welcomes the weakest, the vilest, the poor
-Our sins they are many, His mercy is more
-
-What riches of kindness He lavished on us
-His blood was the payment His life was the cost
-We stood ‘neath a debt we could never afford
-Our sins they are many, His mercy is more
+<br>Omniscient, all-knowing, He counts not their sum
+<br>Thrown into a sea without bottom or shore
+<br>Our sins they are many, His mercy is more
+<br>
+<br><i>Chorus
+<br>Praise the Lord
+<br>His mercy is more
+<br>Stronger than darkness
+<br>New every morn’
+<br>Our sins they are many, His mercy is more
+<br>Our sins they are many, His mercy is more</i>
+<br>
+<br>What patience would wait as we constantly roam
+<br>What Father so tender is calling us home
+<br>He welcomes the weakest, the vilest, the poor
+<br>Our sins they are many, His mercy is more
+<br>
+<br>What riches of kindness He lavished on us
+<br>His blood was the payment His life was the cost
+<br>We stood ‘neath a debt we could never afford
+<br>Our sins they are many, His mercy is more
     </p></td>
     <td style = "border-style: none"><p>
+临我众罪人的爱何等奇妙；
+<br>全知全能神不再算我罪过；
+<br>将我众罪投入无边的深渊；
+<br>我们罪虽众多，祂怜悯更多。
+<br>
+<br>[副歌]
+<br>赞美主，
+<br>祂怜悯更多！
+<br>胜黑暗权势，
+<br>晨恩新做；
+<br>我们罪虽众多，祂怜悯更多！
+<br>我们罪虽众多，祂怜悯更多！
+<br>
+<br>我们如羊走迷，主何等忍耐；
+<br>呼唤我回家声，慈祥又紧迫；
+<br>祂拥抱软弱污秽贫穷的人；
+<br>我们罪虽众多，祂怜悯更多。
+<br>
+<br>从高天降下恩慈何等长阔；
+<br>主为我流血，舍命赎我罪过；
+<br>我永难偿还，因这罪债沉重；
+<br>我们罪虽众多，祂怜悯更多。
     </p></td>
   </tr>
 </tbody>
@@ -1446,35 +1812,51 @@ Our sins they are many, His mercy is more
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>His name is wonderful
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>他的名字是美妙的！
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 His name is wonderful
-His name is wonderful
-His name is wonderful
-Jesus my Lord
-He is the mighty King
-Master of everything
-His name is wonderful
-Jesus my Lord
-
-He's the Great Shepherd
-The Rock of all ages
-Almighty God is He
-Bow down before Him
-Love and adore Him
-His name is wonderful
-Jesus my Lord
+<br>His name is wonderful
+<br>His name is wonderful
+<br>Jesus my Lord
+<br>He is the mighty King
+<br>Master of everything
+<br>His name is wonderful
+<br>Jesus my Lord
+<br>
+<br>He's the Great Shepherd
+<br>The Rock of all ages
+<br>Almighty God is He
+<br>Bow down before Him
+<br>Love and adore Him
+<br>His name is wonderful
+<br>Jesus my Lord
     </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+他的名字是美妙的，
+<br>他的名字是美妙的，
+<br>他的名字是美好的，
+<br>耶稣我的主。
+<br>他是全能的君王，
+<br>万物的主宰，
+<br>他的名字是美好的，
+<br>耶稣我的主。
+<br>
+<br>他是大牧羊人，
+<br>历代的磐石，
+<br>全能神是他，
+<br>俯伏在祂面前，
+<br>爱慕祂，
+<br>他的名字是美好的，
+<br>耶稣我的主。    
+</p></td>
   </tr>
 </tbody>
 </table>
@@ -1487,45 +1869,71 @@ Jesus my Lord
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>How deep the Father’s love
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>天父对我们的爱有多深
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 How deep the Father's love for us
-How vast beyond all measure
-That He should give His only Son
-To make a wretch His treasure
-How great the pain of searing loss
-The Father turns His face away
-As wounds which mar the Chosen One
-Bring many sons to glory
-
-Behold the man upon a cross
-My sin upon His shoulders
-Ashamed, I hear my mocking voice
-Call out among the scoffers
-It was my sin that held Him there
-Until it was accomplished
-His dying breath has brought me life
-I know that it is finished
-
-I will not boast in anything
-No gifts, no power, no wisdom
-But I will boast in Jesus Christ
-His death and resurrection
-Why should I gain from His reward?
-I cannot give an answer
-But this I know with all my heart
-His wounds have paid my ransom
+<br>How vast beyond all measure
+<br>That He should give His only Son
+<br>To make a wretch His treasure
+<br>How great the pain of searing loss
+<br>The Father turns His face away
+<br>As wounds which mar the Chosen One
+<br>Bring many sons to glory
+<br>
+<br>Behold the man upon a cross
+<br>My sin upon His shoulders
+<br>Ashamed, I hear my mocking voice
+<br>Call out among the scoffers
+<br>It was my sin that held Him there
+<br>Until it was accomplished
+<br>His dying breath has brought me life
+<br>I know that it is finished
+<br>
+<br>I will not boast in anything
+<br>No gifts, no power, no wisdom
+<br>But I will boast in Jesus Christ
+<br>His death and resurrection
+<br>Why should I gain from His reward?
+<br>I cannot give an answer
+<br>But this I know with all my heart
+<br>His wounds have paid my ransom
     </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+天父对我们的爱有多深 
+<br>浩瀚无量 
+<br>祂应该赐下祂的独生子 
+<br>让一个坏蛋成为他的宝贝 
+<br>失去灼烧的痛苦有多大 
+<br>父亲转过脸去 
+<br>作为伤害被选中者的伤口 
+<br>使许多儿子得荣耀
+<br>
+<br>看十字架上的人 
+<br>我的罪担在他肩上 
+<br>惭愧，我听到我嘲讽的声音 
+<br>在嘲笑者中大声疾呼 
+<br>是我的罪让他留在那里 
+<br>直到大功告成 
+<br>他垂死的呼吸带给我生命 
+<br>我知道他做成了
+<br>
+<br>我不会夸耀任何东西 
+<br>没有天赋，没有力量，没有智慧 
+<br>但我要以耶稣基督夸耀 
+<br>他的死与复活 
+<br>我为什么要从他的赏赐中得益？ 
+<br>我无法给出答案 
+<br>但我全心全意地知道这一点
+<br>他的伤口已经支付了我的赎金    
+</p></td>
   </tr>
 </tbody>
 </table>
@@ -1538,7 +1946,7 @@ His wounds have paid my ransom
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>How great Thou art
   </p>
   </td>
   <td style = "border-style: none">
@@ -1549,32 +1957,57 @@ His wounds have paid my ransom
   <tr>
     <td style = "border-style: none"><p>
 O Lord my God, When I in awesome wonder
-Consider all the worlds Thy Hands have made
-I see the stars, I hear the rolling thunder
-Thy power throughout the universe displayed
-
-Chorus
-Then sings my soul, My Saviour God, to Thee
-How great Thou art, How great Thou art
-Then sings my soul, My Saviour God, to Thee
-How great Thou art, How great Thou art
-
-When through the woods, and forest glades I wander
-And hear the birds sing sweetly in the trees
-When I look down, from lofty mountain grandeur
-And see the brook, and feel the gentle breeze
-
-And when I think, that God, His Son not sparing
-Sent Him to die, I scarce can take it in
-That on the Cross, my burden gladly bearing
-He bled and died to take away my sin
-
-When Christ shall come, with shout of acclamation
-And take me home, what joy shall fill my heart
-Then I shall bow, in humble adoration
-And then proclaim, my God, how great Thou art
+<br>Consider all the worlds Thy Hands have made
+<br>I see the stars, I hear the rolling thunder
+<br>Thy power throughout the universe displayed
+<br>
+<br><i>Chorus
+<br>Then sings my soul, My Saviour God, to Thee
+<br>How great Thou art, How great Thou art
+<br>Then sings my soul, My Saviour God, to Thee
+<br>How great Thou art, How great Thou art</i>
+<br>
+<br>When through the woods, and forest glades I wander
+<br>And hear the birds sing sweetly in the trees
+<br>When I look down, from lofty mountain grandeur
+<br>And see the brook, and feel the gentle breeze
+<br>
+<br>And when I think, that God, His Son not sparing
+<br>Sent Him to die, I scarce can take it in
+<br>That on the Cross, my burden gladly bearing
+<br>He bled and died to take away my sin
+<br>
+<br>When Christ shall come, with shout of acclamation
+<br>And take me home, what joy shall fill my heart
+<br>Then I shall bow, in humble adoration
+<br>And then proclaim, my God, how great Thou art
     </p></td>
     <td style = "border-style: none"><p>
+主啊，我的上帝，当我在惊奇中
+<br>思考你的手创造的所有世界
+<br>我看到星星，我听到滚动的雷声
+<br>你的力量在整个宇宙中展示
+<br>
+<br>[副歌]
+<br>然后我的灵魂向你歌唱，我的救主上帝，
+<br>你是多么伟大，你是多么伟大
+<br>然后我的灵魂向你歌唱，我的救主上帝，
+<br>你是多么伟大，你是多么伟大
+<br>
+<br>当我漫步在树林里
+<br>听树上的鸟儿欢快地啼鸣
+<br>当我从山上俯瞰
+<br>见到溪流、感受清风扑面
+<br>
+<br>我在到，神竟愿差神儿，
+<br>降世舍命，我几乎不会领会，
+<br>主在十架，甘愿背我的重担，
+<br>流血舍身为要负我罪。
+<br>
+<br>当主再来，欢呼声响彻天空，
+<br>何等喜乐主接我回天家，
+<br>我要跪下，谦恭的崇拜敬奉，
+<br>并要颂扬神阿你真伟大。
     </p></td>
   </tr>
 </tbody>
@@ -1588,36 +2021,53 @@ And then proclaim, my God, how great Thou art
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>Hosanna
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>和散那
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 Hosanna, Hosanna
-Hosanna in the highest
-Hosanna, Hosanna
-Hosanna in the highest
-Lord we lift up Your name
-With hearts full of praise
-Be exalted oh Lord my God
-Hosanna in the highest
-
-Glory, Glory
-Glory to the King of Kings
-Glory, Glory,
-Glory to the King of Kings
-Lord we lift up Your name
-With hearts full of praise
-Be exalted oh Lord my God
-Glory to the King of Kings
+<br>Hosanna in the highest
+<br>Hosanna, Hosanna
+<br>Hosanna in the highest
+<br>Lord we lift up Your name
+<br>With hearts full of praise
+<br>Be exalted oh Lord my God
+<br>Hosanna in the highest
+<br>
+<br>Glory, Glory
+<br>Glory to the King of Kings
+<br>Glory, Glory,
+<br>Glory to the King of Kings
+<br>Lord we lift up Your name
+<br>With hearts full of praise
+<br>Be exalted oh Lord my God
+<br>Glory to the King of Kings
     </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+和散那 和散那，
+<br>和散那在最高处 
+<br>和散那 和散那，
+<br>和散那在最高处
+<br>我们高举你的名
+<br>心中充满赞美
+<br>被高举哦主
+<br>和散那在最高处
+<br>
+<br>荣耀，荣耀 
+<br>荣耀归于万王之王
+<br>荣耀，荣耀，
+<br>荣耀归于万王之王主
+<br>我们高举你的名
+<br>心中充满赞美
+<br>被高举哦主
+<br>荣耀归于万王之王    
+</p></td>
   </tr>
 </tbody>
 </table>
@@ -1630,44 +2080,69 @@ Glory to the King of Kings
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>My Saviour’s love
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>我救主的爱
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 I stand amazed in the presence
-Of Jesus the Nazarene
-And wonder how He could love me
-A sinner condemned, unclean
-
-Chorus
-How marvelous! How wonderful
-And my song shall ever be
-How marvelous! How wonderful
-Is my Savior’s love for me
-
-For me it was in the garden,
-He prayed, not My will, but Thine
-He had no tears for His own griefs
-But sweat drops of blood for mine
-
-He took my sins and my sorrows
-He made them His very own
-He bore the burden to Calvary
-And suffered and died alone.
-
-When with the ransomed in glory
-His face I at last shall see
-It will be my joy through the ages
-To sing of His love for me
+<br>Of Jesus the Nazarene
+<br>And wonder how He could love me
+<br>A sinner condemned, unclean
+<br>
+<br><i>Chorus
+<br>How marvelous! How wonderful
+<br>And my song shall ever be
+<br>How marvelous! How wonderful
+<br>Is my Savior’s love for me</i>
+<br>
+<br>For me it was in the garden,
+<br>He prayed, not My will, but Thine
+<br>He had no tears for His own griefs
+<br>But sweat drops of blood for mine
+<br>
+<br>He took my sins and my sorrows
+<br>He made them His very own
+<br>He bore the burden to Calvary
+<br>And suffered and died alone.
+<br>
+<br>When with the ransomed in glory
+<br>His face I at last shall see
+<br>It will be my joy through the ages
+<br>To sing of His love for me
     </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+我惊奇地站在
+<br>拿撒勒人耶稣面前，
+<br>想知道他怎么会爱我，
+<br>一个罪人，被定罪，不洁。
+<br>
+<br>[副歌]
+<br>多么奇妙！多么美妙！
+<br>我的歌将永远存在；
+<br>多么奇妙！多么美妙！
+<br>是我的救世主对我的爱！
+<br>
+<br>祂在园中为我
+<br>祷告：“不是我的意思，乃是你的意思；” 
+<br>他没有为自己的悲伤而流泪，
+<br>而是为我的悲伤流汗。[副歌]
+<br>
+<br>他担当了我的罪孽和我的忧伤，
+<br>使它们成为他自己的；
+<br>他背负着髑髅地的重担，
+<br>独自受苦而死。[副歌]
+<br>
+<br>当我终于在荣耀中与得赎者同
+<br>见祂的面容时，我
+<br>将永远欢喜
+<br>歌颂祂对我的爱。    
+</p></td>
   </tr>
 </tbody>
 </table>
@@ -1680,42 +2155,65 @@ To sing of His love for me
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>I stand in awe of You
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>我站立，我敬畏你
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 You are beautiful beyond description
-Too marvelous for words
-Too wonderful for comprehension
-Like nothing ever seen or heard
-Who can grasp Your infinite wisdom?
-Who can fathom the depth of Your love?
-You are beautiful beyond description
-Majesty, enthroned above
-
-Chorus
-And I stand, I stand in awe of You
-I stand, I stand in awe of You
-Holy God, to whom all praise is due
-I stand in awe of You
-
-You are beautiful beyond description
-Yet God crushed You for my sin
-In agony and deep affliction
-Cut off that I might enter in
-Who can grasp such tender compassion?
-Who can fathom this mercy so free?
-You are beautiful beyond description
-Lamb of God who died for me
+<br>Too marvelous for words
+<br>Too wonderful for comprehension
+<br>Like nothing ever seen or heard
+<br>Who can grasp Your infinite wisdom?
+<br>Who can fathom the depth of Your love?
+<br>You are beautiful beyond description
+<br>Majesty, enthroned above
+<br>
+<br><i>Chorus
+<br>And I stand, I stand in awe of You
+<br>I stand, I stand in awe of You
+<br>Holy God, to whom all praise is due
+<br>I stand in awe of You</i>
+<br>
+<br>You are beautiful beyond description
+<br>Yet God crushed You for my sin
+<br>In agony and deep affliction
+<br>Cut off that I might enter in
+<br>Who can grasp such tender compassion?
+<br>Who can fathom this mercy so free?
+<br>You are beautiful beyond description
+<br>Lamb of God who died for me
     </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+你的荣美无法形容
+<br>太奇妙无法用言语形容
+<br>太奇妙无法理解
+<br>就像从未见过或听到过的一样
+<br>谁能掌握你无限的智慧？
+<br>谁能测得你爱的深浅？
+<br>你的荣美无法形容
+<br>圣哉，坐在宝座上
+<br>
+<br>[副歌]
+<br>我站立，我敬畏你
+<br>我站立，我敬畏你
+<br>神圣的上帝，所有的赞美都归于你
+<br>我站立，我敬畏你
+<br>
+<br>你的荣美无法形容
+<br>然而上帝因我的罪将你压碎
+<br>在极度的痛苦和痛苦中
+<br>被剪除，好让我能进入
+<br>谁能把握如此温柔的怜悯？
+<br>谁能测透这如此白白的怜悯？
+<br>你的荣美无法形容
+<br>神的羔羊为我而死    
+</p></td>
   </tr>
 </tbody>
 </table>
@@ -1728,43 +2226,67 @@ Lamb of God who died for me
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>I will sing of my Redeemer
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>我要歌颂我的救赎主
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 I will sing of my Redeemer
-And His wondrous love to me
-On the cruel cross He suffered
-From the curse to set me free
-
-Chorus
-Sing, oh, sing of my Redeemer
-With His blood He purchased me
-On the cross He sealed my pardon
-Paid the debt and made me free
-
-I will tell the wondrous story
-How my lost estate to save
-In His boundless love and mercy
-He the ransom freely gave
-
-I will praise my dear Redeemer
-His triumphant power I’ll tell
-How the victory He giveth
-Over sin, and death, and hell
-I will sing of my Redeemer
-And His heavenly love to me
-He from death to life hath brought me
-Son of God with Him to be
+<br>And His wondrous love to me
+<br>On the cruel cross He suffered
+<br>From the curse to set me free
+<br>
+<br><i>Chorus
+<br>Sing, oh, sing of my Redeemer
+<br>With His blood He purchased me
+<br>On the cross He sealed my pardon
+<br>Paid the debt and made me free</i>
+<br>
+<br>I will tell the wondrous story
+<br>How my lost estate to save
+<br>In His boundless love and mercy
+<br>He the ransom freely gave
+<br>
+<br>I will praise my dear Redeemer
+<br>His triumphant power I’ll tell
+<br>How the victory He giveth
+<br>Over sin, and death, and hell
+<br>I will sing of my Redeemer
+<br>And His heavenly love to me
+<br>He from death to life hath brought me
+<br>Son of God with Him to be
     </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+我要歌颂我的救赎主，
+<br>和他对我奇妙的爱；
+<br>祂在残酷的十字架上受苦，
+<br>从咒诅中释放我。
+<br>  
+<br>[副歌]  
+<br>歌唱，哦，歌颂我的救赎主，
+<br>祂用宝血赎回我，
+<br>祂在十字架上印证了我的赦免，
+<br>偿还了债务，使我自由。
+<br>
+<br>我要讲述这个奇妙的故事，
+<br>如何拯救我失去的财产，
+<br>在祂无限的爱和怜悯中，
+<br>祂白白地付出了赎价。
+<br>
+<br>我要赞美我亲爱的救赎主，
+<br>我要述说祂得胜的能力，
+<br>祂如何战胜
+<br>罪恶、死亡和地狱。
+<br>我要歌颂我的救赎主，
+<br>和他对我的至爱；
+<br>他出死入生，使我
+<br>成为神的儿子。    
+</p></td>
   </tr>
 </tbody>
 </table>
@@ -1777,30 +2299,40 @@ Son of God with Him to be
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>I will sing of the mercies of the Lord
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>我要永远歌唱主的怜悯
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 I will sing of the mercies of the Lord forever
-I will sing, I will sing
-I will sing of the mercies of the Lord forever
-I will sing of the mercies of the Lord
-
-With my mouth will I make known
-Thy faithfulness, thy faithfulness
-With my mouth will I make known
-Thy faithfulness to all generation
-I will sing of the mercies of the Lord forever
-I will sing of the mercies of the Lord
+<br>I will sing, I will sing
+<br>I will sing of the mercies of the Lord forever
+<br>I will sing of the mercies of the Lord
+<br>
+<br>With my mouth will I make known
+<br>Thy faithfulness, thy faithfulness
+<br>With my mouth will I make known
+<br>Thy faithfulness to all generation
+<br>I will sing of the mercies of the Lord forever
+<br>I will sing of the mercies of the Lord
     </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+<br>我要永远歌唱主的怜悯，
+<br>我要歌唱，我要歌唱，
+<br>我要永远歌唱主的怜悯，
+<br>我要歌唱主的怜悯。
+<br>
+<br>我要用口传扬
+<br>你的信实，你的信实，
+<br>我要用口将你的信实传给万代，
+<br>我要歌颂耶和华的慈爱，直到永远，
+<br>我要歌颂耶和华的慈爱。    
+</p></td>
   </tr>
 </tbody>
 </table>
@@ -1813,54 +2345,89 @@ I will sing of the mercies of the Lord
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>In Christ alone
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>单单在基督里
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 In Christ alone my hope is found
-He is my light, my strength, my song
-This cornerstone, this solid ground
-Firm through the fiercest drought and storm
-What heights of love, what depths of peace
-When fears are stilled, when strivings cease!
-My comforter, my all in all
-Here in the love of Christ I stand
-
-In Christ alone, who took on flesh
-Fullness of God in helpless babe!
-This gift of love and righteousness
-Scorned by the ones He came to save
-Till on that cross as Jesus died
-The wrath of God was satisfied
-For every sin on Him was laid
-Here in the death of Christ I live
-
-There in the ground His body lay
-Light of the world by darkness slain
-Then bursting forth in glorious day
-Up from the grave He rose again!
-And as He stands in victory
-Sin’s curse has lost its grip on me
-For I am His and He is mine
-Bought with the precious blood of Christ
-
-No guilt in life, no fear in death
-This is the power of Christ in me
-From life’s first cry to final breath,
-Jesus commands my destiny.
-No power of hell, no scheme of man
-Can ever pluck me from His hand
-Till He returns or calls me home
-Here in the power of Christ I’ll stand
+<br>He is my light, my strength, my song
+<br>This cornerstone, this solid ground
+<br>Firm through the fiercest drought and storm
+<br>What heights of love, what depths of peace
+<br>When fears are stilled, when strivings cease!
+<br>My comforter, my all in all
+<br>Here in the love of Christ I stand
+<br>
+<br>In Christ alone, who took on flesh
+<br>Fullness of God in helpless babe!
+<br>This gift of love and righteousness
+<br>Scorned by the ones He came to save
+<br>Till on that cross as Jesus died
+<br>The wrath of God was satisfied
+<br>For every sin on Him was laid
+<br>Here in the death of Christ I live
+<br>
+<br>There in the ground His body lay
+<br>Light of the world by darkness slain
+<br>Then bursting forth in glorious day
+<br>Up from the grave He rose again!
+<br>And as He stands in victory
+<br>Sin’s curse has lost its grip on me
+<br>For I am His and He is mine
+<br>Bought with the precious blood of Christ
+<br>
+<br>No guilt in life, no fear in death
+<br>This is the power of Christ in me
+<br>From life’s first cry to final breath,
+<br>Jesus commands my destiny.
+<br>No power of hell, no scheme of man
+<br>Can ever pluck me from His hand
+<br>Till He returns or calls me home
+<br>Here in the power of Christ I’ll stand
     </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+只有在基督里我才能找到希望 
+<br>他是我的光，我的力量，我的歌 
+<br>这块基石，这块坚实的土地 
+<br>挺过最猛烈的干旱和风暴 
+<br>多么高的爱，多么深的和平 
+<br>当恐惧平息，当奋斗停止 
+<br>我的安慰者，我的一切 
+<br>我站在基督的爱中
+<br>
+<br>唯独基督成为肉身 
+<br>神的丰盛在无助的婴儿身上 
+<br>这份爱与正义的礼物 
+<br>被他来拯救的人蔑视 
+<br>直到耶稣死在那个十字架上 
+<br>神的忿怒得到满足 
+<br>因为每一个罪都加在了他身上 
+<br>在基督的死里我活着
+<br>
+<br>他的尸体躺在地上 
+<br>世界之光被黑暗杀死 
+<br>然后在光荣的日子里绽放 
+<br>从坟墓里起来 他又复活了 
+<br>当他站在胜利中时 
+<br>罪的诅咒已经失去了对我的控制 
+<br>因为我是他的，他是我的 
+<br>用基督的宝血买来的
+<br>
+<br>生无愧，死无惧 
+<br>这是基督在我里面的力量 
+<br>从生命的第一声哭泣到最后的呼吸 
+<br>耶稣掌管我的命运 
+<br>没有地狱的力量，没有人的计划 
+<br>能把我从他手中夺走 
+<br>直到他回来或叫我回家
+<br>靠着基督的大能，我会站立    
+</p></td>
   </tr>
 </tbody>
 </table>
@@ -1873,23 +2440,27 @@ Here in the power of Christ I’ll stand
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>Jesus, name above all names
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>耶稣的名超乎万名之上
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 Jesus, name above all names
-Beautiful Saviour, Glorious Lord
-Emmanuel, God is with us
-Blessed Redeemer, Living Word
+<br>Beautiful Saviour, Glorious Lord
+<br>Emmanuel, God is with us
+<br>Blessed Redeemer, Living Word
     </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+耶稣，超乎万名之上的名 
+<br>美丽的救主，荣耀的主 
+<br>以马内利，上帝与我们同在 
+<br>有福的救赎主，活着的道 
+</p></td>
   </tr>
 </tbody>
 </table>
@@ -1902,39 +2473,59 @@ Blessed Redeemer, Living Word
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>Lamb of God
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>上帝的羔羊
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 Your only Son no sin to hide
-But You have sent Him from Your side
-To walk upon this guilty sod
-And to become the Lamb of God
-
-Chorus
-O Lamb of God, Sweet lamb of God
-I love the Holy Lamb of God
-Oh, wash me in His precious Blood
-Lord Jesus Christ, the Lamb of God
-
-Your gift of love they crucified
-They laughed and scorned Him as he died
-The humble King they named a fraud
-And sacrificed the Lamb of God
-
-I was so lost I should have died
-But You have brought me to Your side
-To be led by Your staff and rod
-And to be called a lamb of God
+<br>But You have sent Him from Your side
+<br>To walk upon this guilty sod
+<br>And to become the Lamb of God
+<br>
+<br><i>Chorus
+<br>O Lamb of God, Sweet lamb of God
+<br>I love the Holy Lamb of God
+<br>Oh, wash me in His precious Blood
+<br>Lord Jesus Christ, the Lamb of God</i>
+<br>
+<br>Your gift of love they crucified
+<br>They laughed and scorned Him as he died
+<br>The humble King they named a fraud
+<br>And sacrificed the Lamb of God
+<br>
+<br>I was so lost I should have died
+<br>But You have brought me to Your side
+<br>To be led by Your staff and rod
+<br>And to be called a lamb of God
     </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+你的独生子无罪可藏
+<br>但你派他离开你身边
+<br>走在这有罪的草地上
+<br>并成为上帝的羔羊
+<br>
+<br>[合唱] 
+<br>上帝的羔羊，上帝可爱的羔羊 
+<br>我爱上帝圣洁的羔羊 
+<br>哦，用祂的宝血洗净我 
+<br>主耶稣基督，上帝的羔羊 
+<br>
+<br>他们把你爱的礼物钉在十字架上 
+<br>当他死时，他们笑着嘲笑他
+<br>谦卑的国王，他们称其为骗子
+<br>并牺牲了上帝的羔羊 
+<br>
+<br>我是如此迷茫，我应该死了
+<br>但是你把我带到了你身边 
+<br>被你的杖和杖带领，
+<br>被称为神的羔羊    
+</p></td>
   </tr>
 </tbody>
 </table>
@@ -1947,49 +2538,79 @@ And to be called a lamb of God
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>Living hope
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>我活着的希望
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 How great the chasm that lay between us
-How high the mountain I could not climb
-In desperation I turned to Heaven
-And spoke Your name into the night
-Then through the darkness, Your loving kindness
-Tore through the shadows of my soul
-The work is finished, the end is written
-Jesus Christ, my living hope
-
-Chorus
-Hallelujah, praise the one who set me free
-Hallelujah, death has lost its grip on me
-You have broken every chain
-There’s salvation in Your name
-Jesus Christ, my living hope
-
-Who could imagine so great a mercy
-What heart could fathom, such boundless grace
-The God of angels stepped down from glory
-To wear my sin and bear my shame
-The cross has spoken I am forgiven
-The King of kings calls me His own
-Beautiful Savior I’m Yours forever
-Jesus Christ, my living hope
-
-Then came the morning that sealed the promise
-Your buried body began to breathe
-Out of the silence the roaring lion
-Declared the grave has no claim on me
-Jesus, Yours is the victory
+<br>How high the mountain I could not climb
+<br>In desperation I turned to Heaven
+<br>And spoke Your name into the night
+<br>Then through the darkness, Your loving kindness
+<br>Tore through the shadows of my soul
+<br>The work is finished, the end is written
+<br>Jesus Christ, my living hope
+<br>
+<br><i>Chorus
+<br>Hallelujah, praise the one who set me free
+<br>Hallelujah, death has lost its grip on me
+<br>You have broken every chain
+<br>There’s salvation in Your name
+<br>Jesus Christ, my living hope</i>
+<br>
+<br>Who could imagine so great a mercy
+<br>What heart could fathom, such boundless grace
+<br>The God of angels stepped down from glory
+<br>To wear my sin and bear my shame
+<br>The cross has spoken I am forgiven
+<br>The King of kings calls me His own
+<br>Beautiful Savior I’m Yours forever
+<br>Jesus Christ, my living hope
+<br>
+<br>Then came the morning that sealed the promise
+<br>Your buried body began to breathe
+<br>Out of the silence the roaring lion
+<br>Declared the grave has no claim on me
+<br>Jesus, Yours is the victory
     </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+我们之间的鸿沟有多大 
+<br>多高的山我都爬不上 
+<br>无奈之下，我求助于天堂 
+<br>对着黑夜说出你的名字 
+<br>然后穿过黑暗，你的慈爱 
+<br>撕裂了我灵魂的阴影 
+<br>工作完成，结局已写 
+<br>耶稣基督，我活着的希望
+<br>
+<br>[合唱]
+<br>哈利路亚，赞美让我自由的那一位 
+<br>哈利路亚，死亡已经失去了对我的掌控 
+<br>你打破了每一条锁链 
+<br>你的名字里有救赎 
+<br>耶稣基督，我活着的希望
+<br>
+<br>谁能想到如此伟大的怜悯？ 
+<br>有谁的心能测透如此无限的恩典？ 
+<br>万世之神从荣耀中降生 
+<br>背负我的罪，背负我的耻辱 
+<br>十字架说话了，我被宽恕了 
+<br>万王之王称我为他自己的 
+<br>美丽的救世主，我永远属于你 
+<br>耶稣基督，我活着的希望
+<br>
+<br>然后是密封承诺的早晨 
+<br>你埋葬的身体开始呼吸 
+<br>从寂静中，咆哮的狮子 
+<br>宣布坟墓对我没有要求
+<br>耶稣，你就是胜利
+</p></td>
   </tr>
 </tbody>
 </table>
@@ -2002,28 +2623,37 @@ Jesus, Yours is the victory
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>Majesty
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>陛下
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
 Majesty, worship His Majesty
-Unto Jesus be all glory, honor, and praise
-Majesty, kingdom authority
-Flow from His throne unto His own, His anthems raise
-So exalt, lift up on high the name of Jesus
-Magnify, come glorify Christ Jesus, the King
-Majesty, worship HIs Majesty
-Jesus who died, now glorified
-King of all Kings
+<br>Unto Jesus be all glory, honor, and praise
+<br>Majesty, kingdom authority
+<br>Flow from His throne unto His own, His anthems raise
+<br>So exalt, lift up on high the name of Jesus
+<br>Magnify, come glorify Christ Jesus, the King
+<br>Majesty, worship His Majesty
+<br>Jesus who died, now glorified
+<br>King of all Kings
     </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+陛下，敬拜他的陛下
+<br>一切荣耀、尊贵和赞美都归于耶稣。 
+<br>威严，国度的权威，
+<br>从祂的宝座流向祂自己的宝座，祂的颂歌响起。 
+<br>所以高举，高举耶稣的名。 
+<br>放大，来荣耀君王基督耶稣。 
+<br>陛下，敬拜陛下，
+<br>死去的耶稣，现在荣耀，
+<br>万王之王！    
+</p></td>
   </tr>
 </tbody>
 </table>
@@ -2047,31 +2677,31 @@ King of all Kings
   <tr>
     <td style = "border-style: none"><p>
 Meekness and majesty
-Manhood and deity
-In perfect harmony, the Man who is God
-Lord of eternity
-Dwells in humanity
-Kneels in humility and washes our feet
-
-Chorus
-O what a mystery
-Meekness and majesty
-Bow down and worship
-For this is your God
-
-Father's pure radiance
-Perfect in innocence
-Yet learns obedience to death on a cross
-Suffering to give us life
-Conquering through sacrifice
-And as they crucify prays Father forgive
-
-Wisdom unsearchable
-God the invisible
-Love indestructible in frailty appears
-Lord of infinity
-Stooping so tenderly
-Lifts our humanity to the heights of His throne
+<br>Manhood and deity
+<br>In perfect harmony, the Man who is God
+<br>Lord of eternity
+<br>Dwells in humanity
+<br>Kneels in humility and washes our feet
+<br>
+<br><i>Chorus
+<br>O what a mystery
+<br>Meekness and majesty
+<br>Bow down and worship
+<br>For this is your God</i>
+<br>
+<br>Father's pure radiance
+<br>Perfect in innocence
+<br>Yet learns obedience to death on a cross
+<br>Suffering to give us life
+<br>Conquering through sacrifice
+<br>And as they crucify prays Father forgive
+<br>
+<br>Wisdom unsearchable
+<br>God the invisible
+<br>Love indestructible in frailty appears
+<br>Lord of infinity
+<br>Stooping so tenderly
+<br>Lifts our humanity to the heights of His throne
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -2098,31 +2728,31 @@ Lifts our humanity to the heights of His throne
   <tr>
     <td style = "border-style: none"><p>
 My heart is filled with thankfulness
-To Him who bore my pain
-Who plumbed the depths of my disgrace
-And gave me life again
-Who crushed my curse of sinfulness
-And clothed me in His light
-And wrote His law of righteousness
-With power upon my heart
-
-My heart is filled with thankfulness
-To Him who walks beside
-Who floods my weaknesses with strength
-And causes fears to fly
-Whose every promise is enough
-For every step I take
-Sustaining me with arms of love
-And crowning me with grace
-
-My heart is filled with thankfulness
-To Him who reigns above
-Whose wisdom is my perfect peace
-Whose every thought is love
-For every day I have on earth
-Is given by the King
-So I will give my life, my all
-To love and follow Him
+<br>To Him who bore my pain
+<br>Who plumbed the depths of my disgrace
+<br>And gave me life again
+<br>Who crushed my curse of sinfulness
+<br>And clothed me in His light
+<br>And wrote His law of righteousness
+<br>With power upon my heart
+<br>
+<br>My heart is filled with thankfulness
+<br>To Him who walks beside
+<br>Who floods my weaknesses with strength
+<br>And causes fears to fly
+<br>Whose every promise is enough
+<br>For every step I take
+<br>Sustaining me with arms of love
+<br>And crowning me with grace
+<br>
+<br>My heart is filled with thankfulness
+<br>To Him who reigns above
+<br>Whose wisdom is my perfect peace
+<br>Whose every thought is love
+<br>For every day I have on earth
+<br>Is given by the King
+<br>So I will give my life, my all
+<br>To love and follow Him
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -2149,28 +2779,28 @@ To love and follow Him
   <tr>
     <td style = "border-style: none"><p>
 How can I say thanks
-For the things You have done for me?
-Things so undeserved
-Yet You gave to prove Your love for me
-The voices of a million angels
-Could not express my gratitude
-All that I am and ever hope to be
-I owe it all to Thee
-
-Chorus
-To God be the glory
-To God be the glory
-To God be the glory
-For the things He has done
-With His blood He has saved me
-With His power He has raised me
-To God be the glory
-For the things He has done
-
-Just let me live my life
-Let it pleasing, Lord to Thee
-And if I gain any praise
-Let it go to Calvary
+<br>For the things You have done for me?
+<br>Things so undeserved
+<br>Yet You gave to prove Your love for me
+<br>The voices of a million angels
+<br>Could not express my gratitude
+<br>All that I am and ever hope to be
+<br>I owe it all to Thee
+<br>
+<br><i>Chorus
+<br>To God be the glory
+<br>To God be the glory
+<br>To God be the glory
+<br>For the things He has done
+<br>With His blood He has saved me
+<br>With His power He has raised me
+<br>To God be the glory
+<br>For the things He has done</i>
+<br>
+<br>Just let me live my life
+<br>Let it pleasing, Lord to Thee
+<br>And if I gain any praise
+<br>Let it go to Calvary
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -2197,22 +2827,22 @@ Let it go to Calvary
   <tr>
     <td style = "border-style: none"><p>
 Have you ever wondered why the Savior came
-From heaven to earth to die on a cross of shame?
-Have you ever sought to know why He paid the price?
-Why He did to Calvary go as the sinner's sacrifice?
-
-Chorus
-Never in a million years, if that could be
-Could we know the reason why
-He suffered on the cross for you and me
-Willingly He died that day
-Died to take our sins away
-But never in a million years could we understand such love!
-
-No, we cannot comprehend why Jesus cared
-Why He became our friend and our sorrows shared
-O the secret will remain with God above
-But we can praise His name for the wonder of His love
+<br>From heaven to earth to die on a cross of shame?
+<br>Have you ever sought to know why He paid the price?
+<br>Why He did to Calvary go as the sinner's sacrifice?
+<br>
+<br><i>Chorus
+<br>Never in a million years, if that could be
+<br>Could we know the reason why
+<br>He suffered on the cross for you and me
+<br>Willingly He died that day
+<br>Died to take our sins away
+<br>But never in a million years could we understand such love!</i>
+<br>
+<br>No, we cannot comprehend why Jesus cared
+<br>Why He became our friend and our sorrows shared
+<br>O the secret will remain with God above
+<br>But we can praise His name for the wonder of His love
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -2239,18 +2869,18 @@ But we can praise His name for the wonder of His love
   <tr>
     <td style = "border-style: none"><p>
 Oh, how He loves you and me
-Oh how He loves you and me
-He gave his life, what more could he give?
-Oh, how He loves you
-Oh, how he loves me
-Oh, how he loves you and me
-
-Jesus to Calvary did go
-His love for sinners to show
-What He did there brought hope from despair
-Oh, how He loves you
-Oh, how he loves me
-Oh, how he loves you and me
+<br>Oh how He loves you and me
+<br>He gave his life, what more could he give?
+<br>Oh, how He loves you
+<br>Oh, how he loves me
+<br>Oh, how he loves you and me
+<br>
+<br>Jesus to Calvary did go
+<br>His love for sinners to show
+<br>What He did there brought hope from despair
+<br>Oh, how He loves you
+<br>Oh, how he loves me
+<br>Oh, how he loves you and me
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -2277,10 +2907,10 @@ Oh, how he loves you and me
   <tr>
     <td style = "border-style: none"><p>
 Praise the name of Jesus
-Praise the name of Jesus
-He's my Rock, He's my Fortress
-He's my Deliverer, in Him will I trust
-Praise the name of Jesus.
+<br>Praise the name of Jesus
+<br>He's my Rock, He's my Fortress
+<br>He's my Deliverer, in Him will I trust
+<br>Praise the name of Jesus.
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -2307,31 +2937,31 @@ Praise the name of Jesus.
   <tr>
     <td style = "border-style: none"><p>
 Speak, O Lord, as we come to You
-To receive the food of Your Holy Word
-Take Your truth, plant it deep in us
-Shape and fashion us in Your likeness
-That the light of Christ might be seen today
-In our acts of love and our deeds of faith
-Speak, O Lord, and fulfill in u
-All Your purposes for Your glory
-
-Teach us, Lord, full obedience
-Holy reverence, true humility
-Test our thoughts and our attitudes
-In the radiance of Your purity
-Cause our faith to rise; cause our eyes to see
-Your majestic love and authority
-Words of power that can never fail
-Let their truth prevail over unbelief
-
-Speak, O Lord, and renew our minds
-Help us grasp the heights of Your plans for us
-Truths unchanged from the dawn of time
-That will echo down through eternity
-And by grace we'll stand on Your promises
-And by faith we'll walk as You walk with us
-Speak, O Lord, till Your church is built
-And the earth is filled with Your glory
+<br>To receive the food of Your Holy Word
+<br>Take Your truth, plant it deep in us
+<br>Shape and fashion us in Your likeness
+<br>That the light of Christ might be seen today
+<br>In our acts of love and our deeds of faith
+<br>Speak, O Lord, and fulfill in u
+<br>All Your purposes for Your glory
+<br>
+<br>Teach us, Lord, full obedience
+<br>Holy reverence, true humility
+<br>Test our thoughts and our attitudes
+<br>In the radiance of Your purity
+<br>Cause our faith to rise; cause our eyes to see
+<br>Your majestic love and authority
+<br>Words of power that can never fail
+<br>Let their truth prevail over unbelief
+<br>
+<br>Speak, O Lord, and renew our minds
+<br>Help us grasp the heights of Your plans for us
+<br>Truths unchanged from the dawn of time
+<br>That will echo down through eternity
+<br>And by grace we'll stand on Your promises
+<br>And by faith we'll walk as You walk with us
+<br>Speak, O Lord, till Your church is built
+<br>And the earth is filled with Your glory
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -2358,25 +2988,25 @@ And the earth is filled with Your glory
   <tr>
     <td style = "border-style: none"><p>
 To God be the glory great things He has done
-So loved He the world that He gave us His son
-Who yielded His life an atonement for sin
-And opened the life gate that all may go in
-
-Chorus
-Praise the Lord, praise the Lord let the earth hear His voice
-Praise the Lord, praise the Lord let the people rejoice
-So come to the Father through Jesus the Son
-Give Him the glory great things He has done
-
-O perfect redemption the purchase of blood
-To every believer the promise of God
-The vilest offender who truly believes
-That moment from Jesus a pardon receives
-
-Great things He has taught us great things He has done
-And great our rejoicing through Jesus the Son
-But purer and higher and greater will be
-Our wonder our worship when Jesus we see
+<br>So loved He the world that He gave us His son
+<br>Who yielded His life an atonement for sin
+<br>And opened the life gate that all may go in
+<br>
+<br><i>Chorus
+<br>Praise the Lord, praise the Lord let the earth hear His voice
+<br>Praise the Lord, praise the Lord let the people rejoice
+<br>So come to the Father through Jesus the Son
+<br>Give Him the glory great things He has done</i>
+<br>
+<br>O perfect redemption the purchase of blood
+<br>To every believer the promise of God
+<br>The vilest offender who truly believes
+<br>That moment from Jesus a pardon receives
+<br>
+<br>Great things He has taught us great things He has done
+<br>And great our rejoicing through Jesus the Son
+<br>But purer and higher and greater will be
+<br>Our wonder our worship when Jesus we see
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -2403,37 +3033,37 @@ Our wonder our worship when Jesus we see
   <tr>
     <td style = "border-style: none"><p>
 The love of God is greater far
-Than tongue or pen can ever tell
-It goes beyond the highest star
-And reaches to the lowest hell
-The guilty pair, bowed down with care
-God gave His Son to win
-His erring child He reconciled
-And pardoned from his sin
-
-Chorus
-O love of God, how rich and pure
-How measureless and strong
-It shall forevermore endure
-The saints’ and angels’ song
-
-When all of time shall pass away
-And earthly thrones and kingdoms fall
-When men who here refuse to pray
-On rocks and hills and mountains call
-God’s love, so sure, shall still endure
-All measureless and strong
-Redeeming grace to Adam’s race
-The saints’ and angels’ song
-
-Could we with ink the ocean fill
-And were the skies of parchment made
-Were every stalk on earth a quill
-And every man a scribe by trade
-To write the love of God above
-Would drain the ocean dry
-Nor could the scroll contain the whole
-Though stretched from sky to sky
+<br>Than tongue or pen can ever tell
+<br>It goes beyond the highest star
+<br>And reaches to the lowest hell
+<br>The guilty pair, bowed down with care
+<br>God gave His Son to win
+<br>His erring child He reconciled
+<br>And pardoned from his sin
+<br>
+<br><i>Chorus
+<br>O love of God, how rich and pure
+<br>How measureless and strong
+<br>It shall forevermore endure
+<br>The saints’ and angels’ song</i>
+<br>
+<br>When all of time shall pass away
+<br>And earthly thrones and kingdoms fall
+<br>When men who here refuse to pray
+<br>On rocks and hills and mountains call
+<br>God’s love, so sure, shall still endure
+<br>All measureless and strong
+<br>Redeeming grace to Adam’s race
+<br>The saints’ and angels’ song
+<br>
+<br>Could we with ink the ocean fill
+<br>And were the skies of parchment made
+<br>Were every stalk on earth a quill
+<br>And every man a scribe by trade
+<br>To write the love of God above
+<br>Would drain the ocean dry
+<br>Nor could the scroll contain the whole
+<br>Though stretched from sky to sky
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -2460,30 +3090,30 @@ Though stretched from sky to sky
   <tr>
     <td style = "border-style: none"><p>
 Oh, to see the dawn of the darkest day
-Christ on a road to Calvary
-Tried by sinful men, torn and beaten then
-Nailed to the cross of wood
-
-Chorus
-This the power of the cross
-Christ became sin for us
-Took the blame, bore the wrath
-We stand forgiven at the cross
-
-Oh, to see the pain written on your face
-Bearing the awesome weight of sin
-Every bitter thought, every evil deed
-Crowning your blood stain brow
-
-Now the day light flees, now the ground beneath
-Quakes as its maker bows his head
-Curtain torn in two, dead are raised to life
-Finished! The victory cry
-
-Oh, to see my name written in Your wounds
-For through your suffering I am free
-Dead are crushed to death, life is mine to live
-Won through Your selfless love
+<br>Christ on a road to Calvary
+<br>Tried by sinful men, torn and beaten then
+<br>Nailed to the cross of wood
+<br>
+<br><i>Chorus
+<br>This the power of the cross
+<br>Christ became sin for us
+<br>Took the blame, bore the wrath
+<br>We stand forgiven at the cross</i>
+<br>
+<br>Oh, to see the pain written on your face
+<br>Bearing the awesome weight of sin
+<br>Every bitter thought, every evil deed
+<br>Crowning your blood stain brow
+<br>
+<br>Now the day light flees, now the ground beneath
+<br>Quakes as its maker bows his head
+<br>Curtain torn in two, dead are raised to life
+<br>Finished! The victory cry
+<br>
+<br>Oh, to see my name written in Your wounds
+<br>For through your suffering I am free
+<br>Dead are crushed to death, life is mine to live
+<br>Won through Your selfless love
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -2510,32 +3140,31 @@ Won through Your selfless love
   <tr>
     <td style = "border-style: none"><p>
 From heaven you came helpless babe
-Entered our world, your glory veiled
-Not to be served but to serve
-And give Your life that we might live
-
-Chorus
-This is our God, 
-The Servant King
-He calls us now to follow Him
-To bring our lives as a daily offering
-Of worship to The Servant King
-
-There in the garden of tears
-My heavy load he chose to bear
-His heart with sorrow was torn
-'Yet not My will but Yours, ' He said
-
-
-Come see His hands and His feet
-The scars that speak of sacrifice
-Hands that flung stars into space
-To cruel nails surrendered
-
-So let us learn how to serve
-And in our lives enthrone Him
-Each other's needs to prefer
-For it is Christ we're serving
+<br>Entered our world, your glory veiled
+<br>Not to be served but to serve
+<br>And give Your life that we might live
+<br>
+<br><i>Chorus
+<br>This is our God, 
+<br>The Servant King
+<br>He calls us now to follow Him
+<br>To bring our lives as a daily offering
+<br>Of worship to The Servant King</i>
+<br>
+<br>There in the garden of tears
+<br>My heavy load he chose to bear
+<br>His heart with sorrow was torn
+<br>'Yet not My will but Yours, ' He said
+<br>
+<br>Come see His hands and His feet
+<br>The scars that speak of sacrifice
+<br>Hands that flung stars into space
+<br>To cruel nails surrendered
+<br>
+<br>So let us learn how to serve
+<br>And in our lives enthrone Him
+<br>Each other's needs to prefer
+<br>For it is Christ we're serving
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -2545,12 +3174,6 @@ For it is Christ we're serving
 
 
 # 52. The steadfast love of the Lord
-The steadfast love of the Lord never ceases
-Your mercies never come to an end
-They are new every morning
-New every morning
-Great is your faithfulness, O Lord
-Great is your faithfulness
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -2567,7 +3190,12 @@ Great is your faithfulness
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-
+The steadfast love of the Lord never ceases
+<br>Your mercies never come to an end
+<br>They are new every morning
+<br>New every morning
+<br>Great is your faithfulness, O Lord
+<br>Great is your faithfulness
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -2594,21 +3222,21 @@ Great is your faithfulness
   <tr>
     <td style = "border-style: none"><p>
 Thank You for the cross
-The mighty cross
-That God Himself should die for such as us
-And every day we’re changed
-Into Your image more and more
-Yes by the cross, we’ve truly been transformed
-
-Chorus
-And we’re so amazed
-And we give You praise
-That You would save us
-At such a cost
-We’re so amazed
-And we give You praise
-For the power of the cross
-For the power of the cross
+<br>The mighty cross
+<br>That God Himself should die for such as us
+<br>And every day we’re changed
+<br>Into Your image more and more
+<br>Yes by the cross, we’ve truly been transformed
+<br>
+<br><i>Chorus
+<br>And we’re so amazed
+<br>And we give You praise
+<br>That You would save us
+<br>At such a cost
+<br>We’re so amazed
+<br>And we give You praise
+<br>For the power of the cross
+<br>For the power of the cross</i>
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -2635,9 +3263,9 @@ For the power of the cross
   <tr>
     <td style = "border-style: none"><p>
 Thank you, Lord, for saving my soul
-Thank you, Lord, for making me whole
-Thank you, Lord, for giving to me
-Your great salvation so rich and free
+<br>Thank you, Lord, for making me whole
+<br>Thank you, Lord, for giving to me
+<br>Your great salvation so rich and free
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -2664,31 +3292,31 @@ Your great salvation so rich and free
   <tr>
     <td style = "border-style: none"><p>
 Thanks, O God, for boundless mercy
-From your gracious throne above
-Thanks for every need provided
-From the fulness of your love
-Thanks for daily toil and labour
-And for rest when shadows fall
-Thanks for love of friend and neighbor
-And your goodness to us all
-
-Thanks for thorns as well as roses
-Thanks for weakness and for health
-Thanks for clouds as well as sunshine
-Thanks for poverty and wealth
-Thanks for pain as well as pleasure
-All you send us day by day
-And your Word, our dearest treasure
-Shedding light upon our way
-
-Thanks, O God, for home and family
-Where we share our daily bread
-Thanks for hours of sweet communion
-When by you our souls are fed
-Thanks for grace in times of sorrow
-And for joy and peace so free
-Thanks for hope today, tomorrow
-And for all eternity
+<br>From your gracious throne above
+<br>Thanks for every need provided
+<br>From the fulness of your love
+<br>Thanks for daily toil and labour
+<br>And for rest when shadows fall
+<br>Thanks for love of friend and neighbor
+<br>And your goodness to us all
+<br>
+<br>Thanks for thorns as well as roses
+<br>Thanks for weakness and for health
+<br>Thanks for clouds as well as sunshine
+<br>Thanks for poverty and wealth
+<br>Thanks for pain as well as pleasure
+<br>All you send us day by day
+<br>And your Word, our dearest treasure
+<br>Shedding light upon our way
+<br>
+<br>Thanks, O God, for home and family
+<br>Where we share our daily bread
+<br>Thanks for hours of sweet communion
+<br>When by you our souls are fed
+<br>Thanks for grace in times of sorrow
+<br>And for joy and peace so free
+<br>Thanks for hope today, tomorrow
+<br>And for all eternity
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -2716,26 +3344,25 @@ And for all eternity
   <tr>
     <td style = "border-style: none"><p>
 There is a redeemer
-Jesus, God's own Son
-Precious Lamb of God, Messiah
-Holy One
-
-Jesus, my redeemer
-Name above all names
-Precious Lamb of God, Messiah
-Oh, for sinners slain
-
-Chorus
-Thank you, oh my Father
-For giving us Your Son
-And leaving Your Spirit
-'Til the work on Earth is done
-
-
-When I stand in glory
-I will see His face
-And there I'll serve my King forever
-In that holy place
+<br>Jesus, God's own Son
+<br>Precious Lamb of God, Messiah
+<br>Holy One
+<br>
+<br>Jesus, my redeemer
+<br>Name above all names
+<br>Precious Lamb of God, Messiah
+<br>Oh, for sinners slain
+<br>
+<br><i>Chorus
+<br>Thank you, oh my Father
+<br>For giving us Your Son
+<br>And leaving Your Spirit
+<br>'Til the work on Earth is done</i>
+<br>
+<br>When I stand in glory
+<br>I will see His face
+<br>And there I'll serve my King forever
+<br>In that holy place
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -2762,30 +3389,30 @@ In that holy place
   <tr>
     <td style = "border-style: none"><p>
 Before the stars were hung or planets fashioned
-Before the clay was formed to make a man
-Christ was the Lamb of God for sinners offered
-This was redemption's one and only plan
-
-Chorus
-There was no other way a God of love could find
-To reconcile the world and save a lost mankind
-It took the death of His own Son upon tree
-There was no other way but Calvary
-
-The wealth of all the world could not redeem us
-Nor could our feeble works -- so great the price
-Our only hope is in the blood of Jesus
-The blood He shed for us in sacrifice
-
-So, friend, if you would find the way to heaven
-If from the guilt of sin you would be free
-Accept the only way by God provided
-The great redeeming work at Calvary
-
-O I must tell the news wherever He leads me
-Proclaim the gospel sound both far and near
-The way, the truth, the life is found in Jesus
-This is the message all the world must hear
+<br>Before the clay was formed to make a man
+<br>Christ was the Lamb of God for sinners offered
+<br>This was redemption's one and only plan
+<br>
+<br><i>Chorus
+<br>There was no other way a God of love could find
+<br>To reconcile the world and save a lost mankind
+<br>It took the death of His own Son upon tree
+<br>There was no other way but Calvary</i>
+<br>
+<br>The wealth of all the world could not redeem us
+<br>Nor could our feeble works -- so great the price
+<br>Our only hope is in the blood of Jesus
+<br>The blood He shed for us in sacrifice
+<br>
+<br>So, friend, if you would find the way to heaven
+<br>If from the guilt of sin you would be free
+<br>Accept the only way by God provided
+<br>The great redeeming work at Calvary
+<br>
+<br>O I must tell the news wherever He leads me
+<br>Proclaim the gospel sound both far and near
+<br>The way, the truth, the life is found in Jesus
+<br>This is the message all the world must hear
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -2812,13 +3439,13 @@ This is the message all the world must hear
   <tr>
     <td style = "border-style: none"><p>
 Jesus, Jesus, Jesus
-There's just something about that name
-Master, Savior, Jesus, 
-Like the fragrance after the rain
-Jesus, Jesus, Jesus
-Let all Heaven and earth proclaim
-Kings and kingdoms will all pass away
-But there's something about that name
+<br>There's just something about that name
+<br>Master, Savior, Jesus, 
+<br>Like the fragrance after the rain
+<br>Jesus, Jesus, Jesus
+<br>Let all Heaven and earth proclaim
+<br>Kings and kingdoms will all pass away
+<br>But there's something about that name
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -2845,31 +3472,31 @@ But there's something about that name
   <tr>
     <td style = "border-style: none"><p>
 This is my Father's world
-And to my listening ears
-All nature sings, and round me rings
-The music of the spheres
-This is my Father's world
-I rest me in the thought
-Of rocks and trees, of skies and seas
-His hand the wonders wrought
-
-This is my Father's world
-The birds their carols raise
-The morning light, the lily white
-Declare their maker's praise
-This is my Father's world
-He shines in all that's fair
-In the rustling grass, I hear him pass
-He speaks to me everywhere
-
-This is my Father's world
-Oh, let me never forget
-That though the wrong seems oft so strong
-God is the ruler yet
-This is my Father's world
-The battle is not done
-Jesus who died shall be satisfied
-And earth and heaven be one
+<br>And to my listening ears
+<br>All nature sings, and round me rings
+<br>The music of the spheres
+<br>This is my Father's world
+<br>I rest me in the thought
+<br>Of rocks and trees, of skies and seas
+<br>His hand the wonders wrought
+<br>
+<br>This is my Father's world
+<br>The birds their carols raise
+<br>The morning light, the lily white
+<br>Declare their maker's praise
+<br>This is my Father's world
+<br>He shines in all that's fair
+<br>In the rustling grass, I hear him pass
+<br>He speaks to me everywhere
+<br>
+<br>This is my Father's world
+<br>Oh, let me never forget
+<br>That though the wrong seems oft so strong
+<br>God is the ruler yet
+<br>This is my Father's world
+<br>The battle is not done
+<br>Jesus who died shall be satisfied
+<br>And earth and heaven be one
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -2896,39 +3523,39 @@ And earth and heaven be one
   <tr>
     <td style = "border-style: none"><p>
 What a friend we have in Jesus
-All our sins and griefs to bear
-What a privilege to carry
-Everything to God in prayer
-Oh, what peace we often forfeit
-Oh, what needless pain we bear
-All because we do not carry
-Everything to God in prayer
-
-Have we trials and temptations?
-Is there trouble anywhere?
-We should never be discouraged
-Take it to the Lord in prayer
-Can we find a friend so faithful
-Who will all our sorrows share?
-Jesus knows our every weakness
-Take it to the Lord in prayer
-Are we weak and heavy-laden
-Cumbered with a load of care?
-Precious Savior, still our refuge
-Take it to the Lord in prayer
-Do thy friends despise, forsake thee?
-Take it to the Lord in prayer
-In His arms He’ll take and shield thee
-Thou wilt find a solace there
-
-Blessed Saviour, Thou hast promised
-Thou wilt all our burdens bear
-May we ever, Lord, be bringing
-All to Thee in earnest prayer
-Soon in glory bright, unclouded
-There will be no need for prayer
-Rapture, praise, and endless worship
-Will be our sweet portion there
+<br>All our sins and griefs to bear
+<br>What a privilege to carry
+<br>Everything to God in prayer
+<br>Oh, what peace we often forfeit
+<br>Oh, what needless pain we bear
+<br>All because we do not carry
+<br>Everything to God in prayer
+<br>
+<br>Have we trials and temptations?
+<br>Is there trouble anywhere?
+<br>We should never be discouraged
+<br>Take it to the Lord in prayer
+<br>Can we find a friend so faithful
+<br>Who will all our sorrows share?
+<br>Jesus knows our every weakness
+<br>Take it to the Lord in prayer
+<br>Are we weak and heavy-laden
+<br>Cumbered with a load of care?
+<br>Precious Savior, still our refuge
+<br>Take it to the Lord in prayer
+<br>Do thy friends despise, forsake thee?
+<br>Take it to the Lord in prayer
+<br>In His arms He’ll take and shield thee
+<br>Thou wilt find a solace there
+<br>
+<br>Blessed Saviour, Thou hast promised
+<br>Thou wilt all our burdens bear
+<br>May we ever, Lord, be bringing
+<br>All to Thee in earnest prayer
+<br>Soon in glory bright, unclouded
+<br>There will be no need for prayer
+<br>Rapture, praise, and endless worship
+<br>Will be our sweet portion there
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -2955,20 +3582,20 @@ Will be our sweet portion there
   <tr>
     <td style = "border-style: none"><p>
 What grace is mine that He who dwells in endless light
-Called through the night to find my distant soul
-And from his scars poured mercy that would plead for me
-That I might live and in his name be known
-
-Chorus
-So I will go wherever He is calling me
-I lose my life to find my life in Him
-I give my all to gain the hope that never dies
-I bow my heart, take up my cross and follow Him
-
-What grace is mine to know His breath alive in me
-Beneath his wings my wakened soul may soar
-All fear can flee for death’s dark night is overcome
-My Saviour lives and reigns forevermore
+<br>Called through the night to find my distant soul
+<br>And from his scars poured mercy that would plead for me
+<br>That I might live and in his name be known
+<br>
+<br><i>Chorus
+<br>So I will go wherever He is calling me
+<br>I lose my life to find my life in Him
+<br>I give my all to gain the hope that never dies
+<br>I bow my heart, take up my cross and follow Him</i>
+<br>
+<br>What grace is mine to know His breath alive in me
+<br>Beneath his wings my wakened soul may soar
+<br>All fear can flee for death’s dark night is overcome
+<br>My Saviour lives and reigns forevermore
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -2995,19 +3622,19 @@ My Saviour lives and reigns forevermore
   <tr>
     <td style = "border-style: none"><p>
 When I look into Your holiness
-When I gaze into Your loveliness
-When all things that surround become shadows
-In the light of You
-When I've found the joy of reaching Your heart
-When my will becomes enthroned in Your love
-When all things that surround become shadows
-In the light of You
-I worship You
-I worship You
-The reason I live is to worship You
-I worship You
-I worship You
-The reason I live is to worship You
+<br>When I gaze into Your loveliness
+<br>When all things that surround become shadows
+<br>In the light of You
+<br>When I've found the joy of reaching Your heart
+<br>When my will becomes enthroned in Your love
+<br>When all things that surround become shadows
+<br>In the light of You
+<br>I worship You
+<br>I worship You
+<br>The reason I live is to worship You
+<br>I worship You
+<br>I worship You
+<br> reason I live is to worship You
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3034,40 +3661,40 @@ The reason I live is to worship You
   <tr>
     <td style = "border-style: none"><p>
 What gift of grace is Jesus my redeemer
-There is no more for heaven now to give
-He is my joy, my righteousness, and freedom
-My steadfast love, my deep and boundless peace
-To this I hold, my hope is only Jesus
-For my life is wholly bound to His
-Oh how strange and divine, I can sing: all is mine!
-Yet not I, but through Christ in me
-
-The night is dark but I am not forsaken
-For by my side, the Saviour He will stay
-I labour on in weakness and rejoicing
-For in my need, His power is displayed
-To this I hold, my Shepherd will defend me
-Through the deepest valley He will lead
-Oh the night has been won, and I shall overcome!
-Yet not I, but through Christ in me
-
-No fate I dread, I know I am forgiven
-The future sure, the price it has been paid
-For Jesus bled and suffered for my pardon
-And He was raised to overthrow the grave
-To this I hold, my sin has been defeated
-Jesus now and ever is my plea
-Oh the chains are released, I can sing: I am free!
-Yet not I, but through Christ in me
-
-With every breath I long to follow Jesus
-For He has said that He will bring me home
-And day by day I know He will renew me
-Until I stand with joy before the throne
-To this I hold, my hope is only Jesus
-All the glory evermore to Him
-When the race is complete, still my lips shall repeat
-Yet not I, but through Christ in me!
+<br>There is no more for heaven now to give
+<br>He is my joy, my righteousness, and freedom
+<br>My steadfast love, my deep and boundless peace
+<br>To this I hold, my hope is only Jesus
+<br>For my life is wholly bound to His
+<br>Oh how strange and divine, I can sing: all is mine!
+<br>Yet not I, but through Christ in me
+<br>
+<br>The night is dark but I am not forsaken
+<br>For by my side, the Saviour He will stay
+<br>I labour on in weakness and rejoicing
+<br>For in my need, His power is displayed
+<br>To this I hold, my Shepherd will defend me
+<br>Through the deepest valley He will lead
+<br>Oh the night has been won, and I shall overcome!
+<br>Yet not I, but through Christ in me
+<br>
+<br>No fate I dread, I know I am forgiven
+<br>The future sure, the price it has been paid
+<br>For Jesus bled and suffered for my pardon
+<br>And He was raised to overthrow the grave
+<br>To this I hold, my sin has been defeated
+<br>Jesus now and ever is my plea
+<br>Oh the chains are released, I can sing: I am free!
+<br>Yet not I, but through Christ in me
+<br>
+<br>With every breath I long to follow Jesus
+<br>For He has said that He will bring me home
+<br>And day by day I know He will renew me
+<br>Until I stand with joy before the throne
+<br>To this I hold, my hope is only Jesus
+<br>All the glory evermore to Him
+<br>When the race is complete, still my lips shall repeat
+<br>Yet not I, but through Christ in me!
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3094,9 +3721,9 @@ Yet not I, but through Christ in me!
   <tr>
     <td style = "border-style: none"><p>
 Let the beauty of Jesus be seen in me
-All his wonderful passion and purity
-O thou Spirit divine, All my nature refine
-Till the beauty of Jesus be seen in me
+<br>All his wonderful passion and purity
+<br>O thou Spirit divine, All my nature refine
+<br>Till the beauty of Jesus be seen in me
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3123,39 +3750,39 @@ Till the beauty of Jesus be seen in me
   <tr>
     <td style = "border-style: none"><p>
 Amazing grace! How sweet the sound
-That saved a wretch like me!
-I once was lost, but now am found;
-Was blind, but now I see.
-
-’Twas grace that taught my heart to fear,
-And grace my fears relieved;
-How precious did that grace appear
-The hour I first believed.
-
-Through many dangers, toils, and snares,
-I have already come;
-’Tis grace hath brought me safe thus far,
-And grace will lead me home.
-
-The Lord has promised good to me,
-His Word my hope secures;
-He will my Shield and Portion be,
-As long as life endures.
-
-Yea, when this flesh and heart shall fail,
-And mortal life shall cease,
-I shall possess, within the veil,
-A life of joy and peace.
-
-The earth shall soon dissolve like snow,
-The sun forbear to shine;
-But God, who called me here below,
-Will be forever mine.
-
-When we’ve been there ten thousand years,
-Bright shining as the sun,
-We’ve no less days to sing God’s praise
-Than when we’d first begun.
+<br>That saved a wretch like me!
+<br>I once was lost, but now am found;
+<br>Was blind, but now I see.
+<br>
+<br>’Twas grace that taught my heart to fear,
+<br>And grace my fears relieved;
+<br>How precious did that grace appear
+<br>The hour I first believed.
+<br>
+<br>Through many dangers, toils, and snares,
+<br>I have already come;
+<br>’Tis grace hath brought me safe thus far,
+<br>And grace will lead me home.
+<br>
+<br>The Lord has promised good to me,
+<br>His Word my hope secures;
+<br>He will my Shield and Portion be,
+<br>As long as life endures.
+<br>
+<br>Yea, when this flesh and heart shall fail,
+<br>And mortal life shall cease,
+<br>I shall possess, within the veil,
+<br>A life of joy and peace.
+<br>
+<br>The earth shall soon dissolve like snow,
+<br>The sun forbear to shine;
+<br>But God, who called me here below,
+<br>Will be forever mine.
+<br>
+<br>When we’ve been there ten thousand years,
+<br>Bright shining as the sun,
+<br>We’ve no less days to sing God’s praise
+<br>Than when we’d first begun.
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3182,46 +3809,46 @@ Than when we’d first begun.
   <tr>
     <td style = "border-style: none"><p>
 O Christ, what burdens bow'd Thy head!
-Our load was laid on Thee;
-Thou stoodest in the sinner's stead,
-Didst bear all ill for me.
-A victim led; Thy blood was shed;
-Now there's no load for me.
-
-Death and the curse were in our cup,
-O Christ, 'twas full for Thee!
-But Thou hast drained the last dark drop—
-'Tis empty now for me.
-That bitter cup—love drank it up;
-Now blessings' draught for me.
-
-Jehovah lifted up His rod,
-O Christ, it fell on Thee!
-Thou wast sore stricken of Thy God;
-There's not one stroke for me.
-Thy tears, Thy blood, beneath it flowed;
-Thy bruising healeth me.
-
-The tempest's awful voice was heard,
-O Christ, it broke on Thee!
-Thy open bosom was my ward,
-It braved the storm for me.
-Thy form was scarred, Thy visage marred;
-Now cloudless peace for me.
-
-Jehovah bade His sword awake,
-O Christ, it woke 'gainst Thee!
-Thy blood the flaming blade must slake;
-Thy heart its sheath must be—
-All for my sake, my peace to make;
-Now sleeps that sword for me.
-
-For me, Lord Jesus, Thou hast died,
-And I have died in Thee;
-Thou'rt ris'n: my bands are all untied,
-And now Thou liv'st in me.
-When purified, made white, and tried,
-Thy glory then for me!
+<br>Our load was laid on Thee;
+<br>Thou stoodest in the sinner's stead,
+<br>Didst bear all ill for me.
+<br>A victim led; Thy blood was shed;
+<br>Now there's no load for me.
+<br>
+<br>Death and the curse were in our cup,
+<br>O Christ, 'twas full for Thee!
+<br>But Thou hast drained the last dark drop—
+<br>'Tis empty now for me.
+<br>That bitter cup—love drank it up;
+<br>Now blessings' draught for me.
+<br>
+<br>Jehovah lifted up His rod,
+<br>O Christ, it fell on Thee!
+<br>Thou wast sore stricken of Thy God;
+<br>There's not one stroke for me.
+<br>Thy tears, Thy blood, beneath it flowed;
+<br>Thy bruising healeth me.
+<br>
+<br>The tempest's awful voice was heard,
+<br>O Christ, it broke on Thee!
+<br>Thy open bosom was my ward,
+<br>It braved the storm for me.
+<br>Thy form was scarred, Thy visage marred;
+<br>Now cloudless peace for me.
+<br>
+<br>Jehovah bade His sword awake,
+<br>O Christ, it woke 'gainst Thee!
+<br>Thy blood the flaming blade must slake;
+<br>Thy heart its sheath must be—
+<br>All for my sake, my peace to make;
+<br>Now sleeps that sword for me.
+<br>
+<br>For me, Lord Jesus, Thou hast died,
+<br>And I have died in Thee;
+<br>Thou'rt ris'n: my bands are all untied,
+<br>And now Thou liv'st in me.
+<br>When purified, made white, and tried,
+<br>Thy glory then for me!
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3248,37 +3875,37 @@ Thy glory then for me!
   <tr>
     <td style = "border-style: none"><p>
 When my life work is ended, and I cross the swelling tide,
-When the bright and glorious morning I shall see,
-I shall know my Redeemer when I reach the other side,
-And His smile will be the first to welcome me.
-
-I shall know Him, I shall know Him
-And redeemed by His side, I shall stand.
-I shall know Him, I shall know Him,
-By the print of the nails in His hand.
-
-Oh, the soul thrilling rapture when I view His blessed face
-And the luster of His kindly beaming eyes;
-How my full heart will praise Him for the mercy, love, and grace
-That prepared for me a mansion in the sky.
-
-Oh, the dear ones in glory, how they beckon me to come,
-And our parting at the river I recall;
-To the sweet vales of Eden they will sing my welcome home,
-But I long to meet my Saviour first of all.
-
-Thro' the gates to the city in a robe of spotless white,
-He will lead me where no tears will ever fall;
-In the glad song of ages I shall mingle with delight,
-But I long to meet my Saviour first of all.
-
-I shall know Him, I shall know Him
-And redeemed by His side, I shall stand.
-I shall know Him, I shall know Him,
-By the print of the nails in His hand.
-I shall know Him, I shall know Him,
-By the print of the nails in His hand.
-By the print of the nails in His hand.
+<br>When the bright and glorious morning I shall see,
+<br>I shall know my Redeemer when I reach the other side,
+<br>And His smile will be the first to welcome me.
+<br>
+<br>I shall know Him, I shall know Him
+<br>And redeemed by His side, I shall stand.
+<br>I shall know Him, I shall know Him,
+<br>By the print of the nails in His hand.
+<br>
+<br>Oh, the soul thrilling rapture when I view His blessed face
+<br>And the luster of His kindly beaming eyes;
+<br>How my full heart will praise Him for the mercy, love, and grace
+<br>That prepared for me a mansion in the sky.
+<br>
+<br>Oh, the dear ones in glory, how they beckon me to come,
+<br>And our parting at the river I recall;
+<br>To the sweet vales of Eden they will sing my welcome home,
+<br>But I long to meet my Saviour first of all.
+<br>
+<br>Thro' the gates to the city in a robe of spotless white,
+<br>He will lead me where no tears will ever fall;
+<br>In the glad song of ages I shall mingle with delight,
+<br>But I long to meet my Saviour first of all.
+<br>
+<br>I shall know Him, I shall know Him
+<br>And redeemed by His side, I shall stand.
+<br>I shall know Him, I shall know Him,
+<br>By the print of the nails in His hand.
+<br>I shall know Him, I shall know Him,
+<br>By the print of the nails in His hand.
+<br>By the print of the nails in His hand.
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3305,25 +3932,25 @@ By the print of the nails in His hand.
   <tr>
     <td style = "border-style: none"><p>
 There's the wonder of sunset at evening,
-The wonder as sunrise I see;
-But the wonder of wonders that thrills my soul
-Is the wonder that God loves me.
-
-O, the wonder of it all! The wonder of it all!
-Just to think that God loves me.
-O, the wonder of it all! The wonder of it all!
-Just to think that God loves me.
-
-There's the wonder of springtime and harvest,
-The sky, the stars, and the sun;
-But the wonder of wonders that thrills my soul
-Is a wonder that's just begun.
-
-O, the wonder of it all! The wonder of it all!
-Just to think that God loves me.
-O, the wonder of it all! The wonder of it all!
-Just to think that God loves me
-Just to think that God loves me
+<br>The wonder as sunrise I see;
+<br>But the wonder of wonders that thrills my soul
+<br>Is the wonder that God loves me.
+<br>
+<br>O, the wonder of it all! The wonder of it all!
+<br>Just to think that God loves me.
+<br>O, the wonder of it all! The wonder of it all!
+<br>Just to think that God loves me.
+<br>
+<br>There's the wonder of springtime and harvest,
+<br>The sky, the stars, and the sun;
+<br>But the wonder of wonders that thrills my soul
+<br>Is a wonder that's just begun.
+<br>
+<br>O, the wonder of it all! The wonder of it all!
+<br>Just to think that God loves me.
+<br>O, the wonder of it all! The wonder of it all!
+<br>Just to think that God loves me
+<br>Just to think that God loves me
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3350,26 +3977,26 @@ Just to think that God loves me
   <tr>
     <td style = "border-style: none"><p>
 Life is easy when you're up on the mountain
-And you've got peace of mind like you've never known.
-But then things change and you're down in the valley.
-Don't lose faith for you're never alone.
-
-For the God on the mountain is still God in the valley.
-When things go wrong, He'll make them right.
-And the God of the good times
-Is still God in the bad times.
-The God of the day is still God in the night.
-
-You talk of faith when you're up on the mountain.
-Oh but the talk comes easy when life's at its best.
-But it's down in the valley of trials and temptation
-That's when faith is really put to the test.
-
-For the God on the mountain is still God in the valley.
-When things go wrong, He'll make them right.
-And the God of the good times
-Is still God in the bad times.
-The God of the day is still God in the night. (2X)
+<br>And you've got peace of mind like you've never known.
+<br>But then things change and you're down in the valley.
+<br>Don't lose faith for you're never alone.
+<br>
+<br>For the God on the mountain is still God in the valley.
+<br>When things go wrong, He'll make them right.
+<br>And the God of the good times
+<br>Is still God in the bad times.
+<br>The God of the day is still God in the night.
+<br>
+<br>You talk of faith when you're up on the mountain.
+<br>Oh but the talk comes easy when life's at its best.
+<br>But it's down in the valley of trials and temptation
+<br>That's when faith is really put to the test.
+<br>
+<br>For the God on the mountain is still God in the valley.
+<br>When things go wrong, He'll make them right.
+<br>And the God of the good times
+<br>Is still God in the bad times.
+<br>The God of the day is still God in the night. (2X)
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3396,30 +4023,30 @@ The God of the day is still God in the night. (2X)
   <tr>
     <td style = "border-style: none"><p>
 In shady, green pastures, so rich and so sweet,
-God leads His dear children along;
-Where the water’s cool flow bathes the weary one’s feet,
-God leads His dear children along.
-
-Refrain:
-Some through the waters, some through the flood,
-Some through the fire, but all through the blood;
-Some through great sorrow, but God gives a song,
-In the night season and all the day long.
-
-Sometimes on the mount where the sun shines so bright,
-God leads His dear children along;
-Sometimes in the valley, in darkest of night,
-God leads His dear children along.
-
-Though sorrows befall us and Satan oppose,
-God leads His dear children along;
-Through grace we can conquer, defeat all our foes,
-God leads His dear children along.
-
-Away from the mire, and away from the clay,
-God leads His dear children along;
-Away up in glory, eternity’s day,
-God leads His dear children along.
+<br>God leads His dear children along;
+<br>Where the water’s cool flow bathes the weary one’s feet,
+<br>God leads His dear children along.
+<br>
+<br>Refrain:
+<br>Some through the waters, some through the flood,
+<br>Some through the fire, but all through the blood;
+<br>Some through great sorrow, but God gives a song,
+<br>In the night season and all the day long.
+<br>
+<br>Sometimes on the mount where the sun shines so bright,
+<br>God leads His dear children along;
+<br>Sometimes in the valley, in darkest of night,
+<br>God leads His dear children along.
+<br>
+<br>Though sorrows befall us and Satan oppose,
+<br>God leads His dear children along;
+<br>Through grace we can conquer, defeat all our foes,
+<br>God leads His dear children along.
+<br>
+<br>Away from the mire, and away from the clay,
+<br>God leads His dear children along;
+<br>Away up in glory, eternity’s day,
+<br>God leads His dear children along.
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3446,45 +4073,45 @@ God leads His dear children along.
   <tr>
     <td style = "border-style: none"><p>
 Our Lord is now rejected,
-And by the world disowned,
-By the many still neglected,
-And by the few enthroned,
-But soon He'll come in glory,
-The hour is drawing nigh,
-For the crowning day is coming by and by.
-
-(Chorus)
-Oh, the crowning day is coming,
-Is coming by and by,
-When our Lord shall come in "power,"
-And "glory" from on high,
-Oh, the glorious night will gladden,
-Each waiting watchful eye,
-In the crowning day that's coming by and by.
-
-The heav'ns shall glow with splendor,
-But brighter far than they
-The saints shall shine in glory,
-As Christ shall them array,
-The beauty of the Saviour,
-Shall dazzle ev'ry eye,
-In the crowning day that's coming by and by.
-
-Our pain shall then be over,
-We'll sin and sigh no more,
-Behind us all of sorrow,
-And naught but joy before,
-A joy in our Redeemer,
-As we to Him are nigh,
-In the crowning day that's coming by and by.
-
-Let all that look for, hasten
-The coming joyful day,
-By earnest consecration,
-To walk the narrow way,
-By gath'ring in the lost ones,
-For whom our Lord did die,
-For the crowning day that's coming by and by.
+<br>And by the world disowned,
+<br>By the many still neglected,
+<br>And by the few enthroned,
+<br>But soon He'll come in glory,
+<br>The hour is drawing nigh,
+<br>For the crowning day is coming by and by.
+<br>
+<br><i>(Chorus)
+<br>Oh, the crowning day is coming,
+<br>Is coming by and by,
+<br>When our Lord shall come in "power,"
+<br>And "glory" from on high,
+<br>Oh, the glorious night will gladden,
+<br>Each waiting watchful eye,
+<br>In the crowning day that's coming by and by.</i>
+<br>
+<br>The heav'ns shall glow with splendor,
+<br>But brighter far than they
+<br>The saints shall shine in glory,
+<br>As Christ shall them array,
+<br>The beauty of the Saviour,
+<br>Shall dazzle ev'ry eye,
+<br>In the crowning day that's coming by and by.
+<br>
+<br>Our pain shall then be over,
+<br>We'll sin and sigh no more,
+<br>Behind us all of sorrow,
+<br>And naught but joy before,
+<br>A joy in our Redeemer,
+<br>As we to Him are nigh,
+<br>In the crowning day that's coming by and by.
+<br>
+<br>Let all that look for, hasten
+<br>The coming joyful day,
+<br>By earnest consecration,
+<br>To walk the narrow way,
+<br>By gath'ring in the lost ones,
+<br>For whom our Lord did die,
+<br>For the crowning day that's coming by and by.
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3511,24 +4138,24 @@ For the crowning day that's coming by and by.
   <tr>
     <td style = "border-style: none"><p>
 Shackled by a heavy burden,
-'Neath a load of guilt and shame.
-Then the hand of Jesus touched me,
-And now I am no longer the same.
-
-He touched me, Oh He touched me,
-And oh the joy that floods my soul!
-Something happened and now I know,
-He touched me and made me whole.
-
-Since I met this blessed Savior,
-Since He cleansed and made me whole,
-I will never cease to praise Him,
-I'll shout it while eternity rolls.
-
-He touched me, Oh He touched me,
-And oh the joy that floods my soul!
-Something happened and now I know
-He touched me and made me whole.
+<br>'Neath a load of guilt and shame.
+<br>Then the hand of Jesus touched me,
+<br>And now I am no longer the same.
+<br>
+<br>He touched me, Oh He touched me,
+<br>And oh the joy that floods my soul!
+<br>Something happened and now I know,
+<br>He touched me and made me whole.
+<br>
+<br>Since I met this blessed Savior,
+<br>Since He cleansed and made me whole,
+<br>I will never cease to praise Him,
+<br>I'll shout it while eternity rolls.
+<br>
+<br>He touched me, Oh He touched me,
+<br>And oh the joy that floods my soul!
+<br>Something happened and now I know
+<br>He touched me and made me whole.
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3555,31 +4182,31 @@ He touched me and made me whole.
   <tr>
     <td style = "border-style: none"><p>
 Day by day and with each passing moment,
-Strength I find to meet my trials here;
-Trusting in my Father's wise bestowment,
-I've no cause for worry or for fear.
-He whose heart is kind beyond all measure
-Gives unto each day what he deems best–
-Lovingly, its part of pain and pleasure,
-Mingling toil with peace and rest.
-
- Ev'ry day the Lord himself is near me,
-With a special mercy for each hour;
-All my cares he gladly bears and cheers me,
-He whose name is Counselor and Pow'r.
-The protection of his child and treasure
-Is a charge that on himself he laid:
-"As your days, your strength shall be in measure"–
-This the pledge to me he made.
-
-Help me then in ev'ry tribulation
-So to trust your promises, O Lord,
-That I lose not faith's sweet consolation
-Offered me within your holy Word.
-Help me, Lord, when, toil and trouble meeting,
-E'er to take, as from a father's hand,
-One by one, the days, the moments fleeting,
-Till I reach the promised land.
+<br>Strength I find to meet my trials here;
+<br>Trusting in my Father's wise bestowment,
+<br>I've no cause for worry or for fear.
+<br>He whose heart is kind beyond all measure
+<br>Gives unto each day what he deems best–
+<br>Lovingly, its part of pain and pleasure,
+<br>Mingling toil with peace and rest.
+<br>
+<br>Ev'ry day the Lord himself is near me,
+<br>With a special mercy for each hour;
+<br>All my cares he gladly bears and cheers me,
+<br>He whose name is Counselor and Pow'r.
+<br>The protection of his child and treasure
+<br>Is a charge that on himself he laid:
+<br>"As your days, your strength shall be in measure"–
+<br>This the pledge to me he made.
+<br>
+<br>Help me then in ev'ry tribulation
+<br>So to trust your promises, O Lord,
+<br>That I lose not faith's sweet consolation
+<br>Offered me within your holy Word.
+<br>Help me, Lord, when, toil and trouble meeting,
+<br>E'er to take, as from a father's hand,
+<br>One by one, the days, the moments fleeting,
+<br>Till I reach the promised land.
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3606,49 +4233,49 @@ Till I reach the promised land.
   <tr>
     <td style = "border-style: none"><p>
 There is a fountain filled with blood
-  Drawn from Immanuel’s veins;
-And sinners, plunged beneath that flood,
-  Lose all their guilty stains:
-  Lose all their guilty stains,
-  Lose all their guilty stains;
-And sinners, plunged beneath that flood,
-  Lose all their guilty stains.
-
-The dying thief rejoiced to see
-  That fountain in his day;
-And there may I, though vile as he,
-  Wash all my sins away:
-  Wash all my sins away,
-  Wash all my sins away;
-And there may I, though vile as he,
-  Wash all my sins away.
-
-Dear dying Lamb, Thy precious blood
-  Shall never lose its power,
-Till all the ransomed ones of God
-  Be saved, to sin no more:
-  Be saved, to sin no more,
-  Be saved, to sin no more;
-Till all the ransomed ones of God,
-  Be saved to sin no more.
-
-E’er since by faith I saw the stream
-  Thy flowing wounds supply,
-Redeeming love has been my theme,
-  And shall be till I die:
-  And shall be till I die,
-  And shall be till I die;
-Redeeming love has been my theme,
-  And shall be till I die.
-
-When this poor lisping, stammering tongue
-  Lies silent in the grave,
-Then in a nobler, sweeter song,
-  I’ll sing Thy power to save:
-  I’ll sing Thy power to save,
-  I’ll sing Thy power to save;
-Then in a nobler, sweeter song,
-  I’ll sing Thy power to save.
+<br>  Drawn from Immanuel’s veins;
+<br>And sinners, plunged beneath that flood,
+<br>  Lose all their guilty stains:
+<br>  Lose all their guilty stains,
+<br>  Lose all their guilty stains;
+<br>And sinners, plunged beneath that flood,
+<br>  Lose all their guilty stains.
+<br>
+<br>The dying thief rejoiced to see
+<br>  That fountain in his day;
+<br>And there may I, though vile as he,
+<br>  Wash all my sins away:
+<br>  Wash all my sins away,
+<br>  Wash all my sins away;
+<br>And there may I, though vile as he,
+<br>  Wash all my sins away.
+<br>
+<br>Dear dying Lamb, Thy precious blood
+<br>  Shall never lose its power,
+<br>Till all the ransomed ones of God
+<br>  Be saved, to sin no more:
+<br>  Be saved, to sin no more,
+<br>  Be saved, to sin no more;
+<br>Till all the ransomed ones of God,
+<br>  Be saved to sin no more.
+<br>
+<br>E’er since by faith I saw the stream
+<br>  Thy flowing wounds supply,
+<br>Redeeming love has been my theme,
+<br>  And shall be till I die:
+<br>  And shall be till I die,
+<br>  And shall be till I die;
+<br>Redeeming love has been my theme,
+<br>  And shall be till I die.
+<br>
+<br>When this poor lisping, stammering tongue
+<br>  Lies silent in the grave,
+<br>Then in a nobler, sweeter song,
+<br>  I’ll sing Thy power to save:
+<br>  I’ll sing Thy power to save,
+<br>  I’ll sing Thy power to save;
+<br>Then in a nobler, sweeter song,
+<br>  I’ll sing Thy power to save.
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3675,44 +4302,44 @@ Then in a nobler, sweeter song,
   <tr>
     <td style = "border-style: none"><p>
 Far dearer than all that the world can impart
-Was the message that came to my heart.
-How that Jesus alone for my sin did atone,
-And Calvary covers it all.
-Calvary covers it all,
-My past with its sin and stain;
-My guilt and despair
-Jesus took on Him there,
-And Calvary covers it all.
-
-The stripes that He bore and the thorns that He wore
-Told His mercy and love ever more
-And my heart bowed in shame as I called on His name,
-And Calvary covers it all.
-Calvary covers it all,
-My past with its sin and stain;
-My guilt and despair
-Jesus took on Him there,
-And Calvary covers it all.
-
-How matchless the grace, when I looked in the face
-Of this Jesus, my crucified Lord;
-My redemption complete I then found at His feet,
-And Calvary covers it all.
-Calvary covers it all,
-My past with its sin and stain;
-My guilt and despair
-Jesus took on Him there,
-And Calvary covers it all.
-
-How blessed the thought, that my soul by Him bought,
-Shall be His in the glory on high;
-Where with gladness and song, I'll be one of the throng
-And Calvary covers it all.
-Calvary covers it all,
-My past with its sin and stain;
-My guilt and despair
-Jesus took on Him there,
-And Calvary covers it all.
+<br>Was the message that came to my heart.
+<br>How that Jesus alone for my sin did atone,
+<br>And Calvary covers it all.
+<br>Calvary covers it all,
+<br>My past with its sin and stain;
+<br>My guilt and despair
+<br>Jesus took on Him there,
+<br>And Calvary covers it all.
+<br>
+<br>The stripes that He bore and the thorns that He wore
+<br>Told His mercy and love ever more
+<br>And my heart bowed in shame as I called on His name,
+<br>And Calvary covers it all.
+<br>Calvary covers it all,
+<br>My past with its sin and stain;
+<br>My guilt and despair
+<br>Jesus took on Him there,
+<br>And Calvary covers it all.
+<br>
+<br>How matchless the grace, when I looked in the face
+<br>Of this Jesus, my crucified Lord;
+<br>My redemption complete I then found at His feet,
+<br>And Calvary covers it all.
+<br>Calvary covers it all,
+<br>My past with its sin and stain;
+<br>My guilt and despair
+<br>Jesus took on Him there,
+<br>And Calvary covers it all.
+<br>
+<br>How blessed the thought, that my soul by Him bought,
+<br>Shall be His in the glory on high;
+<br>Where with gladness and song, I'll be one of the throng
+<br>And Calvary covers it all.
+<br>Calvary covers it all,
+<br>My past with its sin and stain;
+<br>My guilt and despair
+<br>Jesus took on Him there,
+<br>And Calvary covers it all.
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3739,54 +4366,54 @@ And Calvary covers it all.
   <tr>
     <td style = "border-style: none"><p>
 Christ the true and better Adam
-Son of God and Son of man
-Who, when tempted in the garden
-Never yielded, never sinned
-He who makes the many righteous
-Brings us back to life again
-Dying, He reversed the curse
-Then rising, crushed the serpent’s head
-
-Verse 2: 
-Christ the true and better Isaac
-Humble son of sacrifice
-Who would climb the fearful mountain
-Therе to offer up his life
-Laid with faith upon the altar
-Fathеr's joy and only son
-There salvation was provided
-Oh what full and boundless love
-
-Amen, amen
-From beginning to end
-Christ the story, His the glory
-Alleluia, amen
-
-Verse 3: 
-Christ the true and better Moses
-Called to lead a people home
-Standing bold to earthly powers
-God's great glory to be known
-With his arms stretched wide to heaven
-See the waters part in two
-See the veil is torn forever
-Cleansed with blood we pass now through
-
-Chorus:
-Amen, amen
-From beginning to end
-Christ the story, His the glory
-Alleluia, amen
-
-Verse 4: 
-Christ the true and better David
-Lowly shepherd, mighty King
-He the champion in the battle
-Where, oh, death, is now thy sting?
-In our place He bled and conquered
-Crown Him Lord of majesty
-His shall be the throne forever
-We shall e’er His people be
+<br>Son of God and Son of man
+<br>Who, when tempted in the garden
+<br>Never yielded, never sinned
+<br>He who makes the many righteous
+<br>Brings us back to life again
+<br>Dying, He reversed the curse
+<br>Then rising, crushed the serpent’s head
+<br>
+<br>Verse 2: 
+<br>Christ the true and better Isaac
+<br>Humble son of sacrifice
+<br>Who would climb the fearful mountain
+<br>Therе to offer up his life
+<br>Laid with faith upon the altar
+<br>Fathеr's joy and only son
+<br>There salvation was provided
+<br>Oh what full and boundless love
+<br>
+<br>Amen, amen
+<br>From beginning to end
+<br>Christ the story, His the glory
+<br>Alleluia, amen
+<br>
+<br>Verse 3: 
+<br>Christ the true and better Moses
+<br>Called to lead a people home
+<br>Standing bold to earthly powers
+<br>God's great glory to be known
+<br>With his arms stretched wide to heaven
+<br>See the waters part in two
+<br>See the veil is torn forever
+<br>Cleansed with blood we pass now through
+<br>
+<br><i>Chorus:
+<br>Amen, amen
+<br>From beginning to end
+<br>Christ the story, His the glory
+<br>Alleluia, amen</i>
+<br>
+<br>Verse 4: 
+<br>Christ the true and better David
+<br>Lowly shepherd, mighty King
+<br>He the champion in the battle
+<br>Where, oh, death, is now thy sting?
+<br>In our place He bled and conquered
+<br>Crown Him Lord of majesty
+<br>His shall be the throne forever
+<br>We shall e’er His people be
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3813,38 +4440,38 @@ We shall e’er His people be
   <tr>
     <td style = "border-style: none"><p>
 In Christ alone will I glory
-Though I could pride myself in battles won
-For Ive been blessed beyond measure
-And by His strength alone Ill overcome
-Oh, I could stop and count successes like diamonds in my hands
-But those trophies could not equal to the grace by which I stand
-
-[chorus]
-In Christ alone
-I place my trust
-And find my glory in the power of the cross
-In every victory
-Let it be said of me
-My source of strength
-My source of hope
-Is Christ alone
-
-In Christ alone do I glory
-For only by His grace I am redeemed
-For only His tender mercy
-Could reach beyond my weakness to my need
-And now I seek no greater honor in just to know Him more
-And to count my gains but losses to the glory of my Lord
-
-[chorus]
-In Christ alone
-I place my trust
-And find my glory in the power of the cross
-In every victory
-Let it be said of me
-My source of strength
-My source of hope
-Is Christ alone
+<br>Though I could pride myself in battles won
+<br>For Ive been blessed beyond measure
+<br>And by His strength alone Ill overcome
+<br>Oh, I could stop and count successes like diamonds in my hands
+<br>But those trophies could not equal to the grace by which I stand
+<br>
+<br>[chorus]
+<br>In Christ alone
+<br>I place my trust
+<br>And find my glory in the power of the cross
+<br>In every victory
+<br>Let it be said of me
+<br>My source of strength
+<br>My source of hope
+<br>Is Christ alone
+<br>
+<br>In Christ alone do I glory
+<br>For only by His grace I am redeemed
+<br>For only His tender mercy
+<br>Could reach beyond my weakness to my need
+<br>And now I seek no greater honor in just to know Him more
+<br>And to count my gains but losses to the glory of my Lord
+<br>
+<br><i>[chorus]
+<br>In Christ alone
+<br>I place my trust
+<br>And find my glory in the power of the cross
+<br>In every victory
+<br>Let it be said of me
+<br>My source of strength
+<br>My source of hope
+<br>Is Christ alone</i>
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3871,35 +4498,35 @@ Is Christ alone
   <tr>
     <td style = "border-style: none"><p>
 King of my life, I crown Thee now,
-  Thine shall the glory be;
-Lest I forget Thy thorn-crowned brow,
-  Lead me to Calvary.
- 
-Chorus
-Lest I forget Gethsemane;
-Lest I forget Thine agony;
-Lest I forget Thy love for me,
-  Lead me to Calvary.
-
-Show me the tomb where Thou wast laid,
-  Tenderly mourned and wept;
-Angels in robes of light arrayed
-  Guarded Thee while Thou slept.
-
-Let me like Mary, through the gloom,
-  Come with a gift to Thee;
-Show to me now the empty tomb,
-  Lead me to Calvary.
-
-May I be willing, Lord, to bear
-  Daily my cross for Thee;
-Even Thy cup of grief to share,
-  Thou hast borne all for me.
-
-Fill me, O Lord, with Thy desire
-  For all that know not Thee;
-Then touch my lips with holy fire,
-  To speak of Calvary.
+<br>  Thine shall the glory be;
+<br>Lest I forget Thy thorn-crowned brow,
+<br>  Lead me to Calvary.
+<br> 
+<br><i>Chorus
+<br>Lest I forget Gethsemane;
+<br>Lest I forget Thine agony;
+<br>Lest I forget Thy love for me,
+<br>  Lead me to Calvary.</i>
+<br>
+<br>Show me the tomb where Thou wast laid,
+<br>  Tenderly mourned and wept;
+<br>Angels in robes of light arrayed
+<br>  Guarded Thee while Thou slept.
+<br>
+<br>Let me like Mary, through the gloom,
+<br>  Come with a gift to Thee;
+<br>Show to me now the empty tomb,
+<br>  Lead me to Calvary.
+<br>
+<br>May I be willing, Lord, to bear
+<br>  Daily my cross for Thee;
+<br>Even Thy cup of grief to share,
+<br>  Thou hast borne all for me.
+<br>
+<br>Fill me, O Lord, with Thy desire
+<br>  For all that know not Thee;
+<br>Then touch my lips with holy fire,
+<br>  To speak of Calvary.
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3926,31 +4553,31 @@ Then touch my lips with holy fire,
   <tr>
     <td style = "border-style: none"><p>
 Sweet hour of prayer! sweet hour of prayer!
-that calls me from a world of care,
-and bids me at my Father's throne
-make all my wants and wishes known.
-In seasons of distress and grief,
-my soul has often found relief,
-and oft escaped the tempter's snare
-by thy return, sweet hour of prayer!
-
-Sweet hour of prayer! sweet hour of prayer!
-the joys I feel, the bliss I share
-of those whose anxious spirits burn
-with strong desires for thy return!
-With such I hasten to the place
-where God my Savior shows his face,
-and gladly take my station there,
-and wait for thee, sweet hour of prayer!
-
-Sweet hour of prayer! sweet hour of prayer!
-thy wings shall my petition bear
-to him whose truth and faithfulness
-engage the waiting soul to bless.
-And since he bids me seek his face,
-believe his word, and trust his grace,
-I'll cast on him my every care,
-and wait for thee, sweet hour of prayer!
+<br>that calls me from a world of care,
+<br>and bids me at my Father's throne
+<br>make all my wants and wishes known.
+<br>In seasons of distress and grief,
+<br>my soul has often found relief,
+<br>and oft escaped the tempter's snare
+<br>by thy return, sweet hour of prayer!
+<br>
+<br>Sweet hour of prayer! sweet hour of prayer!
+<br>the joys I feel, the bliss I share
+<br>of those whose anxious spirits burn
+<br>with strong desires for thy return!
+<br>With such I hasten to the place
+<br>where God my Savior shows his face,
+<br>and gladly take my station there,
+<br>and wait for thee, sweet hour of prayer!
+<br>
+<br>Sweet hour of prayer! sweet hour of prayer!
+<br>thy wings shall my petition bear
+<br>to him whose truth and faithfulness
+<br>engage the waiting soul to bless.
+<br>And since he bids me seek his face,
+<br>believe his word, and trust his grace,
+<br>I'll cast on him my every care,
+<br>and wait for thee, sweet hour of prayer!
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -3977,37 +4604,37 @@ and wait for thee, sweet hour of prayer!
   <tr>
     <td style = "border-style: none"><p>
 1 I don't know about tomorrow,
-I just live from day to day.
-I don't borrow from its sunshine,
-For its skies may turn to gray.
-I don't worry o'er the future,
-For I know what Jesus said,
-And today I'll walk beside Him,
-For He knows what is ahead.
-
-Chorus
-Many things about tomorrow,
-I don't seem to understand;
-But I know who holds tomorrow,
-And I know who holds my hand.
-
-Every step is getting brighter,
-As the golden stairs I climb;
-Every burden's getting lighter;
-Every cloud is silver lined.
-There the sun is always shining,
-There no tear will dim the eye,
-At the ending of the rainbow,
-Where the mountains touch the sky. 
-
-I don't know about tomorrow,
-It may bring me poverty;
-But the one who feeds the sparrow,
-Is the one who stands by me.
-And the path that be my portion,
-May be through the flame or flood,
-But His presence goes before me,
-And I'm covered with His blood. 
+<br>I just live from day to day.
+<br>I don't borrow from its sunshine,
+<br>For its skies may turn to gray.
+<br>I don't worry o'er the future,
+<br>For I know what Jesus said,
+<br>And today I'll walk beside Him,
+<br>For He knows what is ahead.
+<br>
+<br><i>Chorus
+<br>Many things about tomorrow,
+<br>I don't seem to understand;
+<br>But I know who holds tomorrow,
+<br>And I know who holds my hand.</i>
+<br>
+<br>Every step is getting brighter,
+<br>As the golden stairs I climb;
+<br>Every burden's getting lighter;
+<br>Every cloud is silver lined.
+<br>There the sun is always shining,
+<br>There no tear will dim the eye,
+<br>At the ending of the rainbow,
+<br>Where the mountains touch the sky. 
+<br>
+<br>I don't know about tomorrow,
+<br>It may bring me poverty;
+<br>But the one who feeds the sparrow,
+<br>Is the one who stands by me.
+<br>And the path that be my portion,
+<br>May be through the flame or flood,
+<br>But His presence goes before me,
+<br>And I'm covered with His blood. 
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
@@ -4034,31 +4661,31 @@ And I'm covered with His blood.
   <tr>
     <td style = "border-style: none"><p>
 A wonderful Savior is Jesus my Lord,
-a wonderful Savior to me.
-He hideth my soul in the cleft of the rock,
-where rivers of pleasure I see.
-
-Chorus:
-He hideth my soul in the cleft of the rock
-that shadows a dry, thirsty land.
-He hideth my life in the depths of his love,
-and covers me there with his hand,
-and covers me there with his hand.
-
-A wonderful Savior is Jesus my Lord;
-he taketh my burden away.
-He holdeth me up, and I shall not be moved;
-he giveth me strength as my day. 
-
-With numberless blessings each moment he crowns,
-and filled with his fullness divine,
-I sing in my rapture,“Oh, glory to God
-for such a Redeemer as mine!” 
-
-When clothed in his brightness, transported I rise
-to meet him in clouds of the sky,
-his perfect salvation, his wonderful love,
-I’ll shout with the millions on high. [Refrain]
+<br>a wonderful Savior to me.
+<br>He hideth my soul in the cleft of the rock,
+<br>where rivers of pleasure I see.
+<br>
+<br><i>Chorus:
+<br>He hideth my soul in the cleft of the rock
+<br>that shadows a dry, thirsty land.
+<br>He hideth my life in the depths of his love,
+<br>and covers me there with his hand,
+<br>and covers me there with his hand.</i>
+<br>
+<br>A wonderful Savior is Jesus my Lord;
+<br>he taketh my burden away.
+<br>He holdeth me up, and I shall not be moved;
+<br>he giveth me strength as my day. 
+<br>
+<br>With numberless blessings each moment he crowns,
+<br>and filled with his fullness divine,
+<br>I sing in my rapture,“Oh, glory to God
+<br>for such a Redeemer as mine!” 
+<br>
+<br>When clothed in his brightness, transported I rise
+<br>to meet him in clouds of the sky,
+<br>his perfect salvation, his wonderful love,
+<br>I’ll shout with the millions on high. [Refrain]
     </p></td>
     <td style = "border-style: none"><p>
     </p></td>
