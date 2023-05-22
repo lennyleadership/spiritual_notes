@@ -18,7 +18,7 @@ toc: true
 
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks active" onclick="tablabel(event, 'note1')">讲道文字</button>
+  <button class="tablinks active" onclick="tablabel(event, 'note1')">讲道稿</button>
   <button class="tablinks" onclick="tablabel(event, 'note2')">分享</button>
   
 </div>
@@ -134,10 +134,12 @@ ok，谢谢。请我们打开出埃及记第二章，我们早晨要读十一节
 </div>
 
 
-<div id="note2" class="tabcontent" style="display:block">
+<div id="note2" class="tabcontent">
 <h1>序言</h1>
 
 <h1>主题</h1>
+
+<h1>结尾</h1>
 
 </div>
 
