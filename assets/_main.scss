@@ -728,7 +728,7 @@ u.red{
 
 
 
-/*below is tab css*/
+//below is tab css**********************************************************************************/
 
 /* Style the tab */
 .tab {
@@ -758,6 +758,8 @@ u.red{
 /* Create an active/current tablink class */
 .tab button.active {
   background-color: #ffe4ff;
+  color: #fff;
+  background-color: #2b8cc4;  
 }
 
 /* Style the tab content */
@@ -767,7 +769,7 @@ u.red{
   /*border: 1px solid #ccc;*/
   border-top: none;
 }
-/*end*/
+//end **********************************************************************************************/
 
 
 
@@ -775,7 +777,7 @@ u.red{
 
 
 
-/*below is the tufte style */
+//below is the tufte style *************************************************************************
 
 .sidenote,
 .marginnote {
@@ -860,8 +862,10 @@ label.margin-toggle:not(.sidenote-number) {
     }
  }
  
+//* end ********************************************************************************************
  
-/* scroll to top*/
+ 
+//* scroll to top **********************************************************************************/
 .scroll-container {
       position: absolute;
       top: 0;
@@ -884,6 +888,7 @@ label.margin-toggle:not(.sidenote-number) {
       cursor: pointer;
       font-size: 20px;
     }
+// end *********************************************************************************************
 
 
 // paragraph bulletin indent ***********************************************************************
@@ -925,6 +930,8 @@ ol {
   }
   
 //end **********************************************************************************************/
+
+
  
 // Extra space for big screens
 @media screen and (min-width: $container-max-width) {
