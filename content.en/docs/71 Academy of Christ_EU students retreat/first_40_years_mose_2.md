@@ -18,7 +18,7 @@ toc: true
 
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks active" onclick="tablabel(event, 'note1')">语音文字</button>
+  <button class="tablinks active" onclick="tablabel(event, 'note1')">讲道文字</button>
   <button class="tablinks" onclick="tablabel(event, 'note2')">分享</button>
   
 </div>
