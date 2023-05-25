@@ -541,7 +541,9 @@ body[dir="rtl"] .book-menu {
     }
   }
 
-/* image and text side-by-side */
+
+
+// side-by-side ////////////////////////////////////////////////////////////////////////////////////
 * {
   box-sizing: border-box;
 }
@@ -570,9 +572,10 @@ body[dir="rtl"] .book-menu {
   clear: both;
   display: table;
 }
-/* end of side-by-side*/
+/* the end *****************************************************************************************
 
 
+// figure decoration ///////////////////////////////////////////////////////////////////////////////
 figure {
   text-align: left;
   font-style: italic;
@@ -592,10 +595,10 @@ figcaption.bottom {
   display: table-caption;
   caption-side: bottom;
 }
+/* the end *****************************************************************************************
 
 
-
-/* section: Tooltip */
+/* Tooltip /////////////////////////////////////////////////////////////////////////////////////////
 .hovertip {
   position: relative;
   border-bottom: 1px dotted black;
@@ -646,20 +649,21 @@ figcaption.bottom {
   opacity: 1;
   visibility: visible;
 }
-/* Section end*/
+/* the end *****************************************************************************************
 
 
 
 
 
-/* set the figure caption with the same wide of figure*/
+/* set the figure caption with the same wide of figure /////////////////////////////////////////////
 .caption_display {
    display: inline-block;
 }
-/* the end */
+/* the end *****************************************************************************************
 
 
-/*color style of hyperlink*/
+
+/*color style of hyperlink /////////////////////////////////////////////////////////////////////////
 a:link {
   color: darkred;
   background-color: transparent;
@@ -680,10 +684,11 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
-/* the end*/
+/* the end *****************************************************************************************
 
 
-/* quoting with background */
+
+/* quoting with background /////////////////////////////////////////////////////////////////////////
 .quote {
   margin: 0;
   background: #eee;
@@ -694,7 +699,8 @@ a:active {
 .quote blockquote {
   margin: 1em;
 }
-/* the end */
+/* the end *****************************************************************************************
+
 
 
 .font_upper {
@@ -702,7 +708,7 @@ a:active {
   font-size: 1rem;
 }
 
-/* highlight options */
+/* highlight options ///////////////////////////////////////////////////////////////////////////////
 mark.black {
   background-color: black;
   color: white;
@@ -715,7 +721,7 @@ mark.grey {
 mark.lemon {
   background-color: #fffacd;
 }
-/* the end */
+/* the end *****************************************************************************************
 
 
 .aligncenter {
@@ -728,7 +734,7 @@ u.red{
 
 
 
-//below is tab css**********************************************************************************/
+//below is tab css /////////////////////////////////////////////////////////////////////////////////
 // a script for tables is also needed
 
 /* Style the tab */
@@ -770,15 +776,12 @@ u.red{
   /*border: 1px solid #ccc;*/
   border-top: none;
 }
-//end **********************************************************************************************/
+//end **********************************************************************************************
 
 
 
 
-
-
-
-//below is the tufte style *************************************************************************
+//below is the tufte style /////////////////////////////////////////////////////////////////////////
 
 .sidenote,
 .marginnote {
@@ -866,7 +869,9 @@ label.margin-toggle:not(.sidenote-number) {
 //* end ********************************************************************************************
  
  
-//* scroll to top **********************************************************************************/
+ 
+ 
+//* scroll to top //////////////////////////////////////////////////////////////////////////////////
 .scroll-container {
       position: absolute;
       top: 0;
@@ -892,7 +897,9 @@ label.margin-toggle:not(.sidenote-number) {
 // end *********************************************************************************************
 
 
-// paragraph bulletin indent ***********************************************************************
+
+
+// paragraph bulletin indent ///////////////////////////////////////////////////////////////////////
 
 ol,li {
     margin: 0;
@@ -933,8 +940,22 @@ ol {
 //end **********************************************************************************************/
 
 
+
+// spaced overline /////////////////////////////////////////////////////////////////////////////////
+.line {
+  padding-bottom: 15px;
+  border-bottom-style: solid;
+  border-bottom-width: 3.1px;
+  width: fit-content;
+  text-decoration: overline;
+  }
+
+/* the end *****************************************************************************************
+ 
+ 
  
 // Extra space for big screens
+
 @media screen and (min-width: $container-max-width) {
   .book-page,
   .book-menu .book-menu-content,
