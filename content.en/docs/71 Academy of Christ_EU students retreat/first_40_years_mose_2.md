@@ -3,7 +3,7 @@ weight: 2
 title: 摩西的首个四十年(下)
 authors:
 categories: null
-tags:
+tags: [如何读经, 摩西]
 description: 
 draft: false
 date: "2023-05-07"
