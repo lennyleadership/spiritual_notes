@@ -51,6 +51,11 @@ h6 {
     }
   }
 
+
+h1 {
+  line-height: 1.5em;
+}
+
 h2 {
   text-indent: 2%;
 }
@@ -974,12 +979,12 @@ ol {
   border-bottom-color: lightgrey;
   }
   
-h1:after
-{
-    content:' ';
-    display:block;
-    border:2px solid lightgrey;
+h1:after {
+  content:' ';
+  display:block;
+  border:2px solid lightgrey;
 }
+
 
 /* the end *****************************************************************************************
 
