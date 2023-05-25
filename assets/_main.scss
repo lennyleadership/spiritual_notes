@@ -873,6 +873,7 @@ label.margin-toggle:not(.sidenote-number) {
  
  
 //* scroll to top //////////////////////////////////////////////////////////////////////////////////
+//* this is the pure css solution, no javascript is involved
 .scroll-container {
       position: absolute;
       top: 0;
@@ -895,6 +896,10 @@ label.margin-toggle:not(.sidenote-number) {
       cursor: pointer;
       font-size: 20px;
     }
+
+html {
+  scroll-behavior: smooth;
+}
 // end *********************************************************************************************
 
 
