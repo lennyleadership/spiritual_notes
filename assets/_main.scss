@@ -52,10 +52,6 @@ h6 {
   }
 
 
-h1 {
-  line-height: 1.5em;
-}
-
 h2 {
   text-indent: 2%;
 }
@@ -83,8 +79,6 @@ h6 {
     font-size: 0.6em;
   }
   
-
-
 
 
 a {
@@ -974,9 +968,7 @@ ol {
   }
   
 .underline {
-  padding-bottom: 15px;
-  border-bottom-style: solid;
-  border-bottom-color: lightgrey;
+  line-height: 1.5em;
   }
 h1:after {
   content:' ';
