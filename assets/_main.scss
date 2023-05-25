@@ -966,7 +966,8 @@ h1:before {
   content:' ';
   display:block;
   padding-top: 15px;
-  border:solid lightgrey;
+  border-top-style: solid;
+  border-top-color: lightgrey;
 }
 
 
