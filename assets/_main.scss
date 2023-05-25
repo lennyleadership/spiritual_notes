@@ -963,9 +963,9 @@ ol {
   }
   
 .overline2 {
-  padding-bottom: 15px;
-  border-bottom-style: solid;
-  border-bottom-color: lightgrey;
+  padding-top: 15px;
+  border-top-style: solid;
+  border-top-color: lightgrey;
   }
   
 .underline {
@@ -973,6 +973,13 @@ ol {
   border-bottom-style: solid;
   border-bottom-color: lightgrey;
   }
+  
+h1:after
+{
+    content:' ';
+    display:block;
+    border:2px solid lightgrey;
+}
 
 /* the end *****************************************************************************************
 
