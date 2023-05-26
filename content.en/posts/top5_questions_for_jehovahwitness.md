@@ -13,69 +13,67 @@ weight: 1
 
 <iframe width="360" height="270" src="https://www.youtube.com/embed/bumdsrs9i20" title="TOP 5 Questions Jehovah&#39;s Witnesses CANNOT Answer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-99% of people in the modern western world are completely apathetic regarding Jehovah's Witnesses and their message. They just don't care. But if you have a question to them, it reveals that you do care. 
+99% of people in the modern western world are completely apathetic regarding Jehovah's Witnesses and their message. They just don't care. But if you have a question, to them it reveals that you do care. And therefore they generally love it when people ask them questions. They might not be so happy if you were to ask them one of these. 
 
-And therefore they generally love it when people ask them questions. They might not be so happy if you were to ask them one of these. Though Harrison COVID is no longer Jehovah's Witnesses, there exists a widespread perception that Jehovah's Witnesses have an answer for just about everything. 
+Though Harrison Cother is no longer Jehovah's Witnesses, there exists a widespread perception that Jehovah's Witnesses have an answer for just about everything. 
 
-But they don't. The two most important words when discussing this topic are mental programming. Jehovah's Witnesses are only conscious and capable of answering questions that fall within the regulated guidelines and confines of their mental programming. 
+But they don't. The two most important words when discussing this topic are <b>mental programming</b>. Jehovah's Witnesses are only conscious and capable of answering questions that fall within the regulated guidelines and confines of their mental programming. 
 
-While the organization tries to spin this narrative that every single individual who leaves the religion are proud, dishonest and sinful. The reality is that there are vast numbers droves of people that are leaving the religion because they've come to the realization that it is not the truth that it claims to be, that there are numerous serious, significant questions to which the answers destroy the organization's doctrine and practices. 
+While the organization tries to spin this narrative that every single individual who leaves the religion are proud, dishonest and sinful. The reality is that there are vast numbers droves of people that are leaving the religion because they've come to the realization that it is not the truth that it claims to be, that there are numerous, serious, significant questions to which the answers destroy the organization's doctrine and practices. 
 
-And so the fact that Jehovah's Witnesses desire you to ask them questions, and they in turn desire to share the truth with you, combined with the fact that there are these questions that go outside the confines of their mental programming, results in. 
-
-A potential gateway to send their minds into overdrive, to lead them to hopefully questioning their beliefs with intellectual honesty. That might sound like a fairy tale because if you've ever attempted to do that, you will understand just how difficult it is. 
-
-And so before we delve into these questions, I need to provide a few essential caveats: 
+And so the fact that Jehovah's Witnesses desire you to ask them questions, and they in turn desire to share the truth with you, combined with the fact that there are these questions that go outside the confines of their mental programming, results in a potential gateway to send their minds into overdrive, to lead them to hopefully questioning their beliefs with intellectual honesty. That might sound like a fairy tale because if you've ever attempted to do that, you will understand just how difficult it is. And so before we delve into these questions, I need to provide a few essential caveats: 
 
 <b>First</b>, don't expect to be a catalyst for change. These questions have the capacity to plant a seed of doubt in someone's mind. But there is no guarantee that they will be intellectually honest, that they will be unbiased and open minded and actually address and investigate the answers. I was in a year long email interchange with my dad in which I posed many of the questions from this list and they had zero impact. There is a saying you cannot reason someone out of something that they were not reasoned into. 
 
-<b>The second caveat</b> these questions are absolutely useless unless you have the right approach and demeanor. You may have heard the expression it's not what you said, it was how you said it. Now, if that is true with regards to talking with an everyday regular never been an occult person, then when talking to a Jehovah's Witness, times that by 10,000. Because if you're asking one of these questions, it reveals to them that you know something. You know something about their organization's, history, practices and doctrine. Why are you asking that question? Do you really want to know the truth? Or are you just a proud, mentally diseased, fire breathing apostate? 
+<b>The second caveat</b>, these questions are absolutely useless unless you have the right approach and demeanor. You may have heard the expression it's not what you said, it was how you said it. Now, if that is true with regards to talking with an everyday-regular-never-been-an-cult person, then when talking to a Jehovah's Witness, times that by 10,000. Because if you're asking one of these questions, it reveals to them that you know something. You know something about their organization's history, practices and doctrine. Why are you asking that question? Do you really want to know the truth? Or are you just a proud, mentally diseased, fire breathing apostate? 
 
 <b>Caveat number three</b>. there is nothing wrong with saying I don't know. Some of the world's greatest minds have to acknowledge and hold their hands up and say, we don't know, in response to certain questions. But human ignorance is different from willful ignorance and the denial of evidence and rational thinking. The answers to these questions are not obscure and unknowable. They are clear and obvious. 
 
 And <b>the fourth and final caveat</b> is that while the title is Five Questions Jehovah's Witnesses Cannot Answer, they will most likely offer an answer, but it will not be sufficient or satisfying. It will be one of their generic conversation stoppers, such as anything is possible with Jehovah. Jehovah must have had a reason. Look, we're going to have to leave this in Jehovah's hands. These self soothing and cathartic oneliners are extremely beneficial to Jehovah's Witnesses. 
 
-Not only do they end the conversation, but it keeps their cherished, beloved faith and belief system intact. The reason I say it's not sufficient or satisfying as an answer and why I'm not technically classing a response such as that as an actual answer is because it's like asking a toddler how to spell Encyclopedia, Britannica or what pie is to nine decimal places. 
-
-Sure, they may try their best, or they might just scream in your face off. Either way, that answer is derived from an inability to offer a sufficient and satisfying answer. 
+Not only do they end the conversation, but it keeps their cherished, beloved faith and belief system intact. The reason I say it's not sufficient or satisfying as an answer and why I'm not technically classing a response such as that as an actual answer is because it's like asking a toddler how to spell Encyclopedia, Britannica or what pie is to nine decimal places. Sure, they may try their best, or they might just scream in your face and run off. Either way, that answer is derived from an inability to offer a sufficient and satisfying answer. 
 
 <h1>Question #5: Is there sufficient reason to believe that current Jehovah's Witness doctrine is true and will not be disposed of?</h1> 
 
 Yes. Okay. Over the years there have been minor changes and adjustments in certain understandings, but that is to be expected. Jehovah said that the path of the righteous would get brighter and brighter. 
 
-In fact, we look forward to Jehovah revealing new light in due time. Very recently, in fact, Sam Heard, Governing Body member discussed at the 2021 annual meeting new Light. With regards to an adjustment in our understanding regarding the anointed, the specifics of that doctrinal change are completely irrelevant. 
+In fact, we look forward to Jehovah revealing new light in due time. Very recently, in fact, Sam Heard, Governing Body member discussed at the 2021 annual meeting new light with regards to an adjustment in our understanding regarding the anointed, the specifics of that doctrinal change are completely irrelevant. What is vital, however, is who is credited with providing that doctrinal change? Who is the source of this new light? 
 
-What is vital, however, is who is credited with providing that doctrinal change? Who is the source of this new light? And what I'm about to reveal to you today, jehovah is behind it. Not the governing body, not any human here on the earth, but Jehovah God. 
+<quote>
+And what I'm about to reveal to you today, jehovah is behind it, not the governing body, not any human here on the earth, but Jehovah God.
+</quote>
 
-Malachi three, verse six informs us that God does not change. Titus one, verse two says that God cannot lie in theory. Therefore, we should be able to take any organizational teaching or understanding in the religion's history and ask the question: is it possible for a God who does not change and cannot lie to really be behind it? 
+Malachi 3:6 informs us that God does not change. Titus 1:2 says that God cannot lie. In theory, therefore, we should be able to take any organizational teaching or understanding in the religion's history and ask the question: is it possible for a God who does not change and cannot lie to really be behind it? 
 
 For example, if you were to go on JW Facts under the heading Changes to the Generation Teaching, you will see that there have been six different contradictory understandings of the term generation as allegedly used by Jesus in Matthew 24. 
 
-This table shows that over the years the start date has changed, changed 180. And 180 again. The potential end date has changed, changed, and changed. The length has changed approximately five times, and who the term applies to has changed 180 and 180 again. 
+This table shows that over the years the start date has changed, changed 1 AD, and 1 AD again. The potential end date has changed, changed, and changed. The length has changed approximately five times, and who the term applies to has changed 1 AD and 1 AD again. 
 
-I'm only going to say this once. Charles Tayes Russell, the religion's credited founder, had it right all along when he said a new view of truth never can contradict a former truth. New light never extinguishes older light but adds to it. 
+I'm only going to say this once. Charles Tayes Russell, the religion's credited founder, had it right all along when he said:
 
-Pyramidology extinguished. Armageddon arriving in 1914 1518 extinguished. Beth surim extinguished. Don't have kids because it's 1938 and Armageddon is imminent extinguished. Millions now living will never die extinguished. 
+<quote>
+A new view of truth never can contradict a former truth. "New light" never extinguishes older "light," but adds to it. 
+</quote>
 
-The worship of Jesus extinguished. We could go on and on and on. The truth is that this policy, this teaching of new light coming from Jehovah, was disproved and destroyed before any Jehovah's Witness alive today was born. 
+Pyramidology, extinguished. Armageddon arriving in 1914, 15, 18, extinguished. Beth sarim, extinguished. Don't have kids because it's 1938 and Armageddon is imminent, extinguished. Millions now living will never die, extinguished. The worship of Jesus, extinguished. We could go on and on and on. The truth is that this policy, this teaching of new light coming from Jehovah, was disproved and destroyed before any Jehovah's Witness alive today was born. 
 
 A conversation on this topic could follow a very simple format. You could ask a Jehovah's Witness. Can Jehovah lie? No. Even just for a short time before he provides truth? No. So is it possible that Jehovah was really behind past truth? 
 
-These past teachings which have now been disposed of? No. So then why should we trust any of the current teachings or doctrine? Because Jw.org. Is now available in over 1000 languages. So God speaking of people being deceived and misled brings us nicely to question number four. 
+These past teachings which have now been disposed of? No. So then why should we trust any of the current teachings or doctrine? Because JW.org is now available in over 1000 languages. So God you know. 
+
+Speaking of people being deceived and misled brings us nicely to question number four. 
 
 <h1>Question #4: Is it true that Jehovah's Witnesses predicted that Armageddon would arrive in 1975?</h1>
 
-In the Genesis creation account there are seven days. 6000 years of human history will be ending in 1975. The Bible speaks about Jesus having a thousand year reign. 
-
-And remember the verse a day to Jehovah is as a thousand years and a thousand years is as a day. You throw all of those ingredients into the mixing bowl of a boardroom in America of severely deluded elderly men and what do you get? 
-
-Millions of people misled but substantial organizational growth. How appropriate it would be for Jehovah God to make of this coming 7th period of a thousand years a Sabbath period of rest and release. 
+In the Genesis creation account there are seven days. 6000 years of human history will be ending in 1975. The Bible speaks about Jesus having a thousand year reign. And remember the verse, a day to Jehovah is as a thousand years and a thousand years is as a day. You throw all of those ingredients into the mixing bowl of a boardroom in America of severely deluded elderly men and what do you get? Millions of people misled but substantial organizational growth. How appropriate it would be for Jehovah God to make of this coming 7th period of a thousand years a Sabbath period of rest and release. 
 
 It would not be by mere chance or accident but would be according to the loving purpose of Jehovah God for the reign of Jesus Christ, the Lord of the Sabbath to run parallel with the 7th millennium of man's existence. 
 
-Well, now, as Jehovah's Witnesses, as runners even though some of us have become a little weary it almost seems as though Jehovah has provided meat and due season because he's held up before all of us a new goal, a new year. 
+<quote>
+Well, now, as Jehovah's Witnesses, as runners. even though some of us have become a little weary. It almost seems as though Jehovah has provided meat and due season because he's held up before all of us a new goal, a new year. 
 
-Something to reach out for. And it just seems it's given all of us so much more energy and power in this final burst of speed for the finish line. And that's the year 1975, as One brother put it, stay alive to 75. 
+Something to reach out for. And it just seems it's given all of us so much more energy and power in this final burst of speed for the finish line. And that's the year 1975, as one brother put it, stay alive to 75. 
+</quote>
 
 That is only the tip of the iceberg with regards to the level of emphasis that this organization put on the 1970s as a decade of global change, the decade in which this wicked world would meet its end. 
 
@@ -129,7 +127,7 @@ Question number two is based on the life experience of a good friend of mine, La
 
 When I first encountered Lacey's story, I was shocked at so many different parts of it. But perhaps the most pertinent part with regards to my own viewpoints and spiritual skepticism, was the fact that between the abuse happening by an elder and it coming to light, there was a ten year gap. 
 
-A ten year gap wherein this alder was doing home in a way public talks, saying prayers in behalf of small groups of brothers and sisters and also the congregation. He did shepherding visits on families with small children, and perhaps worst of all, he was a part of judicial committees which would judge sinners and potentially exclude them from the congregation for their atrocities, when in reality, he was guilty. 
+A ten year gap wherein this elder was doing home in a way public talks, saying prayers in behalf of small groups of brothers and sisters and also the congregation. He did shepherding visits on families with small children, and perhaps worst of all, he was a part of judicial committees which would judge sinners and potentially exclude them from the congregation for their atrocities, when in reality, he was guilty. 
 
 Of what many people would consider to be the worst crime against humanity possible. Now, why does this example have the capacity, the potential, to be so devastating to a Jehovah's Witness? They believe that it is Jehovah who is responsible, ultimately, for appointing brothers and for removing them. 
 
