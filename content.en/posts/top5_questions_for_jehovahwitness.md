@@ -33,13 +33,13 @@ And so before we delve into these questions, I need to provide a few essential c
 
 <b>Caveat number three</b>. there is nothing wrong with saying I don't know. Some of the world's greatest minds have to acknowledge and hold their hands up and say, we don't know, in response to certain questions. But human ignorance is different from willful ignorance and the denial of evidence and rational thinking. The answers to these questions are not obscure and unknowable. They are clear and obvious. 
 
-And <b>the fourth and final caveat</b> is that while the title is Five Questions Jehovah's Witnesses Cannot Answer, they will most likely offer an answer, but it will not be sufficient or satisfying. 
+And <b>the fourth and final caveat</b> is that while the title is Five Questions Jehovah's Witnesses Cannot Answer, they will most likely offer an answer, but it will not be sufficient or satisfying. It will be one of their generic conversation stoppers, such as anything is possible with Jehovah. Jehovah must have had a reason. Look, we're going to have to leave this in Jehovah's hands. These self soothing and cathartic oneliners are extremely beneficial to Jehovah's Witnesses. 
 
-It will be one of their generic conversation stoppers, such as anything is possible with Jehovah. Jehovah must have had a reason. Look, we're going to have to leave this in Jehovah's hands. These self soothing and cathartic oneliners are extremely beneficial to Jehovah's Witnesses. 
+Not only do they end the conversation, but it keeps their cherished, beloved faith and belief system intact. The reason I say it's not sufficient or satisfying as an answer and why I'm not technically classing a response such as that as an actual answer is because it's like asking a toddler how to spell Encyclopedia, Britannica or what pie is to nine decimal places. 
 
-Not only do they end the conversation, but it keeps their cherished, beloved faith and belief system intact. The reason I say it's not sufficient or satisfying as an answer and why I'm not technically classing a response such as that as an actual answer is because it's like asking a toddler how to spell Encyclopedia Britannica or what pie is to nine decimal places. 
+Sure, they may try their best, or they might just scream in your face off. Either way, that answer is derived from an inability to offer a sufficient and satisfying answer. 
 
-Sure, they may try their best, or they might just scream in your face off. Either way, that answer is derived from an inability to offer a sufficient and satisfying answer. Is there sufficient reason to believe that current Jehovah's Witness doctrine is true and will not be? 
+<h1><span class = "overline">Question #5: Is there sufficient reason to believe that current Jehovah's Witness doctrine is true and will not be disposed of?</span></h1> 
 
 Yes. Okay. Over the years there have been minor changes and adjustments in certain understandings, but that is to be expected. Jehovah said that the path of the righteous would get brighter and brighter. 
 
@@ -47,7 +47,7 @@ In fact, we look forward to Jehovah revealing new light in due time. Very recent
 
 What is vital, however, is who is credited with providing that doctrinal change? Who is the source of this new light? And what I'm about to reveal to you today, jehovah is behind it. Not the governing body, not any human here on the earth, but Jehovah God. 
 
-Malachi three, verse six informs us that God does not change. Titus one, verse two says that God cannot lie in theory. Therefore, we should be able to take any organizational teaching or understanding in the religion's history and ask the question is it possible for a God who does not change and cannot lie to really be behind it? 
+Malachi three, verse six informs us that God does not change. Titus one, verse two says that God cannot lie in theory. Therefore, we should be able to take any organizational teaching or understanding in the religion's history and ask the question: is it possible for a God who does not change and cannot lie to really be behind it? 
 
 For example, if you were to go on JW Facts under the heading Changes to the Generation Teaching, you will see that there have been six different contradictory understandings of the term generation as allegedly used by Jesus in Matthew 24. 
 
@@ -63,7 +63,9 @@ A conversation on this topic could follow a very simple format. You could ask a 
 
 These past teachings which have now been disposed of? No. So then why should we trust any of the current teachings or doctrine? Because Jw.org. Is now available in over 1000 languages. So God speaking of people being deceived and misled brings us nicely to question number four. 
 
-Is it true that Jehovah's Witnesses predicted that Armageddon would arrive in 1975? In the Genesis creation account there are seven days. 6000 years of human history will be ending in 1975. The Bible speaks about Jesus having a thousand year reign. 
+<h1><span class = "overline">Question #4: Is it true that Jehovah's Witnesses predicted that Armageddon would arrive in 1975?</span></h1>
+
+In the Genesis creation account there are seven days. 6000 years of human history will be ending in 1975. The Bible speaks about Jesus having a thousand year reign. 
 
 And remember the verse a day to Jehovah is as a thousand years and a thousand years is as a day. You throw all of those ingredients into the mixing bowl of a boardroom in America of severely deluded elderly men and what do you get? 
 
@@ -89,7 +91,9 @@ Certainly this is a fine way to spend the short time remaining before the wicked
 
 When you look at the organization's growth during the late sixty s and early seventy s, the cynic among you will likely say this was a crafty underhanded tactic to gain more members. Now, while I'm not saying that I adopt that view, I certainly think it's a question that can be asked once the witness is fully aware of the scale of the undue and erroneous emphasis that was placed on the 70s, in particular in 1975, you could ask them a question such as, do you think the leaders of your organization were honestly mistaken? 
 
-Or do you think this was a dishonest ploy to gain more followers? If true Christians should avoid all pagan practices, why do Jehovah's Witnesses adopt practices such as excommunication, shunning and wedding rings? 
+Or do you think this was a dishonest ploy to gain more followers? 
+
+<h1><span class = "overline">Question #3: If true Christians should avoid all pagan practices, why do Jehovah's Witnesses adopt practices such as excommunication, shunning and wedding rings?</span></h1> 
 
 Do origins really matter? Yes. To illustrate, suppose you saw a piece of candy lying in the gutter. Would you pick up that candy and eat it? Of course not. That candy is unclean. Like that candy holidays may seem sweet, but they have been picked up from unclean places. 
 
@@ -119,9 +123,9 @@ Although I think this article is. Perfect. You couldn't have wished for a better
 
 As the saying goes, you can lead a horse to water, but you can't make them drink. Or what I dubbed the Jehovah's Witness version, you can lead a Jehovah's Witness to water, but you can't make them think. 
 
-Question number two is based on the life experience of a good friend of mine, Lacey Jones, who recorded her story on the Lloyd Evans Channel just over a year ago under the title My Alders Delayed a Police Investigation. 
+Question number two is based on the life experience of a good friend of mine, Lacey Jones, who recorded her story on the Lloyd Evans Channel just over a year ago under the title My Elders Delayed a Police Investigation. The question is, 
 
-The question is, if Jehovah is behind the organization, why doesn't he remove appointed men who have sexually abused children? Why does he keep some of them in their positions for years, even decades, after the abuse occurs? 
+<h1><span class = "overline">Question #2: if Jehovah is behind the organization, why doesn't he remove appointed men who have sexually abused children? Why does he keep some of them in their positions for years, even decades, after the abuse occurs?</span></h1> 
 
 When I first encountered Lacey's story, I was shocked at so many different parts of it. But perhaps the most pertinent part with regards to my own viewpoints and spiritual skepticism, was the fact that between the abuse happening by an elder and it coming to light, there was a ten year gap. 
 
@@ -141,7 +145,9 @@ But on the other side of the coin, this is a topic which has, as I said, the pot
 
 They came to the conclusion that it was impossible that Jehovah was behind the organization. But I want to escalate this one step further because it's one thing to say that Jehovah isn't behind this specific organization but it's another thing to say that Jehovah this God that I've believed in my entire life doesn't exist whatsoever. 
 
-Why did Jehovah create a global ecosystem of fear, pain and death? Excuse me? He didn't. That question is derived from an ignorance of what the Bible really teaches. You see, in Genesis, God created a paradise, a unified utopia for which man, along with animal, would dwell in peace and security. 
+<h1><span class = "overline">Question #1: Why did Jehovah create a global ecosystem of fear, pain and death?</span></h1>
+
+Excuse me? He didn't. That question is derived from an ignorance of what the Bible really teaches. You see, in Genesis, God created a paradise, a unified utopia for which man, along with animal, would dwell in peace and security. 
 
 But we know what happened next. Satan's, rebellion, original sin. And as one John 519 says although we originate with God the whole world is lying in the power of the wicked one. In scripture, Jehovah has promised that once again in future the earth will be restored to its paradise like conditions and animals will be reverted to their original behavior and temperament. 
 
