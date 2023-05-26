@@ -109,33 +109,33 @@ See here: https://www.jw.org/en/library/magazines/w20150415/disfellowshipping-a-
 
 You know what? Maybe my dad has a point. Maybe I am speaking out of ignorance. Maybe I've just looked at an Apostate website and forward it to him without realizing that I was spreading misinformation and half truths. 
 
-Maybe the Catholic Church's use of excommunication was and is completely different to the loving disfellowshipping used by Jehovah's organization. So let's have a look at what Wikipedia says about Catholic excommunication. 
+Maybe the Catholic Church's use of Excommunication was and is completely different to the loving disfellowshipping used by Jehovah's organization. So let's have a look at what Wikipedia says about Catholic Excommunication. See if it's similar to Jehovah's Witnesses Disfellowshipping and shunning. 
 
-See if it's similar to Jehovah's Witnesses. Disfellowshipping and shunning. The Catholic Church claims that the penalty of excommunication is biblical tick that it can affect only those who by baptism have been admitted to that society tick that those under excommunication were to be shunned tick that they are to be considered as an exile from Catholic society and as nonexistent. 
+<div class = "quote">
+The Catholic Church claims that the penalty of Excommunication is biblical, tick.  
+that it can affect only those who by baptism have been admitted to that society, tick.  
+that those under excommunication were to be shunned, tick.  
+that they are to be considered as an exile from Catholic society and as non-existent, tick. 
+and it is intended to invite the person to change behavior or attitude, repent and return to full communion, tick. 
+<div>
 
-Tick. And it is intended to invite the person to change behavior or attitude, repent and return to full communion. It that is five out of five that the Catholic Church and Jehovah's Witnesses have in common regarding their usage of excommunication and shunning as tools of discipline and apparently love to get someone to return to the Church. 
+That is five out of five that the Catholic Church and Jehovah's Witnesses have in common regarding their usage of excommunication and shunning as tools of discipline and apparently love to get someone to return to the Church. 
 
-Although I think this article is. Perfect. You couldn't have wished for a better article to help wake a Jehovah's Witness up from their indoctrination. The interchange with my dad just goes to show that even if you, as a beloved family member, have the best will and intentions in the world, you cannot get them to think. 
+Although I think this article is, Perfect. You couldn't have wished for a better article to help wake a Jehovah's Witness up from their indoctrination. The interchange with my dad just goes to show that even if you, as a beloved family member, have the best will and intentions in the world, you cannot get them to think. As the saying goes, you can lead a horse to water, but you can't make them drink. Or what I dubbed the Jehovah's Witness version, you can lead a Jehovah's Witness to water, but you can't make them think. 
 
-As the saying goes, you can lead a horse to water, but you can't make them drink. Or what I dubbed the Jehovah's Witness version, you can lead a Jehovah's Witness to water, but you can't make them think. 
-
-Question number two is based on the life experience of a good friend of mine, Lacey Jones, who recorded her story on the Lloyd Evans Channel just over a year ago under the title My Elders Delayed a Police Investigation. The question is, 
+Question number two is based on the life experience of a good friend of mine, Lacey Jones, who recorded her story on the Lloyd Evans Channel just over a year ago under the title "My Elders Delayed a Police Investigation!" The question is, 
 
 <h1>Question #2: if Jehovah is behind the organization, why doesn't he remove appointed men who have sexually abused children? Why does he keep some of them in their positions for years, even decades, after the abuse occurs?</h1> 
 
 When I first encountered Lacey's story, I was shocked at so many different parts of it. But perhaps the most pertinent part with regards to my own viewpoints and spiritual skepticism, was the fact that between the abuse happening by an elder and it coming to light, there was a ten year gap. 
 
-A ten year gap wherein this elder was doing home in a way public talks, saying prayers in behalf of small groups of brothers and sisters and also the congregation. He did shepherding visits on families with small children, and perhaps worst of all, he was a part of judicial committees which would judge sinners and potentially exclude them from the congregation for their atrocities, when in reality, he was guilty. 
+A ten year gap wherein this elder was doing home in a way public talks, saying prayers in behalf of small groups of brothers and sisters and also the congregation. He did shepherding visits on families with small children, and perhaps worst of all, he was a part of judicial committees which would judge sinners and potentially exclude them from the congregation for their atrocities, when in reality, he was guilty of what many people would consider to be the worst crime against humanity possible. Now, why does this example have the capacity, the potential, to be so devastating to a Jehovah's Witness? 
 
-Of what many people would consider to be the worst crime against humanity possible. Now, why does this example have the capacity, the potential, to be so devastating to a Jehovah's Witness? They believe that it is Jehovah who is responsible, ultimately, for appointing brothers and for removing them. 
+They believe that it is Jehovah who is responsible, ultimately, for appointing brothers and for removing them. And yet, when you look at an example such as this, jehovah is nowhere to be seen. Not only did he not prevent the abuse from taking place in the first place, but he did not immediately remove this brother from his position and from the organization entirely. 
 
-And yet, when you look at an example such as this, jehovah is nowhere to be seen. Not only did he not prevent the abuse from taking place in the first place, but he did not immediately remove this brother from his position and from the organization entirely. 
+For ten years, he just sat back and did nothing. As this brother paraded about with this elevated sense of self importance, thinking that he's gotten away with murder, it was Lacey who took action, not Jehovah. She took the matter to the Elders and to the police, because Jehovah was never going to. The unfortunate reality that abuse survivors who leave the religion have to deal with unbelievably is that quite often their stories are dismissed, not taken seriously, or just ignored by those on the inside. 
 
-For ten years, he just sat back and did nothing. As this brother paraded about with this elevated sense of self importance, thinking that he's gotten away with murder, it was Lacey who took action, not Jehovah. 
-
-She took the matter to the Elvis and to the police, because Jehovah was never going to. The unfortunate reality that abuse survivors who leave the religion have to deal with unbelievably is that quite often their stories are dismissed, not taken seriously, or just ignored by those on the inside. 
-
-If you mention this to a believer, they might just pretend that the issue doesn't exist and stick their head in the sand. They have once again been trained and brainwashed to believe that any news outlet or media source that isn't Jw.org and his beloved organization is potentially contaminated by the devil and spreading misinformation and lies about his chosen people. 
+If you mention this to a believer, they might just pretend that the issue doesn't exist and stick their head in the sand. They have once again been trained and brainwashed to believe that any news outlet or media source that isn't JW.org and his beloved organization is potentially contaminated by the devil and spreading misinformation and lies about his chosen people. 
 
 But on the other side of the coin, this is a topic which has, as I said, the potential to change lives and wake people up. It was through sharing this story and asking this question with a Jehovah's Witness that I used to know that the individual eventually woke up and faded from the religion. 
 
@@ -143,42 +143,39 @@ They came to the conclusion that it was impossible that Jehovah was behind the o
 
 <h1>Question #1: Why did Jehovah create a global ecosystem of fear, pain and death?</h1>
 
-Excuse me? He didn't. That question is derived from an ignorance of what the Bible really teaches. You see, in Genesis, God created a paradise, a unified utopia for which man, along with animal, would dwell in peace and security. 
+<div class = "quote">
+Excuse me? He didn't. That question is derived from an ignorance of what the Bible really teaches. You see, in Genesis, God created a paradise, a unified utopia for which man, along with animal, would dwell in peace and security. But we know what happened next. Satan's, rebellion, original sin. And as 1 John 5:19 says "although we originate with God, the whole world is lying in the power of the wicked one."   
+In scripture, Jehovah has promised that once again in future the earth will be restored to its paradise like conditions and animals will be reverted to their original behavior and temperament. 
+</div>
 
-But we know what happened next. Satan's, rebellion, original sin. And as one John 519 says although we originate with God the whole world is lying in the power of the wicked one. In scripture, Jehovah has promised that once again in future the earth will be restored to its paradise like conditions and animals will be reverted to their original behavior and temperament. 
+The last 6000 years of history fall well within the confines of Jehovah's Witness mental programming. That is a classic example of the sort of programmed response you will receive when you ask this question. 
 
-The last 6000 years of history fall well within the confines of Jehovah's Witness mental programming. That is a classic example of the sort of pro gram response you will receive when you ask this question. 
+But the doubt that I had since being a child was before 6000 years ago. When we look back in time, we find thousands of fossils of species belonging to various genuses and families where if these animals were designed, they were exquisitely designed to be ruthless killing machines. 
 
-But the doubt that I had since being a child was before 6000 years ago. When we look back in time, we find. Thousands of fossils of species belonging to various genuses and families where if these animals were designed, they were exquisitely designed to be ruthless killing machines. 
+Over the years, when I'd raised this question to my dad, to other elders and even to various circuit overseers I would always receive the same responses.
 
-Over the years, when I'd raised this question to my dad, to other elders and even to various circuit overseers I would always receive the same responses well, we don't know because the Bible is silent on the topic. 
+<div class = "quote">
+well, we don't know because the Bible is silent on the topic. However, we do know Jehovah and we know that he only acts out of love. Look, scientists are often wrong. Only recently, some scientists came out and said that they think the t-rex was actually a scavenger. So all those scenes that you see in Jurassic Park could be absolute nonsense. 
+</div>
 
-However, we do know Jehovah and we know that he only acts out of love. Look, scientists are often wrong. Only recently, some scientists came out and said that they think the trex was actually a scavenger. 
+For a long time, those answers had to suffice. But there was a limit to my cognitive dissonance. Eventually, I did online research. I went to museums and I found numerous examples of animals engaging in carnivorous and predatory behavior prior to 4000 BC. No longer would the words "we don't know" be sufficient. I now knew the truth. What if a Jehovah's Witness was to say 
 
-So all those scenes that you see in Jurassic Park could be absolute nonsense. For a long time, those answers had to suffice. But there was a limit to my cognitive dissonance. Eventually, I did online research. 
+<div class = "quote">
+okay, congratulations. You found fossils, but so what? I mean, why does this topic bother you so much? 
+</div>
 
-I went to museums and I found numerous examples of animals engaging in carnivorous and predatory behavior prior to 4000 BC. No longer would the words we don't know be sufficient. I now knew the truth. 
+From a young age, I would watch Nature Documentaries with my dad. And whenever a crocodile or a lion or a cheeter took down an antelope or a gazelle, my dad would always say, poor thing, Satan's system. And that was the explanation. These animals weren't created to be like this. Don't be so silly. It is Satan's wicked influence on this planet. And I knew that Jehovah just couldn't wait to bring about paradise and to reverse the atrocities as I perceived them that I was watching on TV.
 
-What if a Jehovah's Witness was to say okay, congratulations. You found fossils, but so what? I mean, why does this topic bother you so much? From a young age, I would watch nature documentaries with my dad. 
+As I grew up, I got a mobile phone and as you do, you scroll the internet, you watch various videos. And I came across horrific scenes in the natural world of animals such as Gazals being disemboweled and eaten whilst they're alive and they're crying out in pain. And scenes like that scarred my mind and hurt my heart to a great extent. I still can vividly and graphically remember them. 
 
-And whenever a crocodile or a lion or a cheetah took down an antelope or a gazelle my dad would always say, Poor thing, satan's system. And that was the explanation. These animals weren't created to be like this. 
+And so all the time while I was watching those scenes, I would think to myself well, yeah, imagine how Jehovah feels. We were made in his image. He is the loving, caring, merciful, just empathetic God. His heart must be torn too when he sees things like this. But if that evidence is true of fossilized carnivorous behavior before 6000 years ago Satan can no longer be the scapegoat. The buck has to stop with Jehovah. It was Jehovah who for millions upon millions of years created this global ecosystem, this coliseum in space upon which fear, pain, bloodshed and barbaric brutality prevailed. 
 
-Don't be so silly. It is Satan's wicked influence on this planet. And I knew that Jehovah just couldn't wait to bring about paradise and to reverse the atrocities as I perceived them that I was watching on TV as I grew up. 
+And there's no getting around that. When you have this evidence, you are left in a true dichotomy. The evidence is either wrong and Jehovah is right or Jehovah is wrong, and the evidence is right. Although the Elders repeatedly tried to get me to drop this doubt, I came to realize that having doubts was not just a good thing, it was a great thing. 
 
-I got a mobile phone and as you do, you scroll the internet, you watch various videos. And I came across horrific scenes in the natural world of animals such as Gazals being disemboweled and eaten whilst they're alive and they're crying out in pain. 
-
-And scenes like that scarred my mind and hurt my heart to a great extent. I still can vividly and graphically remember them. And so all the time while I was watching those scenes, I would think to myself well, yeah, imagine how Jehovah feels. 
-
-We were made in his image. He is the loving, caring, merciful, just empathetic God. His heart must be torn too when he sees things like this. But if that evidence is true of fossilized carnivorous behavior before 6000 years ago Satan can no longer be the scapegoat. 
-
-The buck has to stop with Jehovah. It was Jehovah who for millions upon millions of years created this global ecosystem, this coliseum in space upon which fear, pain, bloodshed and barbaric brutality prevailed. 
-
-And there's no getting around that. When you have this evidence, you are left in a true dichotomy. The evidence is either wrong and Jehovah is right or Jehovah is wrong. And the evidence is right. Although the Elders repeatedly tried to get me to drop this doubt, I came to realize that having doubts was not just a good thing, it was a great thing. 
-
-Doubts are our mind's way of letting us know that something isn't right. There is a problem. And thank goodness, from a young age, I had this doubt because eventually, that's what's urged me to look into other things and to eventually leave the organization. 
+Doubts are our mind's way of letting us know that something isn't right. There is a problem. And thank goodness, from a young age, I had this doubt because eventually, that's what spurred me to look into other things and to eventually leave the organization. 
 
 So those are my top five questions, which Jehovah's Witnesses cannot answer. If you're a former Jehovah's Witness, I know what you're thinking. Where was Noah's ark? What about the fact that the organization was a registered NGO of the United Nations for around a decade? 
 
-How hypocritical what about the name Jehovah or blood transfusions? Rest assured that Whittling down 20, 30, 40 topics into top five questions was the hardest part of this process. But I'm eager to know were any of the five questions that I highlighted in this video key stumbling blocks as to why you couldn't stay in the religion any longer? 
+How hypocritical what about the name Jehovah or blood transfusions? Rest assured that whittling down 20, 30, 40 topics into top five questions was the hardest part of this process. But I'm eager to know were any of the five questions that I highlighted in this video key stumbling blocks as to why you couldn't stay in the religion any longer? 
 
 Or are there other questions that I haven't mentioned which led you to realizing that this organization simply isn't the truth? I look forward to reading your comments. 
