@@ -39,9 +39,9 @@ Yes. Okay. Over the years there have been minor changes and adjustments in certa
 
 In fact, we look forward to Jehovah revealing new light in due time. Very recently, in fact, Sam Heard, Governing Body member discussed at the 2021 annual meeting new light with regards to an adjustment in our understanding regarding the anointed, the specifics of that doctrinal change are completely irrelevant. What is vital, however, is who is credited with providing that doctrinal change? Who is the source of this new light? 
 
-<quote>
+<div class = "quote">
 And what I'm about to reveal to you today, jehovah is behind it, not the governing body, not any human here on the earth, but Jehovah God.
-</quote>
+</div>
 
 Malachi 3:6 informs us that God does not change. Titus 1:2 says that God cannot lie. In theory, therefore, we should be able to take any organizational teaching or understanding in the religion's history and ask the question: is it possible for a God who does not change and cannot lie to really be behind it? 
 
@@ -51,9 +51,9 @@ This table shows that over the years the start date has changed, changed 1 AD, a
 
 I'm only going to say this once. Charles Tayes Russell, the religion's credited founder, had it right all along when he said:
 
-<quote>
+<div class = "quote">
 A new view of truth never can contradict a former truth. "New light" never extinguishes older "light," but adds to it. 
-</quote>
+</div>
 
 Pyramidology, extinguished. Armageddon arriving in 1914, 15, 18, extinguished. Beth sarim, extinguished. Don't have kids because it's 1938 and Armageddon is imminent, extinguished. Millions now living will never die, extinguished. The worship of Jesus, extinguished. We could go on and on and on. The truth is that this policy, this teaching of new light coming from Jehovah, was disproved and destroyed before any Jehovah's Witness alive today was born. 
 
@@ -69,11 +69,11 @@ In the Genesis creation account there are seven days. 6000 years of human histor
 
 It would not be by mere chance or accident but would be according to the loving purpose of Jehovah God for the reign of Jesus Christ, the Lord of the Sabbath to run parallel with the 7th millennium of man's existence. 
 
-<quote>
+<div class = "quote">
 Well, now, as Jehovah's Witnesses, as runners. even though some of us have become a little weary. It almost seems as though Jehovah has provided meat and due season because he's held up before all of us a new goal, a new year. 
 
 Something to reach out for. And it just seems it's given all of us so much more energy and power in this final burst of speed for the finish line. And that's the year 1975, as one brother put it, stay alive to 75. 
-</quote>
+</div>
 
 That is only the tip of the iceberg with regards to the level of emphasis that this organization put on the 1970s as a decade of global change, the decade in which this wicked world would meet its end. 
 
@@ -103,9 +103,9 @@ Now, you would think that surely if there was any article in the world that coul
 
 But unfortunately, that was not the case with me and my dad, for when I sent him this article, this was his response. 
 
-<quote>
+<div class = "quote">
 The points in the article you refer to on Excommunication are completely taken out of context. It is an article discussing the <b><i><u>Catholic Church's</u> use of excommunication as a weapon</b></i> not our use of it. 
-See here: https://www.jw.org/en/library/magazines/w20150415/disfellowshipping-a-loving-provision. It is based on Jehovah's direction in the Bible from 2000 years ago. </quote>
+See here: https://www.jw.org/en/library/magazines/w20150415/disfellowshipping-a-loving-provision. It is based on Jehovah's direction in the Bible from 2000 years ago. </div>
 
 You know what? Maybe my dad has a point. Maybe I am speaking out of ignorance. Maybe I've just looked at an Apostate website and forward it to him without realizing that I was spreading misinformation and half truths. 
 
