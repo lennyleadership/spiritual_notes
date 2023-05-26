@@ -39,7 +39,7 @@ Not only do they end the conversation, but it keeps their cherished, beloved fai
 
 Sure, they may try their best, or they might just scream in your face off. Either way, that answer is derived from an inability to offer a sufficient and satisfying answer. 
 
-<h1><span class = "overline">Question #5: Is there sufficient reason to believe that current Jehovah's Witness doctrine is true and will not be disposed of?</span></h1> 
+<h1>Question #5: Is there sufficient reason to believe that current Jehovah's Witness doctrine is true and will not be disposed of?</h1> 
 
 Yes. Okay. Over the years there have been minor changes and adjustments in certain understandings, but that is to be expected. Jehovah said that the path of the righteous would get brighter and brighter. 
 
@@ -63,7 +63,7 @@ A conversation on this topic could follow a very simple format. You could ask a 
 
 These past teachings which have now been disposed of? No. So then why should we trust any of the current teachings or doctrine? Because Jw.org. Is now available in over 1000 languages. So God speaking of people being deceived and misled brings us nicely to question number four. 
 
-<h1><span class = "overline">Question #4: Is it true that Jehovah's Witnesses predicted that Armageddon would arrive in 1975?</span></h1>
+<h1>Question #4: Is it true that Jehovah's Witnesses predicted that Armageddon would arrive in 1975?</h1>
 
 In the Genesis creation account there are seven days. 6000 years of human history will be ending in 1975. The Bible speaks about Jesus having a thousand year reign. 
 
@@ -93,7 +93,7 @@ When you look at the organization's growth during the late sixty s and early sev
 
 Or do you think this was a dishonest ploy to gain more followers? 
 
-<h1><span class = "overline">Question #3: If true Christians should avoid all pagan practices, why do Jehovah's Witnesses adopt practices such as excommunication, shunning and wedding rings?</span></h1> 
+<h1>Question #3: If true Christians should avoid all pagan practices, why do Jehovah's Witnesses adopt practices such as excommunication, shunning and wedding rings?</h1> 
 
 Do origins really matter? Yes. To illustrate, suppose you saw a piece of candy lying in the gutter. Would you pick up that candy and eat it? Of course not. That candy is unclean. Like that candy holidays may seem sweet, but they have been picked up from unclean places. 
 
@@ -125,7 +125,7 @@ As the saying goes, you can lead a horse to water, but you can't make them drink
 
 Question number two is based on the life experience of a good friend of mine, Lacey Jones, who recorded her story on the Lloyd Evans Channel just over a year ago under the title My Elders Delayed a Police Investigation. The question is, 
 
-<h1><span class = "overline">Question #2: if Jehovah is behind the organization, why doesn't he remove appointed men who have sexually abused children? Why does he keep some of them in their positions for years, even decades, after the abuse occurs?</span></h1> 
+<h1>Question #2: if Jehovah is behind the organization, why doesn't he remove appointed men who have sexually abused children? Why does he keep some of them in their positions for years, even decades, after the abuse occurs?</h1> 
 
 When I first encountered Lacey's story, I was shocked at so many different parts of it. But perhaps the most pertinent part with regards to my own viewpoints and spiritual skepticism, was the fact that between the abuse happening by an elder and it coming to light, there was a ten year gap. 
 
@@ -145,7 +145,7 @@ But on the other side of the coin, this is a topic which has, as I said, the pot
 
 They came to the conclusion that it was impossible that Jehovah was behind the organization. But I want to escalate this one step further because it's one thing to say that Jehovah isn't behind this specific organization but it's another thing to say that Jehovah this God that I've believed in my entire life doesn't exist whatsoever. 
 
-<h1><span class = "overline">Question #1: Why did Jehovah create a global ecosystem of fear, pain and death?</span></h1>
+<h1>Question #1: Why did Jehovah create a global ecosystem of fear, pain and death?</h1>
 
 Excuse me? He didn't. That question is derived from an ignorance of what the Bible really teaches. You see, in Genesis, God created a paradise, a unified utopia for which man, along with animal, would dwell in peace and security. 
 
@@ -173,7 +173,7 @@ I got a mobile phone and as you do, you scroll the internet, you watch various v
 
 And scenes like that scarred my mind and hurt my heart to a great extent. I still can vividly and graphically remember them. And so all the time while I was watching those scenes, I would think to myself well, yeah, imagine how Jehovah feels. 
 
-We were made in his image. He is the loving, caring, merciful, just empathetic God. His heart must be torn too when he sees things like this. But if that evidence is true of fossilized carnivorous behavior before 6000 years ago satan can no longer be the scapegoat. 
+We were made in his image. He is the loving, caring, merciful, just empathetic God. His heart must be torn too when he sees things like this. But if that evidence is true of fossilized carnivorous behavior before 6000 years ago Satan can no longer be the scapegoat. 
 
 The buck has to stop with Jehovah. It was Jehovah who for millions upon millions of years created this global ecosystem, this coliseum in space upon which fear, pain, bloodshed and barbaric brutality prevailed. 
 
