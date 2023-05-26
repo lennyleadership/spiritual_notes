@@ -79,35 +79,33 @@ That is only the tip of the iceberg with regards to the level of emphasis that t
 
 And yet, astonishingly, I wasn't aware of any of what you just heard or saw. I was completely in the dark. And I believe my dad was as well, because if I was asked on the ministry a few years ago as a Jehovah's Witness, this exact question, did your organization predict Armageddon would arrive in 1975? 
 
-I would have merely echoed what my dad told me regarding that year, which was likely what his parents told him regarding that year. Well, the organization never actually predicted that Armageddon was going to come in 1975. 
-
-It was all merely speculation, and some people just got carried away with the wrong idea. Although I would have said that there would have existed a degree of cognitive dissonance because I was aware of some aged, mature, very spiritual brothers and sisters in the congregation who, in the build up to 1975, sold their homes in order to devote more time and resources to the preaching and teaching work. 
+I would have merely echoed what my dad told me regarding that year, which was likely what his parents told him regarding that year. Well, the organization never actually predicted that Armageddon was going to come in 1975. It was all merely speculation, and some people just got carried away with the wrong idea. Although I would have said that there would have existed a degree of cognitive dissonance because I was aware of some aged, mature, very spiritual brothers and sisters in the congregation who, in the build up to 1975, sold their homes in order to devote more time and resources to the preaching and teaching work. 
 
 Did these brothers and sisters get carried away with the wrong idea? Or did the leaders of the organization. Get carried away with the wrong idea. Reports are heard of brothers selling their homes and property and planning to finish out the rest of their days in this old system in the pioneer service. 
 
 Certainly this is a fine way to spend the short time remaining before the wicked world's end. Clearly, there is sufficient evidence to categorically say that organization taught that the world was coming to an end in the 1970s, in particular 1975. 
 
-When you look at the organization's growth during the late sixty s and early seventy s, the cynic among you will likely say this was a crafty underhanded tactic to gain more members. Now, while I'm not saying that I adopt that view, I certainly think it's a question that can be asked once the witness is fully aware of the scale of the undue and erroneous emphasis that was placed on the 70s, in particular in 1975, you could ask them a question such as, do you think the leaders of your organization were honestly mistaken? 
-
-Or do you think this was a dishonest ploy to gain more followers? 
+When you look at the organization's growth during the late sixties and early seventies, the cynic among you will likely say this was a crafty underhanded tactic to gain more members. Now, while I'm not saying that I adopt that view, I certainly think it's a question that can be asked. Once the witness is fully aware of the scale of the undue and erroneous emphasis that was placed on the 70s, in particular in 1975, you could ask them a question such as, do you think the leaders of your organization were honestly mistaken? Or do you think this was a dishonest deploy to gain more followers? 
 
 <h1>Question #3: If true Christians should avoid all pagan practices, why do Jehovah's Witnesses adopt practices such as excommunication, shunning and wedding rings?</h1> 
 
-Do origins really matter? Yes. To illustrate, suppose you saw a piece of candy lying in the gutter. Would you pick up that candy and eat it? Of course not. That candy is unclean. Like that candy holidays may seem sweet, but they have been picked up from unclean places. 
+<div class = "quote">
+Do origins really matter? Yes. To illustrate: Suppose you saw a piece of candy lying in the gutter. Would you pick up that candy and eat it? Of course not. That candy is unclean. Like that candy, holidays may seem sweet, but they have been picked up from unclean places.
+</div>
 
-After studying that paragraph with non Jehovah's Witnesses for many years. I'm sure you can imagine my shock, horror, my astonishment when I first read the January 8, 1947 Awake article. Are you also excommunicated in that article? 
+After studying that paragraph with non Jehovah's Witnesses for many years. I'm sure you can imagine my shock, horror, my astonishment when I first read the January 8, 1947 Awake article, "Are you also excommunicated?" 
 
-Jehovah's organization labels this Catholic practice of excommunication canon law, which the Roman Catholic hierarchy seeks to enforce on the pretext that it is God's law. They say that it is altogether foreign to Bible teachings, that excommunication is not without pagan influence. 
+In that article, Jehovah's organization labels this Catholic practice of excommunication, <u class = "red">"canon law", which the Roman Catholic hierarchy seeks to enforce on the pretext that it is God's law</u>. They say that <u class = "red">it is altogether foreign to Bible teachings</u>. that <u class = "red">excommunication is not without pagan influence</u>. It's derived from <u class = "red">Superstitious Greeks and druids</u>. And perhaps most significantly, they label this practice as <u class = "red">a weapon, which became the instrument by which the clergy attained a combination of ecclesiastical power and secular tyranny that finds no parallel in history</u>. 
 
-It's derived from superstitious Greeks and druids. And perhaps most significantly, they label this practice as a weapon, which became the instrument by which the clergy attained a combination of ecclesiastical power and secular tyranny that finds no parallel in history. 
-
-Perhaps in hindsight, what is even more incredible and laughable is the fact that only five years after writing this article, the organization introduced excommunication as a measure of discipline and punishment under the label that it was a loving act of God known as disfellowshipping. 
+Perhaps in hindsight, what is even more incredible and laughable is the fact that only five years after writing this article, the organization introduced excommunication as a measure of discipline and punishment. Under the label that it was a loving act of God known as disfellowshipping. 
 
 Now, you would think that surely if there was any article in the world that could cause a Jehovah's Witness to stop in their tracks and reassess their beliefs, it would be one that is produced by their own organization which slates a practice as pagan, as non biblical, as used by leaders to attain power that they have adopted themselves. 
 
-But unfortunately, that was not the case with me and my dad, for when I sent him this article, this was his response. The points in the article you refer to on excommunication. Are completely taken out of context. 
+But unfortunately, that was not the case with me and my dad, for when I sent him this article, this was his response. 
 
-It is an article discussing the Catholic Church's use of excommunication as a weapon, not our use of it. See here jehovah's Witness article called disfellowshipping. A loving provision. It is based on Jehovah's direction in the Bible from 2000 years ago. 
+<quote>
+The points in the article you refer to on Excommunication are completely taken out of context. It is an article discussing the <b><i><u>Catholic Church's</u> use of excommunication as a weapon</b></i> not our use of it. 
+See here: https://www.jw.org/en/library/magazines/w20150415/disfellowshipping-a-loving-provision. It is based on Jehovah's direction in the Bible from 2000 years ago. </quote>
 
 You know what? Maybe my dad has a point. Maybe I am speaking out of ignorance. Maybe I've just looked at an Apostate website and forward it to him without realizing that I was spreading misinformation and half truths. 
 
