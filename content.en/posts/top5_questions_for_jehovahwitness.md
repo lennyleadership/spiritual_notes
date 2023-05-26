@@ -112,6 +112,7 @@ You know what? Maybe my dad has a point. Maybe I am speaking out of ignorance. M
 Maybe the Catholic Church's use of Excommunication was and is completely different to the loving disfellowshipping used by Jehovah's organization. So let's have a look at what Wikipedia says about Catholic Excommunication. See if it's similar to Jehovah's Witnesses Disfellowshipping and shunning. 
 
 <div class = "quote">
+
 The Catholic Church claims that the penalty of Excommunication is biblical, tick.  
 that it can affect only those who by baptism have been admitted to that society, tick.  
 that those under excommunication were to be shunned, tick.  
