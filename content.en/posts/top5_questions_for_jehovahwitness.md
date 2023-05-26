@@ -1,6 +1,6 @@
 ---
 author: Harrison Cother
-date: 2014-09-28
+date: 2023-05-26
 linktitle: Top 5 Questions Jehovah's Witnesses CANNOT Answer
 menu:
   main:
