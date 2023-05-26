@@ -117,7 +117,7 @@ that it can affect only those who by baptism have been admitted to that society,
 that those under excommunication were to be shunned, tick.  
 that they are to be considered as an exile from Catholic society and as non-existent, tick. 
 and it is intended to invite the person to change behavior or attitude, repent and return to full communion, tick. 
-<div>
+</div>
 
 That is five out of five that the Catholic Church and Jehovah's Witnesses have in common regarding their usage of excommunication and shunning as tools of discipline and apparently love to get someone to return to the Church. 
 
