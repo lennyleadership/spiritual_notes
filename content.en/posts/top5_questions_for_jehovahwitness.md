@@ -1,15 +1,14 @@
 ---
+title: Top 5 Questions Jehovah's Witnesses CANNOT Answer
 author: Harrison Cother
 date: 2023-05-26
 linktitle: Top 5 Questions Jehovah's Witnesses CANNOT Answer
-menu:
-  main:
-    parent: tutorials
-next: /tutorials/github-pages-blog
-prev: /tutorials/automated-deployments
-title: Top 5 Questions Jehovah's Witnesses CANNOT Answer
 weight: 1
 ---
+
+
+
+
 
 <iframe width="360" height="270" src="https://www.youtube.com/embed/bumdsrs9i20" title="TOP 5 Questions Jehovah&#39;s Witnesses CANNOT Answer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
