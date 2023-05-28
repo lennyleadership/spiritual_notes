@@ -44,7 +44,7 @@ elder in a kingdom hall at Montreal.
 
 ministerial servant in the kingdom hall at LdB.
 
-
+One son (Dan) is a Jehovah's Witness.
 
 
 # Jehovah's Witnessess
