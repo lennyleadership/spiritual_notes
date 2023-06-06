@@ -2667,10 +2667,12 @@ Majesty, worship His Majesty
   <tr>
   <td style = "border-style: none">
   <p>
+Meekness and majesty
   </p>
   </td>
   <td style = "border-style: none">
   <p>
+温柔与威严
   </p>  
   </td>
   </tr>
@@ -2704,6 +2706,53 @@ Meekness and majesty
 <br>Lifts our humanity to the heights of His throne
     </p></td>
     <td style = "border-style: none"><p>
+人性和神性 
+
+完美和谐 上帝之人
+
+永恒之主 
+
+住在人性中 
+
+谦卑地跪下 洗我们的脚
+
+<i>[合唱]  
+
+哦，多么神秘 
+
+温柔与威严 
+
+低头敬拜 
+
+因为这是你的上帝</i> 
+
+
+
+父亲纯洁的光芒 
+
+天真无邪 
+
+却爱服从 死在十字架上
+
+苦难给了我们生命 
+
+以牺牲取胜 
+
+当他们被钉在十字架上时，祈祷的“天父宽恕”
+
+
+
+智慧不可测度 
+
+看不见的上帝 
+
+爱坚不可摧 在虚弱出现
+
+无限之王 
+
+停的那么温柔 
+
+将我们的人性提升到他宝座的高度
     </p></td>
   </tr>
 </tbody>
