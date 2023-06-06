@@ -2706,53 +2706,36 @@ Meekness and majesty
 <br>Lifts our humanity to the heights of His throne
     </p></td>
     <td style = "border-style: none"><p>
-人性和神性 
-
-完美和谐 上帝之人
-
-永恒之主 
-
-住在人性中 
-
-谦卑地跪下 洗我们的脚
-
-<i>[合唱]  
-
-哦，多么神秘 
-
-温柔与威严 
-
-低头敬拜 
-
-因为这是你的上帝</i> 
+温柔与威严
+<br>人性和神性 
+<br>完美和谐 上帝之人
+<br>永恒之主 
+<br>住在人性中 
+<br>谦卑地跪下 洗我们的脚
+<br>
+<br><i>[合唱]  
+<br>哦，多么神秘 
+<br>温柔与威严 
+<br>低头敬拜 
+<br>因为这是你的上帝</i> 
 
 
-
-父亲纯洁的光芒 
-
-天真无邪 
-
-却爱服从 死在十字架上
-
-苦难给了我们生命 
-
-以牺牲取胜 
-
-当他们被钉在十字架上时，祈祷的“天父宽恕”
+<br>
+<br>父亲纯洁的光芒 
+<br>天真无邪 
+<br>却爱服从 死在十字架上
+<br>苦难给了我们生命 
+<br>以牺牲取胜 
+<br>当他们被钉在十字架上时，祈祷的“天父宽恕”
 
 
-
-智慧不可测度 
-
-看不见的上帝 
-
-爱坚不可摧 在虚弱出现
-
-无限之王 
-
-停的那么温柔 
-
-将我们的人性提升到他宝座的高度
+<br>
+<br>智慧不可测度 
+<br>看不见的上帝 
+<br>爱坚不可摧 在虚弱出现
+<br>无限之王 
+<br>停的那么温柔 
+<br>将我们的人性提升到他宝座的高度
     </p></td>
   </tr>
 </tbody>
@@ -2767,11 +2750,11 @@ Meekness and majesty
   <tr>
   <td style = "border-style: none">
   <p>
-  </p>
+My heart is filled with thankfulness  </p>
   </td>
   <td style = "border-style: none">
   <p>
-  </p>  
+我的心充满了感恩  </p>  
   </td>
   </tr>
   <tr>
@@ -2804,7 +2787,32 @@ My heart is filled with thankfulness
 <br>To love and follow Him
     </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+我的心充满了感恩 
+<br>为祂担当我的痛苦； 
+<br>谁深入我的耻辱 
+<br>又给了我生命； 
+<br>谁粉碎了我罪恶的诅咒 
+<br>让我披上他的光 
+<br>并写下了他的公义律法 
+<br>用力量在我的心上。
+<br>
+<br>我的心充满了感恩 
+<br>对在旁边行走的祂； 
+<br>谁用力量淹没我的弱点 
+<br>并使恐惧飞扬； 
+<br>谁的承诺就足够了 
+<br>对于我迈出的每一步， 
+<br>用爱的臂膀支撑着我 
+<br>并以恩典加冕我。
+<br>
+<br>我的心充满了感恩 
+<br>对在上掌权的， 
+<br>谁的智慧是我完美的平安， 
+<br>谁的每一个想法都是爱。 
+<br>我在地球上的每一天 
+<br>由国王赐予； 
+<br>所以我会献出我的生命，我的一切，
+<br>去爱他并跟随他。    </p></td>
   </tr>
 </tbody>
 </table>
@@ -2852,7 +2860,30 @@ How can I say thanks
 <br>Let it go to Calvary
     </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+怎可表感激，
+<br>万有主已恩赐万事
+<br>纵未配获赐，
+<br>神大爱却已丰足沛降
+<br>万千天使齐集颂赞
+<br>仍未唱出心中感谢
+<br>愿我尽将内心希冀梦想…
+<br>永远尽忠于你！
+<br>
+<br><i>[合唱]
+<br>荣美尽献父神
+<br>万口也当赞颂
+<br>上主配得称赞
+<br>你厚恩满一生
+<br>主宝血为我赎罪！
+<br>获复兴靠祂赐力，
+<br>荣美尽献父神，
+<br>上主配得称赞。</i>
+<br>
+<br>今将生命托付，
+<br>完全地献与主所用。
+<br>如能获到人颂赞，
+<br>荣耀也归钉十架的主。
+</p></td>
   </tr>
 </tbody>
 </table>
@@ -2866,11 +2897,11 @@ How can I say thanks
   <tr>
   <td style = "border-style: none">
   <p>
-  </p>
+Never in a million years  </p>
   </td>
   <td style = "border-style: none">
   <p>
-  </p>  
+一百万年都不会   </p>  
   </td>
   </tr>
   <tr>
@@ -2894,7 +2925,24 @@ Have you ever wondered why the Savior came
 <br>But we can praise His name for the wonder of His love
     </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+你有没有想过，为什么救主
+<br>从天上来到人间，要死在耻辱的十字架上？
+<br>你有没有想过他为什么要付出代价？ 
+<br>为什么他把髑髅地当作罪人的祭物 
+<br>
+<br><i>[合唱] 
+<br>一百万年都不会，如果那是
+<br>我们能知道他为什么
+<br>在十字架上为你我受苦的原因
+<br>那天他甘愿受死 
+<br>为除去我们的罪孽而死 
+<br>但一百万年我们都不会理解 这样的爱！</i> 
+<br>
+<br>不，我们无法理解耶稣为何关心 
+<br>为什么他成为我们的朋友和我们的悲伤 
+<br>哦，秘密将留在天上的上帝 
+<br>但我们可以赞美他的名字，因为爱的奇迹
+</p></td>
   </tr>
 </tbody>
 </table>
@@ -2908,11 +2956,11 @@ Have you ever wondered why the Savior came
   <tr>
   <td style = "border-style: none">
   <p>
-  </p>
+Oh, how He loves you and me  </p>
   </td>
   <td style = "border-style: none">
   <p>
-  </p>  
+哦，他多么爱你和我  </p>  
   </td>
   </tr>
   <tr>
@@ -2932,7 +2980,20 @@ Oh, how He loves you and me
 <br>Oh, how he loves you and me
     </p></td>
     <td style = "border-style: none"><p>
-    </p></td>
+哦，他多么爱你和我， 
+<br>哦，他多么爱你和我。
+<br>他付出了自己的生命，还能付出什么？
+<br>哦，他多么爱你；
+<br>哦，他多么爱我；
+<br>哦，他多么爱你和我。
+<br>
+<br>耶稣确实去了髑髅地，
+<br>向罪人表明祂的爱。
+<br>他在那里所做的一切从绝望中带来了希望。
+<br>哦，他多么爱你；
+<br>哦，他多么爱我；
+<br>哦，他多么爱你和我。
+</p></td>
   </tr>
 </tbody>
 </table>
@@ -2946,10 +3007,12 @@ Oh, how He loves you and me
   <tr>
   <td style = "border-style: none">
   <p>
+Praise the name of Jesus
   </p>
   </td>
   <td style = "border-style: none">
   <p>
+赞美耶稣的名
   </p>  
   </td>
   </tr>
@@ -2962,6 +3025,11 @@ Praise the name of Jesus
 <br>Praise the name of Jesus.
     </p></td>
     <td style = "border-style: none"><p>
+赞美耶稣的名，
+<br>赞美耶稣的名。
+<br>他是我的磐石，他是我的堡垒，
+<br>他是我的拯救者，我要信靠祂。
+<br>赞美耶稣的名。
     </p></td>
   </tr>
 </tbody>
@@ -2976,10 +3044,12 @@ Praise the name of Jesus
   <tr>
   <td style = "border-style: none">
   <p>
+Speak, O Lord
   </p>
   </td>
   <td style = "border-style: none">
   <p>
+主啊，请说话
   </p>  
   </td>
   </tr>
@@ -3013,6 +3083,32 @@ Speak, O Lord, as we come to You
 <br>And the earth is filled with Your glory
     </p></td>
     <td style = "border-style: none"><p>
+主啊，当我们来到你面前时请说话 
+<br>领受你圣言的食粮 
+<br>接受你的真理，将它深深植根于我们心中 
+<br>以你的模样塑造我们
+<br>使基督的光在今天得以显现 
+<br>在我们的爱心行为和信仰行为中 
+<br>主啊，请说话，在我们里面成全 
+<br>你一切的旨意都是为了你的荣耀
+<br>
+<br>教导我们主，完全顺服 
+<br>神圣的敬畏，真正的谦卑 
+<br>考验我们的思想和态度 
+<br>在你纯洁的光辉中
+<br>使我们的信心上升，使我们的眼睛看见 
+<br>你伟大的爱和权柄 
+<br>永远不会失败的力量之言 
+<br>让他们的真理战胜不信
+<br>
+<br>主啊，请说话，更新我们的心意 
+<br>帮助我们掌握你为我们制定的计划的高度 
+<br>从时间的黎明不变的真理 
+<br>那将在永恒中回响
+<br>靠着恩典，我们会信守你的诺言 
+<br>凭着信心，我们会像你与我们同行一样 
+<br>说话，主啊，直到你的教会被建造
+<br>大地充满你的荣耀
     </p></td>
   </tr>
 </tbody>
@@ -3027,10 +3123,12 @@ Speak, O Lord, as we come to You
   <tr>
   <td style = "border-style: none">
   <p>
+To God be the glory
   </p>
   </td>
   <td style = "border-style: none">
   <p>
+荣耀归于真神
   </p>  
   </td>
   </tr>
@@ -3058,6 +3156,20 @@ To God be the glory great things He has done
 <br>Our wonder our worship when Jesus we see
     </p></td>
     <td style = "border-style: none"><p>
+荣耀归于真神，祂成就大事，为爱世人甚至赐下独生子，
+<br>献上他生命为人赎罪受害，永生门已大开，人人可进来。
+<br>
+<br>救命宝血，何等全备救恩，真神应许赐给凡信他的人；
+<br>罪人中之罪魁北克真心相信，一信靠主就必得赦罪之恩恩。
+<br>
+<br>父神启示真理，他成就大事，借圣子耶稣我们欢欣无比，
+<br>将来见主面我们必更便宜，何等奇妙改变，更纯洁无瑕。
+<br>
+<br><i>[合唱]
+<br>赞美主，赞美主，全地聆听主声；
+<br>赞美主，赞美主，万民快乐欢欣；
+<br>请来借圣子耶稣来到父前，
+<br>荣耀归主，祂已成就大事工。</i>
     </p></td>
   </tr>
 </tbody>
@@ -3072,10 +3184,12 @@ To God be the glory great things He has done
   <tr>
   <td style = "border-style: none">
   <p>
+The love of God
   </p>
   </td>
   <td style = "border-style: none">
   <p>
+上帝的爱
   </p>  
   </td>
   </tr>
@@ -3090,7 +3204,7 @@ The love of God is greater far
 <br>His erring child He reconciled
 <br>And pardoned from his sin
 <br>
-<br><i>Chorus
+<br><i>[Chorus]
 <br>O love of God, how rich and pure
 <br>How measureless and strong
 <br>It shall forevermore endure
@@ -3115,6 +3229,38 @@ The love of God is greater far
 <br>Though stretched from sky to sky
     </p></td>
     <td style = "border-style: none"><p>
+上帝的爱远超
+<br>  语言或笔所能表达的。
+<br>它超越了最高的星星
+<br>  到达了最低的地狱。
+<br>有罪的一对，小心地跪下，
+<br>  上帝赐下他的儿子来赢取；
+<br>他犯错的孩子，他和好
+<br>  并赦免了他的罪。
+<br>
+<br>[合唱] 	
+<br>天主的爱，何其丰盛纯洁！
+<br>  多么强大！
+<br>它将永远长存——
+<br>  圣徒和天使的歌声。
+<br>
+<br>当苍白的时光消逝，
+<br>  尘世的宝座和王国陨落；
+<br>当这里拒绝祈祷的人，
+<br>  在岩石、丘陵和山脉上呼唤；
+<br>上帝的爱，如此肯定，仍将长存，
+<br>  无限而强大；
+<br>救赎亚当族类的恩典——
+<br>  圣徒和天使之歌。
+<br>
+<br>我们能否用墨水填满海洋，
+<br>  而天空是用羊皮纸制成的；
+<br>如果地球上的每一根茎杆都是一根羽毛笔，
+<br>  每个人都是一个职业的抄写员；
+<br>将神的爱写在天上
+<br>  会把海洋干涸；
+<br>卷轴也不能包含全部，
+<br>  尽管从天空延伸到天空。
     </p></td>
   </tr>
 </tbody>
@@ -3129,10 +3275,12 @@ The love of God is greater far
   <tr>
   <td style = "border-style: none">
   <p>
+The power of the Cross
   </p>
   </td>
   <td style = "border-style: none">
   <p>
+十字架的大能
   </p>  
   </td>
   </tr>
@@ -3165,6 +3313,31 @@ Oh, to see the dawn of the darkest day
 <br>Won through Your selfless love
     </p></td>
     <td style = "border-style: none"><p>
+啊！没有一天，像这样幽暗，
+<br>基督正走向加略山，
+<br>受罪人审判，主遍体鳞伤
+<br>悬挂在十架上。
+<br>
+<br><i>[合唱]
+<br>这十架有能力，
+<br>为我们成为罪，
+<br>祂受苦难，担神怒！
+<br>我们得赦免靠十架。</i>
+<br>
+<br>啊！满带忧伤，
+<br>忍受痛苦楚，甘心背起沉重罪尤。
+<br>一切恶思想，所有恶行为，
+<br>冠在祢额头上。
+<br>
+<br>白昼已隐蔽，大地在震荡，
+<br>创造主低下祂的头。
+<br>幔子裂两半；死人都起来；
+<br>胜利之声：“成了！”
+<br>
+<br>啊！祢受鞭伤除去我的罪，
+<br>祢受痛苦我得自由！
+<br>祢死胜死亡；令我得永生，
+<br>无私的爱得胜！
     </p></td>
   </tr>
 </tbody>
@@ -3179,10 +3352,12 @@ Oh, to see the dawn of the darkest day
   <tr>
   <td style = "border-style: none">
   <p>
+The Servant King
   </p>
   </td>
   <td style = "border-style: none">
   <p>
+来自天堂，你是无助的宝贝
   </p>  
   </td>
   </tr>
@@ -3216,6 +3391,32 @@ From heaven you came helpless babe
 <br>For it is Christ we're serving
     </p></td>
     <td style = "border-style: none"><p>
+来自天堂，你是无助的宝贝 
+<br>进入我们的世界，你的荣耀被遮掩 
+<br>不是被服侍而是服侍 
+<br>并献上你的生命，使我们可以活下去
+<br>
+<br><i>[合唱]
+<br>这是我们的上帝，
+<br>仆人国王 
+<br>他现在呼召我们跟随他 
+<br>把我们的生命当作每日的供物 
+<br>对仆人国王的崇拜</i>
+<br>
+<br>在眼泪的花园里 
+<br>他选择背负我的重担 
+<br>他的心被悲伤撕裂了  
+<br>“但不是我的意愿，而是你的”，他说
+<br>
+<br>来看看他的手和他的脚 
+<br>诉说牺牲的伤痕 
+<br>将星星抛向太空的手 
+<br>向残忍的钉子投降
+<br>
+<br>所以让我们学习如何服侍 
+<br>在我们的生活中让他登基  
+<br>彼此的需要 偏爱 
+<br>因为我们所侍奉的是基督
     </p></td>
   </tr>
 </tbody>
@@ -3230,10 +3431,12 @@ From heaven you came helpless babe
   <tr>
   <td style = "border-style: none">
   <p>
+The steadfast love of the Lord
   </p>
   </td>
   <td style = "border-style: none">
   <p>
+神爱滔滔不绝
   </p>  
   </td>
   </tr>
@@ -3247,6 +3450,11 @@ The steadfast love of the Lord never ceases
 <br>Great is your faithfulness
     </p></td>
     <td style = "border-style: none"><p>
+神爱滔滔不绝水证潮涌，
+<br>神爱无限，怜惜没有变迁；
+<br>永远都不会动摇，开始终不会改变，
+<br>恩主的信实似高天，
+<br>深恩广偏万里。
     </p></td>
   </tr>
 </tbody>
@@ -3261,10 +3469,12 @@ The steadfast love of the Lord never ceases
   <tr>
   <td style = "border-style: none">
   <p>
+Thank you for the Cross
   </p>
   </td>
   <td style = "border-style: none">
   <p>
+主我感谢祢全能十架
   </p>  
   </td>
   </tr>
@@ -3288,6 +3498,22 @@ Thank You for the cross
 <br>For the power of the cross</i>
     </p></td>
     <td style = "border-style: none"><p>
+主我为十架感谢祢
+<br>全能十架
+<br>祢亲自为我们舍命十架
+<br>在每一天祢更新我们
+<br>能够更像祢
+<br>靠主十架我们生命被改变
+<br>
+<br>[合唱]
+<br>何等奇妙恩
+<br>我们赞美祢
+<br>祢救赎我们
+<br>不惜代价
+<br>何等奇妙恩
+<br>我们赞美祢
+<br>因为十架的大能
+<br>因为十架的大能
     </p></td>
   </tr>
 </tbody>
@@ -3302,10 +3528,12 @@ Thank You for the cross
   <tr>
   <td style = "border-style: none">
   <p>
+Thank you, Lord
   </p>
   </td>
   <td style = "border-style: none">
   <p>
+谢谢你，主
   </p>  
   </td>
   </tr>
@@ -3317,6 +3545,10 @@ Thank you, Lord, for saving my soul
 <br>Your great salvation so rich and free
     </p></td>
     <td style = "border-style: none"><p>
+谢谢你，主啊，你拯救我的灵魂 
+<br>谢谢你，主啊，感谢你使我完全
+<br>谢谢你，主啊，因为你给我
+<br>你的救恩，浩大、丰富、无偿
     </p></td>
   </tr>
 </tbody>
@@ -3331,6 +3563,7 @@ Thank you, Lord, for saving my soul
   <tr>
   <td style = "border-style: none">
   <p>
+Thanks to God
   </p>
   </td>
   <td style = "border-style: none">
@@ -3368,6 +3601,35 @@ Thanks, O God, for boundless mercy
 <br>And for all eternity
     </p></td>
     <td style = "border-style: none"><p>
+1感谢神赐我救赎主
+感谢神丰富预备
+感谢神过去的同在
+感谢神主在我旁
+
+感谢神赐温暖春天
+感谢神凄凉秋景
+感谢神抹干我眼泪
+感谢神赐我安宁
+
+2感谢神祷告蒙应允
+感谢神未蒙垂听
+感谢神我曾经风暴
+感谢神丰富供应
+
+感谢神赐我苦与乐
+在绝望里得安慰
+感谢神赐无限恩典
+感谢神无比慈爱
+
+3感谢神赐路旁玫瑰
+感谢神玫瑰有刺
+感谢神赐家庭温暖
+感谢神有福盼望
+
+感谢神赐喜乐忧愁
+感谢神属天平安
+感谢神赐明天盼望
+要感谢直到永远
     </p></td>
   </tr>
 </tbody>
@@ -3383,6 +3645,7 @@ Thanks, O God, for boundless mercy
   <tr>
   <td style = "border-style: none">
   <p>
+There is a Redeemer
   </p>
   </td>
   <td style = "border-style: none">
@@ -3414,6 +3677,26 @@ There is a redeemer
 <br>In that holy place
     </p></td>
     <td style = "border-style: none"><p>
+有一位救主
+<br>是神子耶酥
+<br>宝贵羔羊，主弥赛亚
+<br>圣洁无瑕
+<br>
+<br>耶稣我救主
+<br>是我心所慕宝贝
+<br>宝贵羔羊，主弥赛亚
+<br>为我罪受死
+<br>
+<br>[合唱]
+<br>感谢阿爸天父
+<br>赐我们主耶稣
+<br>并赐圣惠师
+<br>直达我们见主面
+<br>
+<br>当我在荣耀中
+<br>我见主荣耀面
+<br>我想服事主到永远
+<br>在圣洁之处
     </p></td>
   </tr>
 </tbody>
@@ -3428,10 +3711,12 @@ There is a redeemer
   <tr>
   <td style = "border-style: none">
   <p>
+There was no other way
   </p>
   </td>
   <td style = "border-style: none">
   <p>
+没有别的办法
   </p>  
   </td>
   </tr>
@@ -3464,6 +3749,31 @@ Before the stars were hung or planets fashioned
 <br>This is the message all the world must hear
     </p></td>
     <td style = "border-style: none"><p>
+在星星被悬挂或行星被塑造之前 
+<br>在粘土被制成人之前 
+<br>基督是上帝为罪人献上的羔羊 
+<br>这是救赎的唯一计划 
+<br>
+<br><i>[合唱]
+<br>慈爱的上帝别无他法 
+<br>使世界和好并拯救失丧的人类 
+<br>将祂自己的儿子死在木头上 
+<br>除了各各他别无他法</i> 
+<br>
+<br>全世界的财富都无法救赎我们 
+<br>我们软弱的行为也无法救赎我们——代价如此之大 
+<br>我们唯一的希望在于耶稣的宝血 
+<br>他为我们流出牺牲的宝血 
+<br>
+<br>所以，朋友，如果你能找到通往天堂的道路 
+<br>如果你能从罪孽中得到自由 
+<br>接受上帝提供的唯一道路 
+<br>各各他伟大的救赎工作 
+<br>
+<br>无论他带我到哪里，我都必须传扬福音 
+<br>远近传扬福音 
+<br>道路、真理、生命都在耶稣里
+<br>这是全世界都必须听到的信息
     </p></td>
   </tr>
 </tbody>
@@ -3497,6 +3807,14 @@ Jesus, Jesus, Jesus
 <br>But there's something about that name
     </p></td>
     <td style = "border-style: none"><p>
+耶稣。耶稣。耶稣。
+<br>这个名字有些东西。
+<br>主人。救主。耶稣。
+<br>就像雨后的芬芳。
+<br>耶稣。耶稣。耶稣。
+<br>让整个天地都宣扬。
+<br>国王和王国都会过去。
+<br>但是这个名字有些东西。
     </p></td>
   </tr>
 </tbody>
@@ -3548,6 +3866,32 @@ This is my Father's world
 <br>And earth and heaven be one
     </p></td>
     <td style = "border-style: none"><p>
+這是天父世界：
+<br>我們側耳要聽，
+<br>宇宙唱歌四圍響應，
+<br>星辰作樂同聲
+<br>這是天父世界：
+<br>我心滿有安甯;
+<br>樹木花草，蒼天碧海，
+<br>萬物主手造成。
+<br>
+<br>這是天父世界：
+<br>小鳥讚美歌聲，
+<br>清晨明亮, 好花美麗，
+<br>同頌造物功深。
+<br>這是天父世界：
+<br>衪愛普及萬千;
+<br>風吹之草, 將衪表現，
+<br>天父充滿世間。
+<br>
+<br>這是天父世界：
+<br>求主叫我不忘，
+<br>罪惡雖然好像得勝，
+<br>天父卻仍掌管。
+<br>這是天父世界：
+<br>我心不必憂傷;
+<br>上主是王，天地同唱，
+<br>歌聲充滿萬方。
     </p></td>
   </tr>
 </tbody>
@@ -3588,6 +3932,7 @@ What a friend we have in Jesus
 <br>Who will all our sorrows share?
 <br>Jesus knows our every weakness
 <br>Take it to the Lord in prayer
+<br>
 <br>Are we weak and heavy-laden
 <br>Cumbered with a load of care?
 <br>Precious Savior, still our refuge
@@ -3607,6 +3952,33 @@ What a friend we have in Jesus
 <br>Will be our sweet portion there
     </p></td>
     <td style = "border-style: none"><p>
+耶穌是我親愛朋友
+<br>擔當我罪與憂愁
+<br>何等權利能將萬事
+<br>帶到主恩座前求
+<br>多少平安屢屢失去
+<br>多少痛苦白白受
+<br>皆因我們未將萬事
+<br>帶到主恩座前求
+<br>
+<br>是否煩惱壓著心頭
+<br>是否遇試煉引誘
+<br>我們切莫灰心失望
+<br>快到主恩座前求
+<br>何處得此忠心朋友
+<br>分擔一切苦與憂
+<br>我們弱點主都知透
+<br>放心到主座前求
+<br>
+<br>勞苦多愁軟弱不堪
+<br>掛慮重擔壓肩頭
+<br>主是你我避難處所
+<br>快到主恩座前求
+<br>你若遭遇友叛親離
+<br>來到主恩座前求
+<br>在主懷中必蒙護佑
+<br>與主同在永無憂
+<br>耶穌是我親愛朋友
     </p></td>
   </tr>
 </tbody>
