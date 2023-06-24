@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 02
 title: Jesus in Ezekiel
 authors: Lenny Lin
 categories: null
