@@ -2330,13 +2330,6 @@ I will sing of the mercies of the Lord forever
 </table>
 
 
-
-
-
-
-
-
-
 # 36. In Christ alone
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
@@ -2391,41 +2384,41 @@ In Christ alone my hope is found
 <br>Here in the power of Christ I’ll stand
     </p></td>
     <td style = "border-style: none"><p>
-只有在基督里我才能找到希望 
-<br>他是我的光，我的力量，我的歌 
-<br>这块基石，这块坚实的土地 
-<br>挺过最猛烈的干旱和风暴 
-<br>多么高的爱，多么深的和平 
-<br>当恐惧平息，当奋斗停止 
-<br>我的安慰者，我的一切 
-<br>我站在基督的爱中
+唯独基督 是我盼望
+<br>我的明灯 诗歌力量
+<br>这房角石 为我根基
+<br>面对风暴 也不摇动
+<br>无比大爱 最深平安
+<br>恐惧除尽 挣扎止息
+<br>作我安慰 作我万有
+<br>靠主大爱 我能站立
 <br>
-<br>唯独基督成为肉身 
-<br>神的丰盛在无助的婴儿身上 
-<br>这份爱与正义的礼物 
-<br>被他来拯救的人蔑视 
-<br>直到耶稣死在那个十字架上 
-<br>神的忿怒得到满足 
-<br>因为每一个罪都加在了他身上 
-<br>在基督的死里我活着
+<br>唯独基督 道成肉身
+<br>永恒真道 降生马槽
+<br>如此大爱 属天公义
+<br>却被罪人 藐视厌弃
+<br>直到救主 舍身十架
+<br>神的震怒 才得平息
+<br>在基督里 罪被涂抹
+<br>借祂的死 我得称义
 <br>
-<br>他的尸体躺在地上 
-<br>世界之光被黑暗杀死 
-<br>然后在光荣的日子里绽放 
-<br>从坟墓里起来 他又复活了 
-<br>当他站在胜利中时 
-<br>罪的诅咒已经失去了对我的控制 
-<br>因为我是他的，他是我的 
-<br>用基督的宝血买来的
+<br>在墓穴中 我主躺卧
+<br>生命之光 黑暗淹没
+<br>祂却复生 彻底得胜
+<br>冲破死荫 王权永恒
+<br>祂今站立 在荣耀里
+<br>罪恶毒钩 完全除弃
+<br>因我属祂 祂也属我
+<br>基督宝血 把我遮蔽
 <br>
-<br>生无愧，死无惧 
-<br>这是基督在我里面的力量 
-<br>从生命的第一声哭泣到最后的呼吸 
-<br>耶稣掌管我的命运 
-<br>没有地狱的力量，没有人的计划 
-<br>能把我从他手中夺走 
-<br>直到他回来或叫我回家
-<br>靠着基督的大能，我会站立    
+<br>一生无恐 遇死不怕
+<br>基督大能 在我心里
+<br>从母胎起 直到安息
+<br>我的一生 耶稣做主
+<br>阴间权势 恶人计谋
+<br>永不使我 与主远离
+<br>到主再来 到我安息
+<br>靠主大能 我永站立
 </p></td>
   </tr>
 </tbody>
@@ -4102,88 +4095,112 @@ When I look into Your holiness
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>Yet not I but through Christ in Me
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>不是靠我，而是靠在我里面的基督 
   </p>  
   </td>
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-What gift of grace is Jesus my redeemer
+1
+<br>What gift of grace is Jesus my redeemer
 <br>There is no more for heaven now to give
 <br>He is my joy, my righteousness, and freedom
 <br>My steadfast love, my deep and boundless peace
+<br>
+<br>[Refrain 1]
 <br>To this I hold, my hope is only Jesus
 <br>For my life is wholly bound to His
 <br>Oh how strange and divine, I can sing: all is mine!
 <br>Yet not I, but through Christ in me
 <br>
+<br>2
 <br>The night is dark but I am not forsaken
 <br>For by my side, the Saviour He will stay
 <br>I labour on in weakness and rejoicing
 <br>For in my need, His power is displayed
+<br>
+<br>[Refrain 2]
 <br>To this I hold, my Shepherd will defend me
 <br>Through the deepest valley He will lead
 <br>Oh the night has been won, and I shall overcome!
 <br>Yet not I, but through Christ in me
 <br>
+<br>3
 <br>No fate I dread, I know I am forgiven
 <br>The future sure, the price it has been paid
 <br>For Jesus bled and suffered for my pardon
 <br>And He was raised to overthrow the grave
+<br>
+<br>[Refrain 3]
 <br>To this I hold, my sin has been defeated
 <br>Jesus now and ever is my plea
 <br>Oh the chains are released, I can sing: I am free!
 <br>Yet not I, but through Christ in me
 <br>
+<br>4
 <br>With every breath I long to follow Jesus
 <br>For He has said that He will bring me home
 <br>And day by day I know He will renew me
 <br>Until I stand with joy before the throne
+<br>
+<br>[Refrain 4]
 <br>To this I hold, my hope is only Jesus
 <br>All the glory evermore to Him
 <br>When the race is complete, still my lips shall repeat
 <br>Yet not I, but through Christ in me!
     </p></td>
     <td style = "border-style: none"><p>
-耶稣是我的救赎主 何等恩典
-天堂现在再无可赐予
-他是我的喜乐、公义和自由
-我坚定的爱，我深沉而无边的平安
-我坚持，我的盼望唯有耶稣
-因为我的生命完全依附于他的
-哦，多么奇异而神圣，我可以歌唱：一切都是我的！
-然而不是我，而是借着基督在我里面
-
-夜是黑暗的，但我没有被遗弃
-因为在我身边，救主他会留在我身边 
-我在软弱和欢乐中继续努力
-因为在我的需要中，他的力量显示出来
-坚持，我的牧羊人会保护我
-穿过最深的山谷他会带领
-哦，夜晚已经胜利，我将战胜！
-然而不是我，而是借着基督在我里面
-
-我不惧怕命运，我知道我被宽恕了
-未来是肯定的，它已经付出了代价
-耶稣为我的赦免流血和受苦
-他复活是为了推翻坟墓
-这是我坚持的，我的罪已经被击败
-耶稣现在和永远是我的恳求
-哦锁链被释放了，我可以唱：我是自由的！
-然而不是我，而是借着基督在我里面
-
-我渴望每一次呼吸都跟随耶稣
-因为他说过他会带我回家
-我知道他会日复一日地更新我
-直到我欢喜地站在宝座前 
-对此我坚持，我的盼望只在乎耶稣
-一切荣耀永远归于祂
-当赛程结束时，我的嘴唇仍要重复：
-然而不是我，而是借着基督在我里面！
+1
+<br>何等禮物耶穌是我救贖主
+<br>何等豐富，神已無別恩賜
+<br>祂是我的喜樂、公義和自由
+<br>不變的愛、無限深廣平安
+<br>
+<br>[Refrain 1]
+<br>我心堅信，唯耶穌是我盼望
+<br>我生命與祂緊緊相連
+<br>何稀奇，這恩典都歸我！
+<br>不是我，乃是基督在裡面活
+<br>
+<br>2
+<br>黑夜雖深，但我不會被丟棄
+<br>因我救主，永遠在我身邊
+<br>我雖軟弱，仍歡歡喜喜往前
+<br>我的缺乏顯出祂的大能
+<br>
+<br>[Refrain 2]
+<br>我心堅信，我牧者必保護我
+<br>祂領我，走過死蔭幽谷
+<br>哦，黑暗要過去我得勝！
+<br>不是我，乃是基督在裡面活
+<br>
+<br>3
+<br>無有懼怕，我知我已被赦免
+<br>前途光明， 罪債已經付清
+<br>耶穌流血， 受苦痛為我救贖
+<br>死裡復活，完全勝了墳墓
+<br>
+<br>[Refrain 3]
+<br>我心堅信，我罪已完全解決
+<br>耶穌是我永遠的遮蔽
+<br>哦，鎖鏈已脫落我自由！
+<br>不是我，乃是基督在裡面活
+<br>
+<br>4
+<br>一息尚存，我要跟隨主耶穌
+<br>祂已應許，領我走到天家
+<br>日復一日，我知祂在改變我
+<br>直至那日，歡喜到寶座前
+<br>
+<br>[Refrain 4]
+<br>我心堅信，唯耶穌是我盼望
+<br>全榮耀一切都歸給祂
+<br>當跑完所有路我要唱
+<br>不是我，乃是基督在裡面活
     </p></td>
   </tr>
 </tbody>
