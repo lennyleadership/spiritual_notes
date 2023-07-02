@@ -1396,7 +1396,7 @@ God is so good (x3)
   </p>
   </td>
   <td style = "border-style: none">
-  <p>车到山前必有路 
+  <p>神要開道路 
   </p>  
   </td>
   </tr>
@@ -2307,6 +2307,7 @@ I will sing of the mercies of the Lord forever
 <br>Thy faithfulness, thy faithfulness
 <br>With my mouth will I make known
 <br>Thy faithfulness to all generation
+<br>
 <br>I will sing of the mercies of the Lord forever
 <br>I will sing of the mercies of the Lord
     </p></td>
@@ -2322,13 +2323,18 @@ I will sing of the mercies of the Lord forever
 <br>你的信實直到永遠萬代。
 <br>
 <br>我要唱耶和華的大慈愛到永遠，
-<br>我要唱，我要唱，
-<br>我要唱耶和華的大慈愛到永遠，
-我要唱耶和華的大慈愛。
+<br>我要唱耶和華的大慈愛。
 </p></td>
   </tr>
 </tbody>
 </table>
+
+
+
+
+
+
+
 
 
 # 36. In Christ alone
