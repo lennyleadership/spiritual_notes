@@ -4084,7 +4084,7 @@ When I look into Your holiness
 <br>The reason I live is to worship You</i>
     </p></td>
     <td style = "border-style: none"><p>
-<br>每当我瞻仰祢至圣荣面
+每当我瞻仰祢至圣荣面
 <br>每当我在爱中仰望祢
 <br>在祢荣耀光中
 <br>所有一切都失去光彩
@@ -4094,13 +4094,13 @@ When I look into Your holiness
 <br>在祢荣耀光中
 <br>所有一切都失去光彩
 <br>
-<br><br>[合唱]
+<br><i>[合唱]
 <br>我敬拜祢，
 <br>我敬拜祢
 <br>我一生活著为要敬拜祢
 <br>我敬拜祢，
 <br>我敬拜祢
-<br>我一生活著为要敬拜祢
+<br>我一生活著为要敬拜祢</i>
     </p></td>
   </tr>
 </tbody>
