@@ -2619,7 +2619,7 @@ How great the chasm that lay between us
   </p>
   </td>
   <td style = "border-style: none">
-  <p>陛下
+  <p>敬拜主
   </p>  
   </td>
   </tr>
@@ -2636,15 +2636,15 @@ Majesty, worship His Majesty
 <br>King of all Kings
     </p></td>
     <td style = "border-style: none"><p>
-陛下，敬拜他的陛下
-<br>一切荣耀、尊贵和赞美都归于耶稣。 
-<br>威严，国度的权威，
-<br>从祂的宝座流向祂自己的宝座，祂的颂歌响起。 
-<br>所以高举，高举耶稣的名。 
-<br>放大，来荣耀君王基督耶稣。 
-<br>陛下，敬拜陛下，
-<br>死去的耶稣，现在荣耀，
-<br>万王之王！    
+敬拜主，敬拜全能的主，
+<br>榮耀能力，一切讚美都歸給祂。
+<br>敬拜主，敬拜權柄的主，
+<br>從祂寶座能力流出，流到萬民。
+<br>來高舉，一同高舉，主耶穌聖名，
+<br>來彰顯，一同彰顯，耶穌榮耀王。
+<br>敬拜主，敬拜尊貴的主，
+<br>祂曾捨命，今得榮耀，
+<br>萬王之王。
 </p></td>
   </tr>
 </tbody>
@@ -2664,7 +2664,7 @@ Meekness and majesty
   </td>
   <td style = "border-style: none">
   <p>
-温柔与威严
+榮耀主竟屈尊
   </p>  
   </td>
   </tr>
@@ -2698,36 +2698,32 @@ Meekness and majesty
 <br>Lifts our humanity to the heights of His throne
     </p></td>
     <td style = "border-style: none"><p>
-温柔与威严
-<br>人性和神性 
-<br>完美和谐 上帝之人
-<br>永恒之主 
-<br>住在人性中 
-<br>谦卑地跪下 洗我们的脚
+柔和謙卑的人，竟是威嚴真神，
+<br>上帝親成為人，
+<br>耶穌是上帝；
+<br>永恆不滅的主，
+<br>降臨人間居住，
+<br>為人謙卑洗腳，竟屈尊下跪。
 <br>
-<br><i>[合唱]  
-<br>哦，多么神秘 
-<br>温柔与威严 
-<br>低头敬拜 
-<br>因为这是你的上帝</i> 
-
-
+<br><i>[合唱]
+<br>噢，榮耀主
+<br>竟屈尊，奧秘奇妙高深！
+<br>屈膝敬拜祂，
+<br>神！我們的神！</i>
 <br>
-<br>父亲纯洁的光芒 
-<br>天真无邪 
-<br>却爱服从 死在十字架上
-<br>苦难给了我们生命 
-<br>以牺牲取胜 
-<br>当他们被钉在十字架上时，祈祷的“天父宽恕”
-
-
+<br>祂是天父光華，
+<br>完善、清潔、無瑕，
+<br>竟學謙卑、順服，被釘在十架；
+<br>受難，親賜生命；
+<br>受死，犧牲得勝，
+<br>使殘害祂的人，求天父赦免。
 <br>
-<br>智慧不可测度 
-<br>看不见的上帝 
-<br>爱坚不可摧 在虚弱出现
-<br>无限之王 
-<br>停的那么温柔 
-<br>将我们的人性提升到他宝座的高度
+<br>智慧深奧難尋，
+<br>眼看不見的神，
+<br>永不熄滅的愛，藏卑微肉身；
+<br>無限高超的神，
+<br>降世屈尊為人，
+<br>使人類得尊貴，藉祂登寶座。
     </p></td>
   </tr>
 </tbody>
@@ -2746,7 +2742,8 @@ My heart is filled with thankfulness  </p>
   </td>
   <td style = "border-style: none">
   <p>
-我的心充满了感恩  </p>  
+我的心充满了感恩
+  </p>  
   </td>
   </tr>
   <tr>
@@ -2779,32 +2776,33 @@ My heart is filled with thankfulness
 <br>To love and follow Him
     </p></td>
     <td style = "border-style: none"><p>
-我的心充满了感恩 
-<br>为祂担当我的痛苦； 
-<br>谁深入我的耻辱 
-<br>又给了我生命； 
-<br>谁粉碎了我罪恶的诅咒 
-<br>让我披上他的光 
-<br>并写下了他的公义律法 
-<br>用力量在我的心上。
+我的心充滿了感恩，
+<br>因主擔我痛苦；
+<br>祂知我羞恥極其深，
+<br>賜恩使我重生；
+<br>祂摧毀我罪惡咒詛，
+<br>給我披上真光，
+<br>將公義律法書我心，
+<br>祂能力改變我。
 <br>
-<br>我的心充满了感恩 
-<br>对在旁边行走的祂； 
-<br>谁用力量淹没我的弱点 
-<br>并使恐惧飞扬； 
-<br>谁的承诺就足够了 
-<br>对于我迈出的每一步， 
-<br>用爱的臂膀支撑着我 
-<br>并以恩典加冕我。
+<br>我的心充滿了感恩，
+<br>因主伴我同行，
+<br>祂力量勝過我軟弱，
+<br>驅逐我心懼怕；
+<br>祂已賜下充足應許，
+<br>助我行每一步。
+<br>以慈愛膀臂扶持我，
+<br>賜我恩典冠冕。
 <br>
-<br>我的心充满了感恩 
-<br>对在上掌权的， 
-<br>谁的智慧是我完美的平安， 
-<br>谁的每一个想法都是爱。 
-<br>我在地球上的每一天 
-<br>由国王赐予； 
-<br>所以我会献出我的生命，我的一切，
-<br>去爱他并跟随他。    </p></td>
+<br>我的心充滿了感恩，
+<br>致我天上君王；
+<br>祂智慧是我真平安，
+<br>祂心意滿慈愛；
+<br>因我世上每個日子，
+<br>皆我王所賞賜。
+<br>獻上我生命、我一切，
+<br>愛慕主、跟隨主。
+    </p></td>
   </tr>
 </tbody>
 </table>
@@ -2817,11 +2815,11 @@ My heart is filled with thankfulness
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>My Tribute
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>我心獻曲
   </p>  
   </td>
   </tr>
@@ -2889,11 +2887,13 @@ How can I say thanks
   <tr>
   <td style = "border-style: none">
   <p>
-Never in a million years  </p>
+Never in a million years
+  </p>
   </td>
   <td style = "border-style: none">
   <p>
-一百万年都不会   </p>  
+不曾有过这样的事情
+  </p>  
   </td>
   </tr>
   <tr>
@@ -2919,21 +2919,23 @@ Have you ever wondered why the Savior came
     <td style = "border-style: none"><p>
 你有没有想过，为什么救主
 <br>从天上来到人间，要死在耻辱的十字架上？
-<br>你有没有想过他为什么要付出代价？ 
-<br>为什么他把髑髅地当作罪人的祭物 
+<br>你有没有想过他为什么付出生命的代价？ 
+<br>为什么他在加利利山上要成为罪人的祭物 
 <br>
 <br><i>[合唱] 
-<br>一百万年都不会，如果那是
-<br>我们能知道他为什么
+<br>不曾有过这样的事情
+<br>我们不知道他
 <br>在十字架上为你我受苦的原因
 <br>那天他甘愿受死 
 <br>为除去我们的罪孽而死 
-<br>但一百万年我们都不会理解 这样的爱！</i> 
+<br>但不曾有过这样的事情，
+<br>我们不会理解这样的爱！</i> 
 <br>
-<br>不，我们无法理解耶稣为何关心 
-<br>为什么他成为我们的朋友和我们的悲伤 
-<br>哦，秘密将留在天上的上帝 
-<br>但我们可以赞美他的名字，因为爱的奇迹
+<br>不，我们无法理解耶稣为何在乎
+<br>为什么他成为我们的朋友
+<br>分担我们的悲伤 
+<br>噢，上帝才知道这个秘密 
+<br>但我们为奇妙的爱赞美他的名。
 </p></td>
   </tr>
 </tbody>
@@ -2952,7 +2954,7 @@ Oh, how He loves you and me  </p>
   </td>
   <td style = "border-style: none">
   <p>
-哦，他多么爱你和我  </p>  
+哦，祂何等爱你和我  </p>  
   </td>
   </tr>
   <tr>
@@ -2972,19 +2974,19 @@ Oh, how He loves you and me
 <br>Oh, how he loves you and me
     </p></td>
     <td style = "border-style: none"><p>
-哦，他多么爱你和我， 
-<br>哦，他多么爱你和我。
-<br>他付出了自己的生命，还能付出什么？
-<br>哦，他多么爱你；
-<br>哦，他多么爱我；
-<br>哦，他多么爱你和我。
+哦，祂何等爱你和我， 
+<br>哦，祂何等爱你和我。
+<br>祂付出了自己的生命，还能付出什么？
+<br>哦，祂何等爱你；
+<br>哦，祂何等爱我；
+<br>哦，祂何等爱你和我。
 <br>
-<br>耶稣确实去了髑髅地，
+<br>耶稣曾到加略山，
 <br>向罪人表明祂的爱。
-<br>他在那里所做的一切从绝望中带来了希望。
-<br>哦，他多么爱你；
-<br>哦，他多么爱我；
-<br>哦，他多么爱你和我。
+<br>祂在那里所做的一切从绝望中带来了希望。
+<br>哦，祂何等爱你；
+<br>哦，祂何等爱我；
+<br>哦，祂何等爱你和我。
 </p></td>
   </tr>
 </tbody>
@@ -3041,7 +3043,7 @@ Speak, O Lord
   </td>
   <td style = "border-style: none">
   <p>
-主啊，请说话
+主啊，请说
   </p>  
   </td>
   </tr>
@@ -3075,32 +3077,33 @@ Speak, O Lord, as we come to You
 <br>And the earth is filled with Your glory
     </p></td>
     <td style = "border-style: none"><p>
-主啊，当我们来到你面前时请说话 
-<br>领受你圣言的食粮 
-<br>接受你的真理，将它深深植根于我们心中 
-<br>以你的模样塑造我们
-<br>使基督的光在今天得以显现 
-<br>在我们的爱心行为和信仰行为中 
-<br>主啊，请说话，在我们里面成全 
-<br>你一切的旨意都是为了你的荣耀
+主啊，請說，當我就近祢，
+<br>領受祢聖言，成為我靈糧，
+<br>求真理植根於我心，
+<br>陶造和雕琢，更像我恩主。
+<br>藉愛心行為和信心見證，
+<br>彰顯基督真光照亮世人間，
+<br>懇求主，在我生命中，
+<br>榮耀、成全祢美善的旨意。
 <br>
-<br>教导我们主，完全顺服 
-<br>神圣的敬畏，真正的谦卑 
-<br>考验我们的思想和态度 
-<br>在你纯洁的光辉中
-<br>使我们的信心上升，使我们的眼睛看见 
-<br>你伟大的爱和权柄 
-<br>永远不会失败的力量之言 
-<br>让他们的真理战胜不信
+<br>主教導，全然地信服，
+<br>聖潔的虔敬，純正的謙卑，
+<br>在祢晈潔的聖光中，
+<br>鑒察我一切的心思意念。
+<br>使信心增長，視線更注目，
+<br>祢無比的愛和尊榮的權柄，
+<br>全備聖言永不落空，
+<br>真理必征服不足的信心。
 <br>
-<br>主啊，请说话，更新我们的心意 
-<br>帮助我们掌握你为我们制定的计划的高度 
-<br>从时间的黎明不变的真理 
-<br>那将在永恒中回响
-<br>靠着恩典，我们会信守你的诺言 
-<br>凭着信心，我们会像你与我们同行一样 
-<br>说话，主啊，直到你的教会被建造
-<br>大地充满你的荣耀
+<br>主啊，請說，更新堅定我，
+<br>容我們追隨祢崇高旨意，
+<br>從亙古真理永不變，
+<br>仍在永世裡，
+<br>迴響再迴響。
+<br>靠恩典，我們信守祢應許，
+<br>憑信心，我們與祢每步同行，
+<br>主啊，請說，建立祢教會，
+<br>直到全地充滿祢的榮光。
     </p></td>
   </tr>
 </tbody>
@@ -3148,20 +3151,26 @@ To God be the glory great things He has done
 <br>Our wonder our worship when Jesus we see
     </p></td>
     <td style = "border-style: none"><p>
-荣耀归于真神，祂成就大事，为爱世人甚至赐下独生子，
-<br>献上他生命为人赎罪受害，永生门已大开，人人可进来。
-<br>
-<br>救命宝血，何等全备救恩，真神应许赐给凡信他的人；
-<br>罪人中之罪魁北克真心相信，一信靠主就必得赦罪之恩恩。
-<br>
-<br>父神启示真理，他成就大事，借圣子耶稣我们欢欣无比，
-<br>将来见主面我们必更便宜，何等奇妙改变，更纯洁无瑕。
+荣耀归于真神，祂成就大事，
+<br>为爱世人甚至赐下独生子，
+<br>献上他生命为人赎罪受害，
+<br>永生门已大开，人人可进来。
 <br>
 <br><i>[合唱]
 <br>赞美主，赞美主，全地聆听主声；
 <br>赞美主，赞美主，万民快乐欢欣；
 <br>请来借圣子耶稣来到父前，
 <br>荣耀归主，祂已成就大事工。</i>
+<br>
+<br>救命宝血，何等全备救恩，
+<br>真神应许赐给凡信他的人；
+<br>罪人中之罪魁北克真心相信，
+<br>一信靠主就必得赦罪之恩恩。
+<br>
+<br>父神启示真理，他成就大事，
+<br>借圣子耶稣我们欢欣无比，
+<br>将来见主面我们必更便宜，
+<br>何等奇妙改变，更纯洁无瑕。
     </p></td>
   </tr>
 </tbody>
@@ -3181,7 +3190,7 @@ The love of God
   </td>
   <td style = "border-style: none">
   <p>
-上帝的爱
+上帝之爱
   </p>  
   </td>
   </tr>
@@ -3191,6 +3200,7 @@ The love of God is greater far
 <br>Than tongue or pen can ever tell
 <br>It goes beyond the highest star
 <br>And reaches to the lowest hell
+<br>
 <br>The guilty pair, bowed down with care
 <br>God gave His Son to win
 <br>His erring child He reconciled
@@ -3221,38 +3231,40 @@ The love of God is greater far
 <br>Though stretched from sky to sky
     </p></td>
     <td style = "border-style: none"><p>
-上帝的爱远超
-<br>  语言或笔所能表达的。
-<br>它超越了最高的星星
-<br>  到达了最低的地狱。
-<br>有罪的一对，小心地跪下，
-<br>  上帝赐下他的儿子来赢取；
-<br>他犯错的孩子，他和好
-<br>  并赦免了他的罪。
+上帝之爱伟大无穷
+<br>口舌笔墨难以形容
+<br>高超诸星深达地狱
+<br>长宽高深世无相同
 <br>
-<br><i>[合唱] 	
-<br>天主的爱，何其丰盛纯洁！
-<br>  多么强大！
-<br>它将永远长存——
-<br>  圣徒和天使的歌声。
+<br>始祖犯罪堕入引诱
+<br>圣洁爱子拯救
+<br>使我罪人与神和好
+<br>赦免一切罪尤
 <br>
-<br>当苍白的时光消逝，
-<br>  尘世的宝座和王国陨落；
-<br>当这里拒绝祈祷的人，
-<br>  在岩石、丘陵和山脉上呼唤；
-<br>上帝的爱，如此肯定，仍将长存，
-<br>  无限而强大；
+<br><i>[合唱]
+<br>噢，上帝之爱 何等丰富
+<br>伟大无限无量
+<br>永远坚定 永远不变
+<br>天使圣徒颂扬</i>
+<br>
+<br>在时光的尽头，
+<br>尘世的宝座和王国陨落；
+<br>那些拒绝祈祷的人，
+<br>在岩石、丘陵和山脉上呼唤的时候；
+<br>上帝的爱依然长存，
+<br>无限而强大；
 <br>救赎亚当族类的恩典——
-<br>  圣徒和天使之歌。
+<br>天使圣徒颂扬。
 <br>
-<br>我们能否用墨水填满海洋，
-<br>  而天空是用羊皮纸制成的；
-<br>如果地球上的每一根茎杆都是一根羽毛笔，
-<br>  每个人都是一个职业的抄写员；
-<br>将神的爱写在天上
-<br>  会把海洋干涸；
-<br>卷轴也不能包含全部，
-<br>  尽管从天空延伸到天空。
+<br>天上诸天当为纸张
+<br>地下万茎当为笔杆
+<br>世上海洋当为墨水
+<br>全球文人集体苦干
+<br>
+<br>耗尽智力描写神爱
+<br>海洋墨水会干
+<br>案卷虽长如天连天
+<br>仍难表达透畅
     </p></td>
   </tr>
 </tbody>
@@ -3349,7 +3361,7 @@ The Servant King
   </td>
   <td style = "border-style: none">
   <p>
-来自天堂，你是无助的宝贝
+义仆君王
   </p>  
   </td>
   </tr>
@@ -3383,32 +3395,32 @@ From heaven you came helpless babe
 <br>For it is Christ we're serving
     </p></td>
     <td style = "border-style: none"><p>
-来自天堂，你是无助的宝贝 
-<br>进入我们的世界，你的荣耀被遮掩 
-<br>不是被服侍而是服侍 
-<br>并献上你的生命，使我们可以活下去
+你道成肉身为人子，
+<br>隐藏荣耀甘心入世，
+<br>谦卑舍己服事人，
+<br>因你所赐我得永生。
 <br>
 <br><i>[合唱]
-<br>这是我们的上帝，
-<br>仆人国王 
-<br>他现在呼召我们跟随他 
-<br>把我们的生命当作每日的供物 
-<br>对仆人国王的崇拜</i>
+<br>这是我神，
+<br>仆人君王，
+<br>他召我现在跟随他，
+<br>领我生命每一日献上自己，
+<br>敬拜这位仆人君王。</i>
 <br>
-<br>在眼泪的花园里 
-<br>他选择背负我的重担 
-<br>他的心被悲伤撕裂了  
-<br>“但不是我的意愿，而是你的”，他说
+<br>在那流泪园子里，
+<br>我的重担他全背起，
+<br>祂悲痛流下泪说，
+<br>惟照你旨不照我意。
 <br>
-<br>来看看他的手和他的脚 
-<br>诉说牺牲的伤痕 
-<br>将星星抛向太空的手 
-<br>向残忍的钉子投降
+<br>来，看他手脚钉痕，
+<br>只要能够明白他的救恩，
+<br>造穹苍星辰的手，
+<br>甘心被钉为我受苦。
 <br>
-<br>所以让我们学习如何服侍 
-<br>在我们的生活中让他登基  
-<br>彼此的需要 偏爱 
-<br>因为我们所侍奉的是基督
+<br>让我们学习为何样式，
+<br>生活举止以主为是，
+<br>彼此所需替代，
+<br>为着基督我们服事。
     </p></td>
   </tr>
 </tbody>
@@ -3428,7 +3440,7 @@ The steadfast love of the Lord
   </td>
   <td style = "border-style: none">
   <p>
-神爱滔滔不绝
+主爱永不变
   </p>  
   </td>
   </tr>
@@ -3442,8 +3454,8 @@ The steadfast love of the Lord never ceases
 <br>Great is your faithfulness
     </p></td>
     <td style = "border-style: none"><p>
-神爱滔滔不绝水证潮涌，
-<br>神爱无限，怜惜没有变迁；
+主爱滔滔不绝水证潮涌，
+<br>主爱无限，怜惜没有变迁；
 <br>永远都不会动摇，开始终不会改变，
 <br>恩主的信实似高天，
 <br>深恩广偏万里。
@@ -3593,35 +3605,31 @@ Thanks, O God, for boundless mercy
 <br>And for all eternity
     </p></td>
     <td style = "border-style: none"><p>
-1感谢神赐我救赎主
-<br>感谢神丰富预备
-<br>感谢神过去的同在
-<br>感谢神主在我旁
+为无边的怜悯感谢上帝
+<br>这怜悯从施恩座而来
+<br>为需要蒙眷顾感谢上帝
+<br>这眷顾从祂丰富的爱而来
+<br>为白天的劳作感谢上帝
+<br>为夜晚的栖息感谢上帝
+<br>为朋友邻里的爱感谢上帝
+<br>为你预备给我们的好处感谢上帝
 <br>
-<br>感谢神赐温暖春天
-<br>感谢神凄凉秋景
-<br>感谢神抹干我眼泪
-<br>感谢神赐我安宁
+<br>为荆棘和玫瑰感谢上帝
+<br>为体弱和健康感谢上帝
+<br>为乌云和阳光感谢上帝
+<br>为缺乏和富足感谢上帝
+<br>为痛苦和喜乐感谢上帝
+<br>为你每日供应的话语感谢上帝
+<br>这宝贵的灵粮
+<br>照亮前面的道路
 <br>
-<br>2感谢神祷告蒙应允
-<br>感谢神未蒙垂听
-<br>感谢神我曾经风暴
-<br>感谢神丰富供应
-<br>
-<br>感谢神赐我苦与乐
-<br>在绝望里得安慰
-<br>感谢神赐无限恩典
-<br>感谢神无比慈爱
-<br>
-<br>3感谢神赐路旁玫瑰
-<br>感谢神玫瑰有刺
-<br>感谢神赐家庭温暖
-<br>感谢神有福盼望
-<br>
-<br>感谢神赐喜乐忧愁
-<br>感谢神属天平安
-<br>感谢神赐明天盼望
-<br>要感谢直到永远
+<br>为住处和家人感谢上帝
+<br>一家人在一起得到饱足
+<br>为每天路上的顺利感谢上帝
+<br>为灵魂得到喂养感谢上帝
+<br>为忧伤时得到你的慈爱感谢上帝
+<br>为无价的喜乐和平安感谢上帝
+<br>为今天、明天、将来的盼望感谢上帝
     </p></td>
   </tr>
 </tbody>
@@ -3659,7 +3667,7 @@ There is a redeemer
 <br>
 <br><i>Chorus
 <br>Thank you, oh my Father
-<br>For giving us Your Son
+<br>For giving <u class = "red">us</u> Your Son
 <br>And leaving Your Spirit
 <br>'Til the work on Earth is done</i>
 <br>
@@ -3671,24 +3679,24 @@ There is a redeemer
     <td style = "border-style: none"><p>
 有一位救主
 <br>是神子耶酥
-<br>宝贵羔羊，主弥赛亚
+<br>宝贵羔羊，祂是弥赛亚
 <br>圣洁无瑕
 <br>
-<br>耶稣我救主
-<br>是我心所慕宝贝
-<br>宝贵羔羊，主弥赛亚
+<br>耶稣，我救主
+<br>超乎万名之上
+<br>宝贵羔羊，祂是弥赛亚
 <br>为我罪受死
 <br>
 <br><i>[合唱]
-<br>感谢阿爸天父
-<br>赐我们主耶稣
+<br>感谢你，噢，我们的天父
+<br>赐你儿子给我们
 <br>并赐圣惠师
-<br>直达我们见主面</i>
+<br>直到我们见主面</i>
 <br>
 <br>当我在荣耀中
 <br>我见主荣耀面
-<br>我想服事主到永远
-<br>在圣洁之处
+<br>在那里我要永远服事你
+<br>那个圣洁之处
     </p></td>
   </tr>
 </tbody>
@@ -3708,7 +3716,7 @@ There was no other way
   </td>
   <td style = "border-style: none">
   <p>
-没有别的办法
+别无它法
   </p>  
   </td>
   </tr>
@@ -3741,28 +3749,28 @@ Before the stars were hung or planets fashioned
 <br>This is the message all the world must hear
     </p></td>
     <td style = "border-style: none"><p>
-在星星被悬挂或行星被塑造之前 
-<br>在粘土被制成人之前 
-<br>基督是上帝为罪人献上的羔羊 
+在宇宙穹苍被造之前 
+<br>在上帝用泥土造人之前 
+<br>基督成为赎罪的羔羊献给上帝 
 <br>这是救赎的唯一计划 
 <br>
 <br><i>[合唱]
-<br>慈爱的上帝别无他法 
-<br>使世界和好并拯救失丧的人类 
-<br>将祂自己的儿子死在木头上 
-<br>除了各各他别无他法</i> 
+<br>慈爱的上帝没有其它办法 
+<br>使世界与上帝和好并拯救失丧的人类 
+<br>唯有将祂自己的儿子钉死在十架上 
+<br>除了十字架，别无他法</i> 
 <br>
 <br>全世界的财富都无法救赎我们 
 <br>我们软弱的行为也无法救赎我们——代价如此之大 
 <br>我们唯一的希望在于耶稣的宝血 
-<br>他为我们流出牺牲的宝血 
+<br>祂为我们牺牲，流出的宝血 
 <br>
-<br>所以，朋友，如果你能找到通往天堂的道路 
+<br>所以，朋友，如果你要找一条通往天堂的道路 
 <br>如果你能从罪孽中得到自由 
-<br>接受上帝提供的唯一道路 
-<br>各各他伟大的救赎工作 
+<br>那就是接受上帝提供的唯一道路 
+<br>加略山上伟大的救赎工作 
 <br>
-<br>无论他带我到哪里，我都必须传扬福音 
+<br>无论祂带我到哪里，我都必须传扬福音 
 <br>远近传扬福音 
 <br>道路、真理、生命都在耶稣里
 <br>这是全世界都必须听到的信息
@@ -3779,11 +3787,11 @@ Before the stars were hung or planets fashioned
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>There’s just something about that name
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>這名何等奇妙難言
   </p>  
   </td>
   </tr>
@@ -3799,14 +3807,14 @@ Jesus, Jesus, Jesus
 <br>But there's something about that name
     </p></td>
     <td style = "border-style: none"><p>
-耶稣。耶稣。耶稣。
-<br>这个名字有些东西。
-<br>主人。救主。耶稣。
+耶稣，耶稣，耶稣。
+<br>這名何等奇妙難言。
+<br>主人，救主，耶稣。
 <br>就像雨后的芬芳。
-<br>耶稣。耶稣。耶稣。
+<br>耶稣，耶稣，耶稣。
 <br>让整个天地都宣扬。
 <br>国王和王国都会过去。
-<br>但是这个名字有些东西。
+<br>唯有這名何等奇妙難言。
     </p></td>
   </tr>
 </tbody>
@@ -3897,11 +3905,11 @@ This is my Father's world
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>What a friend we have in Jesus
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>耶稣良友
   </p>  
   </td>
   </tr>
@@ -3970,7 +3978,15 @@ What a friend we have in Jesus
 <br>來到主恩座前求
 <br>在主懷中必蒙護佑
 <br>與主同在永無憂
-<br>耶穌是我親愛朋友
+<br>
+<br>宝贵救主，你已应许
+<br>你要负担我的重担
+<br>我要籍殷切祷告
+<br>把一切交予恩主
+<br>愿不久将烟消云散
+<br>从此不再需要祷告
+<br>愿被提、赞美、无尽的敬拜
+<br>成为我们的职分
     </p></td>
   </tr>
 </tbody>
@@ -3984,11 +4000,11 @@ What a friend we have in Jesus
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p> What grace is mine
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>何等恩典
   </p>  
   </td>
   </tr>
@@ -4011,21 +4027,21 @@ What grace is mine that He who dwells in endless light
 <br>My Saviour lives and reigns forevermore
     </p></td>
     <td style = "border-style: none"><p>
-居住在无尽光明中的他对我有何恩典 
-彻夜呼唤寻找我遥远的灵魂 
-从他的伤疤中涌出怜悯，为我祈求 
-我可以活着并以他的名义被人知道
-
-<i>[合唱]
-所以我会去他呼唤我的任何地方 
-我失去我的生命以在他里面找到我的生命 
-我付出我的一切来获得永不消逝的希望 
-我低下我的心背起我的十字架跟随他</i>
-
-知道祂的气息在我里面活泼是我的恩典 
-在他的翅膀下，我苏醒的灵魂可以翱翔 
-所有的恐惧都可以逃离，因为死亡的黑夜已被克服 
-我的救主活着，永远掌权
+我有何等恩典，居住在无尽光明中的祂竟然 
+<br>呼唤、寻找在暗处的灵魂 
+<br>从他的鞭伤中涌出怜悯，为我祈求 
+<br>奉祂的名，祂认识我，让我活着
+<br>
+<br><i>[合唱]
+<br>所以祂叫我去哪，我就去哪 
+<br>我失丧生命，得以在祂里面找到生命 
+<br>我献上一切来获得永不消逝的希望 
+<br>我谦卑，来背起我的十字架跟随他</i>
+<br>
+<br>我有何等恩典，祂住在我里面 
+<br>在他的翅膀下，我苏醒的灵魂可以翱翔 
+<br>所有的恐惧都可以逃离，因为死亡的黑夜已被克服 
+<br>我的救主活着，永远掌权
     </p></td>
   </tr>
 </tbody>
@@ -4039,11 +4055,11 @@ What grace is mine that He who dwells in endless light
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>When I look into Your holiness
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>每当我瞻仰祢
   </p>  
   </td>
   </tr>
@@ -4053,35 +4069,38 @@ When I look into Your holiness
 <br>When I gaze into Your loveliness
 <br>When all things that surround become shadows
 <br>In the light of You
+<br>
 <br>When I've found the joy of reaching Your heart
 <br>When my will becomes enthroned in Your love
 <br>When all things that surround become shadows
 <br>In the light of You
+<br>
+<br><i>Chorus
 <br>I worship You
 <br>I worship You
 <br>The reason I live is to worship You
 <br>I worship You
 <br>I worship You
-<br>The reason I live is to worship You
+<br>The reason I live is to worship You</i>
     </p></td>
     <td style = "border-style: none"><p>
-当我注视你的圣洁 
-当我凝视你的可爱（你的可爱） 
-当周围的一切都变成影子 
-在你的光中（在你的光中）
-当我找到触及你心的喜悦 (触及你的心) 
-当我的意志在你的爱中成为王座（在你的爱中登基） 
-当周围的一切都变成影子 
-在你的光中
-我崇拜你 
-我崇拜你（我崇拜你） 
-我活着的理由（我活着的理由是敬拜你）（崇拜你） 
-我崇拜你（你是我的神） 
-我崇拜你（你） 
-我活着的理由是敬拜你
-我崇拜你（你是我的神） 
-我崇拜你（你） 
-我活着的理由是敬拜你
+<br>每当我瞻仰祢至圣荣面
+<br>每当我在爱中仰望祢
+<br>在祢荣耀光中
+<br>所有一切都失去光彩
+<br>
+<br>何等喜乐当我进入祢心意
+<br>我全心成为祢爱的宝座
+<br>在祢荣耀光中
+<br>所有一切都失去光彩
+<br>
+<br><br>[合唱]
+<br>我敬拜祢，
+<br>我敬拜祢
+<br>我一生活著为要敬拜祢
+<br>我敬拜祢，
+<br>我敬拜祢
+<br>我一生活著为要敬拜祢
     </p></td>
   </tr>
 </tbody>
