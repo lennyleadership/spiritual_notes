@@ -4266,11 +4266,11 @@ Let the beauty of Jesus be seen in me
 <tbody VALIGN=TOP>
   <tr>
   <td style = "border-style: none">
-  <p>
+  <p>Amazing Grace
   </p>
   </td>
   <td style = "border-style: none">
-  <p>
+  <p>奇异恩典
   </p>  
   </td>
   </tr>
@@ -4414,10 +4414,10 @@ O Christ, what burdens bow'd Thy head!
     <td style = "border-style: none"><p>
 哦基督，何等的重担使你垂下了头！
   我们的重担放在你身上；
-你站在罪人的立场上，
-  为我忍受了所有的病痛。
-受害人领导；你的血流了；
-  现在我没有负担了。
+你替罪人，
+  忍受了所有的病痛。
+代罪人死了；你的血流了；
+  现在我没有重担了。
 
 基督啊，我们的杯中有死亡和咒诅，
   为你满了！
