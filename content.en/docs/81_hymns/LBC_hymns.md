@@ -4510,7 +4510,7 @@ When my life work is ended, and I cross the swelling tide,
 <br>By the print of the nails in His hand.
     </p></td>
     <td style = "border-style: none"><p>
-当我毕生的事业结束，渡过汹涌的潮水
+当我毕生的事业结束，就要渡过汹涌的潮水
 <br>当我将看到明亮而辉煌的早晨
 <br>当我到达彼岸时，我将知道我的救赎
 <br>他的微笑将是第一个欢迎我的人
