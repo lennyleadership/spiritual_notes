@@ -4740,7 +4740,7 @@ Life is easy when you're up on the mountain
 <br>太轻巧
 <br>在人生低落的时候
 <br>才是考验信靠的机会
-</div>
+  </div>
 </div>
 
 <div class = "row">
@@ -4761,6 +4761,7 @@ Life is easy when you're up on the mountain
 <br>白天的上帝仍然是夜晚的上帝。</i> (2X)
   </div>
 </div>
+<br><br>
 
 # 70. In shady green pastures 
 <table>
