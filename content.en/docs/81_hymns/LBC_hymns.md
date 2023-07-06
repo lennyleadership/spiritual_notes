@@ -4691,6 +4691,7 @@ Life is easy when you're up on the mountain
 </tbody>
 </table>
 
+<p>
 <div class ="column_left">
 Life is easy when you're up on the mountain
 <br>And you've got peace of mind like you've never known.
@@ -4716,8 +4717,8 @@ Life is easy when you're up on the mountain
 <br>但是，当你跌入山谷的时候，今非昔比。
 <br>不要失去信心，因为你永远不会孤单。
 </div>
+</p>
 
-<br>
 
 # 70. In shady green pastures 
 <table>
