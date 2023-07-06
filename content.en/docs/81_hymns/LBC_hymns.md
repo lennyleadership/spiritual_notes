@@ -4648,6 +4648,7 @@ Life is easy when you're up on the mountain
 <br>Is still God in the bad times.
 <br>The God of the day is still God in the night.</i>
 <br>
+<br>2
 <br>You talk of faith when you're up on the mountain.
 <br>Oh but the talk comes easy when life's at its best.
 <br>But it's down in the valley of trials and temptation
@@ -4673,6 +4674,7 @@ Life is easy when you're up on the mountain
 <br>仍然是逆境中的上帝。
 <br>白天的上帝仍然是夜晚的上帝。</i>
 <br>
+<br>2
 <br>一帆风顺时谈信靠
 <br>太轻巧
 <br>在人生低落的时候
@@ -4688,6 +4690,13 @@ Life is easy when you're up on the mountain
   </tr>
 </tbody>
 </table>
+
+<div class ="column_left">
+test1
+</div>
+<div class ="column_right">
+test2
+</div>
 
 
 # 70. In shady green pastures 
@@ -4718,16 +4727,19 @@ In shady, green pastures, so rich and so sweet,
 <br>Some through great sorrow, but God gives a song,
 <br>In the night season and all the day long.</i>
 <br>
+<br>2
 <br>Sometimes on the mount where the sun shines so bright,
 <br>God leads His dear children along;
 <br>Sometimes in the valley, in darkest of night,
 <br>God leads His dear children along.
 <br>
+<br>3
 <br>Though sorrows befall us and Satan oppose,
 <br>God leads His dear children along;
 <br>Through grace we can conquer, defeat all our foes,
 <br>God leads His dear children along.
 <br>
+<br>4
 <br>Away from the mire, and away from the clay,
 <br>God leads His dear children along;
 <br>Away up in glory, eternity’s day,
@@ -4745,16 +4757,19 @@ In shady, green pastures, so rich and so sweet,
 <br>有人经历过巨大的悲伤， 但上帝赐予一首歌， 
 <br>在夜晚的时候和白天。</i> 
 <br>
+<br>2
 <br>有时在阳光明媚的山上， 
 <br>神一路带领祂亲爱的儿女； 
 <br>有时在山谷中，在最黑暗的夜晚， 
 <br>神一路带领祂亲爱的儿女。 
 <br>
+<br>3
 <br>尽管悲伤临到我们，邪恶反对我们， 
 <br>神一路带领祂亲爱的儿女； 
 <br>靠着恩典我们可以征服，打败我们所有的敌人，
 <br>神一路带领祂亲爱的儿女
 <br>
+<br>4
 <br>远离沼泽，远离泥泞
 <br>神一路带领祂亲爱的儿女
 <br>领他们进入荣耀，进入永生
