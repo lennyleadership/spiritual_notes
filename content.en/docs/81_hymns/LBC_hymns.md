@@ -4641,22 +4641,24 @@ Life is easy when you're up on the mountain
 <br>But then things change and you're down in the valley.
 <br>Don't lose faith for you're never alone.
 <br>
+<br><i>Chorus
 <br>For the God on the mountain is still God in the valley.
 <br>When things go wrong, He'll make them right.
 <br>And the God of the good times
 <br>Is still God in the bad times.
-<br>The God of the day is still God in the night.
+<br>The God of the day is still God in the night.</i>
 <br>
 <br>You talk of faith when you're up on the mountain.
 <br>Oh but the talk comes easy when life's at its best.
 <br>But it's down in the valley of trials and temptation
 <br>That's when faith is really put to the test.
 <br>
+<br><i>Chorus
 <br>For the God on the mountain is still God in the valley.
 <br>When things go wrong, He'll make them right.
 <br>And the God of the good times
 <br>Is still God in the bad times.
-<br>The God of the day is still God in the night. (2X)
+<br>The God of the day is still God in the night.</i> (2X)
     </p></td>
     <td style = "border-style: none"><p>
 春风得意，志得意满的时候，
@@ -4664,15 +4666,25 @@ Life is easy when you're up on the mountain
 <br>但是，当你跌入山谷的时候，今非昔比。
 <br>不要失去信心，因为你永远不会孤单。
 <br>
-<br>因为山上的神依然是谷中的神。
+<br><i>[合唱]
+<br>得意时的神也是失落时的神。
 <br>当事与愿违时，祂有祂的美意。
 <br>顺境中的上帝
 <br>仍然是逆境中的上帝。
-<br>白天的上帝仍然是夜晚的上帝。
+<br>白天的上帝仍然是夜晚的上帝。</i>
 <br>
+<br>一帆风顺时谈信靠
+<br>太轻巧
+<br>在人生低落的时候
+<br>才是考验信靠的机会
 <br>
-<br>
-    </p></td>
+<br><i>[合唱]
+<br>得意时的神也是失落时的神。
+<br>当事与愿违时，祂有祂的美意。
+<br>顺境中的上帝
+<br>仍然是逆境中的上帝。
+<br>白天的上帝仍然是夜晚的上帝。</i> (2X)
+</p></td>
   </tr>
 </tbody>
 </table>
