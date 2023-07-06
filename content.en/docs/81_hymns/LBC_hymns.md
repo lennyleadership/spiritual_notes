@@ -4729,14 +4729,14 @@ Life is easy when you're up on the mountain
 </div>
 
 <div class = "row">
-  <div id = "column1">
+  <div class = "column_left">
 2
 <br>You talk of faith when you're up on the mountain.
 <br>Oh but the talk comes easy when life's at its best.
 <br>But it's down in the valley of trials and temptation
 <br>That's when faith is really put to the test.
   </div>
-  <div id = "column2">
+  <div class = "column_right">
 2
 <br>一帆风顺时谈信靠
 <br>太轻巧
