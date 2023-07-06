@@ -580,14 +580,8 @@ body[dir="rtl"] .book-menu {
 
 
 // two-column table *///////////////////////////////////////////////////////////////////////////////
-div {
-  float: left;
-  padding: 10 10px;
-   }
-
 .column_left1 {
   float: left;
-  padding: 20px;
   padding: 20px;
   width: 50%;
   background-color: #a1edcc;
@@ -595,7 +589,6 @@ div {
 
 .column_right1 {
   float: right;
-  padding: 20px;
   padding: 20px;
   width: 50%;
   background-color: #a0e9ed;
