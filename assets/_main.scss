@@ -584,18 +584,24 @@ div {
   float: left;
   padding: 10 10px;
    }
-      
-#column1 {
+
+.column_left1 {
+  float: left;
+  padding: 20px;
   padding: 20px;
   width: 50%;
   background-color: #a1edcc;
-  }
-      
-#column2 {
+}
+
+.column_right1 {
+  float: right;
+  padding: 20px;
   padding: 20px;
   width: 50%;
   background-color: #a0e9ed;
-  }
+
+}      
+
 
 // the end *****************************************************************************************
 
