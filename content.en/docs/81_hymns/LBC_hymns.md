@@ -4698,7 +4698,7 @@ Life is easy when you're up on the mountain
 <br>But then things change and you're down in the valley.
 <br>Don't lose faith for you're never alone.
 </div>
-<div class ="column_left">
+<div class ="column_right">
 春风得意，志得意满的时候，
 <br>从有过这般的无忧无虑。
 <br>但是，当你跌入山谷的时候，今非昔比。
@@ -4711,7 +4711,7 @@ Life is easy when you're up on the mountain
 <br>But then things change and you're down in the valley.
 <br>Don't lose faith for you're never alone.
 </div>
-<div class ="column_left">
+<div class ="column_right">
 春风得意，志得意满的时候，
 <br>从有过这般的无忧无虑。
 <br>但是，当你跌入山谷的时候，今非昔比。
