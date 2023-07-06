@@ -4718,6 +4718,7 @@ Life is easy when you're up on the mountain
 </div>
 
 <br>
+
 # 70. In shady green pastures 
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
