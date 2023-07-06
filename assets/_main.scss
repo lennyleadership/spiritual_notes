@@ -562,13 +562,13 @@ body[dir="rtl"] .book-menu {
 .column_left {
   float: left;
   padding: 20px; /* space between two tables*/
-  
+  width: 50%;
 }
 
 .column_right {
   float: right;
   padding: 20px; /* space between two tables*/
-  
+  width: 50%;
 }
 
 /* Clearfix (clear floats) */
