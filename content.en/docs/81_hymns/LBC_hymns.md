@@ -4717,6 +4717,7 @@ Life is easy when you're up on the mountain
 <br>不要失去信心，因为你永远不会孤单。
 </div>
 
+<br>
 # 70. In shady green pastures 
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
