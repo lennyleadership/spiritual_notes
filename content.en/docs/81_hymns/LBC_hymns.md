@@ -4692,12 +4692,30 @@ Life is easy when you're up on the mountain
 </table>
 
 <div class ="column_left">
-test1
+Life is easy when you're up on the mountain
+<br>And you've got peace of mind like you've never known.
+<br>But then things change and you're down in the valley.
+<br>Don't lose faith for you're never alone.
 </div>
-<div class ="column_right">
-test2
+<div class ="column_left">
+春风得意，志得意满的时候，
+<br>从有过这般的无忧无虑。
+<br>但是，当你跌入山谷的时候，今非昔比。
+<br>不要失去信心，因为你永远不会孤单。
 </div>
 
+<div class ="column_left">
+Life is easy when you're up on the mountain
+<br>And you've got peace of mind like you've never known.
+<br>But then things change and you're down in the valley.
+<br>Don't lose faith for you're never alone.
+</div>
+<div class ="column_left">
+春风得意，志得意满的时候，
+<br>从有过这般的无忧无虑。
+<br>但是，当你跌入山谷的时候，今非昔比。
+<br>不要失去信心，因为你永远不会孤单。
+</div>
 
 # 70. In shady green pastures 
 <table>
