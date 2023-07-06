@@ -4693,14 +4693,14 @@ Life is easy when you're up on the mountain
 
 
 <div class = "row">
-  <div id = "column1">
+  <div class = "column_left1">
 1
 <br>Life is easy when you're up on the mountain
 <br>And you've got peace of mind like you've never known.
 <br>But then things change and you're down in the valley.
 <br>Don't lose faith for you're never alone.
   </div>
-  <div id = "column2">
+  <div class = "column_right1">
 1
 <br>春风得意，志得意满的时候，
 <br>从有过这般的无忧无虑。
@@ -4710,7 +4710,7 @@ Life is easy when you're up on the mountain
 </div>
 
 <div class = "row">
-  <div id = "column1">
+  <div class = "column_left1">
 <i>Chorus
 <br>For the God on the mountain is still God in the valley.
 <br>When things go wrong, He'll make them right.
@@ -4718,7 +4718,7 @@ Life is easy when you're up on the mountain
 <br>Is still God in the bad times.
 <br>The God of the day is still God in the night.</i>
   </div>
-  <div id = "column2">
+  <div class = "column_right1">
 <i>[合唱]
 <br>得意时的神也是失落时的神。
 <br>当事与愿违时，祂有祂的美意。
@@ -4746,7 +4746,7 @@ Life is easy when you're up on the mountain
 </div>
 
 <div class = "row">
-  <div id = "column1">
+  <div class = "column_left1">
 <i>Chorus
 <br>For the God on the mountain is still God in the valley.
 <br>When things go wrong, He'll make them right.
@@ -4754,7 +4754,7 @@ Life is easy when you're up on the mountain
 <br>Is still God in the bad times.
 <br>The God of the day is still God in the night.</i> (2X)
   </div>
-  <div id = "column2">
+  <div class = "column_right1">
 <i>[合唱]
 <br>得意时的神也是失落时的神。
 <br>当事与愿违时，祂有祂的美意。
