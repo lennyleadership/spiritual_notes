@@ -4691,7 +4691,7 @@ Life is easy when you're up on the mountain
 </tbody>
 </table>
 
-<p>
+
 <div class = "row">
   <div id = "column1">
 Life is easy when you're up on the mountain
@@ -4706,7 +4706,61 @@ Life is easy when you're up on the mountain
 <br>不要失去信心，因为你永远不会孤单。
   </div>
 </div>
-</p>
+
+<div class = "row">
+  <div id = "column1">
+<i>Chorus
+<br>For the God on the mountain is still God in the valley.
+<br>When things go wrong, He'll make them right.
+<br>And the God of the good times
+<br>Is still God in the bad times.
+<br>The God of the day is still God in the night.</i>
+  </div>
+  <div id = "column2">
+<i>[合唱]
+<br>得意时的神也是失落时的神。
+<br>当事与愿违时，祂有祂的美意。
+<br>顺境中的上帝
+<br>仍然是逆境中的上帝。
+<br>白天的上帝仍然是夜晚的上帝。</i>  
+  </div>
+</div>
+
+<div class = "row">
+  <div id = "column1">
+2
+<br>You talk of faith when you're up on the mountain.
+<br>Oh but the talk comes easy when life's at its best.
+<br>But it's down in the valley of trials and temptation
+<br>That's when faith is really put to the test.
+  </div>
+  <div id = "column2">
+2
+<br>一帆风顺时谈信靠
+<br>太轻巧
+<br>在人生低落的时候
+<br>才是考验信靠的机会
+</div>
+</div>
+
+<div class = "row">
+  <div id = "column1">
+<i>Chorus
+<br>For the God on the mountain is still God in the valley.
+<br>When things go wrong, He'll make them right.
+<br>And the God of the good times
+<br>Is still God in the bad times.
+<br>The God of the day is still God in the night.</i> (2X)
+  </div>
+  <div id = "column2">
+<i>[合唱]
+<br>得意时的神也是失落时的神。
+<br>当事与愿违时，祂有祂的美意。
+<br>顺境中的上帝
+<br>仍然是逆境中的上帝。
+<br>白天的上帝仍然是夜晚的上帝。</i> (2X)
+  </div>
+</div>
 
 # 70. In shady green pastures 
 <table>
