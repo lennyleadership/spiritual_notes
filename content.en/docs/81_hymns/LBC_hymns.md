@@ -203,7 +203,6 @@ toc: true
   <tr>
     <td style = "border-style: none"><p>
 1
-<br>1
 <br>Ah, Lord God, Thou has made the heavens
 <br>And the earth by thy great power
 <br>Ah, Lord God, Thou has made the heavens
