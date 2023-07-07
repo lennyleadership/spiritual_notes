@@ -1804,50 +1804,62 @@ What love could remember no wrongs we have done
 <br>Omniscient, all-knowing, He counts not their sum
 <br>Thrown into a sea without bottom or shore
 <br>Our sins they are many, His mercy is more
-<br>
-<br><i>Chorus
-<br>Praise the Lord
-<br>His mercy is more
-<br>Stronger than darkness
-<br>New every morn’
-<br>Our sins they are many, His mercy is more
-<br>Our sins they are many, His mercy is more</i>
-<br>
-<br>What patience would wait as we constantly roam
-<br>What Father so tender is calling us home
-<br>He welcomes the weakest, the vilest, the poor
-<br>Our sins they are many, His mercy is more
-<br>
-<br>What riches of kindness He lavished on us
-<br>His blood was the payment His life was the cost
-<br>We stood ‘neath a debt we could never afford
-<br>Our sins they are many, His mercy is more
     </p></td>
     <td style = "border-style: none"><p>
 临我众罪人的爱何等奇妙；
 <br>全知全能神不再算我罪过；
 <br>将我众罪投入无边的深渊；
 <br>我们罪虽众多，祂怜悯更多。
-<br>
-<br><i>[合唱]
+    </p></td>
+  </tr>
+  <tr>
+    <td style = "border-style: none">
+<i>Chorus
+<br>Praise the Lord
+<br>His mercy is more
+<br>Stronger than darkness
+<br>New every morn’
+<br>Our sins they are many, His mercy is more
+<br>Our sins they are many, His mercy is more</i>    
+    </td>
+    <td style = "border-style: none">
+<i>[合唱]
 <br>赞美主，
 <br>祂怜悯更多！
 <br>胜黑暗权势，
 <br>晨恩新做；
 <br>我们罪虽众多，祂怜悯更多！
-<br>我们罪虽众多，祂怜悯更多！</i>
-<br>
-<br>我们如羊走迷，主何等忍耐；
+<br>我们罪虽众多，祂怜悯更多！</i>  
+    </td>
+  </tr>  
+  <tr>
+    <td style = "border-style: none">
+What patience would wait as we constantly roam
+<br>What Father so tender is calling us home
+<br>He welcomes the weakest, the vilest, the poor
+<br>Our sins they are many, His mercy is more    
+    </td>
+    <td style = "border-style: none">
+我们如羊走迷，主何等忍耐；
 <br>呼唤我回家声，慈祥又紧迫；
 <br>祂拥抱软弱污秽贫穷的人；
-<br>我们罪虽众多，祂怜悯更多。
-<br>
-<br>从高天降下恩慈何等长阔；
+<br>我们罪虽众多，祂怜悯更多。    
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none">
+What riches of kindness He lavished on us
+<br>His blood was the payment His life was the cost
+<br>We stood ‘neath a debt we could never afford
+<br>Our sins they are many, His mercy is more    
+    </td>
+    <td style = "border-style: none">
+从高天降下恩慈何等长阔；
 <br>主为我流血，舍命赎我罪过；
 <br>我永难偿还，因这罪债沉重；
-<br>我们罪虽众多，祂怜悯更多。
-    </p></td>
-  </tr>
+<br>我们罪虽众多，祂怜悯更多。      
+    </td>
+  </tr>  
 </tbody>
 </table>
 
