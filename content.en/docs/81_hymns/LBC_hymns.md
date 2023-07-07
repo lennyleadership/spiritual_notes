@@ -1480,8 +1480,6 @@ By a roadway in the wilderness, He'll lead me
 <br>But His Word will still remain
 <br>And He will do something new today    
     </td>
-  <tr>
-  </tr>
     <td style = "border-style: none"><p>
 祂必在曠野裡，開道路引領我
 <br>在沙漠中，開江河供應我
@@ -1500,8 +1498,6 @@ God will make a way
 <br>With love and strength for each new day
 <br>He will make a way, He will make a way    
     </td>
-  </tr>
-  <tr>
     <td style = "border-style: none"><p>
 神要開道路　
 <br>在曠野無路之處
