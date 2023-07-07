@@ -56,6 +56,7 @@ toc: true
 <br>The everlasting ransom paid
 <br>I see my Saviour die
 <br>
+<br>5
 <br>He shares on high His Father's throne
 <br>Who once in mercy came
 <br>For all His love to sinners shown
@@ -74,18 +75,19 @@ toc: true
 <br>鞭打刑罰，令人掩面，
 <br>我見救主前行。
 <br>
+<br>3
 <br>急步奔向巨大十架，
 <br>高懸在烈日下，
 <br>人類數不盡的罪惡，
 <br>我見我救主擔當；
 <br>
-<br>3
+<br>4
 <br>懸在十架是創造主，
 <br>天色漸漸昏暗；
 <br>永遠的贖價已償還，
 <br>我見救主逝去；
 <br>
-<br>4
+<br>5
 <br>祂曾懷憐憫到世上，
 <br>現在高天掌權，
 <br>因為祂對罪人的愛，
@@ -271,46 +273,37 @@ All hail, King Jesus
 
 
 # 5. All heaven declares
-<table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
-</colgroup>
-<tbody VALIGN=TOP>
-  <tr>
-  <td style = "border-style: none">
-  <p>All heaven declares
-  </p>
-  </td>
-  <td style = "border-style: none">
-  <p>齐来宣告 
-  </p>  
-  </td>
-  </tr>
-  <tr>
-    <td style = "border-style: none"><p>
+<div class = "row">
+  <div id = "column1">
 1
 <br>The glory of the risen Lord
 <br>Who can compare
 <br>With the beauty of the Lord
 <br>Forever He will be the Lamb upon the throne
 <br>I gladly bow the knee and worship Him alone
-<br>
-<br>2
-<br>We will proclaim
-<br>The glory of the risen Lord
-<br>Who once was slain
-<br>To reconcile man to God
-<br>Forever you will be the Lamb upon the throne
-<br>We gladly bow our knee and worship you alone
-    </p></td>
-    <td style = "border-style: none"><p>
+  </div>
+  <div id = "column2">
 1
 <br>复活主的荣耀
 <br>谁能比 
 <br>以主的美丽 
 <br>祂永远是宝座上的羔羊
 <br>我欣然屈膝单单敬拜祂
-<br>
-<br>2
+  </div>  
+</div>
+
+<div class = "row">
+  <div id = "column1">
+2
+<br>We will proclaim
+<br>The glory of the risen Lord
+<br>Who once was slain
+<br>To reconcile man to God
+<br>Forever you will be the Lamb upon the throne
+<br>We gladly bow our knee and worship you alone
+  </div>
+  <div id = "column2">
+2
 <br>我们将宣告 
 <br>复活主的荣耀
 <br>祂曾经被杀
@@ -318,11 +311,8 @@ All hail, King Jesus
 <br>永远你是宝座上的羔羊
 <br>我们欣然屈膝敬拜你
 <br>唯独你
-    </p></td>
-  </tr>
-</tbody>
-</table>
-
+  </div>  
+</div>
 
 # 6. All I have is Christ
 <table>
@@ -475,69 +465,6 @@ I will give thanks to Thee
 
 
 # 8. Because He lives
-<table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
-</colgroup>
-<tbody VALIGN=TOP>
-  <tr>
-  <td style = "border-style: none">
-  <p>Because He lives
-  </p>
-  </td>
-  <td style = "border-style: none">
-  <p>因祂活着
-  </p>  
-  </td>
-  </tr>
-  <tr>
-    <td style = "border-style: none"><p>
-God sent His son, they called Him Jesus
-<br>He came to love, heal and forgive
-<br>He lived and died to buy my pardon
-<br>An empty grave is there to prove my Savior lives
-<br>
-<br><i>[Chorus]
-<br>Because He lives, I can face tomorrow
-<br>Because He lives, all fear is gone
-<br>Because I know He holds the future
-<br>And life is worth the living just because He lives</i>
-<br>
-<br>How sweet to hold a newborn baby
-<br>And feel the pride and joy he gives
-<br>But greater still the calm assurance
-<br>This child can face uncertain days because He lives
-<br>
-<br>And then one day, I'll cross the river
-<br>I'll fight life's final war with pain
-<br>And then, as death gives way to victory
-<br>I'll see the lights of glory and I'll know He lives
-    </p></td>
-    <td style = "border-style: none"><p>
-神差爱子 祂名叫耶稣
-<br>祂来到世间爱我、医治我、饶恕我
-<br>祂为我活、为我死、为要替我赎罪
-<br>那空坟墓就是为要证明我的救主复活了
-<br>
-<br><i>[合唱]
-<br>因祂活着 我能面对明天
-<br>因祂活着 不再惧怕
-<br>我深知道 祂掌管明天
-<br>生命充满了希望 只因祂复活了</i>
-<br>
-<br>抱着一个新生婴孩何等甘甜
-<br>我感受到祂带给我的自豪、喜乐
-<br>更觉安慰乃是我确信
-<br>这位婴孩能面对未知，因祂复活了
-<br>
-<br>有一天，我会渡生命河
-<br>痛苦面对最后的征战
-<br>胜利最终战胜死亡
-<br>我将看到他荣耀的光辉，因我知道祂复活了
-    </p></td>
-  </tr>
-</tbody>
-</table>
-
 <div class = "row">
   <div id = "column1">
 God sent His son, they called Him Jesus
