@@ -1663,10 +1663,7 @@ Amazing grace shall always be my song of praise
 <br>他超越了我的缺点，看到了我所有的需要
 </p></td>
   </tr>
-</tbody>
-</table>
-
-  </tr>
+  <tr>
     <td style = "border-style: none"><p>
 For God so loved the world, I find it written
 <br>In verse sixteen, John’s gospel, chapter three
@@ -1675,7 +1672,7 @@ For God so loved the world, I find it written
 <br>Such wondrous love! It passes human knowledge
 <br>For Jesus died that we might ever live
 <br>Eternal life! So none need ever perish
-<br>This life to all believing souls he now will give    
+<br>This life to all believing souls he now will give</p>    
     </td>
     <td style = "border-style: none"><p>
 因上帝爱世人，我在圣经里读到
@@ -1685,10 +1682,11 @@ For God so loved the world, I find it written
 <br>大哉！祂的爱，超乎世人的理解
 <br>因祂死，我们才能活
 <br>有永生！不致灭亡
-<br>凡信的人，祂都赐给他们永生。    
+<br>凡信的人，祂都赐给他们永生。</p>    
     </td>
   <tr>
-
+</tbody>
+</table>
 
 # 26. Here is Love
 <table>
