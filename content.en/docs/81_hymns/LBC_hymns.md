@@ -1651,15 +1651,6 @@ Amazing grace shall always be my song of praise
 <br>To view the cross where Jesus died for me
 <br>How marvelous the grace that caught my falling soul
 <br>He looked beyond my faults and saw my need
-<br>
-<br>For God so loved the world, I find it written
-<br>In verse sixteen, John’s gospel, chapter three
-<br>He gave His Son who was for sinners smitten
-<br>When nailed upon the cross of Calvary
-<br>Such wondrous love! It passes human knowledge
-<br>For Jesus died that we might ever live
-<br>Eternal life! So none need ever perish
-<br>This life to all believing souls he now will give
 </p></td>
     <td style = "border-style: none"><p>
 奇异恩典永远是我的赞美之歌 
@@ -1670,19 +1661,33 @@ Amazing grace shall always be my song of praise
 <br>观看耶稣为我而死的十字架 
 <br>多么奇妙的恩典抓住了我堕落的灵魂 
 <br>他超越了我的缺点，看到了我所有的需要
-<br>
-<br>因上帝爱世人，我在圣经里读到
+</p></td>
+  </tr>
+</tbody>
+</table>
+
+  </tr>
+    <td style = "border-style: none"><p>
+For God so loved the world, I find it written
+<br>In verse sixteen, John’s gospel, chapter three
+<br>He gave His Son who was for sinners smitten
+<br>When nailed upon the cross of Calvary
+<br>Such wondrous love! It passes human knowledge
+<br>For Jesus died that we might ever live
+<br>Eternal life! So none need ever perish
+<br>This life to all believing souls he now will give    
+    </td>
+    <td style = "border-style: none"><p>
+因上帝爱世人，我在圣经里读到
 <br>约翰福音，三章，十六节
 <br>祂把祂的儿子交出来，为罪人死
 <br>被钉在加利利的十字架上
 <br>大哉！祂的爱，超乎世人的理解
 <br>因祂死，我们才能活
 <br>有永生！不致灭亡
-<br>凡信的人，祂都赐给他们永生。
-</p></td>
-  </tr>
-</tbody>
-</table>
+<br>凡信的人，祂都赐给他们永生。    
+    </td>
+  <tr>
 
 
 # 26. Here is Love
