@@ -32,21 +32,25 @@ toc: true
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-A purple robe, a crown of thorn
+1
+<br>A purple robe, a crown of thorn
 <br>A reed in his right hand
 <br>Before the soldiers' spite and scorn 
 <br>I see my Saviour stand
 <br>
+<br>2
 <br>He bears between the Roman guard
 <br>The weight of all our woe
 <br>A stumbling figure bowed and scarred 
 <br>I see my Saviour go
 <br>
+<br>3
 <br>Fast to the cross spreading span
 <br>High in the sunlit air
 <br>All the unnumbered sins of man
 <br>I see my Saviour bear
 <br>
+<br>4
 <br>He hangs, by whom the world was made
 <br>Beneath the darkened sky
 <br>The everlasting ransom paid
@@ -58,11 +62,13 @@ A purple robe, a crown of thorn
 <br>I sing my Saviour's name
     </p></td>
     <td style = "border-style: none"><p>
-紫色的袍荊棘冠冕，
+1
+<br>紫色的袍荊棘冠冕，
 <br>蘆葦杖在右手；
 <br>兵丁唾面，嘲笑譏諷，
 <br>我見救主站立；
 <br>
+<br>2
 <br>祂在羅馬守衛面前，
 <br>承受我們罪責，
 <br>鞭打刑罰，令人掩面，
@@ -73,11 +79,13 @@ A purple robe, a crown of thorn
 <br>人類數不盡的罪惡，
 <br>我見我救主擔當；
 <br>
+<br>3
 <br>懸在十架是創造主，
 <br>天色漸漸昏暗；
 <br>永遠的贖價已償還，
 <br>我見救主逝去；
 <br>
+<br>4
 <br>祂曾懷憐憫到世上，
 <br>現在高天掌權，
 <br>因為祂對罪人的愛，
@@ -109,7 +117,8 @@ A purple robe, a crown of thorn
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-Thou Life of my life, blessed Jesus
+1
+<br>Thou Life of my life, blessed Jesus
 <br>Thou death of the death that was mine
 <br>For me was Thy cross and Thine anguish
 <br>Thy love and Thy sorrow divine
@@ -117,7 +126,8 @@ Thou Life of my life, blessed Jesus
 <br>That I might forever go free
 <br>A thousand, a thousand thanksgivings
 <br>I bring, blessed Savior, to Thee
-
+<br>
+<br>2
 <br>For me Thou hast borne the reproaches
 <br>The mockery, hate and disdain
 <br>The blows and the spitting of sinners
@@ -126,7 +136,8 @@ Thou Life of my life, blessed Jesus
 <br>Thou gladly hast suffered for me
 <br>A thousand, a thousand thanksgivings
 <br>I bring, blessed Savior, to Thee
-
+<br>
+<br>3
 <br>O Lord, from my heart I do thank Thee
 <br>For all Thou hast borne in my room
 <br>Thine agony, dying, unsolaced
@@ -137,7 +148,8 @@ Thou Life of my life, blessed Jesus
 <br>I bring, blessed Savior, to Thee
     </p></td>
     <td style = "border-style: none"><p>
-感谢耶稣，我与你一同活
+1
+<br>感谢耶稣，我与你一同活
 <br>我与你一同死
 <br>你为我上十架，你为我受痛苦
 <br>你的爱和你的悲伤全然伟大
@@ -145,7 +157,8 @@ Thou Life of my life, blessed Jesus
 <br>我可以永远自由
 <br>无尽的感恩
 <br>我将感恩带到你面前，感谢耶稣！
-
+<br>
+<br>2
 <br>你为我忍受了给罪人的辱骂、
 <br>嘲笑、仇恨和蔑视 
 <br>打击和唾沫 
@@ -154,7 +167,8 @@ Thou Life of my life, blessed Jesus
 <br>你欣然为我受苦 ，
 <br>无尽的感恩
 <br>我将感恩带到你面前，感谢耶稣！
-
+<br>
+<br>3
 <br>主啊，我从心里感谢你
 <br>因为，在黑暗的墓穴中
 <br>你为我背负了
@@ -186,11 +200,14 @@ Thou Life of my life, blessed Jesus
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-Ah, Lord God, Thou has made the heavens
+1
+<br>1
+<br>Ah, Lord God, Thou has made the heavens
 <br>And the earth by thy great power
 <br>Ah, Lord God, Thou has made the heavens
 <br>And the earth by Thine outstretched arm
 <br>
+<br>2
 <br>Nothing is too difficult for Thee
 <br>Nothing is too difficult for Thee
 <br>Great and mighty God
@@ -199,11 +216,13 @@ Ah, Lord God, Thou has made the heavens
 <br>Nothing is too difficult for Thee
     </p></td>
     <td style = "border-style: none"><p>
-啊，主上帝，
+1
+<br>啊，主上帝，
 <br>你用你的大能创造了天地 
 <br>啊，主上帝
 <br>你用你伸出的臂膀创造了天地
 <br>
+<br>2
 <br>在你没有难成的事
 <br>在你没有难成的事
 <br>伟大而全能的神
@@ -268,12 +287,14 @@ All hail, King Jesus
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-The glory of the risen Lord
+1
+<br>The glory of the risen Lord
 <br>Who can compare
 <br>With the beauty of the Lord
 <br>Forever He will be the Lamb upon the throne
 <br>I gladly bow the knee and worship Him alone
 <br>
+<br>2
 <br>We will proclaim
 <br>The glory of the risen Lord
 <br>Who once was slain
@@ -282,12 +303,14 @@ The glory of the risen Lord
 <br>We gladly bow our knee and worship you alone
     </p></td>
     <td style = "border-style: none"><p>
-复活主的荣耀
+1
+<br>复活主的荣耀
 <br>谁能比 
 <br>以主的美丽 
 <br>祂永远是宝座上的羔羊
 <br>我欣然屈膝单单敬拜祂
 <br>
+<br>2
 <br>我们将宣告 
 <br>复活主的荣耀
 <br>祂曾经被杀
@@ -318,7 +341,8 @@ The glory of the risen Lord
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-I once was lost in darkest night
+1
+<br>I once was lost in darkest night
 <br>Yet thought I knew the way
 <br>The sin that promised joy and life
 <br>Had led me to the grave
@@ -327,6 +351,7 @@ I once was lost in darkest night
 <br>And if You had not loved me first
 <br>I would refuse You still
 <br>
+<br>2
 <br>But as I ran my hell-bound race
 <br>Indifferent to the cost
 <br>You looked upon my helpless state
@@ -342,6 +367,7 @@ I once was lost in darkest night
 <br>Hallelujah! All I have is Christ
 <br>Hallelujah! Jesus is my life</i>
 <br>
+<br>3
 <br>Now, Lord, I would be Yours alone
 <br>And live so all might see
 <br>The strength to follow Your commands
@@ -352,7 +378,8 @@ I once was lost in darkest night
 <br>My only boast is You
     </p></td>
     <td style = "border-style: none"><p>
-我曾迷失幽暗深夜
+1
+<br>我曾迷失幽暗深夜
 <br>自信知道前路
 <br>浮生醉夢罪中之樂
 <br>卻領我到滅亡
@@ -361,6 +388,7 @@ I once was lost in darkest night
 <br>若不是祢先愛了我
 <br>我依然拒絕祢
 <br>
+<br>2
 <br>當我直奔地獄絕路
 <br>漠視昂貴代價
 <br>祢竟憐卹我的無助
@@ -376,6 +404,7 @@ I once was lost in darkest night
 <br>哈列路亞！基督，我所有
 <br>哈列路亞！耶穌，我生命
 <br>
+<br>3
 <br>主，我今後願單屬祢
 <br>為祢活，榮耀祢
 <br>遵行祢命非我所能
@@ -508,6 +537,68 @@ God sent His son, they called Him Jesus
   </tr>
 </tbody>
 </table>
+
+<div class = "row">
+  <div id = "column1">
+God sent His son, they called Him Jesus
+<br>He came to love, heal and forgive
+<br>He lived and died to buy my pardon
+<br>An empty grave is there to prove my Savior lives
+  </div>
+  <div id = "column2">
+神差爱子 祂名叫耶稣
+<br>祂来到世间爱我、医治我、饶恕我
+<br>祂为我活、为我死、为要替我赎罪
+<br>那空坟墓就是为要证明我的救主复活了
+  </div>  
+</div>
+
+<div class = "row">
+  <div id = "column1">
+<i>[Chorus]
+<br>Because He lives, I can face tomorrow
+<br>Because He lives, all fear is gone
+<br>Because I know He holds the future
+<br>And life is worth the living just because He lives</i>
+  </div>
+  <div id = "column2">
+<i>[合唱]
+<br>因祂活着 我能面对明天
+<br>因祂活着 不再惧怕
+<br>我深知道 祂掌管明天
+<br>生命充满了希望 只因祂复活了</i>
+  </div>  
+</div>
+
+<div class = "row">
+  <div id = "column1">
+How sweet to hold a newborn baby
+<br>And feel the pride and joy he gives
+<br>But greater still the calm assurance
+<br>This child can face uncertain days because He lives
+  </div>
+  <div id = "column2">
+抱着一个新生婴孩何等甘甜
+<br>我感受到祂带给我的自豪、喜乐
+<br>更觉安慰乃是我确信
+<br>这位婴孩能面对未知，因祂复活了
+  </div>  
+</div>
+
+<div class = "row">
+  <div id = "column1">
+And then one day, I'll cross the river
+<br>I'll fight life's final war with pain
+<br>And then, as death gives way to victory
+<br>I'll see the lights of glory and I'll know He lives
+  </div>
+  <div id = "column2">
+有一天，我会渡生命河
+<br>痛苦面对最后的征战
+<br>胜利最终战胜死亡
+<br>我将看到他荣耀的光辉，因我知道祂复活了
+  </div>  
+</div>
 
 # 9. Before the throne of God above
 <table>
