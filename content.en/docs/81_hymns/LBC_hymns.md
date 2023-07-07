@@ -609,79 +609,93 @@ Before the throne of God above
 </table>
 
 # 10. Christ is all
-<table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
-</colgroup>
-<tbody VALIGN=TOP>
-  <tr>
-  <td style = "border-style: none">
-  <p>Christ is all
-  </p>
-  </td>
-  <td style = "border-style: none">
-  <p>基督是一切
-  </p>  
-  </td>
-  </tr>
-  <tr>
-    <td style = "border-style: none"><p>
+
+<div class = "row">
+  <div id = "column1">
+Christ is all
+  </div>
+  <div id = "column2">
+基督是一切
+  </div>  
+</div>
+
+<div class = "row">
+  <div id = "column1">
 I've found a treasure that can't be taken
 <br>Found a well that won't run dry
 <br>O worldly pleasure be now forsaken
 <br>Behold what love what life is mine
-<br>
-<br>Could endless striving now make me righteous
-<br>Could all my works now grant me hope
-<br>Oh hallelujah, the blood of Jesus
-<br>My only plea, my only boast
-<br>
-<br><i>Chorus
-<br>Christ is all, Christ is all
-<br>And my song will ever be
-<br>Christ is all, All in all
-<br>And my song will ever be, Christ is all</i>
-<br>
-<br>And in the trial when storms are raging
-<br>Though tears may fall my soul will rise
-<br>For there's a peace that is mine unchanging
-<br>There is a joy that never dies
-<br>
-<br>When life is passing and strength is fading
-<br>I'll see the One that I adore
-<br>Let this world vanish, oh give me Jesus
-<br>My great desire, my true reward
-    </p></td>
-    <td style = "border-style: none"><p>
+  </div>
+  <div id = "column2">
 我找到了一件拿不走的宝物 
 <br>找到一口不会干涸的井 
 <br>哦，世俗的快乐现在被抛弃了 
 <br>看吧！我的爱、我的生命是何等宝贵！
-<br>
-<br>无休止的奋斗现在能使我公义吗 
+  </div>  
+</div>
+
+<div class = "row">
+  <div id = "column1">
+Could endless striving now make me righteous
+<br>Could all my works now grant me hope
+<br>Oh hallelujah, the blood of Jesus
+<br>My only plea, my only boast
+  </div>
+  <div id = "column2">
+无休止的奋斗现在能使我公义吗 
 <br>我所做的一切现在能给我希望吗 
 <br>哦，哈利路亚，耶稣的宝血 
 <br>我唯一的代求，我唯一的夸耀
-<br>
-<br><i>[合唱]
+  </div>  
+</div>
+
+<div class = "row">
+  <div id = "column1">
+<i>Chorus
+<br>Christ is all, Christ is all
+<br>And my song will ever be
+<br>Christ is all, All in all
+<br>And my song will ever be, Christ is all</i>
+  </div>
+  <div id = "column2">
+<i>[合唱]
 <br>基督是一切，基督是一切 
 <br>我要永远歌唱 
 <br>基督是一切，一切的一切 
 <br>我要永远歌唱 
-<br>基督就是一切
-<br>
-<br>而在暴风雨肆虐的试炼中 
+<br>基督就是一切</i>
+  </div>  
+</div>
+
+<div class = "row">
+  <div id = "column1">
+And in the trial when storms are raging
+<br>Though tears may fall my soul will rise
+<br>For there's a peace that is mine unchanging
+<br>There is a joy that never dies
+  </div>
+  <div id = "column2">
+而在暴风雨肆虐的试炼中 
 <br>虽然眼泪可能会掉下来，但我的灵魂会升起 
 <br>因为有一种平安，属于我，永不变！ 
 <br>有一种快乐，永不消逝！
-<br>
-<br>当生命在流逝，力量在衰竭 
+  </div>  
+</div>
+
+<div class = "row">
+  <div id = "column1">
+When life is passing and strength is fading
+<br>I'll see the One that I adore
+<br>Let this world vanish, oh give me Jesus
+<br>My great desire, my true reward
+  </div>
+  <div id = "column2">
+当生命在流逝，力量在衰竭 
 <br>我会见到我敬拜的那一位 
 <br>让这个世界远去，哦，给我耶稣 
 <br>祂是我最大的愿望，真正的奖赏
-    </p></td>
-  </tr>
-</tbody>
-</table>
+  </div>  
+</div>
 
 
 # 11. Christ the sure and steady anchor
