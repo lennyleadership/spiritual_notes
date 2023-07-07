@@ -662,8 +662,7 @@ Could endless striving now make me righteous
 <br>基督是一切，基督是一切 
 <br>我要永远歌唱 
 <br>基督是一切，一切的一切 
-<br>我要永远歌唱 
-<br>基督就是一切</i>
+<br>我要永远歌唱，基督就是一切</i>
   </div>  
 </div>
 
@@ -995,71 +994,75 @@ Crown Him with many crowns
 
 
 # 14. Down from His glory
-<table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
-</colgroup>
-<tbody VALIGN=TOP>
-  <tr>
-  <td style = "border-style: none">
-  <p>Down from His glory
-  </p>
-  </td>
-  <td style = "border-style: none">
-  <p>從榮耀降臨
-  </p>  
-  </td>
-  </tr>
-  <tr>
-    <td style = "border-style: none"><p>
+<div class = "row">
+  <div id = "column1">
+Down from His glory
+  </div>
+  <div id = "column2">
+從榮耀降臨
+  </div>  
+</div>
+<div class = "row">
+  <div id = "column1">
 Down from His glory, ever living story
 <br>My God and Savior came, and Jesus was His name
 <br>Born in a manger, to His own a stranger
 <br>A Man of sorrows, tears and agony
-<br>
-<br><i>Chorus
-<br>O how I love Him! How I adore Him
-<br>My breath, my sunshine, my all in all
-<br>The great Creator became my Savior
-<br>And all God’s fulness dwelleth in Him</i>
-<br>
-<br>What condescension, bringing us redemption
-<br>That in the dead of night, not one faint hope in sight
-<br>God, gracious, tender, laid aside His splendor
-<br>Stooping to woo, to win, to save my soul
-<br>
-<br>Without reluctance, flesh and blood His substance
-<br>He took the form of man, revealed the hidden plan
-<br>O glorious mystery, sacrifice of Calvary
-<br>And now I know Thou art the great “I AM”
-</p></td>
-    <td style = "border-style: none">
-    <p>
+  </div>
+  <div id = "column2">
 從榮耀降臨，永遠奇妙福音，
 <br>我神我主降臨，耶穌是祂聖名。
 <br>生在馬槽裡，世人看為客旅，
 <br>在世受盡悲傷，流淚，飄零。
-<br>
-<br><i>[合唱] 
+  </div>  
+</div>
+
+<div class = "row">
+  <div id = "column1">
+<i>Chorus
+<br>O how I love Him! How I adore Him
+<br>My breath, my sunshine, my all in all
+<br>The great Creator became my Savior
+<br>And all God’s fulness dwelleth in Him</i>
+  </div>
+  <div id = "column2">
+<i>[合唱] 
 <br>我何等愛主！何等崇拜主！
 <br>我生命亮光，我的一切！
 <br>宇宙大主宰，成為我救主，
 <br>神一切豐盛，全在主裡。</i>
-<br>
-<br>主卑微順服，使我們得救贖，
+  </div>  
+</div>
+
+<div class = "row">
+  <div id = "column1">
+What condescension, bringing us redemption
+<br>That in the dead of night, not one faint hope in sight
+<br>God, gracious, tender, laid aside His splendor
+<br>Stooping to woo, to win, to save my soul
+  </div>
+  <div id = "column2">
+主卑微順服，使我們得救贖，
 <br>雖在黑夜茫茫，毫無半點指望，
 <br>但慈悲上主，甘願離榮光處，
 <br>降世救贖我靈魂免滅亡。
-<br>
-<br>主甘心樂意，道成血肉身體，
+  </div>  
+</div>
+
+<div class = "row">
+  <div id = "column1">
+Without reluctance, flesh and blood His substance
+<br>He took the form of man, revealed the hidden plan
+<br>O glorious mystery, sacrifice of Calvary
+<br>And now I know Thou art the great “I AM”
+  </div>
+  <div id = "column2">
+主甘心樂意，道成血肉身體，
 <br>取了世人樣式，顯明隱藏美旨。
 <br>榮耀的奧祕，加略山的燔祭，
 <br>自有永有的神，偉大無比。
-    </p></td>
-  </tr>
-</tbody>
-</table>
-
-
+  </div>  
+</div>
 
 # 15. Emmanuel
 <table>
@@ -1095,146 +1098,167 @@ Emmanuel, Emmanuel
 
 
 # 16. Fairest Lord Jesus
-<table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
-</colgroup>
-<tbody VALIGN=TOP>
-  <tr>
-  <td style = "border-style: none">
-  <p>Fairest Lord Jesus
-  </p>
-  </td>
-  <td style = "border-style: none">
-  <p>最美丽的主耶稣
-  </p>  
-  </td>
-  </tr>
-  <tr>
-    <td style = "border-style: none"><p>
+
+<div class = "row">
+  <div id = "column1">
+Fairest Lord Jesus
+  </div>
+  <div id = "column2">
+最美丽的主耶稣
+  </div>  
+</div>
+
+<div class = "row">
+  <div id = "column1">
 Fairest Lord Jesus, ruler of all nature
 <br>O Thou of God and man the Son
 <br>Thee will I cherish, Thee will I honor
 <br>Thou, my soul's glory, joy, and crown
-<br>
-<br>Fair are the meadows, fairer still the woodlands
-<br>Robed in the blooming garb of spring
-<br>Jesus is fairer, Jesus is purer
-<br>Who makes the woeful heart to sing
-<br>
-<br>Fair is the sunshine, fairer still the moonlight
-<br>And all the twinkling starry host
-<br>Jesus shines brighter, Jesus shines purer
-<br>Than all the angels heaven can boast
-<br>
-<br>Beautiful Savior! Lord of all the nations
-<br>Son of God and Son of Man
-<br>Glory and honor, praise, adoration
-<br>Now and forevermore be thine
-</p></td>
-    <td style = "border-style: none"><p>
+  </div>
+  <div id = "column2">
 最美的主耶稣，万物的主宰 
 <br>神人之子啊 
 <br>我会珍惜你，我会尊重你 
 <br>你是我灵魂的荣耀、喜乐和冠冕
-<br>
-<br>美丽的草地，更美丽的林地 
+  </div>  
+</div>
+
+<div class = "row">
+  <div id = "column1">
+Fair are the meadows, fairer still the woodlands
+<br>Robed in the blooming garb of spring
+<br>Jesus is fairer, Jesus is purer
+<br>Who makes the woeful heart to sing
+  </div>
+  <div id = "column2">
+美丽的草地，更美丽的林地 
 <br>披上盛开的春装 
 <br>耶稣更公平，耶稣更纯洁 
 <br>谁让悲哀的心歌唱
-<br>
-<br>阳光很美，月光更美 
+  </div>  
+</div>
+
+<div class = "row">
+  <div id = "column1">
+Fair is the sunshine, fairer still the moonlight
+<br>And all the twinkling starry host
+<br>Jesus shines brighter, Jesus shines purer
+<br>Than all the angels heaven can boast
+  </div>
+  <div id = "column2">
+阳光很美，月光更美 
 <br>以及所有闪烁的星空宿主 
 <br>耶稣更耀眼，耶稣更纯洁 
 <br>比天堂所有的天使都夸耀的
-<br>
-<br>美丽的救世主！万国之主 
+  </div>  
+</div>
+
+<div class = "row">
+  <div id = "column1">
+Beautiful Savior! Lord of all the nations
+<br>Son of God and Son of Man
+<br>Glory and honor, praise, adoration
+<br>Now and forevermore be thine
+  </div>
+  <div id = "column2">
+美丽的救世主！万国之主 
 <br>神子与人子 
 <br>荣耀和尊贵，赞美，崇拜 
 <br>现在和永远是你的
-    </p></td>
-  </tr>
-</tbody>
-</table>
+  </div>  
+</div>
+
+
 
 
 # 17. Father, I thank You
-<table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
-</colgroup>
-<tbody VALIGN=TOP>
-  <tr>
-  <td style = "border-style: none">
-  <p>Father, I thank You
-  </p>
-  </td>
-  <td style = "border-style: none">
-  <p>父亲 我感谢你
-  </p>  
-  </td>
-  </tr>
-  <tr>
-    <td style = "border-style: none"><p>
+
+<div class = "row">
+  <div id = "column1">
+Father, I thank You
+  </div>
+  <div id = "column2">
+父亲 我感谢你
+  </div>  
+</div>
+
+<div class = "row">
+  <div id = "column1">
 Father I thank You for all that You’ve done
 <br>You gave Your Son freely for me
 <br>And I praise You for calling me drawing me near
 <br>Out of blindness You caused me to see
-<br>
-<br>Spirit of life, You are God’s holy fire
-<br>You’ve kindled my heart with Your blaze
-<br>And I know You're refining me changing my life
-<br>And by faith You're revealing Your ways
-<br>
-<br>Jesus, I need You as Lord of my life
-<br>I give all I have unto You
-<br>Lord, I want to come under your heavenly hand
-<br>And to praise You in all that I do
-</p></td>
-    <td style = "border-style: none"><p>
+  </div>
+  <div id = "column2">
 父亲,我感谢你所做的一切
 <br>你把你的儿子白白地赐给我
 <br>我赞美你呼召我 
 <br>使我从瞎眼能看到
-<br>
-<br>生命之灵 你是神的圣洁的火
+  </div>  
+</div>
+
+<div class = "row">
+  <div id = "column1">
+Spirit of life, You are God’s holy fire
+<br>You’ve kindled my heart with Your blaze
+<br>And I know You're refining me changing my life
+<br>And by faith You're revealing Your ways
+  </div>
+  <div id = "column2">
+生命之灵 你是神的圣洁的火
 <br>你用你的火焰点燃了我的心
 <br>我知道你在磨炼我改变我的生命
 <br>凭着信心你在显明你的道路
-<br>
-<br>耶稣，我需要你作我生命的主
+  </div>  
+</div>
+
+<div class = "row">
+  <div id = "column1">
+Jesus, I need You as Lord of my life
+<br>I give all I have unto You
+<br>Lord, I want to come under your heavenly hand
+<br>And to praise You in all that I do
+  </div>
+  <div id = "column2">
+耶稣，我需要你作我生命的主
 <br>我把我所有的都给你
 <br>主，我要在你属天的手下
 <br>在我所做的一切事上赞美你。
-</p></td>
-  </tr>
-</tbody>
-</table>
-
+  </div>  
+</div>
 
 # 18. For those tears I died
-<table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
-</colgroup>
-<tbody VALIGN=TOP>
-  <tr>
-  <td style = "border-style: none">
-  <p>For those tears I died
-  </p>
-  </td>
-  <td style = "border-style: none">
-  <p>我为那些流泪的人而死
-  </p>  
-  </td>
-  </tr>
-  <tr>
-    <td style = "border-style: none"><p>
+<div class = "row">
+  <div id = "column1">
+
+  </div>
+  <div id = "column2">
+我为那些流泪的人而死
+  </div>  
+</div>
+
+<div class = "row">
+  <div id = "column1">
 You said you'd come and share all my sorrows
 <br>You said you'd be there for all my tomorrows
 <br>I came so close from sending you away
 <br>But just like you promised
 <br>You came here to stay
 <br>I just had to pray
-<br>
-<br><i>Chorus
+  </div>
+  <div id = "column2">
+你说你会来分担我所有的悲伤 
+<br>你说你会陪我度过所有的明天 
+<br>我差点把你送走 
+<br>但就像你承诺的那样 
+<br>你来这里是为了留下来 
+<br>我只需要祈祷 
+  </div>  
+</div>
+
+<div class = "row">
+  <div id = "column1">
+<i>Chorus
 <br>And Jesus said, come to the water
 <br>Stand by my side
 <br>I know you are thirsty
@@ -1243,8 +1267,23 @@ You said you'd come and share all my sorrows
 <br>When in darkness you cried
 <br>And I strove to remind you
 <br>That for those tears I died</i>
-<br>
-<br>Your goodness so great I can’t understand
+  </div>
+  <div id = "column2">
+<i>[合唱]
+<br>耶稣说“来到水边 
+<br>站在我身边 
+<br>我知道你渴了 
+<br>你不会被拒绝
+<br>我感觉到每一滴泪珠 
+<br>当你在黑暗中哭泣 
+<br>我努力提醒你 
+<br>为了那些眼泪我死了</i>
+  </div>  
+</div>
+
+<div class = "row">
+  <div id = "column1">
+Your goodness so great I can’t understand
 <br>And dear Lord, I know that this was all planned
 <br>I know your here now, and always will be
 <br>Your love loosed my chains and in you I’m free
@@ -1254,26 +1293,9 @@ You said you'd come and share all my sorrows
 <br>Savior, you opened all the right doors
 <br>And I thank you and praise you from earth’s humble shores
 <br>Lord Jesus, I’m yours
-    </p></td>
-    <td style = "border-style: none"><p>
-你说你会来分担我所有的悲伤 
-<br>你说你会陪我度过所有的明天 
-<br>我差点把你送走 
-<br>但就像你承诺的那样 
-<br>你来这里是为了留下来 
-<br>我只需要祈祷 
-<br>
-<br><i>[合唱]
-<br>耶稣说“来到水边 
-<br>站在我身边 
-<br>我知道你渴了 
-<br>你不会被拒绝
-<br>我感觉到每一滴泪珠 
-<br>当你在黑暗中哭泣 
-<br>我努力提醒你 
-<br>为了那些眼泪我死了</i> 
-<br>
-<br>你的善良太棒了我无法理解 
+  </div>
+  <div id = "column2">
+你的善良太棒了我无法理解 
 <br>亲爱的上帝，我知道这一切都是计划好的 
 <br>我知道你现在在这里，而且永远都在 
 <br>你的爱松开了我的枷锁，在你心中我自由了 
@@ -1283,10 +1305,8 @@ You said you'd come and share all my sorrows
 <br>救主，你开了所有当开的门
 <br>为此，我在最卑微的地方感谢你，赞美你
 <br>主耶稣，我属你。
-    </p></td>
-  </tr>
-</tbody>
-</table>
+  </div>  
+</div>
 
 
 # 19. Forever grateful
@@ -1441,21 +1461,6 @@ God will make a way
 <br>Hold me closely to His side
 <br>With love and strength for each new day
 <br>He will make a way, He will make a way
-<br>
-<br>By a roadway in the wilderness, He'll lead me
-<br>And rivers in the desert will I see
-<br>Heaven and earth will fade
-<br>But His Word will still remain
-<br>And He will do something new today
-<br>
-<br>God will make a way
-<br>Where there seems to be no way
-<br>He works in ways we cannot see
-<br>He will make a way for me
-<br>He will be my guide
-<br>Hold me closely to His side
-<br>With love and strength for each new day
-<br>He will make a way, He will make a way
 </p></td>
     <td style = "border-style: none"><p>
 神要開道路　
@@ -1466,23 +1471,48 @@ God will make a way
 <br>領我靠近祂懷抱
 <br>愛和力量，日日幫助
 <br>祂要開道路，祂要開道路
-<br>
-<br>祂必在曠野裡，開道路引領我
+    </p></td>
+  </tr>
+    <td style = "border-style: none"><p>
+By a roadway in the wilderness, He'll lead me
+<br>And rivers in the desert will I see
+<br>Heaven and earth will fade
+<br>But His Word will still remain
+<br>And He will do something new today    
+    </td>
+  <tr>
+  </tr>
+    <td style = "border-style: none"><p>
+祂必在曠野裡，開道路引領我
 <br>在沙漠中，開江河供應我
 <br>天地將要廢去
 <br>祂的話語永常存
-<br>在今日，祂要作新事
-<br>
-<br>神要開道路　
+<br>在今日，祂要作新事    
+    </td>
+  <tr>
+    <td style = "border-style: none"><p>
+God will make a way
+<br>Where there seems to be no way
+<br>He works in ways we cannot see
+<br>He will make a way for me
+<br>He will be my guide
+<br>Hold me closely to His side
+<br>With love and strength for each new day
+<br>He will make a way, He will make a way    
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+神要開道路　
 <br>在曠野無路之處
 <br>雖未看見，祂已看顧　
 <br>祂要為我開道路
 <br>祂是我引導　
 <br>領我靠近祂懷抱
 <br>愛和力量，日日幫助
-<br>祂要開道路，祂要開道路
-    </p></td>
-  </tr>
+<br>祂要開道路，祂要開道路    
+    </td>
+  </tr>  
 </tbody>
 </table>
 
