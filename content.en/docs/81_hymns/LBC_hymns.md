@@ -5528,22 +5528,6 @@ There is a fountain filled with blood
 <br>赞祢救赎大能
 <br>我将用那更美歌颂，
 <br>赞祢救赎大能
-
-主我相信，祢已预备一个金琴佳美
-<br>虽然我是这样不配，
-<br>因血白白赐给
-<br>因血白白赐给，
-<br>因血白白赐给
-<br>虽然我是这样不配，
-<br>因血白白赐给
-
-神圣能力调弦定音，弹出高贵乐声
-<br>无穷年日，父耳所听，
-<br>惟独羔羊的名
-<br>惟独羔羊的名，
-<br>惟独羔羊的名
-<br>无穷年日，父耳所听，
-<br>惟独羔羊的名
     </p></td>
   </tr>
 </tbody>
@@ -5670,7 +5654,7 @@ Christ the true and better Adam
 <br>Dying, He reversed the curse
 <br>Then rising, crushed the serpent’s head
 <br>
-<br>Verse 2: 
+2 
 <br>Christ the true and better Isaac
 <br>Humble son of sacrifice
 <br>Who would climb the fearful mountain
@@ -5685,7 +5669,7 @@ Christ the true and better Adam
 <br>Christ the story, His the glory
 <br>Alleluia, amen
 <br>
-<br>Verse 3: 
+3 
 <br>Christ the true and better Moses
 <br>Called to lead a people home
 <br>Standing bold to earthly powers
@@ -5701,7 +5685,7 @@ Christ the true and better Adam
 <br>Christ the story, His the glory
 <br>Alleluia, amen</i>
 <br>
-<br>Verse 4: 
+4 
 <br>Christ the true and better David
 <br>Lowly shepherd, mighty King
 <br>He the champion in the battle
@@ -5712,7 +5696,8 @@ Christ the true and better Adam
 <br>We shall e’er His people be
     </p></td>
     <td style = "border-style: none"><p>
-基督，真正的和更好的亚当，
+1
+<br>基督，真正的和更好的亚当，
 <br>神的儿子和人的儿子，
 <br>当他在花园里被试探时，他
 <br>从不屈服，从不犯罪，
@@ -5721,7 +5706,8 @@ Christ the true and better Adam
 <br>他死了，他扭转了诅咒，然后
 <br>复活，被压碎了蛇的头
 
-基督，真实而更美的以撒
+2
+<br>基督，真实而更美的以撒
 <br>谦卑的牺牲之子
 <br>愿意爬上那座可怕的山
 <br>在那里献上自己的生命
@@ -5735,7 +5721,8 @@ Christ the true and better Adam
 <br>基督的故事，他的荣耀
 <br>哈利路亚！阿们！
 
-基督，真实而美好的摩西
+3
+<br>基督，真实而美好的摩西
 <br>蒙召带领百姓回家
 <br>勇敢地面对世俗的权势
 <br>神的伟大荣耀被人所知
@@ -5749,7 +5736,8 @@ Christ the true and better Adam
 <br>基督的故事，他的荣耀
 <br>哈利路亚！阿们！
 
-基督，真正和更好的 David 
+4
+<br>基督，真正和更好的 David 
 <br>Lowly 牧羊人，强大的国王
 <br>他是战斗中的冠军
 <br>死亡啊，现在你的毒刺在哪里？
@@ -5762,13 +5750,6 @@ Christ the true and better Adam
 <br>从头到尾
 <br>基督的故事，他的荣耀
 <br>哈利路亚！阿们！
-
-阿们！阿们！
-<br>从头到尾
-<br>基督的故事，他的荣耀
-<br>哈利路亚！阿们！
-
-阿肋路亚！阿们！
     </p></td>
   </tr>
 </tbody>
@@ -6092,10 +6073,10 @@ Sweet hour of prayer! sweet hour of prayer!
 <br>因为他知道前面的事。
 
 <i>合唱：
-明天的很多事，
-我好像不明白；
-但我知道谁拥有明天，
-我知道谁握着我的手。</i>
+<br>明天的很多事，
+<br>我好像不明白；
+<br>但我知道谁拥有明天，
+<br>我知道谁握着我的手。</i>
 
 2 
 <br>每一步都越来越亮，
