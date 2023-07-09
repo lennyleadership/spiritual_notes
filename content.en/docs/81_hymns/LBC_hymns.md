@@ -5369,24 +5369,6 @@ Day by day and with each passing moment,
 <br>Gives unto each day what he deems best–
 <br>Lovingly, its part of pain and pleasure,
 <br>Mingling toil with peace and rest.
-<br>
-<br>Ev'ry day the Lord himself is near me,
-<br>With a special mercy for each hour;
-<br>All my cares he gladly bears and cheers me,
-<br>He whose name is Counselor and Pow'r.
-<br>The protection of his child and treasure
-<br>Is a charge that on himself he laid:
-<br>"As your days, your strength shall be in measure"–
-<br>This the pledge to me he made.
-<br>
-<br>Help me then in ev'ry tribulation
-<br>So to trust your promises, O Lord,
-<br>That I lose not faith's sweet consolation
-<br>Offered me within your holy Word.
-<br>Help me, Lord, when, toil and trouble meeting,
-<br>E'er to take, as from a father's hand,
-<br>One by one, the days, the moments fleeting,
-<br>Till I reach the promised land.
     </p></td>
     <td style = "border-style: none"><p>
 每一天所渡過的每一刻， 
@@ -5397,7 +5379,21 @@ Day by day and with each passing moment,
 <br>祂每天都有最好安排，
 <br>不論憂或喜祂慈愛顯明， 
 <br>勞苦中祂賜安泰。
-
+   </p></td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+Ev'ry day the Lord himself is near me,
+<br>With a special mercy for each hour;
+<br>All my cares he gladly bears and cheers me,
+<br>He whose name is Counselor and Pow'r.
+<br>The protection of his child and treasure
+<br>Is a charge that on himself he laid:
+<br>"As your days, your strength shall be in measure"–
+<br>This the pledge to me he made.    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 每一天主自己與我相親， 
 <br>每時刻賜下格外憐恤；
 <br>我掛慮主願安慰與擔當， 
@@ -5405,8 +5401,23 @@ Day by day and with each passing moment,
 <br>祂保護祂的兒女如珍寶， 
 <br>祂熱心必要成全這事；
 <br>你日子如何力量也如何， 
-<br>這是祂向我應許。
-
+<br>這是祂向我應許。    
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+Help me then in ev'ry tribulation
+<br>So to trust your promises, O Lord,
+<br>That I lose not faith's sweet consolation
+<br>Offered me within your holy Word.
+<br>Help me, Lord, when, toil and trouble meeting,
+<br>E'er to take, as from a father's hand,
+<br>One by one, the days, the moments fleeting,
+<br>Till I reach the promised land.    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 幫助我當我在困難危急， 
 <br>讓我全心信靠祢應許；
 <br>讓我享受祢安慰的甜蜜， 
@@ -5414,8 +5425,9 @@ Day by day and with each passing moment,
 <br>幫助我當困苦艱難來臨， 
 <br>牽著我就像慈父的手，
 <br>每一天每一刻飛逝無影，
-<br>引導我進應許之地。
-    </p></td>
+<br>引導我進應許之地。    
+    </p>
+    </td>
   </tr>
 </tbody>
 </table>
