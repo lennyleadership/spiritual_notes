@@ -5961,7 +5961,6 @@ Show me the tomb where Thou wast laid,
 <br>向我展示你安放的坟墓，
 <br>  温柔地哀悼和哭泣；  当你睡着时，
 <br>身着光之袍的天使排列着守护着你。
-   
     </p>
     </td>
   </tr>
