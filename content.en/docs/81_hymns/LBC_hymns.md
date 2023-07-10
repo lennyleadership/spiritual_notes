@@ -746,7 +746,7 @@ Christ is all
 <br>In the suffering, in the sorrow
 <br>When my sinking hopes are few
 <br>I will hold fast to the anchor
-<br>It <u class ="red">will (or shall？)</u> never be removed
+<br>It <a class ="red">will (or shall)</a> never be removed
 <br>
 <br>2 
 <br>Christ the sure and steady anchor
@@ -766,7 +766,7 @@ Christ is all
 <br>This my ballast of assurance
 <br>See his love forever proved
 <br>I will hold fast to the anchor
-<br>It <u class ="red">will (or shall？)</u> never be removed
+<br>It <a class ="red">will (or shall)</a> never be removed
 <br>
 <br>4 
 <br>Christ the sure and steady anchor
