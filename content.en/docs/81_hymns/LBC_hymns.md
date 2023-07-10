@@ -5762,47 +5762,6 @@ Christ the true and better Adam
 <br>Brings us back to life again
 <br>Dying, He reversed the curse
 <br>Then rising, crushed the serpent’s head
-<br>
-2 
-<br>Christ the true and better Isaac
-<br>Humble son of sacrifice
-<br>Who would climb the fearful mountain
-<br>Therе to offer up his life
-<br>Laid with faith upon the altar
-<br>Fathеr's joy and only son
-<br>There salvation was provided
-<br>Oh what full and boundless love
-<br>
-<br>Amen, amen
-<br>From beginning to end
-<br>Christ the story, His the glory
-<br>Alleluia, amen
-<br>
-3 
-<br>Christ the true and better Moses
-<br>Called to lead a people home
-<br>Standing bold to earthly powers
-<br>God's great glory to be known
-<br>With his arms stretched wide to heaven
-<br>See the waters part in two
-<br>See the veil is torn forever
-<br>Cleansed with blood we pass now through
-<br>
-<br><i>Chorus:
-<br>Amen, amen
-<br>From beginning to end
-<br>Christ the story, His the glory
-<br>Alleluia, amen</i>
-<br>
-4 
-<br>Christ the true and better David
-<br>Lowly shepherd, mighty King
-<br>He the champion in the battle
-<br>Where, oh, death, is now thy sting?
-<br>In our place He bled and conquered
-<br>Crown Him Lord of majesty
-<br>His shall be the throne forever
-<br>We shall e’er His people be
     </p></td>
     <td style = "border-style: none"><p>
 1
@@ -5814,7 +5773,22 @@ Christ the true and better Adam
 <br>成为义人，使我们再次复活，
 <br>他死了，他扭转了诅咒，然后
 <br>复活，被压碎了蛇的头
-
+   </p></td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+2 
+<br>Christ the true and better Isaac
+<br>Humble son of sacrifice
+<br>Who would climb the fearful mountain
+<br>Therе to offer up his life
+<br>Laid with faith upon the altar
+<br>Fathеr's joy and only son
+<br>There salvation was provided
+<br>Oh what full and boundless love    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 2
 <br>基督，真实而更美的以撒
 <br>谦卑的牺牲之子
@@ -5823,13 +5797,42 @@ Christ the true and better Adam
 <br>怀着信心躺在祭坛上
 <br>父亲的喜悦和唯一的儿子
 <br>那里提供了救恩
-<br>哦，多么圆满无边的爱
-
-阿们！阿们！
+<br>哦，多么圆满无边的爱    
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+<i>Chorus
+<br>Amen, amen
+<br>From beginning to end
+<br>Christ the story, His the glory
+<br>Alleluia, amen</i>    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
+<i>[合唱]
+<br>阿们！阿们！
 <br>从头到尾
 <br>基督的故事，他的荣耀
-<br>哈利路亚！阿们！
-
+<br>哈利路亚！阿们！</i>    
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+3 
+<br>Christ the true and better Moses
+<br>Called to lead a people home
+<br>Standing bold to earthly powers
+<br>God's great glory to be known
+<br>With his arms stretched wide to heaven
+<br>See the waters part in two
+<br>See the veil is torn forever
+<br>Cleansed with blood we pass now through    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 3
 <br>基督，真实而美好的摩西
 <br>蒙召带领百姓回家
@@ -5838,28 +5841,53 @@ Christ the true and better Adam
 <br>他的双臂向天张开
 <br>看水分成两半 看
 <br>面纱被永远撕裂
-<br>我们现在经过用鲜血洗净
-
-阿们！阿们！
+<br>我们现在经过用鲜血洗净    
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+<i>Chorus
+<br>Amen, amen
+<br>From beginning to end
+<br>Christ the story, His the glory
+<br>Alleluia, amen</i>    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
+<i>[合唱]
+<br>阿们！阿们！
 <br>从头到尾
 <br>基督的故事，他的荣耀
-<br>哈利路亚！阿们！
-
+<br>哈利路亚！阿们！</i>      
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+4 
+<br>Christ the true and better David
+<br>Lowly shepherd, mighty King
+<br>He the champion in the battle
+<br>Where, oh, death, is now thy sting?
+<br>In our place He bled and conquered
+<br>Crown Him Lord of majesty
+<br>His shall be the throne forever
+<br>We shall e’er His people be  
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 4
-<br>基督，真正和更好的 David 
-<br>Lowly 牧羊人，强大的国王
-<br>他是战斗中的冠军
+<br>基督，真正和更好的大卫 
+<br>卑微的牧羊人，伟大的君王
+<br>他是战斗中的赢者
 <br>死亡啊，现在你的毒刺在哪里？
 <br>在我们的地方，他流血并征服 为
 <br>他加冕 威严的主
 <br>他的宝座将永远
-<br>存在 我们将永远成为他的子民
-
-阿们！阿们！
-<br>从头到尾
-<br>基督的故事，他的荣耀
-<br>哈利路亚！阿们！
-    </p></td>
+<br>存在 我们将永远成为他的子民    
+    </p>
+    </td>
   </tr>
 </tbody>
 </table>
