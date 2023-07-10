@@ -425,7 +425,8 @@ All hail, King Jesus
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-I will give thanks to Thee
+1 
+<br>I will give thanks to Thee
 <br>O Lord, among the people
 <br>I will sing praises to Thee
 <br>Among the nations
@@ -433,6 +434,7 @@ I will give thanks to Thee
 <br>Is great to the heavens
 <br>And Thy faithfulness
 <br>
+<br>2 
 <br>Thy faithfulness to the clouds
 <br>Be exalted, O God
 <br>Above the heavens
@@ -442,7 +444,8 @@ I will give thanks to Thee
 <br>Let Thy glory be over all the earth
     </p></td>
     <td style = "border-style: none"><p>
-我要向祢稱謝，
+1 
+<br>我要向祢稱謝，
 <br>哦，主，在萬民當中。
 <br>我要讚美祢的名
 <br>在列邦之中。
@@ -450,6 +453,7 @@ I will give thanks to Thee
 <br>高過諸天，
 <br>祢的信實達到穹蒼。
 <br>
+<br>2 
 <br>你的信实上达云彩，
 <br>哦，主，我願尊崇祢
 <br>上及诸天
@@ -466,13 +470,15 @@ I will give thanks to Thee
 # 8. Because He lives
 <div class = "row">
   <div id = "column1">
-God sent His son, they called Him Jesus
+1 
+<br>God sent His son, they called Him Jesus
 <br>He came to love, heal and forgive
 <br>He lived and died to buy my pardon
 <br>An empty grave is there to prove my Savior lives
   </div>
   <div id = "column2">
-神差爱子 祂名叫耶稣
+1 
+<br>神差爱子 祂名叫耶稣
 <br>祂来到世间爱我、医治我、饶恕我
 <br>祂为我活、为我死、为要替我赎罪
 <br>那空坟墓就是为要证明我的救主复活了
@@ -498,13 +504,15 @@ God sent His son, they called Him Jesus
 
 <div class = "row">
   <div id = "column1">
-How sweet to hold a newborn baby
+2 
+<br>How sweet to hold a newborn baby
 <br>And feel the pride and joy he gives
 <br>But greater still the calm assurance
 <br>This child can face uncertain days because He lives
   </div>
   <div id = "column2">
-抱着一个新生婴孩何等甘甜
+2 
+<br>抱着一个新生婴孩何等甘甜
 <br>我感受到祂带给我的自豪、喜乐
 <br>更觉安慰乃是我确信
 <br>这位婴孩能面对未知，因祂复活了
@@ -513,13 +521,15 @@ How sweet to hold a newborn baby
 
 <div class = "row">
   <div id = "column1">
-And then one day, I'll cross the river
+3 
+<br>And then one day, I'll cross the river
 <br>I'll fight life's final war with pain
 <br>And then, as death gives way to victory
 <br>I'll see the lights of glory and I'll know He lives
   </div>
   <div id = "column2">
-有一天，我会渡生命河
+3 
+<br>有一天，我会渡生命河
 <br>痛苦面对最后的征战
 <br>胜利最终战胜死亡
 <br>我将看到他荣耀的光辉，因我知道祂复活了
@@ -543,7 +553,8 @@ And then one day, I'll cross the river
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-Before the throne of God above
+1 
+<br>Before the throne of God above
 <br>I have a strong and perfect plea
 <br>A great High Priest whose name is love
 <br>Who ever lives and pleads for me
@@ -553,16 +564,18 @@ Before the throne of God above
 <br>No tongue can bid me thence depart 
 <br>No tongue can bid me thence depart
 <br>
+<br>2 
 <br>When Satan tempts me to despair
 <br>And tells me of the guilt within
 <br>Upward I look and see Him there
 <br>Who made an end of all my sin
 <br>Because the sinless Savior died
-<br>
 <br>My sinful soul is counted free
 <br>For God the Just is satisfied
 <br>To look on Him and pardon me
 <br>To look on Him and pardon me
+<br>
+<br>3 
 <br>Behold Him there, the risen Lamb
 <br>My perfect, spotless Righteousness
 <br>The great unchangeable I AM
@@ -574,7 +587,8 @@ Before the throne of God above
 <br>With Christ my Savior and my God
     </p></td>
     <td style = "border-style: none"><p>
-在高天神的寶座前，
+1 
+<br>在高天神的寶座前，
 <br>有大能至善者代言，
 <br>祂是大祭司祂是愛，
 <br>今在永在為我分辯，
@@ -584,16 +598,17 @@ Before the throne of God above
 <br>讒言休斷天我相連。
 <br>讒言休斷天我相連。
 <br>
+<br>2 
 <br>當撒旦誘惑我失喪，
 <br>又重提我罪我絕望，
 <br>我舉目見祂在天上，
 <br>我罪祂已經塗抹完，
 <br>因為祂無罪卻受死。
-<br>
 <br>我靈雖有罪不再算，
 <br>為神的公義得完全，
 <br>因著祂我罪得赦免,
 <br>因著祂我罪得赦免。
+<br>3 
 <br>看吧！那是復活羔羊，
 <br>祂是無瑕公義完全，
 <br>祂自有永有永不變，
@@ -5839,8 +5854,8 @@ Christ the true and better Adam
 <br>勇敢地面对世俗的权势
 <br>神的伟大荣耀被人所知
 <br>他的双臂向天张开
-<br>看水分成两半 看
-<br>面纱被永远撕裂
+<br>看水分成两半 
+<br>看面纱被永远撕裂
 <br>我们现在经过用鲜血洗净    
     </p>
     </td>
@@ -5943,7 +5958,7 @@ In Christ alone will I glory
 <i>[合唱]
 <br>唯独基督
 <br>是我所信靠的
-<br>我在十架的力量中找到我的荣耀
+<br>我在十架的大能中找到我的荣耀
 <br>每一次胜利
 <br>让我都宣告
 <br>我力量的源泉
