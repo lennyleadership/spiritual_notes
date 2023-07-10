@@ -5458,42 +5458,6 @@ There is a fountain filled with blood
 <br>  Lose all their guilty stains;
 <br>And sinners, plunged beneath that flood,
 <br>  Lose all their guilty stains.
-<br>
-<br>The dying thief rejoiced to see
-<br>  That fountain in his day;
-<br>And there may I, though vile as he,
-<br>  Wash all my sins away:
-<br>  Wash all my sins away,
-<br>  Wash all my sins away;
-<br>And there may I, though vile as he,
-<br>  Wash all my sins away.
-<br>
-<br>Dear dying Lamb, Thy precious blood
-<br>  Shall never lose its power,
-<br>Till all the ransomed ones of God
-<br>  Be saved, to sin no more:
-<br>  Be saved, to sin no more,
-<br>  Be saved, to sin no more;
-<br>Till all the ransomed ones of God,
-<br>  Be saved to sin no more.
-<br>
-<br>E’er since by faith I saw the stream
-<br>  Thy flowing wounds supply,
-<br>Redeeming love has been my theme,
-<br>  And shall be till I die:
-<br>  And shall be till I die,
-<br>  And shall be till I die;
-<br>Redeeming love has been my theme,
-<br>  And shall be till I die.
-<br>
-<br>When this poor lisping, stammering tongue
-<br>  Lies silent in the grave,
-<br>Then in a nobler, sweeter song,
-<br>  I’ll sing Thy power to save:
-<br>  I’ll sing Thy power to save,
-<br>  I’ll sing Thy power to save;
-<br>Then in a nobler, sweeter song,
-<br>  I’ll sing Thy power to save.
     </p></td>
     <td style = "border-style: none"><p>
 有一血泉，血流盈满，
@@ -5504,7 +5468,21 @@ There is a fountain filled with blood
 <br>立去全人罪迹
 <br>罪人只要投身此泉，
 <br>立去全人罪迹
-
+    </p></td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+The dying thief rejoiced to see
+<br>  That fountain in his day;
+<br>And there may I, though vile as he,
+<br>  Wash all my sins away:
+<br>  Wash all my sins away,
+<br>  Wash all my sins away;
+<br>And there may I, though vile as he,
+<br>  Wash all my sins away.    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 当日一盗，临终欢欣，
 <br>因见此泉效能
 <br>我罪可憎，不比他轻，
@@ -5512,8 +5490,23 @@ There is a fountain filled with blood
 <br>在此也都洗净，
 <br>在此也都洗净
 <br>我罪可憎，不比他轻，
-<br>在此也都洗净
-
+<br>在此也都洗净    
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+Dear dying Lamb, Thy precious blood
+<br>  Shall never lose its power,
+<br>Till all the ransomed ones of God
+<br>  Be saved, to sin no more:
+<br>  Be saved, to sin no more,
+<br>  Be saved, to sin no more;
+<br>Till all the ransomed ones of God,
+<br>  Be saved to sin no more.    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 被杀羔羊，祢的宝血，
 <br>永不丧失能力
 <br>被赎教会，洗得清洁，
@@ -5521,8 +5514,23 @@ There is a fountain filled with blood
 <br>永远与罪隔离，
 <br>永远与罪隔离
 <br>被赎教会，洗得清洁，
-<br>永远与罪隔离
-
+<br>永远与罪隔离    
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+E’er since by faith I saw the stream
+<br>  Thy flowing wounds supply,
+<br>Redeeming love has been my theme,
+<br>  And shall be till I die:
+<br>  And shall be till I die,
+<br>  And shall be till I die;
+<br>Redeeming love has been my theme,
+<br>  And shall be till I die.    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 藉着信心，我见此泉，
 <br>从祢伤痕流出
 <br>救赎的爱，成我诗篇，
@@ -5530,8 +5538,23 @@ There is a fountain filled with blood
 <br>一生铭刻肺腑，
 <br>一生铭刻肺腑
 <br>救赎的爱，成我诗篇，
-<br>一生铭刻肺腑
-
+<br>一生铭刻肺腑    
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+When this poor lisping, stammering tongue
+<br>  Lies silent in the grave,
+<br>Then in a nobler, sweeter song,
+<br>  I’ll sing Thy power to save:
+<br>  I’ll sing Thy power to save,
+<br>  I’ll sing Thy power to save;
+<br>Then in a nobler, sweeter song,
+<br>  I’ll sing Thy power to save.    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 当我离世，安卧墓中，
 <br>拙口寂静无声
 <br>我将用那更美歌颂，
@@ -5539,8 +5562,9 @@ There is a fountain filled with blood
 <br>赞祢救赎大能，
 <br>赞祢救赎大能
 <br>我将用那更美歌颂，
-<br>赞祢救赎大能
-    </p></td>
+<br>赞祢救赎大能    
+    </p>
+    </td>
   </tr>
 </tbody>
 </table>
@@ -5791,33 +5815,6 @@ In Christ alone will I glory
 <br>And by His strength alone Ill overcome
 <br>Oh, I could stop and count successes like diamonds in my hands
 <br>But those trophies could not equal to the grace by which I stand
-<br>
-<br>[chorus]
-<br>In Christ alone
-<br>I place my trust
-<br>And find my glory in the power of the cross
-<br>In every victory
-<br>Let it be said of me
-<br>My source of strength
-<br>My source of hope
-<br>Is Christ alone
-<br>
-<br>In Christ alone do I glory
-<br>For only by His grace I am redeemed
-<br>For only His tender mercy
-<br>Could reach beyond my weakness to my need
-<br>And now I seek no greater honor in just to know Him more
-<br>And to count my gains but losses to the glory of my Lord
-<br>
-<br><i>[chorus]
-<br>In Christ alone
-<br>I place my trust
-<br>And find my glory in the power of the cross
-<br>In every victory
-<br>Let it be said of me
-<br>My source of strength
-<br>My source of hope
-<br>Is Christ alone</i>
     </p></td>
     <td style = "border-style: none"><p>
 唯独基督是我的荣耀，
@@ -5826,8 +5823,23 @@ In Christ alone will I glory
 <br>因他的大能我必得胜。
 <br>哦，我不能停下来数算我手中像钻石一样的成功
 <br>因为那些得胜不能与我站立在其上的恩典相当
- 
-<i>[合唱：]
+    </p></td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+<i>[chorus]
+<br>In Christ alone
+<br>I place my trust
+<br>And find my glory in the power of the cross
+<br>In every victory
+<br>Let it be said of me
+<br>My source of strength
+<br>My source of hope
+<br>Is Christ alone</i>    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
+<i>[合唱]
 <br>唯独基督
 <br>是我所信靠的
 <br>我在十架的力量中找到我的荣耀
@@ -5835,24 +5847,54 @@ In Christ alone will I glory
 <br>让我都宣告
 <br>我力量的源泉
 <br>我希望的源头
-<br>是耶稣基督</i>
-
+<br>是耶稣基督</i>    
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+In Christ alone do I glory
+<br>For only by His grace I am redeemed
+<br>For only His tender mercy
+<br>Could reach beyond my weakness to my need
+<br>And now I seek no greater honor in just to know Him more
+<br>And to count my gains but losses to the glory of my Lord    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 唯独基督是我的荣耀
 <br>唯独靠他的恩典我得救赎
 <br>唯独他的慈爱怜悯
 <br>能触摸我的软弱和我的需要
 <br>我不再寻求更大的荣耀，就是认识他之外的荣耀
-<br>我看我从前一切所得到和我主的荣耀比较起来都是使我有损失的
- 
-<i>[合唱：]
+<br>我看我从前一切所得到和我主的荣耀比较起来都是使我有损失的    
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+<i>[chorus]
+<br>In Christ alone
+<br>I place my trust
+<br>And find my glory in the power of the cross
+<br>In every victory
+<br>Let it be said of me
+<br>My source of strength
+<br>My source of hope
+<br>Is Christ alone</i>    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
+<i>[合唱]
 <br>唯独耶稣
 <br>是我所信靠的
 <br>我在十架的大能中找到我的荣耀
 <br>每一次得胜
 <br>我要宣告
 <br>我力量的源泉
-<br>我希望的源头</i>
-    </p></td>
+<br>我希望的源头</i>    
+    </p>
+    </td>
   </tr>
 </tbody>
 </table>
@@ -5879,32 +5921,6 @@ King of my life, I crown Thee now,
 <br>  Thine shall the glory be;
 <br>Lest I forget Thy thorn-crowned brow,
 <br>  Lead me to Calvary.
-<br> 
-<br><i>Chorus
-<br>Lest I forget Gethsemane;
-<br>Lest I forget Thine agony;
-<br>Lest I forget Thy love for me,
-<br>  Lead me to Calvary.</i>
-<br>
-<br>Show me the tomb where Thou wast laid,
-<br>  Tenderly mourned and wept;
-<br>Angels in robes of light arrayed
-<br>  Guarded Thee while Thou slept.
-<br>
-<br>Let me like Mary, through the gloom,
-<br>  Come with a gift to Thee;
-<br>Show to me now the empty tomb,
-<br>  Lead me to Calvary.
-<br>
-<br>May I be willing, Lord, to bear
-<br>  Daily my cross for Thee;
-<br>Even Thy cup of grief to share,
-<br>  Thou hast borne all for me.
-<br>
-<br>Fill me, O Lord, with Thy desire
-<br>  For all that know not Thee;
-<br>Then touch my lips with holy fire,
-<br>  To speak of Calvary.
     </p></td>
     <td style = "border-style: none"><p>
 1
@@ -5912,34 +5928,93 @@ King of my life, I crown Thee now,
 <br>  荣耀归你；
 <br>唯恐我忘记你那带荆棘的额头，
 <br>  带我到髑髅地。
-<br> 	免得我忘记客西马尼园；
+    </p></td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+<i>Chorus
+<br>Lest I forget Gethsemane;
+<br>Lest I forget Thine agony;
+<br>Lest I forget Thy love for me,
+<br>  Lead me to Calvary.</i>    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
+<i>[合唱]
+免得我忘记客西马尼园；
 <br>免得我忘记你的痛苦；
 <br>唯恐我忘记你对我的爱，
-<br>  带我到髑髅地。
-
-2
+<br>  带我到髑髅地。</i>       
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+Show me the tomb where Thou wast laid,
+<br>  Tenderly mourned and wept;
+<br>Angels in robes of light arrayed
+<br>  Guarded Thee while Thou slept. 
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
+ 2
 <br>向我展示你安放的坟墓，
 <br>  温柔地哀悼和哭泣；  当你睡着时，
 <br>身着光之袍的天使排列着守护着你。
-
+   
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+Let me like Mary, through the gloom,
+<br>  Come with a gift to Thee;
+<br>Show to me now the empty tomb,
+<br>  Lead me to Calvary.    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 3
 <br>让我像玛丽一样，穿过黑暗，
 <br>  带着礼物来给你；
 <br>现在给我看空坟墓，
-<br>  带我到髑髅地。
-
+<br>  带我到髑髅地。    
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+May I be willing, Lord, to bear
+<br>  Daily my cross for Thee;
+<br>Even Thy cup of grief to share,
+<br>  Thou hast borne all for me.    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 4
 <br>主啊，愿我
 <br>  每天为你背十字架；
 <br>即使是你的悲伤之杯分享，
-<br>  你已经为我承担了一切。
-
+<br>  你已经为我承担了一切。    
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+Fill me, O Lord, with Thy desire
+<br>  For all that know not Thee;
+<br>Then touch my lips with holy fire,
+<br>  To speak of Calvary.    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 5
 <br>主啊，用你
 <br>  对所有不认识你的人的渴望充满我；
 <br>然后用圣火触碰我的嘴唇，
-<br>  谈论髑髅地。
-    </p></td>
+<br>  谈论髑髅地。    
+    </p>
+    </td>
   </tr>
 </tbody>
 </table>
@@ -5970,24 +6045,6 @@ Sweet hour of prayer! sweet hour of prayer!
 <br>my soul has often found relief,
 <br>and oft escaped the tempter's snare
 <br>by thy return, sweet hour of prayer!
-<br>
-<br>Sweet hour of prayer! sweet hour of prayer!
-<br>the joys I feel, the bliss I share
-<br>of those whose anxious spirits burn
-<br>with strong desires for thy return!
-<br>With such I hasten to the place
-<br>where God my Savior shows his face,
-<br>and gladly take my station there,
-<br>and wait for thee, sweet hour of prayer!
-<br>
-<br>Sweet hour of prayer! sweet hour of prayer!
-<br>thy wings shall my petition bear
-<br>to him whose truth and faithfulness
-<br>engage the waiting soul to bless.
-<br>And since he bids me seek his face,
-<br>believe his word, and trust his grace,
-<br>I'll cast on him my every care,
-<br>and wait for thee, sweet hour of prayer!
     </p></td>
     <td style = "border-style: none"><p>
 1 
@@ -5999,15 +6056,44 @@ Sweet hour of prayer! sweet hour of prayer!
 <br>我的灵魂常常找到解脱，
 <br>并经常在你回来时逃脱试探者的网罗，
 <br>甜蜜的祈祷时刻！
-
+   </p></td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+Sweet hour of prayer! sweet hour of prayer!
+<br>the joys I feel, the bliss I share
+<br>of those whose anxious spirits burn
+<br>with strong desires for thy return!
+<br>With such I hasten to the place
+<br>where God my Savior shows his face,
+<br>and gladly take my station there,
+<br>and wait for thee, sweet hour of prayer!    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 2 
 <br>甜蜜的祷告时刻！
 <br>甜蜜的祈祷时刻！ 
 <br>我感受到的快乐，
 <br>我与那些焦急的灵魂 
 <br>因强烈渴望你回来而燃烧的人
-<br>分享的幸福！ 我带着这样的人赶往 上帝我的救主显现他面的地方， <br>并高兴地站在那里， 等待你，甜蜜的祈祷时刻！
-
+<br>分享的幸福！ 我带着这样的人赶往 上帝我的救主显现他面的地方， <br>并高兴地站在那里， 等待你，甜蜜的祈祷时刻！    
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+Sweet hour of prayer! sweet hour of prayer!
+<br>thy wings shall my petition bear
+<br>to him whose truth and faithfulness
+<br>engage the waiting soul to bless.
+<br>And since he bids me seek his face,
+<br>believe his word, and trust his grace,
+<br>I'll cast on him my every care,
+<br>and wait for thee, sweet hour of prayer!    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 3 
 <br>甜蜜的祷告时刻！甜蜜的祈祷时刻！
 <br>你的翅膀将我的祈求带到
@@ -6016,8 +6102,9 @@ Sweet hour of prayer! sweet hour of prayer!
 <br>既然他吩咐我寻求他的面，
 <br>相信他的话，相信他的恩典，
 <br>我会把我所有的关心都交给他，
-<br>等待你，祈祷的甜蜜时刻！
-    </p></td>
+<br>等待你，祈祷的甜蜜时刻！    
+    </p>
+    </td>
   </tr>
 </tbody>
 </table>
@@ -6040,7 +6127,8 @@ Sweet hour of prayer! sweet hour of prayer!
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-1 I don't know about tomorrow,
+1 
+<br>I don't know about tomorrow,
 <br>I just live from day to day.
 <br>I don't borrow from its sunshine,
 <br>For its skies may turn to gray.
@@ -6048,31 +6136,7 @@ Sweet hour of prayer! sweet hour of prayer!
 <br>For I know what Jesus said,
 <br>And today I'll walk beside Him,
 <br>For He knows what is ahead.
-<br>
-<br><i>Chorus
-<br>Many things about tomorrow,
-<br>I don't seem to understand;
-<br>But I know who holds tomorrow,
-<br>And I know who holds my hand.</i>
-<br>
-<br>Every step is getting brighter,
-<br>As the golden stairs I climb;
-<br>Every burden's getting lighter;
-<br>Every cloud is silver lined.
-<br>There the sun is always shining,
-<br>There no tear will dim the eye,
-<br>At the ending of the rainbow,
-<br>Where the mountains touch the sky. 
-<br>
-<br>I don't know about tomorrow,
-<br>It may bring me poverty;
-<br>But the one who feeds the sparrow,
-<br>Is the one who stands by me.
-<br>And the path that be my portion,
-<br>May be through the flame or flood,
-<br>But His presence goes before me,
-<br>And I'm covered with His blood. 
-    </p></td>
+     </p></td>
     <td style = "border-style: none"><p>
 1 
 <br>我不知道明天会怎样，
@@ -6083,13 +6147,39 @@ Sweet hour of prayer! sweet hour of prayer!
 <br>因为我知道耶稣所说的话，
 <br>今天我要与他同行，
 <br>因为他知道前面的事。
-
+    </p></td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+<i>Chorus
+<br>Many things about tomorrow,
+<br>I don't seem to understand;
+<br>But I know who holds tomorrow,
+<br>And I know who holds my hand.</i>    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 <i>合唱：
 <br>明天的很多事，
 <br>我好像不明白；
 <br>但我知道谁拥有明天，
-<br>我知道谁握着我的手。</i>
-
+<br>我知道谁握着我的手。</i>    
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+Every step is getting brighter,
+<br>As the golden stairs I climb;
+<br>Every burden's getting lighter;
+<br>Every cloud is silver lined.
+<br>There the sun is always shining,
+<br>There no tear will dim the eye,
+<br>At the ending of the rainbow,
+<br>Where the mountains touch the sky.     
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 2 
 <br>每一步都越来越亮，
 <br>就像我爬上金色的阶梯；
@@ -6098,8 +6188,23 @@ Sweet hour of prayer! sweet hour of prayer!
 <br>那里阳光常照，
 <br>没有泪水模糊双眼，
 <br>在彩虹的尽头，
-<br>群山与天相接的地方。[避免]
-
+<br>群山与天相接的地方。[避免]    
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+I don't know about tomorrow,
+<br>It may bring me poverty;
+<br>But the one who feeds the sparrow,
+<br>Is the one who stands by me.
+<br>And the path that be my portion,
+<br>May be through the flame or flood,
+<br>But His presence goes before me,
+<br>And I'm covered with His blood.     
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 3 
 <br>我不知道明天，
 <br>它可能使我贫穷；
@@ -6108,8 +6213,9 @@ Sweet hour of prayer! sweet hour of prayer!
 <br>属于我的路，
 <br>可能是经过火焰或洪水，
 <br>但他的同在在我前面，
-<br>我被他的宝血所覆盖。
-    </p></td>
+<br>我被他的宝血所覆盖。    
+    </p>
+    </td>
   </tr>
 </tbody>
 </table>
@@ -6136,61 +6242,85 @@ A wonderful Savior is Jesus my Lord,
 <br>a wonderful Savior to me.
 <br>He hideth my soul in the cleft of the rock,
 <br>where rivers of pleasure I see.
-<br>
-<br><i>Chorus:
-<br>He hideth my soul in the cleft of the rock
-<br>that shadows a dry, thirsty land.
-<br>He hideth my life in the depths of his love,
-<br>and covers me there with his hand,
-<br>and covers me there with his hand.</i>
-<br>
-<br>A wonderful Savior is Jesus my Lord;
-<br>he taketh my burden away.
-<br>He holdeth me up, and I shall not be moved;
-<br>he giveth me strength as my day. 
-<br>
-<br>With numberless blessings each moment he crowns,
-<br>and filled with his fullness divine,
-<br>I sing in my rapture,“Oh, glory to God
-<br>for such a Redeemer as mine!” 
-<br>
-<br>When clothed in his brightness, transported I rise
-<br>to meet him in clouds of the sky,
-<br>his perfect salvation, his wonderful love,
-<br>I’ll shout with the millions on high. [Refrain]
-    </p></td>
+     </p></td>
     <td style = "border-style: none"><p>
 1 
 <br>奇妙的救主是我的主耶稣，
 <br>对我来说是奇妙的救主。
 <br>他将我的灵魂隐藏在岩石的缝隙中，
 <br>在那里我看到了快乐的河流。
-
+    </p></td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+<i>Chorus:
+<br>He hideth my soul in the cleft of the rock
+<br>that shadows a dry, thirsty land.
+<br>He hideth my life in the depths of his love,
+<br>and covers me there with his hand,
+<br>and covers me there with his hand.</i>    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 <i>合唱：
 <br>他将我的灵魂藏在岩石的裂缝中，
 <br>那岩石的裂缝遮蔽了干渴之地。
 <br>他将我的生命藏在他爱的深处，
 <br>用他的手遮盖我，
-<br>用他的手遮盖我。</i>
-
+<br>用他的手遮盖我。</i>    
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+A wonderful Savior is Jesus my Lord;
+<br>he taketh my burden away.
+<br>He holdeth me up, and I shall not be moved;
+<br>he giveth me strength as my day.     
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 2 
 <br>奇妙的救主是我主耶稣；
 <br>他除去我的重担。
 <br>他托起我，我必不动摇；
-<br>他赐我力量如我的日子。[避免]
-
+<br>他赐我力量如我的日子。[避免]    
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+With numberless blessings each moment he crowns,
+<br>and filled with his fullness divine,
+<br>I sing in my rapture,“Oh, glory to God
+<br>for such a Redeemer as mine!”     
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 3 
 <br>祂每时每刻都带着无数的祝福加冕，
 <br>充满祂神圣的丰盛，
 <br>我在狂喜中歌唱：“哦，荣耀归于上帝，
-<br>赐予像我这样的救赎主！” [避免]
-
+<br>赐予像我这样的救赎主！” [避免]    
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+When clothed in his brightness, transported I rise
+<br>to meet him in clouds of the sky,
+<br>his perfect salvation, his wonderful love,
+<br>I’ll shout with the millions on high. [Refrain]    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 4 
 <br>当我披上他的光辉，激动不已，我
 <br>在天空的云彩中升起迎接他，
 <br>他完美的救恩，他奇妙的爱，
-<br>我将与数百万人一起在高处欢呼。
-    </p></td>
+<br>我将与数百万人一起在高处欢呼。    
+    </p>
+    </td>
   </tr>
 </tbody>
 </table>
