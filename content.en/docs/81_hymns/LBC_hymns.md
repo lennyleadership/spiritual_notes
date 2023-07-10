@@ -6466,7 +6466,7 @@ Calvary covers it all
 </table>
 
 
-# 79: Sweet Hour Of Prayer
+# 79. Sweet Hour Of Prayer
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
