@@ -637,13 +637,15 @@ Christ is all
 
 <div class = "row">
   <div id = "column1">
-I've found a treasure that can't be taken
+1 
+<br>I've found a treasure that can't be taken
 <br>Found a well that won't run dry
 <br>O worldly pleasure be now forsaken
 <br>Behold what love what life is mine
   </div>
   <div id = "column2">
-我找到了一件拿不走的宝物 
+1 
+<br>我找到了一件拿不走的宝物 
 <br>找到一口不会干涸的井 
 <br>哦，世俗的快乐现在被抛弃了 
 <br>看吧！我的爱、我的生命是何等宝贵！
@@ -652,13 +654,15 @@ I've found a treasure that can't be taken
 
 <div class = "row">
   <div id = "column1">
-Could endless striving now make me righteous
+2 
+<br>Could endless striving now make me righteous
 <br>Could all my works now grant me hope
 <br>Oh hallelujah, the blood of Jesus
 <br>My only plea, my only boast
   </div>
   <div id = "column2">
-无休止的奋斗现在能使我公义吗 
+2 
+<br>无休止的奋斗现在能使我公义吗 
 <br>我所做的一切现在能给我希望吗 
 <br>哦，哈利路亚，耶稣的宝血 
 <br>我唯一的代求，我唯一的夸耀
@@ -684,13 +688,15 @@ Could endless striving now make me righteous
 
 <div class = "row">
   <div id = "column1">
-And in the trial when storms are raging
+3 
+<br>And in the trial when storms are raging
 <br>Though tears may fall my soul will rise
 <br>For there's a peace that is mine unchanging
 <br>There is a joy that never dies
   </div>
   <div id = "column2">
-而在暴风雨肆虐的试炼中 
+3 
+<br>而在暴风雨肆虐的试炼中 
 <br>虽然眼泪可能会掉下来，但我的灵魂会升起 
 <br>因为有一种平安，属于我，永不变！ 
 <br>有一种快乐，永不消逝！
@@ -699,13 +705,15 @@ And in the trial when storms are raging
 
 <div class = "row">
   <div id = "column1">
-When life is passing and strength is fading
+4 
+<br>When life is passing and strength is fading
 <br>I'll see the One that I adore
 <br>Let this world vanish, oh give me Jesus
 <br>My great desire, my true reward
   </div>
   <div id = "column2">
-当生命在流逝，力量在衰竭 
+4 
+<br>当生命在流逝，力量在衰竭 
 <br>我会见到我敬拜的那一位 
 <br>让这个世界远去，哦，给我耶稣 
 <br>祂是我最大的愿望，真正的奖赏
@@ -730,7 +738,8 @@ When life is passing and strength is fading
   </tr>
   <tr>
     <td style = "border-style: none"><p>
-Christ the sure and steady anchor
+1 
+<br>Christ the sure and steady anchor
 <br>In the fury of the storm
 <br>When the winds of doubt blow through me
 <br>And my sails have all been torn
@@ -739,6 +748,7 @@ Christ the sure and steady anchor
 <br>I will hold fast to the anchor
 <br>It will never be removed
 <br>
+<br>2 
 <br>Christ the sure and steady anchor
 <br>While the tempest rages on
 <br>When temptation claims the battle
@@ -748,6 +758,7 @@ Christ the sure and steady anchor
 <br>I will hold fast to the anchor
 <br>It shall never be removed
 <br>
+<br>3 
 <br>Christ the sure and steady anchor
 <br>Through the floods of unbelief
 <br>Hopeless somehow, O my soul, now
@@ -757,6 +768,7 @@ Christ the sure and steady anchor
 <br>I will hold fast to the anchor
 <br>It will never be removed
 <br>
+<br>4 
 <br>Christ the sure and steady anchor
 <br>As we face the wave of death
 <br>When these trials give way to glory
@@ -766,13 +778,15 @@ Christ the sure and steady anchor
 <br>And the calm will be the better
 <br>For the storms that we endure
 <br>
+<br>5 
 <br>Christ the sure of our salvation
 <br>Ever faithful, ever true
 <br>We will hold fast to the anchor
 <br>It shall never be removed
 </p></td>
     <td style = "border-style: none"><p>
-基督是锚，坚固牢靠，
+1 
+<br>基督是锚，坚固牢靠，
 <br>虽暴风肆虐狂啸
 <br>怀疑之风，席卷横扫，
 <br>风帆全毁船飘摇
@@ -781,6 +795,7 @@ Christ the sure and steady anchor
 <br>我要专心，依靠这锚，
 <br>祂稳固永不动摇
 <br>
+<br>2 
 <br>基督是锚，坚固牢靠，
 <br>虽航程骇浪惊涛
 <br>世间诱惑，得势猖狂，
@@ -790,6 +805,7 @@ Christ the sure and steady anchor
 <br>我要专心，依靠这锚，
 <br>祂稳固永不动摇
 <br>
+<br>3 
 <br>基督是锚，坚固牢靠，
 <br>虽不信如洪涛涛
 <br>我的心哪，无助绝望，
@@ -799,6 +815,7 @@ Christ the sure and steady anchor
 <br>我要专心，依靠这锚，
 <br>祂稳固永不动摇
 <br>
+<br>4 
 <br>基督是锚，坚固牢靠，
 <br>当死亡波浪环绕
 <br>我们走完，人生道路，
@@ -808,9 +825,10 @@ Christ the sure and steady anchor
 <br>忍受试炼，历经风暴，
 <br>那宁静将更美好
 <br>
-<br>基督是我们救恩的确据，
-<br>永远信实，永远真切，
-<br>我们当专心依靠这锚，
+<br>5 
+<br>基督，我们得救保障，
+<br>永远诚信，永真实！
+<br>我们专心依靠这锚，
 <br>祂稳固永不动摇
 </p></td>
   </tr>
