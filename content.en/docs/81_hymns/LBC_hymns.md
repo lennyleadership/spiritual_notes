@@ -5578,6 +5578,7 @@ When this poor lisping, stammering tongue
   <tr>
   <td style = "border-style: none">
   <p>
+Calvary covers it all  
   </p>
   </td>
   <td style = "border-style: none">
@@ -5592,82 +5593,145 @@ Far dearer than all that the world can impart
 <br>Was the message that came to my heart.
 <br>How that Jesus alone for my sin did atone,
 <br>And Calvary covers it all.
-
-<i>Chorus
-<br>Calvary covers it all,
-<br>My past with its sin and stain;
-<br>My guilt and despair
-<br>Jesus took on Him there,
-<br>And Calvary covers it all.</i>
-<br>
-<br>The stripes that He bore and the thorns that He wore
-<br>Told His mercy and love ever more
-<br>And my heart bowed in shame as I called on His name,
-<br>And Calvary covers it all.
-
-<i>Chorus
-<br>Calvary covers it all,
-<br>My past with its sin and stain;
-<br>My guilt and despair
-<br>Jesus took on Him there,
-<br>And Calvary covers it all.</i>
-<br>
-<br>How matchless the grace, when I looked in the face
-<br>Of this Jesus, my crucified Lord;
-<br>My redemption complete I then found at His feet,
-<br>And Calvary covers it all.
-
-<i>Chorus
-<br>Calvary covers it all,
-<br>My past with its sin and stain;
-<br>My guilt and despair
-<br>Jesus took on Him there,
-<br>And Calvary covers it all.</i>
-<br>
-<br>How blessed the thought, that my soul by Him bought,
-<br>Shall be His in the glory on high;
-<br>Where with gladness and song, I'll be one of the throng
-<br>And Calvary covers it all.
-
-<i>Chorus
-<br>Calvary covers it all,
-<br>My past with its sin and stain;
-<br>My guilt and despair
-<br>Jesus took on Him there,
-<br>And Calvary covers it all.</i>
     </p></td>
     <td style = "border-style: none"><p>
-
 远比这世界所能给予更珍贵的是
-<br>传给我的福音；
+<br>传给我的福音，
 <br>耶稣独自为我的罪付上赎价，
-<br>各各他上全能的救赎 。
-
+<br>各各他上全能的救赎。
+   </p></td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+<i>Chorus
+<br>Calvary covers it all,
+<br>My past with its sin and stain;
+<br>My guilt and despair
+<br>Jesus took on Him there,
+<br>And Calvary covers it all.</i>    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 <i>合唱
-<br>髑髅地涵盖了一切，
-<br>我的过去及其罪恶和耻辱；
-<br>耶稣在那里担当了我的罪恶感和绝望，
-<br>髑髅地涵盖了这一切。</i>
-
+<br>各各他上全能的救赎，
+<br>我过去的罪恶、污秽；
+<br>谴责、绝望，
+<br>耶稣都为我背负，
+<br>各各他上全能的救赎。</i>    
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+The stripes that He bore and the thorns that He wore
+<br>Told His mercy and love ever more
+<br>And my heart bowed in shame as I called on His name,
+<br>And Calvary covers it all.    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 2
-<br>他身上的条纹和身上的荆棘
+<br>他身上的鞭伤和荆棘冠冕
 <br>永远诉说祂的怜悯和慈爱；
-<br>当我呼求他的名时，我的心因羞愧而低下头，
-<br>髑髅地涵盖了这一切。
-
+<br>当我呼求他的名时，我羞愧地跪拜，
+<br>各各他上全能的救赎。    
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+<i>Chorus
+<br>Calvary covers it all,
+<br>My past with its sin and stain;
+<br>My guilt and despair
+<br>Jesus took on Him there,
+<br>And Calvary covers it all.</i>    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
+<i>合唱
+<br>各各他上全能的救赎，
+<br>我过去的罪恶、污秽；
+<br>谴责、绝望，
+<br>耶稣都为我背负，
+<br>各各他上全能的救赎。</i>    
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+How matchless the grace, when I looked in the face
+<br>Of this Jesus, my crucified Lord;
+<br>My redemption complete I then found at His feet,
+<br>And Calvary covers it all.    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 3
-<br>当我看着脸时，恩典是多么的无与伦比
-<br>这位耶稣，我被钉十字架的主；
-<br>我的救赎完成，然后我发现在他的脚下，
-<br>因为髑髅地涵盖了这一切。
-
+<br>当我看着祂时，耶稣的恩典
+<br>是多么的无与伦比，这位被钉十字架的主；
+<br>祂救我的工作已完成，我伏在他的脚前，
+<br>各各他上全能的救赎。    
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+<i>Chorus
+<br>Calvary covers it all,
+<br>My past with its sin and stain;
+<br>My guilt and despair
+<br>Jesus took on Him there,
+<br>And Calvary covers it all.</i>    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
+<i>合唱
+<br>各各他上全能的救赎，
+<br>我过去的罪恶、污秽；
+<br>谴责、绝望，
+<br>耶稣都为我背负，
+<br>各各他上全能的救赎。</i>    
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+How blessed the thought, that my soul by Him bought,
+<br>Shall be His in the glory on high;
+<br>Where with gladness and song, I'll be one of the throng
+<br>And Calvary covers it all.    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
 4
-<br>我的灵魂被他买来的想法是多么幸福，
-<br>将属于他在高处的荣耀；
-<br>哪里有欢乐和歌声，
-<br>我会成为人群中的一员
-<br>因为髑髅地涵盖了这一切。
-    </p></td>
+<br>祂买赎我的灵魂，这般意念如此折服，
+<br>归荣耀给在至高处的祂；
+<br>在那里有欢乐和歌声，
+<br>我会汇入赞美的人群中
+<br>各各他上全能的救赎。    
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style = "border-style: none"><p>
+<i>Chorus
+<br>Calvary covers it all,
+<br>My past with its sin and stain;
+<br>My guilt and despair
+<br>Jesus took on Him there,
+<br>And Calvary covers it all.</i>    
+    </p>
+    </td>
+    <td style = "border-style: none"><p>
+<i>合唱
+<br>各各他上全能的救赎，
+<br>我过去的罪恶、污秽；
+<br>谴责、绝望，
+<br>耶稣都为我背负，
+<br>各各他上全能的救赎。</i>    
+    </p>
+    </td>
   </tr>
 </tbody>
 </table>
