@@ -365,7 +365,8 @@ All hail, King Jesus
 <br>In any way You choose
 <br>And let my song forever be
 <br>My only boast is You
-    </p></td>
+    </p>
+    </td>
     <td style = "border-style: none"><p>
 1
 <br>我曾迷失幽暗深夜
@@ -391,7 +392,7 @@ All hail, King Jesus
 <br>哈列路亞！基督，我所有
 <br>哈列路亞！耶穌，我生命
 <br>哈列路亞！基督，我所有
-<br>哈列路亞！耶穌，我生命
+<br>哈列路亞！耶穌，我生命</i>
 <br>
 <br>3
 <br>主，我今後願單屬祢
@@ -6790,18 +6791,24 @@ Calvary covers it all
   <tr>
   <td style = "border-style: none">
   <p>
+
   </p>
   </td>
   <td style = "border-style: none">
   <p>
+
   </p>  
   </td>
   </tr>
   <tr>
-    <td style = "border-style: none"><p>
-    </p></td>
-    <td style = "border-style: none"><p>
-    </p></td>
+    <td style = "border-style: none">
+    <p>
+    </p>
+    </td>
+    <td style = "border-style: none">
+    <p>
+    </p>
+    </td>
   </tr>
 </tbody>
 </table>
