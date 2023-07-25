@@ -1075,3 +1075,11 @@ h1:before {
     padding: $padding-16 * 2 $padding-16;
   }
 }
+
+
+@media print {
+  h1 { 
+    page-break-before: always;
+  }
+
+}
