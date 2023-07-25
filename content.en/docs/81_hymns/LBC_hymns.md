@@ -101,6 +101,7 @@ toc: true
     <a href="#top">To Top</a>
 </div>
 
+\p
 
 # 2. A Thousand, A Thousand Thanksgivings
 <table>
@@ -184,6 +185,7 @@ toc: true
 </tbody>
 </table>
 
+\p
 
 # 3. Ah, Lord God
 <table>
