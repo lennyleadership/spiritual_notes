@@ -34,11 +34,9 @@ Two evidences to show Jesus come to this hours.
 2. John 12:27 ESV  
 [27] [Jesus spoke to the crowd] "Now is my soul troubled. And what shall I say? 'Father, save me from this hour'? But for this purpose I have come to this hour."
 
-So, what was going on in Gethsemane? 
+So, what was going on in Gethsemane? There is a hint. Jesus was sweating blood.  The medical term of such condition is called hematohidrosis. It may occur in an individual who is suffering from extreme levels of stress. [<a href = "<a href = "" target="_blank" rel="noopener noreferrer"></a>" target="_blank" rel="noopener noreferrer">A Curious Case of Sweating Blood</a>]
 
-Hematohidrosis is a very rare condition in which an individual sweats blood. It may occur in an individual who is suffering from extreme levels of stress. [<a href = "<a href = "" target="_blank" rel="noopener noreferrer"></a>" target="_blank" rel="noopener noreferrer">A Curious Case of Sweating Blood</a>]
-
-Some medical reports to this effect stated that when a man is under such intense pressure, such intense turmoil, such intense conflict, if he ever begins to sweat blood, he is close to a mortal stroke. The Devil showed up one more time in the life of Jesus and tried to kill him.  That is possible.  Prior to Calvary, the Devil would have stopped Jesus from going to the cross any way he could have, because the Devil knows the cross is his defeat. 
+Some medical reports to this effect stated that when a man is under such intense pressure, such intense turmoil, such intense conflict, if he ever begins to sweat blood, he is close to a mortal stroke, he is close to dropping dead.  What might happen was: the Devil showed up one more time in the life of Jesus and tried to kill him.  That is possible.  Prior to Calvary, the Devil would have stopped Jesus from going to the cross any way he could have, because the Devil knows the cross is his defeat. 
 
 
 God's plan is to rescue human being from Satan's kingdom.  God sent the God Son, Jesus, to the earth as a man to accomplish the salvation on the Cross. 
