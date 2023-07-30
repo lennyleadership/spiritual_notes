@@ -44,7 +44,7 @@ God's plan is to rescue human being from Satan's kingdom.  God sent the God Son,
 
 However the road to the Cross was not smooth. Satan attempted to destroy the plan.   
 
-<li>King Herod assassins. He killed all the male children in Bethlehem and in all that region who were two years old or under.  However God had Joseph takeb Jesus and Mary to Egypt beforehand.</li>
+<li>King Herod assassins. He killed all the male children in Bethlehem and in all that region who were two years old or under.  However God had Joseph taken Jesus and Mary to Egypt beforehand.</li>
 <li>Satan tempted Jesus in the wilderness.  Jesus defeated Satan with God's Words.</li>
 <li>The religious leaders tried to thrown Jesus down a cliff (Luke 4:29).</li>
 <li>The crowd picked up stones and threw to Him (John 8:59).</li>
