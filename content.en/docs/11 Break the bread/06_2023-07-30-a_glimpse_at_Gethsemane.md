@@ -24,11 +24,11 @@ Jesus was sorrowful and troubled.
 [43] And there appeared to him an angel from heaven, strengthening him.   
 [44] And being in agony he prayed more earnestly; and his sweat became like great drops of blood falling down to the ground.
 
-We should not think this prayer expressed reluctance or a desire to turn back, instead something was going on.   
+We should not think this prayer expressed reluctance or a desire to turn back, or Jesus experienced the human limitation, or Jesus fought against human weakness.   
 
 I want to add details to the last Sunday message on "why did Jesus come?" by quoting verses from two places.
 
-1. John chapter 3, verse 14 to 15
+1. John chapter 3, verse 14 to 15  
 [14] [Jesus told Nicodemus] ... as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up,   
 [15] that whoever believes in him may have eternal life.
 
@@ -37,7 +37,7 @@ I want to add details to the last Sunday message on "why did Jesus come?" by quo
 
 These verses proved to us that Jesus expected what must come at the end of his life.
 
-So, what was going on in Gethsemane? There is a hint. Jesus was sweating blood.  The medical term of such condition is called hematohidrosis. Some medical reports to this effect stated that it may occur in an individual who is under such intense pressure, such intense turmoil, such intense conflict, and as a result, he is close to a mortal stroke, he is close to dropping dead.  
+So what was going on in Gethsemane? There is a hint. Jesus was sweating blood.  The medical term of such condition is called hematohidrosis. Some medical reports to this effect stated that it may occur in an individual who is under such intense pressure, such intense turmoil, such intense conflict, and as a result, he is close to a mortal stroke, he is close to dropping dead.  
 
 What might happen was: Satan showed up one more time in the life of Jesus and tried to kill him.  
 
@@ -50,10 +50,13 @@ Here are four incidents.
 <li>The religious leaders tried to thrown Jesus down a cliff (Luke 4:29).</li>
 <li>The crowd picked up stones and threw to Him (John 8:59).</li>
 
-Jesus cried out, don't let me die here, spare my life, let me live, let me go to that Cross.
+In the last journey of his life, Jesus cried out to God and may pray to God, "don't let me die here, spare my life, let me live, let me go to that Cross."
 
+And God listened His prayer, Satan's plan was failed, the work on the Cross was finished.
 
-Brothers and sisters, every time when we come and get together around the Lord's table, the moment reminds us what Jesus had done in the days of his flesh.  We don't take God's love for granted. reminds us we should sin less, sin no more, and repent our sins.  
+Brothers and sisters, Jesus fought against Satan in His life to the last minute for our salvation.
+
+Do we take God's love for granted? Do we understand Jesus' death? If so, sin less, repent.  
 
 <b>Prayer</b>:  
 How precious we are in God's mind! so that God Father sacrificed Jesus, His begotten son.
