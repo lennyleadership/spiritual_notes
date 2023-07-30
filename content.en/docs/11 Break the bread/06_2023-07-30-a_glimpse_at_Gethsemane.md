@@ -50,20 +50,25 @@ However the road to the Cross was not smooth. Satan attempted to destroy the pla
 <li>The religious leaders tried to push Jesus over a cliff</li>.
 <li>The crowd picked up stones to stone Him.</li>
 
+Jesus cried out, don't let me die here, spare my life, let me live, let me go to that Cross.
 
-Our sin can be forgiven by God and we can live when we believe in Jesus.
 
 
-Brothers and sisters, every time when we come and get together around the Lord's table, the moment reminds us what Jesus had done in the days of his flesh.  We don't take God's love for granted. reminds us we should sin less, and repent our sins.  
+
+Brothers and sisters, every time when we come and get together around the Lord's table, the moment reminds us what Jesus had done in the days of his flesh.  We don't take God's love for granted. reminds us we should sin less, sin no more, and repent our sins.  
 
 <b>Prayer</b>:  
 How precious we are in God's mind! so that God Father sacrificed Jesus, His begotten son.
 
 What spiritual battles God fought against Satan in the days of Jesus flesh! so that  
 
+We appreciate the cost you paid.
 
 
-Background: 
+
+<b>Background</b>:  
+
+Our sin can be forgiven by God and we can live when we believe in Jesus.
 
 Jesus became the high priest and the sacrifice.  You washed away our sin, we can come to God directly. -
 
