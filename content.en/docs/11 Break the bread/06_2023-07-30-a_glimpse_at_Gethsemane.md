@@ -36,8 +36,9 @@ Two evidences to show Jesus come to this hours.
 
 So, what was going on in Gethsemane? There is a hint. Jesus was sweating blood.  The medical term of such condition is called hematohidrosis. It may occur in an individual who is suffering from extreme levels of stress. [<a href = "<a href = "" target="_blank" rel="noopener noreferrer"></a>" target="_blank" rel="noopener noreferrer">A Curious Case of Sweating Blood</a>]
 
-Some medical reports to this effect stated that when a man is under such intense pressure, such intense turmoil, such intense conflict, if he ever begins to sweat blood, he is close to a mortal stroke, he is close to dropping dead.  What might happen was: the Devil showed up one more time in the life of Jesus and tried to kill him.  That is possible.  Prior to Calvary, the Devil would have stopped Jesus from going to the cross any way he could have, because the Devil knows the cross is his defeat. 
+Some medical reports to this effect stated that when a man is under such intense pressure, such intense turmoil, such intense conflict, if he ever begins to sweat blood, he is close to a mortal stroke, he is close to dropping dead.  What might happen was: the Devil showed up one more time in the life of Jesus and tried to kill him.  
 
+That is possible.  Prior to Calvary, the Devil would have stopped Jesus from going to the cross any way he could have, because the Devil knows the cross is his defeat. 
 
 God's plan is to rescue human being from Satan's kingdom.  God sent the God Son, Jesus, to the earth as a man to accomplish the salvation on the Cross. 
 
@@ -45,8 +46,8 @@ However the road to the Cross was not smooth. Satan attempted to destroy the pla
 
 <li>King Herod assassins. He killed all the male children in Bethlehem and in all that region who were two years old or under.  However God had Joseph takeb Jesus and Mary to Egypt beforehand.</li>
 <li>Satan tempted Jesus in the wilderness.  Jesus defeated Satan with God's Words.</li>
-<li>The religious leaders tried to push Jesus over a cliff</li>.
-<li>The crowd picked up stones to stone Him.</li>
+<li>The religious leaders tried to thrown Jesus down a cliff (Luke 4:29).</li>
+<li>The crowd picked up stones and threw to Him (John 8:59).</li>
 
 Jesus cried out, don't let me die here, spare my life, let me live, let me go to that Cross.
 
