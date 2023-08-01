@@ -1,6 +1,6 @@
 ---
-weight: 999
-title: blank
+weight: 01
+title: Jesus was the highest Priest
 authors: null
 categories: null
 tags: null
