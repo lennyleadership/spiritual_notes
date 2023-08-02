@@ -1,7 +1,7 @@
 ---
 weight: 3
 title: "Ligonier, Barry Cooper | Priest"
-authors: null
+authors:  Barry Cooper
 categories: null
 tags: null
 series: null
@@ -16,7 +16,7 @@ If you are a believer in Jesus Christ, you have full access to the Creator and c
 ---
 
 
-There’s a famous picture of President Kennedy sitting in the Oval Office—the most powerful man in the world, ordinarily inaccessible to the average person on the street. And yet, there they are: two small children, a boy and a girl, right in front of his desk. And the president isn’t shooing them away. He’s smiling at them, clapping as they happily dance on the carpet in front of him—because, of course, these are his children.
+
 
 What people wouldn’t give for that kind of access to the world’s most powerful person. What if we had that kind of access to God?
 
