@@ -3,7 +3,7 @@ weight: 01
 title: "Ligonier | A Priest from Judah"
 authors: null
 categories: null
-tags: [High priest]
+tags: [High priest, Hebrews]
 series: null
 description: 
 draft: false
