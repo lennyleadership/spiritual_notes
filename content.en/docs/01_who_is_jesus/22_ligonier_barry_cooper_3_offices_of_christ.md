@@ -1,5 +1,5 @@
 ---
-weight: 04
+weight: 22
 title: "Ligonier, Barry Cooper | Three Offices of Christ"
 authors: Barry Cooper
 categories: null
