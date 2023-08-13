@@ -1,6 +1,6 @@
 ---
 weight: 07
-title: Hematohidrosis at Gethsemane
+title: What was going on at Gethsemane
 authors: null
 categories: null
 tags: [Passover lamb]
