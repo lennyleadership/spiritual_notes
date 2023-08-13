@@ -4,7 +4,7 @@ title: What was going on at Gethsemane
 authors: null
 categories: null
 tags: [Passover lamb]
-series: [Pembroke Bible Chapel]
+series: ["Pembroke Bible Chapel"]
 description: 
 draft: false
 date: "2023-08-12"
