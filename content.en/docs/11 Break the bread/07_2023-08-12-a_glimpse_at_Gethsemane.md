@@ -13,10 +13,11 @@ toc: true
 ---
 
 <!--more-->
+I am thrilled to resume the fellowship with 
 
-Topic: What was going on in the garden of Gethsemane.
+I would like to bring your attention to the scene in the garden of Gethsemane today.
 
-Analogy: prayer for safe drive to get Deep River
+
 
 Jesus' disciples, Matthew, Mark, and Luke documented the moment when Jesus prayed in Gethsemane. [Matthew 26:36-45, Mark 14:32-42, and Luke 22:39-46]. Because Luke was a personal physician, he recorded details more than other two disciples.
 
