@@ -17,8 +17,6 @@ I am thrilled to resume the fellowship with
 
 I would like to bring your attention to the scene in the garden of Gethsemane today.
 
-
-
 Jesus' disciples, Matthew, Mark, and Luke documented the moment when Jesus prayed in Gethsemane. [Matthew 26:36-45, Mark 14:32-42, and Luke 22:39-46]. Because Luke was a personal physician, he recorded details more than other two disciples.
 
 Luke 22:42-44 ESV  
@@ -27,7 +25,9 @@ Jesus was sorrowful and troubled.
 [43] And there appeared to him an angel from heaven, strengthening him.   
 [44] And being in agony he prayed more earnestly; and his sweat became like great drops of blood falling down to the ground.
 
-We should not think this prayer expressed reluctance or a desire to turn back, or Jesus experienced the human limitation, or Jesus fought against human weakness.   
+Did Jesus ask God if he could avoid going on to the Cross?
+
+I don't think so.  My move to Deep River.  I want to get here safely.
 
 Instead Jesus knew why he came down to the world.
 
