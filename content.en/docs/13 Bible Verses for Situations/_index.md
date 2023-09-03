@@ -1,6 +1,6 @@
 ---
 weight: 3
-title: Bible Verses for Different Situations
+title: Bible Verses for Tough Time
 authors:
 categories: null
 tags:
