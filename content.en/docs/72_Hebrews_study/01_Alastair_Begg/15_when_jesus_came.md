@@ -1,6 +1,6 @@
 ---
 weight: 15
-title: "Hebrews 9: When Jesus Came ..."
+title: "Heb 9: When Jesus Came ..."
 authors: null
 categories: null
 tags: null
@@ -258,9 +258,10 @@ bad the darkness flee
 when Jesus comes   
 the tempter's power is broken;   
 when Jesus comes,  
-Our sins are washed away. 
-He takes our needs and fills our lives with glory. 
-For all is changed when Jesus comes to stay. 
+Our sins are washed away.   
+He takes our needs and fills our lives with glory.   
+For all is changed   
+when Jesus comes to stay.   
 
 What's the significance of all of this? Well, he entered heaven itself by the offering of Himself. 
 
