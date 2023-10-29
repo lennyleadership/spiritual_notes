@@ -12,7 +12,9 @@ lastmod: "2023-10-28"
 toc: true
 ---
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/n8OKkY7TRLg" title="The Cleansing of Conscience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <!--more-->
+----
 
 The following message by Alistair Begg is made available by Truth For Life. For more information, visit us online at truthforlife.org. 
 
