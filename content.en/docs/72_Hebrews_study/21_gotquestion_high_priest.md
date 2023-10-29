@@ -1,5 +1,5 @@
 ---
-weight: 31
+weight: 21
 title: "GotQuestion | What does it mean that Jesus is our High Priest?"
 authors: null
 categories: null

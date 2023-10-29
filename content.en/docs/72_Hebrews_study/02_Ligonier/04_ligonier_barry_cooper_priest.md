@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 04
 title: "Ligonier, Barry Cooper | Priest"
 authors:  Barry Cooper
 categories: null

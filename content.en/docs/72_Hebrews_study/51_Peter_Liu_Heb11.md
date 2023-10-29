@@ -1,5 +1,5 @@
 ---
-weight: 02
+weight: 51
 title: "希伯来书11:32-40 刘志雄"
 authors: null
 categories: null
