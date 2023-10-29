@@ -1,5 +1,5 @@
 ---
-weight: 01
+weight: 11
 title: What were the Sacrifices Really About
 authors: Mike Heiser
 categories: null

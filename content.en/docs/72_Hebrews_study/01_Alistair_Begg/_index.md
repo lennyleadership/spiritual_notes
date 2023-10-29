@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: Hebrew Study Series by Alastair Begg
+title: Hebrew Study Series by Alistair Begg
 authors: 
 categories: null
 description: 
