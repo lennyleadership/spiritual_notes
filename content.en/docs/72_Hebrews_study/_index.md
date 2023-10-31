@@ -13,13 +13,13 @@ toc: true
 bookCollapseSection: true
 ---
 
-
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">English Comments</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">中文陈述</button>
 </div>
 
 <!-- Tab content -->
+
 <div id="english" class="tabcontent" style="display:block">
 
 
@@ -42,7 +42,7 @@ bookCollapseSection: true
 
 上帝要的是“耶稣钉在十字架上”。上帝在献祭上启示耶稣要来。我们若明白献祭，就明白耶稣的死。
 
-献祭不是人的发明。献祭是上帝的发明。
+献祭不是人的发明。献祭是上帝的发明。祭司制度是上帝发明的。
+
+明白上帝在献祭里的用意后才明白基督徒要不要守摩西的律法。
 </div>
-
-
