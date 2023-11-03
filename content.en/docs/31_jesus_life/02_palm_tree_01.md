@@ -54,7 +54,7 @@ Palm leaves are [also different](http://horttech.ashspublications.org/content/19
 The beautiful strangeness of palms can be traced back to the way palm seedlings grow. When a palm first starts growing it doesn’t have a full set of leaves. R[oots grow out from the tiny, seedling trunk.](http://www.virtualherbarium.org/PDF%20Files/PlantSoil217-229.pdf) [Each root adds new vascular bundles, widening the trunk and providing more vascular tissue to support leaves.](https://books.google.com/books?id=0DfYJsVRmUcC&pg=PA238&lpg=PA238&dq=anomalous+secondary+growth+in+palms&source=bl&ots=8iOyFSHX--&sig=1ZA2u220TuecWyB99gMp4SuxdGg&hl=en&sa=X&ved=0ahUKEwjV8uP-n5vKAhUGxGMKHcgiB8sQ6AEISDAK#v=onepage&q=anomalous%20secondary%20growth%20in%20palms&f=false) These [roots form a shallow, fibrous network](http://hortsci.ashspublications.org/content/25/2/232.full.pdf+html?ijkey=6e0d0693a927d319847e6a5158beb1382514caeb&keytype2=tf_ipsecsha), not unlike the roots of grasses, onions and bamboo.
 
 ![](https://images.squarespace-cdn.com/content/v1/545bbd7ee4b032c1794c4020/1452724393646-ZP6OOI6UYL3V3W906ZIJ/image-asset.jpeg?format=1500w)
-[Just toss that tree on the back of your truck &nbsp;man. The shallow root structure also makes them susceptible to theft (note: not actual theft in the picture).&nbsp;](https://pixabay.com/en/palm-transport-trailers-199696/)
+Just toss that tree on the back of your truck &nbsp;man. The shallow root structure also makes them susceptible to theft (note: not actual theft in the picture)
 
 
 Unlike other trees which grow the root system and the shoot system at the same rate, a palm tree rapidly expands the root system so that it can expand its trunk and begin to grow upward. In essence, a palm tree grows in the same way that you might build a house. It establishes the foundation and then builds the upper stories.
@@ -67,7 +67,7 @@ Why are palms this weird? As it turns out, palm trees belong to a family of grou
 
 ![](https://images.squarespace-cdn.com/content/v1/545bbd7ee4b032c1794c4020/1452725372608-CMBGNMMKOP075MQLDWOH/image-asset.jpeg?format=1500w)
 
-[A palm fossil courtesy of the US government. (Click through for source)](http://nature.nps.gov/geology/nationalfossilday/climate_change_past.cfm)
+A palm fossil courtesy of the US government. (Click through for source)
 
 
 [Palm trees are preserved in some of the earliest flowering plant fossils that we have discovered](http://nature.nps.gov/geology/nationalfossilday/climate_change_past.cfm). Palm trees emerged [94 million years ago](http://www.plantapalm.com/vpe/evolution/vpe_evolution.htm) when dinosaurs walked the earth. Some species, such as *Nypa fruticans* and *Acrocomia aculeata* have been identified in fossil pollen, making the modern species living fossils. This means that palm trees diverged early from other monocot species. [Their global spread can be attributed to the breakup of the continent of Gondwana into Africa, South America, Antarctica, India and Australia.](http://www.thefreedictionary.com/Gondwanan+distribution) The distinctive strangeness of palm trees is tied up in their early divergence from other flowering plants and their rapid (by the standards of geologic time) spread over newly formed continents. Hopefully the next time you pass a palm tree you give it a nod to honor its pioneering, almost-grassy heritage.
