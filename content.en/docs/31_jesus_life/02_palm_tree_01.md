@@ -30,8 +30,8 @@ A beautiful palm forest with no trees in sight.
 
 Look up at a palm tree and you’ll see that the growth isn’t like other trees. The canopy of the palm is [restricted to the crown of frond leaves surrounding the apical meristem.](http://horttech.ashspublications.org/content/19/4/676.full) [Lateral growth and meristems don’t emerge. If a second apical meristem emerges it leads another trunk with another crown of fronds.](https://en.wikipedia.org/wiki/Arecaceae#Evolution) This gives palms a distinctive, paint-brush shape. The single growing, meristem is surrounded by overlapping leaf bases.
 
-![](https://images.squarespace-cdn.com/content/v1/545bbd7ee4b032c1794c4020/1452720631199-S00ZP9ZOBSLUEWY7S9P3/image-asset.png?format=1500w)
-I'm not insane for thinking this looks like a paint brush right?
+![I'm not insane for thinking this looks like a paint brush right?](https://images.squarespace-cdn.com/content/v1/545bbd7ee4b032c1794c4020/1452720631199-S00ZP9ZOBSLUEWY7S9P3/image-asset.png?format=1500w)
+
 
 
 Think back to the previous article where I told you to risk certain poking at the needles of your Christmas tree to reveal the green, cambium layer under the bark. If you did this with a palm tree you wouldn’t find a green layer. [Palm trees do not produce cambium](https://journals.uair.arizona.edu/index.php/radiocarbon/article/view/1052/1057). In fact, palms are incapable of the [ring-shaped secondary](http://forestry.usu.edu/htm/treeid/what-is-a-tree-youth/) growth seen in other trees.  [Cut a palm tree down and you’ll see tiny circular vessels distributed evenly throughout the trunk. These are vascular tissues, xylem and phloem.](http://horttech.ashspublications.org/content/19/4/676.full) Stem cells lining these vessels produce “anomalous secondary growth” to thicken young trunks but once the trunk reaches its maximum diameter this no longer occurs. This keeps palm trunks narrow and stiff, perfect for supporting their frond crowns.
