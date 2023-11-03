@@ -26,7 +26,7 @@ Look up at a palm tree and you’ll see that the growth isn’t like other trees
 
 I'm not insane for thinking this looks like a paint brush right?
 
-!https://prod-files-secure.s3.us-west-2.amazonaws.com/c42b1fc4-a3b7-4cc2-b06a-59e6f795f7a6/ce90e07c-5987-4ac7-9291-eb9f22f2f549/image-asset.png
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/c42b1fc4-a3b7-4cc2-b06a-59e6f795f7a6/ce90e07c-5987-4ac7-9291-eb9f22f2f549/image-asset.png)
 
 Think back to the previous article where I told you to risk certain poking at the needles of your Christmas tree to reveal the green, cambium layer under the bark. If you did this with a palm tree you wouldn’t find a green layer. [Palm trees do not produce cambium](https://journals.uair.arizona.edu/index.php/radiocarbon/article/view/1052/1057). In fact, palms are incapable of the [ring-shaped secondary](http://forestry.usu.edu/htm/treeid/what-is-a-tree-youth/) growth seen in other trees.  [Cut a palm tree down and you’ll see tiny circular vessels distributed evenly throughout the trunk. These are vascular tissues, xylem and phloem.](http://horttech.ashspublications.org/content/19/4/676.full) Stem cells lining these vessels produce “anomalous secondary growth” to thicken young trunks but once the trunk reaches its maximum diameter this no longer occurs. This keeps palm trunks narrow and stiff, perfect for supporting their frond crowns.
 
