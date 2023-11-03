@@ -14,6 +14,7 @@ toc: true
 
 <!--more-->
 
+
 Two trees: The palm tree and the cedar.
 
 The palm tree is a type of endogenous tree.  grow from inside out.
