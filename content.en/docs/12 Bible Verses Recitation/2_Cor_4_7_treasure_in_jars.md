@@ -1,6 +1,6 @@
 ---
 weight: 6
-title: 2 Corinthians 4:7 Treasures in Jars
+title: 2 Corinthians 4:7 Treasures in Earthen Vessels
 authors:
 categories: null
 tags:
@@ -13,7 +13,7 @@ toc: true
 ---
 
 歌林多後書 4:7 CUVS
-我们有这宝贝放在瓦器里 ， 要显明这莫大的能力是出於神，不是出於我们 。
+我们有这宝贝放在瓦器里， 要显明这莫大的能力是出於神，不是出於我们。
 
 2 Corinthians 4:7 ESV  
 But we have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us.
