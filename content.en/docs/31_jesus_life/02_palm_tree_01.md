@@ -16,6 +16,8 @@ toc: true
 
 Hello Internet! I’m writing again for all of you curious tree people after the holidays. When last I left, you were in your living rooms examining your [Christmas/non-denominational holiday trees as a guide for how tree anatomy works.](http://www.ourcityforest.org/blog/2015/12/16/everything-you-ever-wanted-to-know-about-plants-part-4-christmas-anatomy) Toward the end I pulled the rug out from under our tropical and sub-tropical readers when I revealed that palms aren’t actually true trees at all.
 
+![](https://images.squarespace-cdn.com/content/v1/545bbd7ee4b032c1794c4020/1452720068391-QWRORBYQX0DJGV04DDQD/image-asset.jpeg?format=1500w)
+
 They're almost as beautiful as they are deceptive "Sunset with coconut palm tree, Fiji" by Andrew Mandemaker - Own work. Licensed under CC BY-SA 2.5 via Wikimedia Commons
 
 Palm trees are pretty sneaky. They have [a number of tree-like characteristics](http://www.ehow.com/list_7299618_parts-palm-tree_.html). They’re tall and have a main stem resembling a trunk. The stem is woody and tough. Put enough palms together and you can have lovely palm forests. If you look down at the roots or take a close look at a palm’s leaf-like fronds or cut at a palm with a sharp object you’ll notice some distinct differences.
