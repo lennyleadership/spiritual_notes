@@ -18,21 +18,25 @@ Hello Internet! I’m writing again for all of you curious tree people after the
 
 ![](https://images.squarespace-cdn.com/content/v1/545bbd7ee4b032c1794c4020/1452720068391-QWRORBYQX0DJGV04DDQD/image-asset.jpeg?format=1500w)
 
-They're almost as beautiful as they are deceptive "Sunset with coconut palm tree, Fiji" by Andrew Mandemaker - Own work. Licensed under CC BY-SA 2.5 via Wikimedia Commons
+They're almost as beautiful as they are deceptive   
+"Sunset with coconut palm tree, Fiji" by Andrew Mandemaker - Own work. Licensed under CC BY-SA 2.5 via Wikimedia Commons
 
 Palm trees are pretty sneaky. They have [a number of tree-like characteristics](http://www.ehow.com/list_7299618_parts-palm-tree_.html). They’re tall and have a main stem resembling a trunk. The stem is woody and tough. Put enough palms together and you can have lovely palm forests. If you look down at the roots or take a close look at a palm’s leaf-like fronds or cut at a palm with a sharp object you’ll notice some distinct differences.
 
-A beautiful palm forest with no trees in sight. "Abaiang top view" by Flexman - Own work. Licensed under CC BY-SA 3.0 via Wikimedia Commons
+
+![](https://commons.wikimedia.org/wiki/File:PSM_V60_D398_Iriartea_ventricosa_a_bellied_palm.png)
+A beautiful palm forest with no trees in sight.   
+"Abaiang top view" by Flexman - Own work. Licensed under CC BY-SA 3.0 via Wikimedia Commons
 
 Look up at a palm tree and you’ll see that the growth isn’t like other trees. The canopy of the palm is [restricted to the crown of frond leaves surrounding the apical meristem.](http://horttech.ashspublications.org/content/19/4/676.full) [Lateral growth and meristems don’t emerge. If a second apical meristem emerges it leads another trunk with another crown of fronds.](https://en.wikipedia.org/wiki/Arecaceae#Evolution) This gives palms a distinctive, paint-brush shape. The single growing, meristem is surrounded by overlapping leaf bases.
 
+![](https://images.squarespace-cdn.com/content/v1/545bbd7ee4b032c1794c4020/1452720631199-S00ZP9ZOBSLUEWY7S9P3/image-asset.png?format=1500w)
 I'm not insane for thinking this looks like a paint brush right?
 
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/c42b1fc4-a3b7-4cc2-b06a-59e6f795f7a6/ce90e07c-5987-4ac7-9291-eb9f22f2f549/image-asset.png)
 
 Think back to the previous article where I told you to risk certain poking at the needles of your Christmas tree to reveal the green, cambium layer under the bark. If you did this with a palm tree you wouldn’t find a green layer. [Palm trees do not produce cambium](https://journals.uair.arizona.edu/index.php/radiocarbon/article/view/1052/1057). In fact, palms are incapable of the [ring-shaped secondary](http://forestry.usu.edu/htm/treeid/what-is-a-tree-youth/) growth seen in other trees.  [Cut a palm tree down and you’ll see tiny circular vessels distributed evenly throughout the trunk. These are vascular tissues, xylem and phloem.](http://horttech.ashspublications.org/content/19/4/676.full) Stem cells lining these vessels produce “anomalous secondary growth” to thicken young trunks but once the trunk reaches its maximum diameter this no longer occurs. This keeps palm trunks narrow and stiff, perfect for supporting their frond crowns.
 
-[No growth rings inside of palm trunks but there are overlapping leaf scars in the pseudobark layer. You can also see the clusters of vascular tissue.&nbsp;](https://www.flickr.com/photos/torquay-palms/18999947623)
+![No growth rings inside of palm trunks but there are overlapping leaf scars in the pseudobark layer. You can also see the clusters of vascular tissue.&nbsp;](https://www.flickr.com/photos/torquay-palms/18999947623)
 
 !https://prod-files-secure.s3.us-west-2.amazonaws.com/c42b1fc4-a3b7-4cc2-b06a-59e6f795f7a6/1c8c7cbe-f76a-4f26-b281-549d7b7fc185/18999947623_8c54a9b523_z.jpg
 
