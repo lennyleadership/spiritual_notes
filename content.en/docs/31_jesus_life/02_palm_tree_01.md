@@ -34,9 +34,8 @@ No growth rings inside of palm trunks but there are overlapping leaf scars in th
 The drawback is that injuries to palm tree trunks can never heal. Without a cambium to direct closure over a wound, fungi, insects and other pests can easily penetrate wounded trees. The “bark” of the palm tree is not bark at all; it is made of “sclerified” (hardened) cells left over from the bases of previously shed fronds. This makes a palm not unlike a column of reinforced concrete with the vessels acting as rebar.
 
 
-
-<figure>
 ![](https://images.squarespace-cdn.com/content/v1/545bbd7ee4b032c1794c4020/1452723119915-B25AQ9YD1SHVHJ9J9TKR/image-asset.jpeg?format=200w)
+<figure>
   <figcaption class = "bottom">Pictured: A piece of rebar driven through a palm tree in a hurricane. Palm trees are strong enough to withstand winds that would snap most trees during hurricanes but their distributed vascular tissue means this tree will never close the wound.</figcaption>
 </figure>
 
