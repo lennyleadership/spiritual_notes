@@ -16,14 +16,15 @@ toc: true
 
 The term palm tree can generically refer to any of the tropical tree species with long, straight trunks with large leaves at the top. More technically, a palm tree refers to a number of plants within several genera of the Areccacae family of plants. This family includes a good many shrubby species, but those that take the familiar tree-like form are generally called palm trees. There are more than 2500 species of palm trees falling into dozens of different genera. Some of these trees produce edible fruit, sometimes in such profusion that they have become very important agricultural crops. The most common fruit-producing palm trees include:
 
-    Date palms (<i>Phoenix dactylifera</i>)
-    Coconut palms (<i>Cocos nucifera</i>)<label for="coconut" class="margin-toggle sidenote-number"></label><span class="sidenote">![](https://img.hunkercdn.com/630x/clsd/getty/1a0f5073a73c43f5b28bf559bb7c67be.jpg?type=webp)<br>Coconuts growing on palm tree.<br>Image Credit: Alexei Lisnenko / EyeEm/EyeEm/GettyImages </span>
-    Acai palm (<i>Euterpe oleracea</i>)
-    Jelly, pindo or wine palm (<i>Butia capitata</i>)
-    Peach palm (<i>Bactris gasipaes</i>)
-    Saw palm or palmetto (<i>Serenoa repens, Serenoa sabulata</i>)
-    African oil palm (<i>Elaeis guineensis</i>)
-
+<ul>
+<li>Date palms (<i>Phoenix dactylifera</i>)</li>
+<li>Coconut palms (<i>Cocos nucifera</i>)</li><label for="coconut" class="margin-toggle sidenote-number"></label><span class="sidenote">![](https://img.hunkercdn.com/630x/clsd/getty/1a0f5073a73c43f5b28bf559bb7c67be.jpg?type=webp)<br>Coconuts growing on palm tree.<br>Image Credit: Alexei <li>Lisnenko / EyeEm/EyeEm/GettyImages </span>
+<li>Acai palm (<i>Euterpe oleracea</i>)</li>
+<li>Jelly, pindo or wine palm (<i>Butia capitata</i>)</li>
+<li>Peach palm (<i>Bactris gasipaes</i>)</li>
+<li>Saw palm or palmetto (<i>Serenoa repens, Serenoa sabulata</i>)</li>
+<li>African oil palm (<i>Elaeis guineensis</i>)</li>
+</ul>
 
 The fruit from palms is nearly as varied as the assortment in a bowl of fruit salad. From dates to coconuts and even acai berries, palm trees offer a veritable smorgasbord of edible and otherwise useful fruits.
 
