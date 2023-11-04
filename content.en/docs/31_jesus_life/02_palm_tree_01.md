@@ -21,7 +21,7 @@ Palm trees are pretty sneaky. They have <b>[a number of tree-like characteristic
 Look up at a palm tree and you’ll see that the growth isn’t like other trees. The canopy of the palm is [restricted to the crown of frond leaves surrounding the apical meristem.](http://horttech.ashspublications.org/content/19/4/676.full) [Lateral growth and meristems don’t emerge. If a second apical meristem emerges it leads another trunk with another crown of fronds.](https://en.wikipedia.org/wiki/Arecaceae#Evolution) This gives palms a distinctive, paint-brush shape. The single growing, meristem is surrounded by overlapping leaf bases.
 
 ![](https://images.squarespace-cdn.com/content/v1/545bbd7ee4b032c1794c4020/1452720631199-S00ZP9ZOBSLUEWY7S9P3/image-asset.png?format=150w)  
-I'm not insane for thinking this looks like a paint brush right?
+<figcaption class = "img">I'm not insane for thinking this looks like a paint brush right?</figcaption>
 
 
 Think back to the previous article where I told you to risk certain poking at the needles of your Christmas tree to reveal the green, cambium layer under the bark. If you did this with a palm tree you wouldn’t find a green layer. [Palm trees do not produce cambium](https://journals.uair.arizona.edu/index.php/radiocarbon/article/view/1052/1057). In fact, palms are incapable of the [ring-shaped secondary](http://forestry.usu.edu/htm/treeid/what-is-a-tree-youth/) growth seen in other trees.  [Cut a palm tree down and you’ll see tiny circular vessels distributed evenly throughout the trunk. These are vascular tissues, xylem and phloem.](http://horttech.ashspublications.org/content/19/4/676.full) Stem cells lining these vessels produce “anomalous secondary growth” to thicken young trunks but once the trunk reaches its maximum diameter this no longer occurs. This keeps palm trunks narrow and stiff, perfect for supporting their frond crowns.
@@ -37,9 +37,7 @@ The drawback is that injuries to palm tree trunks can never heal. Without a camb
 
 
 ![](https://images.squarespace-cdn.com/content/v1/545bbd7ee4b032c1794c4020/1452723119915-B25AQ9YD1SHVHJ9J9TKR/image-asset.jpeg?format=200w)
-<figure>
-  <figcaption class = "bottom">Pictured: A piece of rebar driven through a palm tree in a hurricane. Palm trees are strong enough to withstand winds that would snap most trees during hurricanes but their distributed vascular tissue means this tree will never close the wound.</figcaption>
-</figure>
+  <figcaption class = "img">Pictured: A piece of rebar driven through a palm tree in a hurricane. Palm trees are strong enough to withstand winds that would snap most trees during hurricanes but their distributed vascular tissue means this tree will never close the wound.</figcaption>
 
 
 Palm leaves are [also different](http://horttech.ashspublications.org/content/19/4/676.full). They emerge as primary growth from the meristem. The youngest leaves are at the top of the leaf crown. [As the palm grows taller and older more leaves are added to the top and older leaves grow larger until they hit their maximum size.](http://agris.fao.org/agris-search/search.do?recordID=US201300052250) When the leaves reach the base of the crown they are cut off from the vascular system, “abscising” their bases into new bark. Some palms don’t drop their leaves cleanly, resulting in “skirts” of dead leaves that dangle below the crown. [Growing like this means that you can predict which leaves will drop from a palm tree, prune them, and collect them before they fall.](https://www.unce.unr.edu/publications/files/ho/2004/sp0416.pdf)
