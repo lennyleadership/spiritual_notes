@@ -16,7 +16,7 @@ toc: true
 
 Hello Internet! I’m writing again for all of you curious tree people after the holidays. When last I left, you were in your living rooms examining your [Christmas/non-denominational holiday trees as a guide for how tree anatomy works.](http://www.ourcityforest.org/blog/2015/12/16/everything-you-ever-wanted-to-know-about-plants-part-4-christmas-anatomy) Toward the end I pulled the rug out from under our tropical and sub-tropical readers when I revealed that palms aren’t actually true trees at all.
 
-![](https://images.squarespace-cdn.com/content/v1/545bbd7ee4b032c1794c4020/1452720068391-QWRORBYQX0DJGV04DDQD/image-asset.jpeg?format=1500w){width=20%}
+![](https://images.squarespace-cdn.com/content/v1/545bbd7ee4b032c1794c4020/1452720068391-QWRORBYQX0DJGV04DDQD/image-asset.jpeg?format=1500w)
 
 They're almost as beautiful as they are deceptive   
 "Sunset with coconut palm tree, Fiji" by Andrew Mandemaker - Own work. Licensed under CC BY-SA 2.5 via Wikimedia Commons
@@ -24,7 +24,7 @@ They're almost as beautiful as they are deceptive
 Palm trees are pretty sneaky. They have [a number of tree-like characteristics](http://www.ehow.com/list_7299618_parts-palm-tree_.html). They’re tall and have a main stem resembling a trunk. The stem is woody and tough. Put enough palms together and you can have lovely palm forests. If you look down at the roots or take a close look at a palm’s leaf-like fronds or cut at a palm with a sharp object you’ll notice some distinct differences.
 
 
-![](https://commons.wikimedia.org/wiki/File:PSM_V60_D398_Iriartea_ventricosa_a_bellied_palm.png)
+![](https://images.squarespace-cdn.com/content/v1/545bbd7ee4b032c1794c4020/1452721403272-44PN93YGN5BAPKI1DO2V/image-asset.jpeg?format=1500w)
 A beautiful palm forest with no trees in sight.   
 "Abaiang top view" by Flexman - Own work. Licensed under CC BY-SA 3.0 via Wikimedia Commons
 
@@ -36,7 +36,7 @@ I'm not insane for thinking this looks like a paint brush right?
 
 Think back to the previous article where I told you to risk certain poking at the needles of your Christmas tree to reveal the green, cambium layer under the bark. If you did this with a palm tree you wouldn’t find a green layer. [Palm trees do not produce cambium](https://journals.uair.arizona.edu/index.php/radiocarbon/article/view/1052/1057). In fact, palms are incapable of the [ring-shaped secondary](http://forestry.usu.edu/htm/treeid/what-is-a-tree-youth/) growth seen in other trees.  [Cut a palm tree down and you’ll see tiny circular vessels distributed evenly throughout the trunk. These are vascular tissues, xylem and phloem.](http://horttech.ashspublications.org/content/19/4/676.full) Stem cells lining these vessels produce “anomalous secondary growth” to thicken young trunks but once the trunk reaches its maximum diameter this no longer occurs. This keeps palm trunks narrow and stiff, perfect for supporting their frond crowns.
 
-![](https://images.squarespace-cdn.com/content/v1/545bbd7ee4b032c1794c4020/1452723119915-B25AQ9YD1SHVHJ9J9TKR/image-asset.jpeg?format=1500w)
+![](https://images.squarespace-cdn.com/content/v1/545bbd7ee4b032c1794c4020/1452722346244-P2R9M6ALFRDAX6Y4LJ7E/18999947623_8c54a9b523_z.jpg?format=1500w)
 No growth rings inside of palm trunks but there are overlapping leaf scars in the pseudobark layer. You can also see the clusters of vascular tissue.
 
 
