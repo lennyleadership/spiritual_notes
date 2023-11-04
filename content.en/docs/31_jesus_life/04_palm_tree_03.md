@@ -18,7 +18,7 @@ The term palm tree can generically refer to any of the tropical tree species wit
 
 <ul>
 <li>Date palms (<i>Phoenix dactylifera</i>)</li>
-<li>Coconut palms (<i>Cocos nucifera</i>)</li><label for="coconut" class="margin-toggle sidenote-number"></label><span class="sidenote">![](https://img.hunkercdn.com/630x/clsd/getty/1a0f5073a73c43f5b28bf559bb7c67be.jpg?type=webp)<br>Coconuts growing on palm tree.<br>Image Credit: Alexei <li>Lisnenko / EyeEm/EyeEm/GettyImages </span>
+<li>Coconut palms (<i>Cocos nucifera</i>)</li>
 <li>Acai palm (<i>Euterpe oleracea</i>)</li>
 <li>Jelly, pindo or wine palm (<i>Butia capitata</i>)</li>
 <li>Peach palm (<i>Bactris gasipaes</i>)</li>
@@ -28,7 +28,7 @@ The term palm tree can generically refer to any of the tropical tree species wit
 
 The fruit from palms is nearly as varied as the assortment in a bowl of fruit salad. From dates to coconuts and even acai berries, palm trees offer a veritable smorgasbord of edible and otherwise useful fruits.
 
-## Coconut Palm: A Classic
+## Coconut Palm: A Classic <label for="coconut" class="margin-toggle sidenote-number"></label><span class="sidenote">![](https://img.hunkercdn.com/630x/clsd/getty/1a0f5073a73c43f5b28bf559bb7c67be.jpg?type=webp)<br>Coconuts growing on palm tree.<br>Image Credit: Alexei <li>Lisnenko / EyeEm/EyeEm/GettyImages </span>
 
 Depending on who classifies them, coconuts—one of the best-known of palm fruits— can be regarded as fruits, nuts, or seeds. As it grows on a palm tree, a coconut has three layers. The outermost smooth layer, as well as a middle fibrous layer, are removed from most coconuts sold in stores. What remains is the endocarp layer: the roundish dark brown, fibrous substance that contains the coconut meat.
 
