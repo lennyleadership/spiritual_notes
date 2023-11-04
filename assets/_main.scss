@@ -615,7 +615,7 @@ figcaption.top {
 }
 
 figcaption.bottom {
-  display: table-caption;
+  display: inline-block; /*table-caption*/
   caption-side: bottom;
 }
 /* the end *****************************************************************************************
