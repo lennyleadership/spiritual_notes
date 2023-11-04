@@ -47,11 +47,6 @@ Unlike other trees which grow the root system and the shoot system at the same r
 
 Why are palms this weird? As it turns out, palm trees belong to a family of group of plants called monocots. [Monocots](https://en.wikipedia.org/wiki/Monocotyledon#Vascular_system) are one of the eight main groups of plants within the [angiosperms, the flowering plants.](https://en.wikipedia.org/wiki/Flowering_plant) In an earlier blog post I briefly mentioned that angiosperms began to dominate the earth’s plant species at the end of the age of the dinosaurs, replacing conifers as the largest plant group. [Monocots are the second largest group by species, containing 70,000 members including grasses, orchids and palms.](http://www.amjbot.org/content/91/10/1645.full) The largest group, eudicot, contains 175,000 species including oaks, apples, maples, sunflowers and nightshades. Most “true” trees are eudicots, the rest are conifers ( ie: pines and their cousins).
 
-![](https://images.squarespace-cdn.com/content/v1/545bbd7ee4b032c1794c4020/1452725372608-CMBGNMMKOP075MQLDWOH/image-asset.jpeg?format=1500w)
-
-A palm fossil courtesy of the US government. (Click through for source)
-
-
 [Palm trees are preserved in some of the earliest flowering plant fossils that we have discovered](http://nature.nps.gov/geology/nationalfossilday/climate_change_past.cfm). Palm trees emerged [94 million years ago](http://www.plantapalm.com/vpe/evolution/vpe_evolution.htm) when dinosaurs walked the earth. Some species, such as *Nypa fruticans* and *Acrocomia aculeata* have been identified in fossil pollen, making the modern species living fossils. This means that palm trees diverged early from other monocot species. [Their global spread can be attributed to the breakup of the continent of Gondwana into Africa, South America, Antarctica, India and Australia.](http://www.thefreedictionary.com/Gondwanan+distribution) The distinctive strangeness of palm trees is tied up in their early divergence from other flowering plants and their rapid (by the standards of geologic time) spread over newly formed continents. Hopefully the next time you pass a palm tree you give it a nod to honor its pioneering, almost-grassy heritage.
 
  
