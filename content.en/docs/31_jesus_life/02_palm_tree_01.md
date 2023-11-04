@@ -26,8 +26,12 @@ I'm not insane for thinking this looks like a paint brush right?
 
 Think back to the previous article where I told you to risk certain poking at the needles of your Christmas tree to reveal the green, cambium layer under the bark. If you did this with a palm tree you wouldn’t find a green layer. [Palm trees do not produce cambium](https://journals.uair.arizona.edu/index.php/radiocarbon/article/view/1052/1057). In fact, palms are incapable of the [ring-shaped secondary](http://forestry.usu.edu/htm/treeid/what-is-a-tree-youth/) growth seen in other trees.  [Cut a palm tree down and you’ll see tiny circular vessels distributed evenly throughout the trunk. These are vascular tissues, xylem and phloem.](http://horttech.ashspublications.org/content/19/4/676.full) Stem cells lining these vessels produce “anomalous secondary growth” to thicken young trunks but once the trunk reaches its maximum diameter this no longer occurs. This keeps palm trunks narrow and stiff, perfect for supporting their frond crowns.
 
+
+<figure>
+  <figcaption class = "top">No growth rings inside of palm trunks but there are overlapping leaf scars in the pseudobark layer. You can also see the clusters of vascular tissue.</figcaption>
+</figure>
 ![](https://images.squarespace-cdn.com/content/v1/545bbd7ee4b032c1794c4020/1452722346244-P2R9M6ALFRDAX6Y4LJ7E/18999947623_8c54a9b523_z.jpg?format=600w)
-No growth rings inside of palm trunks but there are overlapping leaf scars in the pseudobark layer. You can also see the clusters of vascular tissue.
+
 
 
 
