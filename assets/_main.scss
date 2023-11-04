@@ -618,6 +618,16 @@ figcaption.bottom {
   display: inline-block; /*table-caption*/
   caption-side: bottom;
 }
+
+figcaption.img{
+  text-align: left;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  margin: 0.5em;
+  padding: 0.5em;
+  display: table;
+}
 /* the end *****************************************************************************************
 
 
