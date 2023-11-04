@@ -142,8 +142,8 @@ ul.pagination {
   margin-bottom: $padding-16;
 
   img {
-    height: 1em;
-    width: 1em;
+    height: 1.5em; /*1.5*/
+    width: 1.5em;
     margin-inline-end: $padding-8;
   }
 }
@@ -426,7 +426,7 @@ body[dir="rtl"] .book-menu {
   }
 
   img {
-    max-width: 100%;
+    max-width: 100%; /*100*/
     height: auto;
   }
 
