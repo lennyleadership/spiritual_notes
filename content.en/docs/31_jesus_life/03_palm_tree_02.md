@@ -29,7 +29,7 @@ There are no lateral branches on palms that you'll find on other types of trees.
 
 Most palm roots extend laterally; palms have no taproots, although some of the primary roots do have some downward growth. As the roots emerge from the base of a palm, their diameter is fixed. This means that as the roots grow, they do not increase in diameter. When they emerge from the base of the plant, the diameter of roots is already established, although their length continues to increase.
 
-Because there is no vertical taproot to anchor very tall palms, the horizontal root system may extend 50 feet or more from the trunk. Some palms produce so many roots that they split the base of the trunk, causing it to flare outward at ground level. The primary roots anchor a palm, and the other roots absorb water and nutrients that nourish the plant. There are no root hairs, common in other types of trees, which form a network that increases the amount of water and nutrients that a tree absorbs.
+Because <b>there is no vertical taproot to anchor very tall palms</b>, the horizontal root system may extend 50 feet or more from the trunk. Some palms produce so many roots that they split the base of the trunk, causing it to flare outward at ground level. The primary roots anchor a palm, and the other roots absorb water and nutrients that nourish the plant. There are no root hairs, common in other types of trees, which form a network that increases the amount of water and nutrients that a tree absorbs.
 
 
 ## 3. Palm Flowers and Fruits
