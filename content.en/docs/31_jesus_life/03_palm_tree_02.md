@@ -22,7 +22,7 @@ A palm's trunk is actually an elongated stem. Palms may be single-stemmed or mul
 
 Like their monocot and coniferous plant relatives, palms have nutrient-transport systems inside their trunks, consisting of a xylem, which transports water and minerals, and phloem, which transports carbohydrates. Unlike the xylem and phloem in other trees that must continually be replaced when their old cells die, the xylem and phloem cells in palm stems remain alive as long as a palm is still living.
 
-There are no lateral branches on palms that you'll find on other types of trees. At the top of a palm stem is the meristem, which is where leaves and fruit are produced. The quintessential postcard image of palms with long, narrow trunks and a cluster of leaves or palm tree fronds at the top of each trunk illustrates how the foliage is only produced at the top of its stem. If you have a palm, use a palm tree fertilizer to help prevent the fronds from curling and yellowing.
+There are no lateral branches on palms that you'll find on other types of trees. At the top of a palm stem is the meristem, which is where leaves and fruit are produced. The quintessential postcard image of palms with long, narrow trunks and a cluster of leaves or palm tree fronds<label for="fronds" class="margin-toggle sidenote-number"></label><span class="sidenote">![](https://img.hunkercdn.com/630x/photos.demandstudios.com/18/206/fotolia_12468758_XS.jpg?type=webp)</span> at the top of each trunk illustrates how the foliage is only produced at the top of its stem. If you have a palm, use a palm tree fertilizer to help prevent the fronds from curling and yellowing.
 
 
 ## 2. Palm Root System
