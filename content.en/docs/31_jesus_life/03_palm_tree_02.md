@@ -36,7 +36,7 @@ Because <b>there is no vertical taproot to anchor very tall palms</b>, the horiz
 
 Some palms are monoecious, which means that each plant bears both male and female flowers. Other palms are dioecious, which means each plant has either male or female flowers. Palm flowers form on flower stalks called inflorescences. Although the flower stalks on most palms grow from the leaf axils — where a leaf joins to the stalk — flower stalks on some palm species may grow from branch tips.
 
-Although commonly called "fruits," these palm structures are botanically classified as "drupes." Coconuts and dates are notable [fruits that grow on palm trees](https://www.hunker.com/13717062/what-fruit-grows-on-palm-trees). Coconut palm (<i>Cocos nucifera</i>, USDA zones 10-11) and date palm (<i>Phoenix dactylifera</i>, zones 9-11) are the two trees that produce these commercial fruits.
+Although commonly called "fruits," these palm structures are botanically classified as "drupes." Coconuts and dates are notable [fruits that grow on palm trees](https://spiritual-notes.netlify.app/docs/31_jesus_life/04_palm_tree_03/). Coconut palm (<i>Cocos nucifera</i>, USDA zones 10-11) and date palm (<i>Phoenix dactylifera</i>, zones 9-11) are the two trees that produce these commercial fruits.
 
 Other types of palms also produce fruits, but they may not be edible or palatable. These fruits are important, however, for propagating more palm trees because of the seeds they contain, since palm trees generally can only be propagated from seed.
 
