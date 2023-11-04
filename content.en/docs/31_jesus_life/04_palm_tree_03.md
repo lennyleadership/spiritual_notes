@@ -28,9 +28,9 @@ The term palm tree can generically refer to any of the tropical tree species wit
 
 The fruit from palms is nearly as varied as the assortment in a bowl of fruit salad. From dates to coconuts and even acai berries, palm trees offer a veritable smorgasbord of edible and otherwise useful fruits.
 
-## Coconut Palm: A Classic <label for="coconut" class="margin-toggle sidenote-number"></label><span class="sidenote">![](https://img.hunkercdn.com/630x/clsd/getty/1a0f5073a73c43f5b28bf559bb7c67be.jpg?type=webp)<br>Coconuts growing on palm tree.<br>Image Credit: Alexei Lisnenko / EyeEm/EyeEm/GettyImages </span>
+## Coconut Palm: A Classic 
 
-Depending on who classifies them, coconuts—one of the best-known of palm fruits— can be regarded as fruits, nuts, or seeds. As it grows on a palm tree, a coconut has three layers. The outermost smooth layer, as well as a middle fibrous layer, are removed from most coconuts sold in stores. What remains is the endocarp layer: the roundish dark brown, fibrous substance that contains the coconut meat.
+Depending on who classifies them, coconuts—one of the best-known of palm fruits— can be regarded as fruits, nuts, or seeds. As it grows on a palm tree, a coconut has three layers. The outermost smooth layer, as well as a middle fibrous layer, are removed from most coconuts sold in stores. What remains is the endocarp layer: the roundish dark brown, fibrous substance that contains the coconut meat.<label for="coconut" class="margin-toggle sidenote-number"></label><span class="sidenote">![](https://img.hunkercdn.com/630x/clsd/getty/1a0f5073a73c43f5b28bf559bb7c67be.jpg?type=webp)<br>Coconuts growing on palm tree.<br>Image Credit: Alexei Lisnenko / EyeEm/EyeEm/GettyImages </span>
 
 When a coconut is immature, the inner area is green and contains coconut water. As the coconut matures, that watery substance turns into the white coconut "meat" found inside a brown coconut. In most cases, it's a mature coconut that is sold in stores, unless the coconut is sold specifically as a means of obtaining fresh coconut water.
 
