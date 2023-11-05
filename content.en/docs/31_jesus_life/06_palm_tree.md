@@ -95,3 +95,5 @@ After successful fertilization palms form so-called stone fruit or drupe. The sp
 The palm tree has been cultivated by humans for almost 5000 years. This began in the Middle East with the Date palm (Phoenix dactylifera) but soon expanded to other regions with other palm species. Furthermore, for consumption, we know fruits like the awarra, coconut, moriche, palm peach and salak. Palm oil is widely used for food preparation, soap and fuel.  And wickerwork is made from rattan of Calamus Rotang. Coconut mats are made of coconut fibers. In Hindu culture, strips of palm leaf were used as paper. However, this is very perishable in a tropical climate, so that most of the manuscripts written on it are lost. And there are many other purposes for which the palm is cultivated by humans. But in our climate we mainly find them for decorative use.
 
 © La Palmeraie
+
+<a href = "http://palmvrienden.net/gblapalmeraie/2017/07/11/palm-trees-for-dummies/" target="_blank" rel="noopener noreferrer">Reference: La Palmeraie gb | Palm trees for dummies</a>
