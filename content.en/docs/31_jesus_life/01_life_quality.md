@@ -17,7 +17,7 @@ toc: true
 
 The beauty of Jesus' Life:
 
-patience, 
+patience, obedience, joy, perseverance, humbleness (meekness  ),
 
 <blockquote>
 圣灵所结的果子、就是仁爱、喜乐、和平、忍耐、恩慈、良善、信实、温柔、节制。(加5:22-23)    
