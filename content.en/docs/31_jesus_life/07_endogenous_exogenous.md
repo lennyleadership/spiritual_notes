@@ -14,7 +14,7 @@ toc: true
 
 <!--more-->
 
-![](https://tanyadecorhome.files.wordpress.com/2019/08/35_20treetrunkanatomy-1.jpg){width = 30%}
+![](https://tanyadecorhome.files.wordpress.com/2019/08/35_20treetrunkanatomy-1.jpg?format=150w)
 <figcaption class = "img">Exogenous Trees Structure</figcaption>
 
 ![](https://tanyadecorhome.files.wordpress.com/2019/08/picture1-2.jpg)
