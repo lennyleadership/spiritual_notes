@@ -57,7 +57,7 @@ Hardwood (Deciduous) trees (dicots)
 <li>secondary growth</li>
 </ul>
 
-So, our first question is answered, the palm tree isn’t really a tree. One of the most typical differences is the lack of secondary growth. Palm trees utilise an anomalous primary growth form described as establishment growth. The axis undergoes primary thickening, that progresses from internode to internode, resulting in a typical inverted conical shape of the basal primary axis.
+So, our first question is answered, the palm tree isn’t really a tree. One of the most typical differences is the lack of secondary growth<label for="growth" class="margin-toggle sidenote-number"></label><span class="sidenote">Tree growth occurs in two ways. Growth from the root and shoot tips resulting in increases in height and length is called primary growth. Growth that increases the thickness of stems and branches is called secondary growth.<br>Reference: The University of Tennessee System | Tree Growth Characteristics<br><br>![](https://bio.libretexts.org/@api/deki/files/78489/figure-30-02-07.jpeg?revision=1)</span>. Palm trees utilise an anomalous primary growth form described as establishment growth. The axis undergoes primary thickening, that progresses from internode to internode, resulting in a typical inverted conical shape of the basal primary axis.
 
 Palm tree anatomy
 Roughly, a palm consist of roots, a trunk and foliage (crown).  
