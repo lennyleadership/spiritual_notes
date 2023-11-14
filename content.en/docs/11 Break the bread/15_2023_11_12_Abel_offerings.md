@@ -33,10 +33,19 @@ God taught Abel and Cain the offering.
 
 God respected Abel's offering because Abel was faithful.
 
-God is righteous, so he expected Abel and Cain to be righteous when coming to His presence.
+God is righteous, so he expected Abel and Cain to be righteous when coming to His presence.  
+
 Genesis 4:1-5
 
+If we sin against God, and did not get consequence, we thought God is silent, actually we are in trouble.
+
+
 # God is love
+
+Cain became very angry to God so his face was gloomy.
+
 Genesis 4:7 sin lies at the door.
+
+Difficult verse to be translated.  the word "sin" could be translated as "a sin offering".
 
 Not by work.
