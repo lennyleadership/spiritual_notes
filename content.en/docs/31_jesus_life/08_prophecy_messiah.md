@@ -73,7 +73,7 @@ toc: true
 　　
 
 <figure>
-  <img width = "540" src = "/docs/images/david_tomb.jpg"/>
+  <img width = "360" src = "/docs/images/david_tomb.jpg"/>
   <figcaption class = "img">大卫的墓穴，他的子孙中要兴起公义的苗裔(耶三十三15)。</figcaption>
 </figure>
 
