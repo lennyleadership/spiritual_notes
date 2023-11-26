@@ -44,6 +44,8 @@ If we sin against God, and did not get consequence, we thought God is silent, ac
 
 Cain became very angry to God so his face was gloomy.
 
+God is mercy, his gift is free.
+
 Genesis 4:7 sin lies at the door.
 
 Difficult verse to be translated.  the word "sin" could be translated as "a sin offering".
