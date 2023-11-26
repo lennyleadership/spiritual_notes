@@ -71,8 +71,12 @@ toc: true
 
 　　以赛亚书宣讲了一个关于「未后日期」的盼望(赛九1)，那时将有一个婴孩降生，他会建立自己的国度，他必「以公平公义使国坚定稳固，从今直到永远」。这政权「必在大卫的宝座上」(九6、7)。以赛亚亦提及「从耶西的本必发一条，从他根生的枝子……」(十一1)；这里说大卫是耶西之子，虽然被砍下，但会从同一根源生出另一枝子。  
 　　
-![](http://www.godoor.com/book/library/html/bible/jyzl/img/30.jpg)
-<figcaption class = "img">大卫的墓穴，他的子孙中要兴起公义的苗裔(耶三十三15)。</figcaption>
+
+<figure>
+  <img width = "540" src = "/docs/images/david_tomb.jpg"/>
+  <figcaption class = "img">大卫的墓穴，他的子孙中要兴起公义的苗裔(耶三十三15)。</figcaption>
+</figure>
+
 
 
 　　　　
