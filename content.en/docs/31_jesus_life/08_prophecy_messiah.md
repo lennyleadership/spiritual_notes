@@ -7,8 +7,8 @@ tags: null
 series: null
 description: 
 draft: false
-date: "2023-11-"
-lastmod: "2023-11-"
+date: "2023-11-26"
+lastmod: "2023-11-26"
 toc: true
 ---
 
