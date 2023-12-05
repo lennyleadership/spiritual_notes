@@ -15,13 +15,15 @@ toc: true
 <!--more-->
 
 
-Matthew 1:1-25
+# Matthew 1:1-17
 
 1) Jesus is the King.  
 
-Matthew 1:1-17 Jesus was born in the King's family - <b>Judah</b>. One of his ancestor was King David.  He was the Messiah, but he refused to be the king, Israel people did not acknowledge him.
+Jesus was born in the King's family - <b>Judah</b>. One of his ancestor was King David.  He was the Messiah, but he refused to be the king, Israel people did not acknowledge him.
 
-基督的意思。
+有皇族的血统。
+
+2) 基督的意思。 
 
 Messiah can't be found in the OT.  
 
@@ -35,12 +37,15 @@ Messiah can't be found in the OT.
 
 同样，当耶稣问门徒：「他们说我是谁？」彼得回答说：「基督……」(太十六15、16)早期教会称耶稣为弥赛亚(参徒二36)，跟着又称他为受膏者耶稣(Jesus the Christ［Messiah］)，后来再简化为耶稣基督这个专有名词。
 
+为什么犹太人不认耶稣是基督？
 
-2) Jesus is the perfect sacrifice.  
-Matthew 1:18-25 Jesus was born to his mother Mary.  Most indescribable thing is: 
+# Matthew 1:18-25
+
+1) Jesus is the perfect sacrifice.  
+ Jesus was born to his mother Mary.  Most indescribable thing is: 
 Mary was a virgin.  Science could not explain it.  Thing was done (事情就这样成了) . Jesus is a blameless (perfect) sacrifice/ lamb.  Jesus did not bear sin.
 
-耶稣的意思： 
+2) 耶稣的意思： 
 马太福音 1:21 和合本
 21 她将要生一个儿子，你要给他起名叫耶稣，<b>因他要将自己的百姓从罪恶里救出来</b>。
 
