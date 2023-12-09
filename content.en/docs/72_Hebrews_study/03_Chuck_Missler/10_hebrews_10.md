@@ -1,9 +1,9 @@
 ---
 weight: 10
-title: Hebrews 10 Sermon
+title: "Hebrews 10: Sermon"
 authors: Chuck Missler
 categories: null
-tags: null
+tags: [Jesus' Qualification]
 series: null
 description: 
 draft: false
@@ -288,7 +288,7 @@ He's saying now because of all this that you've had, brethren, he's putting hims
 
 Of course, the whole ten chapter previous, brethren. He's putting himself in that. Their fellow believers have boldness to enter. They now have the privilege into the holy of holies in heaven through a Melchizedekan high priest, not a Levitical high priest.  
 
-Different situation. He's a king and a priest. And Jesus did not have the qualification to be a Levite. He was in the tribe of Judah, not Levi. Different deal. Here. You and I are on the same plane of privilege as that of the Old Testament high priest.  
+Different situation. He's a king and a priest. And <b>Jesus did not have the qualification to be a Levite</b>. He was in the tribe of Judah, not Levi. Different deal. Here. You and I are on the same plane of privilege as that of the Old Testament high priest.  
 
 Wow, that's bizarre. Now we go back and read those again more carefully. I won't do it tonight. You do it yourself. Having therefore, brethren and whole boldness to enter into the holiest holies by blood of Jesus, by a new and living way which he hath consecrated for us through the veil, that is to say, his flesh, a new way.  
 

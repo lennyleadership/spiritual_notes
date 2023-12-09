@@ -1,7 +1,7 @@
 ---
 weight: 
 title: 
-authors: null
+authors: Chuck Missler
 categories: null
 tags: null
 series: null

@@ -1,6 +1,6 @@
 ---
 weight: 16
-title: It is Finished - Chapter 10
+title: "Heb 10: It is Finished"
 authors: Alistair Begg
 categories: null
 tags: ["Jesus was predicted in the OT"]
