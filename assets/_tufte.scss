@@ -1,5 +1,9 @@
 //below is the tufte style *////////////////////////////////////////////////////////////////////////
 
+body{
+    counter-reset: sidenote-counter;
+}
+
 .sidenote,
 .marginnote {
     float: right;
