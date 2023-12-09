@@ -24,25 +24,25 @@ One person there said, "A Kingship must be descendant from bloodline not adoptio
 Mary may well be a descendant of David, but she canit pass David’s Y-DNA to Jesus. Mary can only provide half of Jesus' DNA; her mother's St.Anne's mtDNA. Women donit possess the male Y-DNA. David's Y-DNA is passed only to the male line. Joseph, of course, did not pass his Y-DNA on to Jesus. How can Jesus inherit the Throne of David and Solomon if he doesn't carry their Y-DNA which is passed from father to son (Agnatic succession)?"
 
 <b>Answer</b>:  
- Thank you for posing this question, which is of great interest. The whole position of Jesus’ descent is a fascinating study. In developing my response, I have been influenced by the writings of Arnold Fruchtenbaum.
+ Thank you for posing this question, which is of great interest. The whole <b>position of Jesus’ descent</b> is a fascinating study. In developing my response, I have been influenced by the writings of Arnold Fruchtenbaum.
 
-Your correspondent has looked at the issue, by discussing mitochondrial DNA and Y-chromosome DNA. DNA was not known about in Old Testament times. Therefore, a model of descent, involving DNA is not relevant. This issue of descent is, in fact, not a scientific question, but a legal question.
+Your correspondent has looked at the issue, by discussing mitochondrial DNA and Y-chromosome DNA. DNA was not known about in Old Testament times. Therefore, <b>a model of descent</b>, involving DNA is not relevant. This issue of descent is, in fact, not a scientific question, but <b>a legal question</b>.
 
-However, it must be conceded immediately that descent in Jewish terms could not be facilitated by adoption. Descent has to be through blood. My point above is simply to make clear that DNA does not play a part in the discussion of blood descent of kingship.
+However, it must be conceded immediately that <b>descent in Jewish terms</b> could not be facilitated by adoption. <b>Descent has to be through blood</b>. My point above is simply to make clear that DNA does not play a part in the discussion of blood descent of kingship.
 
-In any case, the Old Testament knew of two distinct methods of claiming kingship. One is by descent from David, and the other is by prophetic or divine appointment. Where did David himself get his kingship? It was by prophetic appointment, through Samuel. His predecessor, Saul was similarly appointed. There is no suggestion that Saul’s son, Jonathan, expected to inherit kingship. No principle of heredity had been established at that stage, so the clear expectation was for the kingship to be passed on to God’s next anointed – which Jonathan knew to be David. Moreover, David was, in any case, accepted as Saul’s son, because the legal position of a son-in-law was equivalent to that of a son. (see 1 Samuel 24:16).
+In any case, the Old Testament knew of two distinct methods of <b>claiming kingship</b>. <b>One is by descent from David</b>, and <b>the other is by prophetic or divine appointment</b>. Where did David himself get his kingship? It was by prophetic appointment, through Samuel. His predecessor, Saul was similarly appointed. There is no suggestion that Saul’s son, Jonathan, expected to inherit kingship. No principle of heredity had been established at that stage, so the clear expectation was for the kingship to be passed on to God’s next anointed – which Jonathan knew to be David. Moreover, David was, in any case, accepted as Saul’s son, because the legal position of a son-in-law was equivalent to that of a son. (see 1 Samuel 24:16).
 
-After the division of Israel into the separate kingdoms of Israel and Judah, the two possible requirements for kingship became separated. In the South, kings of Judah continued to be blood descendents of David. In the North, however, kings were established by divine appointment. Any king who tried to rule without this divine appointment was assassinated (e.g. see 1 Kings 15:28-30, and 2 Kings 15:8-12).
+After the division of Israel into the separate kingdoms of Israel and Judah, the two possible <b>requirements for kingship</b> became separated. In the South, kings of Judah continued to be <b>blood descendents of David</b>. In the North, however, <b>kings were established by divine appointment</b>. Any king who tried to rule without this divine appointment was assassinated (e.g. see 1 Kings 15:28-30, and 2 Kings 15:8-12).
 
 The last direct lineal descendent of David to be king was Jeconiah. God rejected him because of his evil. The Coniah mentioned in Jeremiah 22:24-30 is the same man as King Jeconiah. In verse 30, God says:
 
-Write this man down as childless,
-A man who shall not prosper in his days;
-For none of his descendants shall prosper,
-Sitting on the throne of David,
+Write this man down as childless,  
+A man who shall not prosper in his days;  
+For none of his descendants shall prosper,  
+Sitting on the throne of David,  
 And ruling anymore in Judah. 
 
-Note that he is to be written down as childless – not that he actually was childless. Indeed, Joseph was a direct descendent of Jeconiah. Therefore, the whole point of Matthew’s genealogy is not to prove the kingship of Jesus. Rather, it is to prove to a Jewish audience – because Matthew was writing primarily for a Jewish audience – that Joseph, as a direct descendent of Jeconiah, could never be king, and so the fact that Jesus was not actually Joseph’s son was important – emphasising that Jesus’ kingship did not depend wholly on descent.
+Note that he is to be written down as childless – not that he actually was childless. Indeed, Joseph was a direct descendent of Jeconiah. Therefore, the whole point of Matthew’s genealogy is not to prove the kingship of Jesus. Rather, it is to prove to a Jewish audience – because Matthew was writing primarily for a Jewish audience – that Joseph, as a direct descendent of Jeconiah, could never be king, and so the fact that Jesus was not actually Joseph’s son was important – emphasising that <b>Jesus’ kingship did not depend wholly on descent</b>.
 
 It was, however, possible to be a king, even in Judah, without direct descent through Jeconiah. The proof of this is to look at the last king of Judah – Zedekiah in 2 Chronicles 36. Zedekiah was the brother of Jeconiah, and was therefore not banned under Jeconiah’s curse, yet was eligible for kingship by virtue of being a blood descendent of David.
 
