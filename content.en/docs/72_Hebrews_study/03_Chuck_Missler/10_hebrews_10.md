@@ -18,9 +18,9 @@ Well, we're continuing our survey exploration of the epistle of the Hebrews and 
 
 After a priest, after the order of Melchizedek, then we're in the second session, a better covenant, a better sanctuary, and a better sacrifice. And we'll have finally to wrap up the practical side of all of this.  
 
-But last time in chapter nine we focused on the sanctuary that the sanctuary that is presently operative is in heaven with our high priest there, in contrast to the Levitical high priest who officiated in the temple on earth.  
+But last time in chapter nine we focused on the sanctuary that the sanctuary that is presently operative is in heaven with our high priest there, in contrast to <b>the Levitical high priest</b> who officiated in the temple on earth.  
 
-And this has all been superseded is the point. And chapter nine really continues in chapter ten. That theme will continue in our early part of chapter ten tonight, but then we're going to shift when we get to verse 18 of chapter ten.  
+And <b>this has all been superseded</b> is the point. And chapter nine really continues in chapter ten. That theme will continue in our early part of chapter ten tonight, but then we're going to shift when we get to verse 18 of chapter ten.  
 
 We're going to get into the beginning of what some people label as the next major or third major section of the book, the practical applications. And interestingly enough, that section opens with the fourth of five warnings and many people treat these five warnings as sort of interruptions of the sweep of the author and quite the contrary, there really is key points as we begin to understand the meaning of the whole epistle.  
 
