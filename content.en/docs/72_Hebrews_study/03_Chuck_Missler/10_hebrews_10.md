@@ -1,6 +1,6 @@
 ---
 weight: 10
-title: "Hebrews 10: Sermon"
+title: "Heb 10: Sermon"
 authors: Chuck Missler
 categories: null
 tags: [Jesus' Qualification]

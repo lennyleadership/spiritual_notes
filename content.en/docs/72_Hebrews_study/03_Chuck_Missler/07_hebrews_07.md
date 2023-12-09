@@ -1,6 +1,6 @@
 ---
 weight: 7
-title: Hebrews 7: sermon
+title: "Heb 7: sermon"
 authors: Chuck Missler
 categories: null
 tags: [Jesus' Qualification]
