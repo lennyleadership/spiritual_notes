@@ -1,9 +1,9 @@
 ---
 weight: 
 title: 
-authors: Alistair Begg
+authors: null
 categories: null
-tags: []
+tags: null
 series: null
 description: 
 draft: false
