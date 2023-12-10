@@ -16,7 +16,7 @@ toc: true
 
 The lead character in the Bible is Jesus. Jesus was predicted in the Old Testament, Jesus was revealed in the Gospels, Jesus was preached in the book of Acts, Jesus was explained in the Epistles, Jesus was expected in the book of Revelation.
 
-Genealogy and birth. Reveal who Jesus is.
+Genealogy of Jesus and virgin birth. Reveal who Jesus is.
 
 1) Luke 3:23-38 Jesus is the king of Judah because he is the descendant through Mary from the bloodline of King David.
 
