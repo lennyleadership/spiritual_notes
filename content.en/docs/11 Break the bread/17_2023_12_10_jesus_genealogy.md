@@ -22,7 +22,7 @@ toc: true
 <li>Jesus is eligible for kingship by virtue of being the blood descendant of David.</li>
 
 <li>Matthew 1:20. Virgin birth:    
-Does it matter?    
+<br>Does it matter?    
 <br>
 a) Jesus was conceived by the Holy Spirit, therefore, is 100% God and 100% man.  
 <br>
