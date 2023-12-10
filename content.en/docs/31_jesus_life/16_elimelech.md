@@ -7,8 +7,8 @@ tags: ["Genealogy of Jesus"]
 series: null
 description: 
 draft: false
-date: "2023-12-"
-lastmod: "2023-12-"
+date: "2023-12-09"
+lastmod: "2023-12-09"
 toc: true
 ---
 
