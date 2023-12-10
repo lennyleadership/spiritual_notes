@@ -19,7 +19,7 @@ toc: true
 <p>Genealogy of Jesus and virgin birth. Reveal who Jesus is</p>.
 
 <ul>
-<li>Jesus is eligible for kingship by virtue of being the blood descendant of David.</li>
+<li>Jesus is eligible for kingship by virtue of being the blood descendant of David.<br>Jesus fulfilled the covenant God promised to King David.<label for="covenant" class="margin-toggle sidenote-number"></label><span class="sidenote">我从羊圈中将你召来，叫你不再跟从羊群，立你作我民以色列的君……我必使你得大名……我必为我民以色列选定一个地方……我必使你安靖，不被一切仇敌扰乱……我必使你的后裔接续你的位；我也必坚定他的国……你的家和你的国必在我面前永远坚立。你的国位也必坚定，直到永远。（撒母耳记下7章8-16节）</span></li>
 
 <li>Matthew 1:20. Virgin birth:    
 <br>Does it matter?    
