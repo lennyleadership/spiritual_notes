@@ -66,6 +66,7 @@ Additionally, Stanley asserts that the Jews of that era would not have been look
 Christianity is a religion grounded in history and in the truth of God’s Word. How and why Jesus came as the virgin-conceived babe in the manger matters. Although the Christmas season is over, take time to reflect on what Jesus’ birth means to you for now and eternity.
 
 <b>Footnotes</b>  
+
 <a href = "https://www.washingtonpost.com/news/acts-of-faith/wp/2016/12/24/megachurch-pastor-ignites-debate-after-suggesting-christianity-doesnt-hinge-on-jesus-birth/" target="_blank" rel="noopener noreferrer">Kate Shellnutt, “Megachurch Pastor Ignites Debate After Suggesting that Christianity Doesn’t Hinge on Jesus’ Birth,” The Washington Post, December 24, 2016</a>
 
 Reference: <a href = "https://answersingenesis.org/jesus/birth/is-virgin-birth-essential-to-christianity/" target="_blank" rel="noopener noreferrer">Answers in Genesis | Is the Virgin Birth Essential to Christianity?</a>

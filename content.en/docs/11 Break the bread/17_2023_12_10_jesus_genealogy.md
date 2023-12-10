@@ -18,4 +18,12 @@ The lead character in the Bible is Jesus. Jesus was predicted in the Old Testame
 
 Reveal who Jesus is.
 
-1) A Kingship must be descendant from bloodline not adoption.  An adopted son can inherit possessions, but not a Throne.  He is the heir of King David.
+1) Jesus is the king of Judah because he is the descendant through Mary from the bloodline of King David.
+
+2) Virgin birth:  
+a) Jesus was conceived by the Holy Spirit, therefore, is 100% God and 100% man.  
+b) Jesus was not conceived by Joseph, therefore, sin was not passed down to Jesus. Jesus is the blameless, sinless, Pass-over lamb, 
+c) Jesus was the first-born
+Conclusion: Jesus was the perfect sacrifice.  
+
+Hebrews 10. He was the high priest
