@@ -3,7 +3,7 @@ weight: 13
 title: The Legal Kingship of Jesus
 authors: null
 categories: null
-tags: null
+tags: ["Genealogy of Jesus"]
 series: null
 description: 
 draft: false
@@ -44,7 +44,15 @@ And ruling anymore in Judah.
 
 Note that he is to be written down as childless – not that he actually was childless. Indeed, Joseph was a direct descendent of Jeconiah. Therefore, the whole point of Matthew’s genealogy is not to prove the kingship of Jesus. Rather, it is to prove to a Jewish audience – because Matthew was writing primarily for a Jewish audience – that Joseph, as a direct descendent of Jeconiah, could never be king, and so the fact that Jesus was not actually Joseph’s son was important – emphasising that <b>Jesus’ kingship did not depend wholly on descent</b>.
 
-It was, however, possible to be a king, even in Judah, without direct descent through Jeconiah. The proof of this is to look at the last king of Judah – Zedekiah in 2 Chronicles 36. Zedekiah was the brother of Jeconiah, and was therefore not banned under Jeconiah’s curse, yet was eligible for kingship by virtue of being <b>a blood descendent of David</b>.
+It was, however, possible to be a king, even in Judah, without direct descent through Jeconiah. The proof of this is to look at the last king of Judah – Zedekiah in 2 Chronicles 36. Zedekiah was the brother of Jeconiah, and was therefore not banned under Jeconiah’s curse<label for="curse" class="margin-toggle sidenote-number"></label><span class="sidenote">Curse against Jechonias
+<br>Jechonias (also called Jehoiachin, Jeconiah, Coniah) was an evil king and also he was in the royal line of David as it is mentioned in Matthew's genealogy. God was outraged with him and judged the royal line with a curse: no descendant of Jechonias would sit as king of Israel (Jer 22:24-30).
+<br>
+<br>This seemingly contradicts the promise that God made to David that his son, Solomon's seed would always be on the throne (1Chr 22:7-10) and also would make Jesus ineligible to the throne, as he was the descendant of Jechonias.
+<br>
+<br>But, since Jesus was only an adopted son and not biological son of Joseph, the curse did not affect his right to the throne as he was not of Jechonias' seed. This curse also indicates that the Messiah cannot have a human father since then the curse would pass onto him too.
+<br>
+<br>Reference: <a href = "https://www.complete-bible-genealogy.com/genealogy_of_jesus.htm" target="_blank" rel="noopener noreferrer">Genealogy of Jesus</a>
+![](<a href = "https://www.complete-bible-genealogy.com/genealogy_of_jesus.htm" target="_blank" rel="noopener noreferrer">Genealogy of Jesus</a>)</span>, yet was eligible for kingship by virtue of being <b>a blood descendent of David</b>.
 
 When we look at the genealogy in Luke (Luke 3:23-38), we are examining a record written primarily for non-Jews. It is interesting therefore that Matthew’s genealogy, written for a Jewish audience, uses non-Jewish ideas (such as including women, and omitting some generations), whereas <b>Luke’s genealogy, written for a non-Jewish audience</b>, sticks rigidly to a Jewish formula, by omitting women and not omitting any generations. Both evangelists are trying to “shake-up” their audiences. Luke’s genealogy lists only men, but gives a different father for Joseph. Jewish tradition suggests that Heli was the father of Mary. So how can he be listed as Joseph’s father? For two reasons:
 

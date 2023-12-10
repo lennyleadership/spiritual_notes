@@ -3,7 +3,7 @@ weight: 16
 title: "Elimelech - My God is King"
 authors: null
 categories: null
-tags: null
+tags: ["Genealogy of Jesus"]
 series: null
 description: 
 draft: false
