@@ -21,11 +21,12 @@ Genealogy of Jesus and virgin birth. Reveal who Jesus is.
 1) Two opinions.  
 Luke 3:23-38 Jesus is the king of Judah because he is the descendant through Mary from the bloodline of King David.
 
-2) Matthew 1:20. Virgin birth:  
-Does it matter?  
-a) Jesus was conceived by the Holy Spirit, therefore, is 100% God and 100% man.  
-b) Jesus was not conceived by Joseph, therefore, sin was not passed down to Jesus. Jesus is the blameless, sinless, Pass-over lamb, 
-c) Jesus was the first-born
+2) Matthew 1:20. Virgin birth:    
+Does it matter?    
+a) Jesus was conceived by the Holy Spirit, therefore, is 100% God and 100% man.    
+b) Jesus was not conceived by Joseph, therefore, sin was not passed down to Jesus. Jesus is the blameless, sinless, Pass-over lamb,  
+c) Jesus was the first-born  
+
 Conclusion: Jesus was the perfect sacrifice.  
 
 3) Matthew 1:21. The meaning of Jesus, for He will save His people from their sins.
