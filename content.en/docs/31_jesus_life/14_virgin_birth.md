@@ -32,7 +32,7 @@ It’s interesting because Matthew gives us a version of the birth of Christ, Lu
 Now, not surprisingly, this introduction created a great deal of controversy. Was Pastor Stanley really suggesting that events like the virgin birth are inconsequential to Christianity? To defend his statements, Stanley said to The Washington Post,
 
 <div class = "quote">   
-Anyone who listens to all three [sermons in the series] will know that I stand firmly within the orthodox Christian tradition regarding the incarnation of Jesus — including the birth narratives as presented [in] Matthew and Luke.1
+Anyone who listens to all three [sermons in the series] will know that I stand firmly within the orthodox Christian tradition regarding the incarnation of Jesus — including the birth narratives as presented [in] Matthew and Luke.<a id="1_ref" href = "#1">[1]</a>
 </div>
 
 Now, Stanley may believe the events surrounding Christ’s birth. Indeed, he treats them as history throughout his three-part sermon series. But his introduction certainly implies that belief in the events described in Matthew and Luke are up for debate. Is he right in saying that only the Resurrection matters and how Jesus came into the world isn’t really a matter of concern?
@@ -66,7 +66,9 @@ Additionally, Stanley asserts that the Jews of that era would not have been look
 Christianity is a religion grounded in history and in the truth of God’s Word. How and why Jesus came as the virgin-conceived babe in the manger matters. Although the Christmas season is over, take time to reflect on what Jesus’ birth means to you for now and eternity.
 
 <b>Footnotes</b>  
-
+<p id="1">[1] 
 <a href = "https://www.washingtonpost.com/news/acts-of-faith/wp/2016/12/24/megachurch-pastor-ignites-debate-after-suggesting-christianity-doesnt-hinge-on-jesus-birth/" target="_blank" rel="noopener noreferrer">Kate Shellnutt, “Megachurch Pastor Ignites Debate After Suggesting that Christianity Doesn’t Hinge on Jesus’ Birth,” The Washington Post, December 24, 2016</a>
+<a href="#1_ref">&#8617;</a></p>
+
 
 Reference: <a href = "https://answersingenesis.org/jesus/birth/is-virgin-birth-essential-to-christianity/" target="_blank" rel="noopener noreferrer">Answers in Genesis | Is the Virgin Birth Essential to Christianity?</a>
