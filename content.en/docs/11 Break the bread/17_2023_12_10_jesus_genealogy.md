@@ -18,7 +18,8 @@ The lead character in the Bible is Jesus. Jesus was predicted in the Old Testame
 
 Genealogy of Jesus and virgin birth. Reveal who Jesus is.
 
-1) Luke 3:23-38 Jesus is the king of Judah because he is the descendant through Mary from the bloodline of King David.
+1) Two opinions.  
+Luke 3:23-38 Jesus is the king of Judah because he is the descendant through Mary from the bloodline of King David.
 
 2) Matthew 1:20. Virgin birth:  
 Does it matter?  
