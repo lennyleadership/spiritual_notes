@@ -20,16 +20,14 @@ Genealogy of Jesus and virgin birth. Reveal who Jesus is.
 
 1) Jesus is eligible for kingship by virtue of being the blood descendant of David.
 
-Jeconiah was an evil king.  God was outraged with him and judged the royal line with a curse: no descendant of Jechonias would sit as king of Israel. 
+2) Matthew 1:20. Virgin birth:    
+Does it matter?    
+a) Jesus was conceived by the Holy Spirit, therefore, is 100% God and 100% man.    
+b) It is a good thing that Jesus was not a biological son of Joseph. Because Jesus did not get sin from ancestors.  There are two benefits, first of all, Jesus is the blameless, sinless, Pass-over lamb. Secondly, Jesus did not get curse from Jeconiah who was an evil king.  God was outraged with him and judged the royal line with a curse: no descendant of Jechonias would sit as king of Israel. 
 This seemingly contradicts the promise that God will establish the throne of his kingdom over Israel forever. (1Chr 22:7-10)<label for="throne" class="margin-toggle sidenote-number"></label><span class="sidenote">1 Chronicles 22:10 NKJV
 He shall build a house for My name, and he shall be My son, and I will be his Father; and I will establish the throne of his kingdom over Israel forever.'</span> and also would make Jesus ineligible to the throne, as he was the descendant of Jechonias.  
 But, since Jesus was only an adopted son and not biological son of Joseph, the curse did not affect his right to the throne as he was not of Jechonias' seed. This curse also indicates that the Messiah cannot have a human father since then the curse would pass onto him too.
 
-
-2) Matthew 1:20. Virgin birth:    
-Does it matter?    
-a) Jesus was conceived by the Holy Spirit, therefore, is 100% God and 100% man.    
-b) Jesus was not conceived by Joseph, therefore, sin was not passed down to Jesus. Jesus is the blameless, sinless, Pass-over lamb,  
 c) Jesus was the first-born  
 
 Conclusion: Jesus was the perfect sacrifice.  
