@@ -51,8 +51,7 @@ It was, however, possible to be a king, even in Judah, without direct descent th
 <br>
 <br>But, since Jesus was only an adopted son and not biological son of Joseph, the curse did not affect his right to the throne as he was not of Jechonias' seed. This curse also indicates that the Messiah cannot have a human father since then the curse would pass onto him too.
 <br>
-<br>Reference: <a href = "https://www.complete-bible-genealogy.com/genealogy_of_jesus.htm" target="_blank" rel="noopener noreferrer">Genealogy of Jesus</a>
-![](<a href = "https://www.complete-bible-genealogy.com/genealogy_of_jesus.htm" target="_blank" rel="noopener noreferrer">Genealogy of Jesus</a>)</span>, yet was eligible for kingship by virtue of being <b>a blood descendent of David</b>.
+<br>Reference: <a href = "https://www.complete-bible-genealogy.com/genealogy_of_jesus.htm" target="_blank" rel="noopener noreferrer">Genealogy of Jesus</a></span>, yet was eligible for kingship by virtue of being <b>a blood descendent of David</b>.
 
 When we look at the genealogy in Luke (Luke 3:23-38), we are examining a record written primarily for non-Jews. It is interesting therefore that Matthew’s genealogy, written for a Jewish audience, uses non-Jewish ideas (such as including women, and omitting some generations), whereas <b>Luke’s genealogy, written for a non-Jewish audience</b>, sticks rigidly to a Jewish formula, by omitting women and not omitting any generations. Both evangelists are trying to “shake-up” their audiences. Luke’s genealogy lists only men, but gives a different father for Joseph. Jewish tradition suggests that Heli was the father of Mary. So how can he be listed as Joseph’s father? For two reasons:
 
