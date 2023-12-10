@@ -24,8 +24,6 @@ He shall build a house for My name, and he shall be My son, and I will be his Fa
 But, since Jesus was only an adopted son and not biological son of Joseph, the curse did not affect his right to the throne as he was not of Jechonias' seed. This curse also indicates that the Messiah cannot have a human father since then the curse would pass onto him too.
 
 
-
-
 2) Matthew 1:20. Virgin birth:    
 Does it matter?    
 a) Jesus was conceived by the Holy Spirit, therefore, is 100% God and 100% man.    
