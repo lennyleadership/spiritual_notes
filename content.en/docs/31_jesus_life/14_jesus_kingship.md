@@ -14,6 +14,691 @@ toc: true
 
 <!--more-->
 
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'english')">English</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">中文</button>
+</div>
+
+<!-- Tab content -->
+<div id="english" class="tabcontent" style="display:block">
+
+# INTRODUCTION
+
+The history of humanity is often written according to the reigns of powerful kings. We've all heard of kings who ruled large portions of Asia, Europe, Africa and Latin America. Some of them conquered so many enemies that their empires seemed to stretch to the far corners of the earth. And they all have at least one thing in common. They're gone; they're dead; they don't rule any more. Their mighty armies have disappeared, and their power has vanished.
+
+There's only been one exception to this rule. There's one king whose power has never faded, and whose kingdom will never end. And that king, of course, is Jesus.
+
+This is the fifth lesson in our series, *We Believe in Jesus*, and we have entitled it "The King." In this lesson, we'll see how Jesus fulfills the Old Testament office of king, ruling as God's faithful servant and Son. As we've seen in prior lessons, at various stages of Old Testament history God instituted three offices through which he administered his kingdom: the offices of prophet, priest and king. And in the final stage of God's kingdom, which we commonly call the New Testament age, all three of these offices find their ultimate fulfillment in Jesus. In this lesson, we'll focus on Jesus' office of king.
+
+For our purposes, we'll define a king as:
+
+> A human being established by God to exercise rule on God's behalf over his kingdom.
+> 
+
+As this definition indicates, God always has been and always will be the ultimate ruler over all creation. But he has also appointed human beings to serve as his vice-regents. These human kings serve under him, and further his purposes and goals for his kingdom. As we keep this basic definition in mind, we will be able to gain many insights into the biblical office of king, and into how Jesus fulfills this office.
+
+This lesson will follow the same format as our lessons on Jesus' offices of prophet and priest. First, we will examine the Old Testament background to the office of king. Second, we will explore the fulfillment of the office of king, in Jesus. And third, we will explore the modern application of Jesus' kingship to our own lives. Let's look first at the Old Testament background to Jesus' office of king.
+
+# OLD TESTAMENT BACKGROUND
+
+In his book The Republic, the Greek philosopher Plato argued that the best of all possible governments was the rule of a philosopher king. In his view, kings that truly loved wisdom, instead of wealth and power, would direct their nations toward countless benefits. In a similar way, Scripture shows that when Israel's kings feared God and followed his precepts, their nations thrived under God's blessings. But the opposite was also true: When they rebelled against God, the entire nation suffered under God's judgment. In this sense, Israel's kings were central to the well-being of God's kingdom on earth.
+
+We'll examine the Old Testament background to the office of king by looking at three topics: first, the qualifications for the office of king; second, the function of kings; and third, the expectations the Old Testament created for the future of kingship in Israel. Let's begin with the qualifications for the office of king.
+
+## Qualifications
+
+In the Old Testament, God revealed the qualifications for kings in two stages. First, in the Law of Moses, God revealed the standards for kingship even before Israel had a king. And second, God's covenant with David provided an important additional qualification once the monarchy was in place. Let's look first at the principles of kingship listed in the Law of Moses.
+
+### Law of Moses
+
+> It's interesting when you read the Old Testament, particularly the first five books, the Pentateuch, that already there you have anticipation of the coming of a king. You have what the king should be like and should do long before there's ever kings. Why is this the case? Well, I think we need to put those kind of passages, Deuteronomy 17 particularly, where you have the anticipation of the king and what the king should do, in light of God's plan. You really have to go back to Adam. Adam functions as kind of prophet, priest, king. His dominion over this earth, that rule and kingship, in some sense is lost. It's picked up in the nation of Israel through the Abrahamic covenant. Even in Genesis 17 there's promises that through Abraham's line kings will come. That then begins to be realized in Israel and uniquely the king. The king in the Old Testament, even though it's announced many, many years ahead of time in say, Deuteronomy 17 with Moses, is setting us up for the return of the effects of sin upon this world, the restoration that will come through the kings, the Davidic kings. But even more than that, the coming of the Lord Jesus Christ who now takes these roles, fulfills the Davidic role, fulfills Israel's role, fulfills ultimately Adam's role, and restores us back to what we were made to be, so that all of this is in anticipation. All of this is setting us up for more in terms of God's plan as it unfolds, leading us to the messianic theme of "This is what will come. This is who will take place. This is how the king will fulfill those roles." All of that, I think, is the reason why Moses is giving us this before there's ever kings. [Dr. Stephen Wellum]
+> 
+
+As Moses prepared the nation of Israel to enter and conquer the Promised Land, he explained that God would eventually appoint a king over them. And he listed four principles that were to guide the king that God appointed. Listen to what Moses wrote in Deuteronomy 17:14-19:
+
+> When you … have taken possession of it and settled in it … appoint over you the king the Lord your God chooses. He must be from among your own brothers… The king, moreover, must not acquire great numbers of horses for himself or make the people return to Egypt to get more of them … He must not take many wives … He must not accumulate large amounts of silver and gold… [H]e is to write … a copy of this law … and he is to read it all the days of his life so that he may learn to revere the Lord his God and follow carefully all the words of this law and these decrees (Deuteronomy 17:14-19).
+> 
+
+Moses listed four principles relating to the qualifications for kingship. First, he said that Israel's king had to be chosen by God. The people were not qualified to choose a king that would lead them in the way that God demanded. And they didn't have the right to vest a person with God's delegated authority. Only God could delegate his own authority. And he would only give it to a person of his choosing.
+
+The second thing Moses mentioned in Deuteronomy 17 was that the king had to be an Israelite. That is to say, he had to be a native of God's chosen nation. This was to fulfill the covenant promise God had made to Abraham in Genesis 17:1-8, where he swore that Abraham's heirs would be kings over their people.
+
+The third qualification in Deuteronomy 17 was that the king was to depend on God rather than on human strategies for securing peace and prosperity. Moses listed four ways that kings might turn from dependence on God.
+
+- The king was forbidden to acquire large numbers of horses probably because they were important for his army. The king was to depend on God's power, and not on human might, in order to secure the nation.
+- The ban on returning to Egypt referred to submitting to a larger empire for protection and provision, rather than submitting to God.
+- The prohibition against many wives probably applied specifically to political alliances forged through arranged marriages. This was problematic not just because it made Israel dependent on foreign countries rather than on God, but also because foreign wives were likely to serve foreign gods, and to tempt the king to do the same.
+- And the command against accumulating large amounts of gold and silver probably referred to unjust taxation. It was not wrong for the king to be rich. But it was criminal for him to become rich by oppressing God's people.
+
+As a whole, these restrictions ensured that the king would rely on God for the success of his reign and the security of the nation.
+
+The fourth thing Moses stressed in Deuteronomy 17 was that the king was required to demonstrate covenant fidelity to God by receiving, copying and meditating on God's covenant law. These actions were designed to cultivate personal reverence, appropriate humility and faithful rule.
+
+> The kings of Israel and the kings of Judah were the representative of the people to God, so that in many ways they had a sacramental presence there, both as the representative of God on earth and the representative of the people to God. So, that particular swing status that they had was significant in how God responded to both the king and then ultimately how that fell out onto the nation as a whole. And you had this whole history, I think, within Israel and Judah. There are no good kings in Israel. They were all bad. And then, they fell first in 722 B. C. But then within Judah, you had this sort of back and forth, where you'd have a good king, he did right in the eyes of the Lord, and then a bad king who did evil in the sight of the Lord. But when the bad kings did evil in the sight of the Lord, there were major repercussions that came from that. This was where the divine "No" of God's judgment would be heralded against both the king and then also the people as well. And it seems to be that there was a…there's an organic relationship between the status of the king and the way in which the people followed in that. If the king was setting up high places and worshipping foreign gods, the people were as well. And then vice versa; when there were reforms, like we had with King Josiah, that had huge national repercussions for the way in which the people responded to God and his Law. So, the king had a major role in representing both the people and God to the people. [Dr. Mark Gignilliat]
+> 
+
+Having seen the qualifications for kingship revealed by Moses, we're ready to consider an additional qualification God established in his covenant with David.
+
+### Covenant with David
+
+God established his covenant with David in 2 Samuel 7:8-16, and its terms are mentioned in places like Psalms 89 and 132. This covenant established David's descendants as Israel's permanent dynasty. God demonstrated great benevolence to David and to Israel by ensuring that David's descendants would reign, and that Israel would enjoy the stability of dynastic succession. Listen to God's covenant promises to David in 2 Samuel 7:8-16:
+
+> I took you from the pasture and from following the flock to be ruler over my people Israel… Now I will make your name great … And I will provide a place for my people Israel … I will also give you rest from all your enemies… I will raise up your offspring to succeed you, who will come from your own body, and I will establish his kingdom… Your house and your kingdom will endure forever before me; your throne will be established forever (2 Samuel 7:8-16).
+> 
+
+According to this divine covenant, God added a new qualification for kings in Israel: From this time on, God's people were to be led by a son of David. Only his house could claim legitimate, perpetual rule over the entire nation.
+
+As early as the book of Genesis, God blessed the tribe of Judah with Israel's kingship. "The scepter will not depart from Judah," Jacob said in Genesis 49. Since David was from the tribe of Judah, God's promise to David was the fulfillment of this blessing in Genesis. God always intended that Israel would one day have a king from the tribe of Judah. Because of David's obedience and devotion to God, he promised that Israel's kingship would perpetually be traced through David's line. No person could ever legitimately claim to be king in Israel unless he was from David's house. That's why it was so important for the writers of the Gospels to prove, not just that Jesus was called by God, but that he was a direct descendent of David with a legitimate claim to David's throne.
+
+Now that we've looked at the qualifications for kingship, let's turn to our second topic, the function of kings in the Old Testament.
+
+## Function
+
+In the Old Testament, the kings of Israel exercised faithful rule over God's people primarily by executing and administering God's law. As we've seen in prior lessons, it was common for powerful emperors or suzerains in the ancient Near East to conquer and control weaker kingdoms, making them their servants or vassals. These suzerains normally administered their relationships with their vassals through treaties or covenants, which required the vassal kingdoms to serve the conquering suzerain by submitting to his laws. And the same thing was true of Israel's relationship to God. The entire nation was responsible to obey God's covenant, and the king was to ensure that they did.
+
+Kings held their people accountable to God's covenant law in many ways. But for our purposes in this lesson, we'll focus on what Jesus called the more important matters of the law. As Jesus said in Matthew 23:23:
+
+> The more important matters of the law [are] justice, mercy and faithfulness (Matthew 23:23).
+> 
+
+According to Jesus, and in contrast with the Pharisees' focus on ceremonies and rituals, the most important characteristics of the law are justice, mercy and faithfulness.
+
+We'll consider the ways Old Testament kings executed and administered God's laws according to each of these most important characteristics. First, we'll look at the king's responsibility to enforce justice. Second, we'll see that the king was to apply mercy. And third, we'll focus on the fact that the king was to promote faithfulness. Let's look first at the king's function of enforcing justice.
+
+### Justice
+
+In the context of a king's responsibilities, justice can be defined as judging every person as he deserves, in accordance with God's law.
+
+> As individuals or rulers, we have the right, the freedom, and the will to choose a safe path or a sinful path. In the end God's judgment will fall on us all. As a result those rulers will be judged. When Jesus comes he will put all things where they should be. Until then we have a mission. And that is to live as individuals that belong to God's kingdom, and as citizens in a heavenly earth. For the time being, we practice justice and equality, respecting others, respecting the weak, being fair with the unjust, and we try hard to achieve justice knowing that we still live in a sinful world, a broken world, in a world under God's judgment, in a world where brutality, poverty, ignorance and corruption still exist. We are like a candle that gives light, reminding others that there is a loving God in heaven who cares about the unjust and that this brutality, corruption, and arrogance, no matter how long it lasts on earth, it is temporary, and limited in time because there is a God who will, in the end, fix everything. [Dr. Jonathan Kuttab, translation]
+> 
+
+Israel's kings were to execute God's justice on at least two different levels. In the first place, they executed God's international justice, enforcing God's law between Israel and other nations.
+
+One way kings upheld justice on an international scale was by peacefully negotiating with other nations, as Solomon did with Hiram the king of Tyre in 1 Kings 5:1-12.
+
+Kings also pursued international justice through war. They did this by punishing wicked nations as Saul did in 1 Samuel 14:47-48, and as David did in 2 Samuel 8:1-13. The king also defended Israel when they were attacked, as David did in 2 Samuel 5:17-25, and as Hezekiah did in 2 Kings 19. Psalm 2 summarizes the justice that Israel's kings were to render toward nations that rebelled against them and the Lord. Listen to what it says in verses 6-12:
+
+> [The Lord said,] "I have installed my King on Zion, my holy hill." … He said to me, "You are my Son; today I have become your Father. Ask of me, and I will make the nations your inheritance, the ends of the earth your possession. You will rule them with an iron scepter; you will dash them to pieces like pottery." Therefore, you kings, be wise; be warned, you rulers of the earth. Serve the Lord with fear and rejoice with trembling. Kiss the Son, lest he be angry and you be destroyed in your way, for his wrath can flare up in a moment. Blessed are all who take refuge in him (Psalm 2:6-12).
+> 
+
+These verses follow the ancient Near-Eastern custom of referring to the suzerain as a father and his vassal king as his son. In this case, God was the suzerain and the Davidic king was the son. And God's plan for the world was for the nations to serve and obey the Davidic king. They were to fear and honor him because he was God's instrument of justice in the world.
+
+In the second place, kings were also responsible to execute God's justice on a national scale, within Israel. Kings enforced national justice by leading God's special people in obedience to his law. This included things like providing for the well-being and protection of the weak, as we see in Proverbs 29:14; defending against the wicked, as David modeled in 2 Samuel 4:9-12; prosecuting criminals, as in 2 Kings 14:5; and establishing stability for the growth and prosperity of the citizens, as Psalm 72 teaches. Moreover, kings were not to distort justice to favor the rich or the poor, the powerful or the weak. Scripture speaks of this role of kings in many places, including Leviticus 19:15 and Isaiah 11:1-5.
+
+Drawing once again from Jesus' identification of the more important matters of the law, a second major way kings were to apply God's law was in mercy.
+
+### Mercy
+
+Mercy is the imitation of God's compassion toward his creatures. God often treats his creatures with forbearance when they have sinned, and in understanding of their weakness. He grants them good things in life, and relief from suffering, simply because it pleases him to be kind to what he has made. Scripture speaks of God's mercy in many places, such as Psalm 40:11; Psalm 103:8; and Jonah 4:2.
+
+As with justice, we'll highlight the fact that kings were to show mercy in at least two arenas, beginning with international relations. On an international level, kings applied mercy to those nations and people who submitted to the God of Israel. For example, in 2 Samuel 10:19, many vassals of one of Israel's enemies received mercy from David when they made peace with him. And in 2 Samuel 10:1-2, David showed compassion to the king of the Ammonites.
+
+Moreover, Old Testament prophets foretold that the Gentile nations would eventually submit to Jerusalem. They would bring tribute to the capital city of God's kingdom, and receive mercy and protection from God's king. These things are prophesied in places like Isaiah 60:1-22 and 66:18-23, Micah 4:1-8, and Zephaniah 2:11.
+
+Of course, as we've seen in our discussion of justice, God doesn't always want to show mercy. And sometimes he demanded that the king withhold mercy from wicked nations. For example, in 2 Samuel 5:17-25, God instructed David to destroy the Philistines, which David did without mercy. Their evil was so great that they were not to be spared. So, part of the king's responsibility was to discern when God would have him show mercy, and when God would have him withhold it.
+
+Besides showing mercy in international relations, the king was also responsible to administer God's law by showing mercy on a national level. Because the king was God's vassal, he was required to treat God's people in the same way that God would treat them. And this meant treating them mercifully. As we read in places like Hosea 6:6, God wanted his people to show mercy even more than he wanted the sacrifices required in the law. This is not because God's law is unimportant, but rather because mercy is one of the more important matters of the law. For this reason, a merciful king was an ideal leader, one who imaged God's own pattern of care. David exemplified this in places like 2 Samuel 19:18-23, where he showed mercy to enemies that submitted to him.
+
+> Mercy is throughout the Old Testament law. If we can get over our bias sometimes that the law is bad and really read the law as a vehicle of God's loving-kindness, we'll begin to see it everywhere. So even if we look at the Ten Commandments as a starting point, you see a law such as the fourth commandment to keep the Sabbath holy. We have to read beyond that first part of the commandment to see that not only are we to rest on the Lord's Day, or the Sabbath, but we are to allow our household servants, our livestock, all that's under our possession. In our modern world, we would say a God-fearing man or woman who has a business should be merciful to his or her employees and not treat them as resources to be mined or exhausted, but rather treat them as people. To be a steward over the people God has placed over us. So there's a merciful provision there. You see a lot of individual detailed laws in the Old Testament that show mercy. The command in Deuteronomy to leave the gleanings in the corner of the field, so that those who are needy could come along and have something to eat, so they could pick what was left over. You have other Old Testament laws such as the command not to charge interest to a countryman. In that world it's not a capitalist investment economy, and the charging of interest was often a way to abuse and take advantage of people. It would become a substitute for generosity. If one could make an advantage off of a needy fellow Israelite, he could enrich himself, but he would end up depriving the other. So the command says, don't do that. Instead, be generous by not charging interest, and lend to those who have need. The law of release from indenturement every seven years or the law of Jubilee that restored people to the land that unfortunate providences had taken them away from, unfortunate circumstances, so these laws of restoration. God was merciful to his people, and then he commands them to reflect his own character in the laws of the Old Testament. [Rev. Mike Glodo]
+> 
+
+In addition to justice and mercy, a third way the king was to execute God's law was by promoting faithfulness to God.
+
+### Faithfulness
+
+Faithfulness can be defined as loyalty to God, demonstrated through heartfelt trust and obedience. Faithfulness involves believing that God is who he says he is, loyally serving him and no other gods, and rendering him loving obedience.
+
+As we did with justice and mercy, we'll consider two ways the king was obligated to promote faithfulness, beginning with the international arena. The kings of Israel were to lead God's people toward fidelity to God in such a way that the surrounding nations would repent of their idolatry and sin, and begin to serve God. Kings fulfilled this role especially by establishing faithful worship in the nation of Israel, as we see in Solomon's prayer at the dedication of the temple in 1 Kings 8:41-43. This global mandate to disciple and discipline the nations is also indicated in passages like Psalm 72:8-11, and Zechariah 8:20-23.
+
+Besides promoting faithfulness to God internationally, the king was also to encourage faithfulness on a national level. The king was to promote faithfulness within the nation of Israel especially by ensuring and providing for purity in worship. Good kings provided resources and plans for worship, organized the personnel, dictated policies for the maintenance of the temple, and often played important roles in the public celebrations of worship. For example, David did these things in 1 Chronicles 15, 16, and 23–28.
+
+The king's commitment to promoting Israel's faithfulness affected the nation in profound ways. Because he was the nation's representative before God, the people often experienced heightened blessings under the leadership of faithful kings, and heightened judgments under faithless kings. God blessed faithful kings with prosperity in Israel and the physical expansion of Israel's borders. Unfaithful kings would be punished as well. In fact, the book of Kings partially blames the exile of Judah on the disobedience of Israel's kings.
+
+Listen to God's words to King Solomon in 1 Kings 9:6-7:
+
+> If you or your sons turn away from me and do not observe the commands and decrees I have given you and go off to serve other gods and worship them, then I will cut off Israel from the land I have given them and will reject this temple I have consecrated for my Name. Israel will then become a byword and an object of ridicule among all peoples (1 Kings 9:6-7).
+> 
+
+Sadly, not every king of Israel and Judah was faithful to God, and the people often suffered as a result. But even when the temple had been neglected or the people had fallen into idolatry, faithful kings were often able to reform and restore the nation's worship. We see this with Hezekiah in 2 Kings 18:1-8, and with Josiah in 2 Kings 22:1–23:25. Their reform efforts encouraged and even produced faithfulness among God's people, and thereby encouraged God to bless the nation during their reigns.
+
+Having seen the qualifications and functions of Old Testament kings, we're ready to look at the expectations the Old Testament created for the future of kingship in Israel.
+
+## Expectations
+
+The Old Testament established many expectations for future kings, and especially for the one special messianic king that was prophesied to fulfill God's goal of establishing his kingdom on earth. And of course, the New Testament reveals that this messianic king was Jesus. So, we should look at these Old Testament anticipations in some detail.
+
+We'll look at the expectations for the future of kingship in Israel that were created by two sources: first, the historical development of kingship in the Old Testament; and second, specific prophecies about a future king over Israel. Let's look first at the expectations created by the historical development of kingship.
+
+### Historical Development
+
+We'll begin by looking at the vital role human kingship played in God's plan before the monarchy in Israel, from the days of creation to the time of Israel's judges.
+
+### Before the Monarchy
+
+When God created the world, he placed Adam and Eve in the Garden of Eden to serve as his vice-regents over creation. God indicated this role for humanity in Genesis 1:26-27, where he planned and created Adam and Eve in his image.
+
+In the days of the Old Testament, terms like "image of god," "likeness of the gods," and the "son of god" were commonly used to refer to kings and emperors. This terminology expressed the belief that kings were earthly representatives or viceroys of their gods. It was the king's job to ensure that his god's will was accomplished on earth. So, when the Bible calls Adam and Eve images of God, one thing it means is that God appointed the entire human race to be his vice-regents on earth. In the broadest sense, then, all human beings were created to live as royalty, as God's servant kings who ensure that his will is done on earth. The idea that divine images were royal figures helps explain Genesis 1:28, where God gave this mandate to our first parents:
+
+> Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish of the sea and the birds of the air and over every living creature that moves on the ground (Genesis 1:28).
+> 
+
+God wanted to turn the entire earth into his kingdom. So, he appointed his vice-regents, the human race, both to fill the world with additional images of God, and to exercise dominion or rule over the entire creation. This command is often called the cultural mandate because it commands us to build God's kingdom by establishing cultures and civilizations throughout the world.
+
+After Adam and Eve fell into sin, they and their descendants strayed so far from their original responsibilities that God judged sinful humanity in Noah's flood. Even so, God didn't cancel humanity's royal function in the world. After Noah and his family had exited the ark, God reaffirmed the cultural mandate, commanding all his royal images to spread God-honoring civilization around the world.
+
+But the vice-regency of humanity shifted in a significant way in the days of Abraham. God redeemed Abraham and made him the father of his chosen people, Israel. Although all human beings were still God's vice-regents in a general sense, the Lord chose Abraham and his descendants to be the firstborn of all the families of earth. God made a special covenant with Abraham in Genesis 15 and 17 indicating that Israel had the special, royal privilege of building a holy nation for God. And this nation was to be the starting point for spreading God's will to all other nations.
+
+Later in history, God began to fulfill his promises to Abraham by sending Moses and then Joshua to lead Israel. Under their rule, God rescued his people from slavery in Egypt, and empowered them to conquer Canaan — the Promised Land — where they were to become a large nation of redeemed, holy images of God.
+
+Sadly, Israel failed to complete the conquest of Canaan. So, after Joshua died, national unity disintegrated and various local judges and Levites led the tribes through a very troubled time. Although God blessed Israel during these years, the leadership of judges and Levites was not adequate to move Israel toward success as the leading nation of God's royal images. The writer of the book of Judges made this plain throughout his book. Listen to the final line of his book in Judges 21:25:
+
+> In those days Israel had no king; everyone did as he saw fit (Judges 21:25).
+> 
+
+Very similar comments appear in Judges 17:6, 18:1, and 19:1. These repetitions emphasized that Israel could move forward as God's chosen nation only under the rule of a righteous king who served as God's special vice-regent.
+
+> Well, the book of Judges seems to be a rationale for the coming of the king. There's a cycle in the book of Judges that the judge is raised up, it's okay for a while, the people fall into sin, they cry out to God and God raises up another judge. And the author clearly wants to make the point that there needs to be something more stable, more secure, and longs for a ruler and a leader after God's own heart. And of course that attribute is particularly applied to David, the king after God's own heart, and who is seen as something of a model of what kingship looks like, not only for the people of Israel then, but actually for how God exercises his rule over his people. So, the book of Judges then is something of a polemic for the need for a king, a king who would rule under God, who would show us how God rules his people both then, and indeed even today. [Dr. Simon Vibert]
+> 
+
+> It's important to put the book of Judges in the entire plan of God, the storyline from Genesis all the way to the coming of Jesus Christ. The book of Judges is looking back to the previous revelation, all the way to Adam as a kingly figure, Abraham in the Abrahamic covenant anticipating coming of kings through his line, Moses giving the old covenant, Deuteronomy 17, where there's the coming of the king anticipated. Yet, there is, not at that point in God's plan, the actual kings that are coming. Judges then, in some sense, is showing the need for leaders, the need for rule. Joshua picks up from Moses; the judges pick up from Joshua. Yet, there is no king that God has been anticipating. There is no fulfillment of that yet. The judges are, depending on their leadership, if they're good the nation usually does not too badly. If they're evil the nation does poorly, and there is no king. When the king comes, Judges is saying to us, things will be better. Things will be fulfilled from what the Old Testament has given to us. And then, of course, we move from Judges to then the Saul and David, sort of set over against one another — the people's king, God's king — which again leads us to the great Davidic Covenant, the promises of David's greater son. All of this is part of God's plan, setting us up for the coming of the Lord Jesus Christ, showing us what the true king will be like in contrast to these other kings, the need for a king to restore what we were once made to be. And all of that is part of God's plan that is leading us to Jesus Christ [Dr. Stephen Wellum]
+> 
+
+Now that we've looked at the origins of human kingship in the days before Israel's monarchy, let's turn to the historical developments during the monarchy in Israel.
+
+### Monarchy
+
+According to 1 Samuel 8:5-20, at the end of the period of the judges the nation of Israel envied the stability and order kings provided to surrounding nations. But they refused to wait for God to raise up a king in his own time. Instead, they demanded that he give them a king immediately. In response, God appointed Saul as the first official king over Israel.
+
+Now it's important to realize that Israel's desire for a human king wasn't sinful in itself. God had revealed several times beforehand that he planned for Israel to become a mighty nation with a great human king. For example, in Genesis 17:6, God promised Abraham that kings would be included among his descendants. In Genesis 49:8-10, Jacob blessed his son Judah by announcing that one of Judah's descendants would rule as king over Israel. And as we saw earlier in this lesson, Moses even prescribed regulations for Israel's kings in Deuteronomy 17:14-19. Beyond this, in 1 Samuel 2:10, shortly before Israel pressed God to give them a king, righteous Hannah had offered a prophetic prayer that God would eventually establish a righteous king over his people.
+
+But despite God's good plans for kingship in Israel, the nation sinned by refusing to trust God and to wait for his timing. And God's appointment of Saul as their king was intended partly to discipline them for this sin. And while Saul did move Israel forward in some ways, his own rebellion against God's caused the Lord to depose him and his family.
+
+But after Saul's failure, God graciously gave Israel the kind of king they needed by raising up David as their king. Like all the rest of fallen humanity, David was a sinner. But he was also a man after God's own heart. And God empowered him to unite the nation, defeat their enemies, and bring security and prosperity to Israel. Moreover, God made a covenant with David so that his descendants would always rule over Israel as their permanent royal dynasty. We read about this covenant in places like 2 Samuel 7; 1 Chronicles 17; and Psalms 89, 132.
+
+When David died, his son Solomon succeeded him as king. In many ways, Solomon's reign was the high point in the history of Israel's kings. He expanded the territories of Israel, and increased its wealth and good reputation. Sadly, he also seriously violated God's law by worshipping the gods of his foreign wives. So, the Lord divided the kingdom in the days of Solomon's son Rehoboam. And the generations that followed were even more unfaithful to God, so that eventually both Israel and Judah came under God's judgment and were exiled from their lands. The northern kingdom of Israel was conquered by Assyria in 723 or 722 B.C., and the southern kingdom of Judah was conquered by Babylon in 587 or 586 B.C. The last legitimate king was David's descendant Jehoiachin, also known as Jeconiah who was deposed and carried into captivity in 597 B.C.
+
+By the end of the monarchical period, God had revealed a great deal about human kingship. In the broadest sense, all human beings were God's vice-regents over the earth. In a narrower sense, the nation of Israel held a special vice-regency as the sacred family of humanity that was to be a model for other nations. And in the narrowest sense, David's royal descendants occupied the office of God's chief vice-regent. God ordained the sons of David to lead the Israelites and the rest of the world in service to the will of the supreme king, God himself.
+
+Now that we've looked at the historical development of the office of king before and during Israel's monarchy, let's explore the period after the monarchy, when Israel and Judah lived in exile and there was no Davidic king.
+
+### Exile
+
+Although the Babylonians had destroyed Jerusalem and removed David's heir from his throne, the Persian emperor Cyrus conquered Babylon and decreed that the Israelites could return to the Promised Land. We read of this development in 2 Chronicles 36 and Ezra 1.
+
+The years following Cyrus' edict are often called the period of restoration. The returnees re-consecrated the altar of God, built a new temple, and rebuilt Jerusalem's walls. Early on, in Haggai 2:21-23, the prophet Haggai even told this restored remnant that if they were faithful, God might appoint their governor Zerubbabel, who was a descendant of David, to David's throne. But the people weren't faithful to God. So, the Old Testament ends with only a remnant of Israelites living in the Promised Land, with their hopes of glory postponed into the future.
+
+In the time between the Old and New Testaments, Israel's apostasy continued to delay the restoration of kingship in Israel. The Greek Empire defeated the Persian Empire and took control over the Israelites in Palestine. And later, the Roman Empire defeated the Greeks and took charge over the Promised Land. During all of this time, Israel had no king ordained by God.
+
+The pitiful condition of Israel under the oppression of the Assyrians, the Babylonians, the Medes and the Persians, the Greeks and the Romans demonstrated one thing very clearly: the reign of a righteous son of David was critical to the future. Israel needed a Davidic king to fulfill its role in the world as God's chosen people. So, the faithful people of God continued to look forward to the time when God would honor his covenant with David by sending a righteous Davidic king to rescue them from their oppressors and to extend the will of God over the entire world.
+
+Now that we've looked at the historical developments of the office of king, let's consider the expectations for the future of kingship that rose from specific prophecies in the Old Testament.
+
+### Specific Prophecies
+
+The Old Testament contains far too many prophecies about the future of kingship in Israel for us to mention them all. So, for our purposes in this lesson, we'll mention just four important themes. In the first place, Old Testament prophets predicted that God would restore the Davidic dynasty.
+
+> The Old Testament especially emphasizes the Messiah is first of all a son of David. Of course, David was that great king of Israel who trusted in the Lord so significantly, won powerful victories, in many, many ways obeyed the Lord. Of course he had some significant failings as well, but David becomes the paradigm of what the Messiah will be. He will be a ruler who brings peace to the nation. And so we see in the latter part of the Old Testament after David has died there is an expectation that a son of David will come and that's especially aligned with the idea that there will be peace and righteousness and joy. [Dr. Thomas Schreiner]
+> 
+
+> But, in the Old Testament the figure who became known as the Messiah was the king, was the king from David's line. David was given a covenant by God and in that covenant he was promised that one day God would raise up a king who would have a special, unique Son of God relationship, relationship with God as his son, who would reign forever on the throne of David, who would establish justice and righteousness. So really, when we refer to the Old Testament Messiah, we're referring to a king, the ultimate king, the king who would bring God's salvation and deliverance. [Dr. Mark Strauss]
+> 
+
+The prophets said that God would eventually send a righteous Son of David to restore Davidic kingship to Israel. We see this in many places, including Psalm 89, Isaiah 9:7 and 16:5, Jeremiah 23:5 and 33:25-26, and Ezekiel 34:23-24. As just one example, listen to what God said through the prophet Amos in Amos 9:11:
+
+> In that day I will restore David's fallen tent. I will repair its broken places, restore its ruins, and build it as it used to be (Amos 9:11).
+> 
+
+In the second place, the prophets predicted that this future son of David would give God's people freedom and victory over their enemies. The Old Testament prophets frequently spoke of a time when God would dramatically intervene in history to conquer his enemies on behalf of his faithful people. God promised to render judgment against all those who opposed his ways, including the unfaithful within Israel. And the prophets repeatedly associated this victory with the future heir of David's throne, who would act as God's great vice-regent. These expectations are prophesied in places like Psalm 132:17-18, Isaiah 9:4-7, Jeremiah 30:5-17, Ezekiel 34:2, and Zechariah 12:1-10. For instance, listen to this prophecy in Jeremiah 30:8-9:
+
+> "In that day," declares the Lord Almighty, "I will break the yoke off their necks and will tear off their bonds; no longer will foreigners enslave them. Instead, they will serve the Lord their God and David their king, whom I will raise up for them" (Jeremiah 30:8-9).
+> 
+
+In the third place, Old Testament prophets predicted that this future Son of David would establish an everlasting kingdom. The Old Testament prophets regularly taught that when the great Son of David ruled over Israel, they would enjoy God's blessings forever. The Davidic king's reign would make earth like heaven, and his people would live enduringly in peace and prosperity. This expectation appears in passages like Isaiah 55:3-13, and Ezekiel 37:24-25. For example, listen to what Isaiah said about the future son of David in Isaiah 9:7:
+
+> Of the increase of his government and peace there will be no end. He will reign on David's throne and over his kingdom, establishing and upholding it with justice and righteousness from that time on and forever. The zeal of the Lord Almighty will accomplish this (Isaiah 9:7).
+> 
+
+And in the fourth place, the prophets also taught that this future son of David would establish a worldwide kingdom. The future Davidic kingdom would be limitless not only in time, but also in geography. It would expand to fill the entire earth. All who repented of their sins would enjoy its blessings, regardless of their nationality or ethnicity. We see instances of this in Psalms 2, 68, 72, 110, and 122. Listen to the way Daniel 7:13-14, describes this aspect of the future king and his kingdom:
+
+> There before me was one like a son of man, coming with the clouds of heaven… He was given authority, glory and sovereign power; all peoples, nations and men of every language worshiped him (Daniel 7:13-14).
+> 
+
+> One of the key texts in the Old Testament for understanding the role of the Messiah is Psalm 2, which is a very clear prediction that God has appointed a special king, who he's appointed on his holy hill, on Zion. And when you read it carefully you discover this king that God is going to appoint is also going to be the one who is going to be the ruler over the nations. The obedience of the nations will be his. And he's an authoritative figure that all nations, and all the rulers of the earth are meant to come down, and effectively to worship, "to kiss the Son," is the phrase in Psalm 2. It's this idea that he's not just Israel's Messiah, although he is, but because he's Israel's Messiah, he's also the Lord over the whole world, the rightful Lord over the whole world. So one of the key things to understand is that the Messiah was a human figure, actually, it was understood it was to be a human figure who is going to come and is going to be the ruler of the world. [Dr. Peter Walker]
+> 
+
+The Old Testament ended with great hopes for the future of kingship. God would send a special son of David, a supreme vice-regent. He would defeat all the enemies of God's people. And he would establish an everlasting kingdom on earth for everyone that would submit to his rule. This kingdom would fulfill God's original purpose for humanity as the image of God; it would fulfill God's original purpose for Israel; and it would fulfill God's original purpose for establishing David's throne. The righteous Son of David would turn the entire world into God's kingdom, and purge it of all evil, and establish peace and prosperity for all his people for all time.
+
+Having explored the Old Testament background to the office of King, we're ready to turn to our second major topic: the fulfillment of the office of king in Jesus.
+
+# FULFILLMENT IN JESUS
+
+The New Testament clearly teaches that Jesus is the Davidic king promised in the Old Testament. For example, the Magi described him as the king of the Jews in Matthew 2:2. Jesus' disciples attributed royal titles such as Messiah or Christ to him in places like Mark 8:27-29. He was called the king of Israel in John 1:49. And most importantly, just before his death, Jesus himself claimed to be the Messianic king promised by the Old Testament. Listen to his conversation with Pontius Pilate in Matthew 27:11:
+
+> The governor asked him, "Are you the king of the Jews?" "Yes, it is as you say," Jesus replied (Matthew 27:11).
+> 
+
+We find similar reports in Mark 15:2, Luke 23:1-3, and John 18:33-37. Even though Jesus didn't ascend to the throne of Israel during his earthly ministry, the New Testament clearly teaches that he really is the promised Davidic king. And he will return in the future to fulfill every Old Testament expectation for the throne of David.
+
+We'll examine the fulfillment of the office of king in the person of Jesus in ways that correspond to our survey of the Old Testament background to this office. First, we'll see that Jesus fulfilled the qualifications for the office of king. Second, we'll note that Jesus modeled the function of kings. And third, we'll explore the ways Jesus met the expectations the Old Testament created for the future of kingly service. Let's begin with Jesus' kingly qualifications.
+
+## Qualifications
+
+Earlier in this lesson we saw that the Law of Moses listed four qualifications for kings. First, the king had to be chosen by God. Second, he had to be an Israelite. Third, he had to depend on God for success and security. And fourth, he had to maintain covenant fidelity in his rule and in his personal life. And beyond these qualifications, the covenant with David specified that the king had to be a son of David. At this point in our lesson, let's look at how Jesus met each of these qualifications, beginning with being chosen by God.
+
+### Chosen by God
+
+As we've seen before, God is the great emperor or suzerain over all creation. And the king of Israel was the servant king or vassal over God's special, holy nation Israel. And since only God can delegate his own authority, he himself had to choose all the legitimate kings that were to receive and exercise a measure of God's authority over his nation.
+
+Jesus met this qualification because God selected and designated him to be king over Israel. We see this in Jesus' genealogy in Matthew 1:1-17, and in the angel Gabriel's announcement to Mary about the birth of Jesus. Listen to Gabriel's words to Mary in Luke 1:31-33:
+
+> You will be with child and give birth to a son, and you are to give him the name Jesus. He will be great and will be called the Son of the Most High. The Lord God will give him the throne of his father David, and he will reign over the house of Jacob forever; his kingdom will never end (Luke 1:31-33).
+> 
+
+God made it clear that he had chosen Jesus to be the king over his people.
+
+The second qualification for the king was that he had to be an Israelite.
+
+### Israelite
+
+It almost goes without saying that Jesus met the qualification of being an Israelite because he was born into an Israelite family. His miraculous incarnation in the womb of the Virgin Mary made his birth unusual. But he was still a legal child of Joseph and Mary, and a full member of the covenant community of Israel. This is confirmed by Jesus genealogies in Matthew 1 and Luke 3, and also by passages like Romans 9:5 that speak of Jesus having true Israelite ancestry.
+
+The third qualification in the Old Testament was that the king had to depend on God rather than on human strategies for securing peace and prosperity.
+
+### Depend on God
+
+Jesus met this qualification because he depended entirely on God's power to establish security and prosperity for his people. He didn't try to make alliances with Herod or Pilate, or with any other human government. Instead, he relied on God's authority and power to establish and maintain his kingdom, as we see in passages like John 13:3, and 19:10-11.
+
+The fourth Old Testament qualification for king that Jesus met was that he demonstrated covenant fidelity to God through his relationship with God's covenant law.
+
+### Covenant Fidelity
+
+Jesus' fidelity to God's law is seen in many ways, but especially in his adherence to its original meaning and in his dedication to fulfill everything the law required. For example, in the Sermon on the Mount in Matthew 5–7, Jesus repeatedly emphasized the original meaning of what was written in the law, in contrast with the oral teachings of what was said by the teachers of the law. In addition, he specifically said that he had come to fulfill every last detail of the law. Listen to what he said in Matthew 5:17-18:
+
+> Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them. I tell you the truth, until heaven and earth disappear, not the smallest letter, not the least stroke of a pen, will by any means disappear from the Law until everything is accomplished (Matthew 5:17-18).
+> 
+
+The Apostle Paul echoed this idea in Romans 8:3-4, where he said that Jesus actually had fulfilled the whole law, not just for himself, but on our behalf as well.
+
+> The Bible says that the Law is a schoolmaster that points us to Christ, that brings us to him, prepares us for him. The Law is given and it's a reflection of God's character. But we fail to keep the Law. And so when Jesus comes he shows us perfect humanity fulfilling its intended purpose, which is relationship with God typified with faithfulness to God's commands. So Jesus comes, showing us true humanity in the way it's supposed to be, but also fulfilling that law for us. Jesus fulfills the Law in his continual faithfulness to covenant keeping, law-abiding behavior. So that he becomes our righteousness. The Bible says that God is both just and the justifier. And so he comes with his Law, and then he comes with his Son keeping the Law for us. So he both is the just one, and the one who justifies us in Christ. [Dr. K. Erik Thoennes]
+> 
+
+> It's important to stress that Jesus is faithful to the covenant, to be the very basis for his right to rule over us. I mean this is picking up a lot of themes that go really back to Adam. Adam as our head, our representative of the entire human race is, as all of God's creatures, to be obedient, to be faithful. We are the creatures. We are the ones who are to obey our creator, to serve him and to obey him and love him in every area of our life. In his disobedience, he brought with it sin and death and judgment. The only way for that to be reversed is we need God to do the remedy for us and to do so through another Adam, through another human. And so we have the strong emphasis on "God will provide one like an Adam" through these various prophet, priests, and kings, ultimately culminating in our Lord Jesus Christ who, and you think of in the Gospels, he has come to do the will of God. He has come to obey. Galatians 4 says that he was born of a woman, born under the law, to obey all of the law. Well, why is that necessary? Because he has to undo what Adam did. By his obedience — and we think of this not just in terms of his life, but his life is important here too — by his obedience, sometimes we call this his "active obedience," he fulfills all the requirements of the law for us. By his obedience, supremely in his death, Philippians 2, he obeys even unto death on the cross. He is then by virtue of that work, by virtue of that obedience as our king, as our priest, he is exalted to God's right hand. It's not as if he wasn't king before and Lord before. He's always been that as God the Son. Yet, he is God the Son incarnate by his work, and he has to, through his humanity, be obedient, to be faithful, to do that on our behalf, so that he can win for us our salvation. He could not be the one who is given to be King of Kings and Lord of Lords in that messianic work, in that kingly work, without his full obedience and faithfulness unto the Father. [Dr. Stephen Wellum]
+> 
+
+The fifth Old Testament qualification Jesus met was that he was a son of David.
+
+### Son of David
+
+God's covenant with David established David's descendants as Israel's permanent dynasty. So, only David's heirs could make a legitimate claim to Israel's kingship. Jesus' membership in David's house is clearly taught in many places in Scripture. To list just a few, we see it in Matthew 1:1-25, Romans 1:1-3, and Revelation 5:5 and 22:16.
+
+Now that we've looked at Jesus' qualifications for kingship, let's turn to the ways Jesus fulfilled the function of kingly service.
+
+## Function
+
+Earlier in this lesson, we said that the basic function of a king is to exercise faithful rule on God's behalf over his vassal nation, especially by administering God's law. Now, all Christians recognize that Jesus did not complete his work during his earthly ministry. In fact, Jesus continues to work from heaven and in the church right now. And he will eventually return to complete his work. He has done more than enough for us to celebrate that he really is the Christ, the Davidic king God sent to restore his kingdom.
+
+We'll consider Jesus' function as king by using the same categories we observed in the Old Testament background to this office: enforcing justice, applying mercy, and promoting faithfulness. Let's look first at the Jesus' enforcement of justice.
+
+### Justice
+
+As in our section on the Old Testament, we'll explore the concept of justice in two arenas, beginning with international justice. During most of his earthly ministry, Jesus didn't directly involve himself with human governments. But he did pursue justice by waging war against the kingdom of Satan and his demons, and by freeing his people from the tyranny of sin. Scripture describes this as a spiritual battle between the kingdom of God and the kingdom of Satan in places like Luke 11:14-20, and Ephesians 2:2. So, it's reasonable to compare it to the ways Old Testament kings pursued international justice through war. As Jesus said in Matthew 12:28:
+
+> If I drive out demons by the Spirit of God, then the kingdom of God has come upon you (Matthew 12:28).
+> 
+
+In this verse, Jesus indicated that the exorcisms he performed were proof that he was leading God's kingdom in battle against the kingdom of Satan.
+
+Old Testament kings also executed international justice by engaging in peaceful negotiations with other nations. Although Jesus didn't do this often, he did receive peaceful tribute from the eastern magi, who brought him gifts in Matthew 2. These magi were representatives of foreign nations, and their intent was to foster good will between their nations and Israel's newborn king.
+
+In addition to executing justice internationally, Jesus also upheld God's justice within national Israel. Like other human kings, Jesus didn't normally get involved in personal disputes. Instead, he left them to lesser courts and arbitrators. But he did frequently exhort justice among his people. We see this in places like Matthew 5:25-26, and 12:15-21; as well as Luke 18:7-8. Jesus also guaranteed that he was keeping track of good and evil works in order to repay them when he returned in judgment. This aspect of his royal role is apparent in passages like Matthew 10:15, 11:22-24, and 12:36, where he spoke of specific condemnations that will be made in the future. We also see it in John 5:22, where he indicated that he is the one who will render that condemnation.
+
+In addition to enforcing justice, Jesus fulfilled the function of a king by applying God's law in mercy.
+
+### Mercy
+
+Jesus demonstrated royal mercy by imitating God's compassion toward his creatures. He showed forbearance when people sinned. He understood their weakness. He provided for them. And he granted them relief from their suffering.
+
+> When we think about a king, in our normal human history of kingship, we always think about somebody who has absolute authority. They walk in the room and people begin to bow and do whatever they want, whatever the king desires. But the kingship of Jesus, as in everything in his life, seems to turn the whole world upside-down. I'm thinking of that first chapter in John where it uses the concept of creator there, the one who made the world. It says, "He came to his own and his own received him not." Now for anybody who says, well, I believe Jesus is the King, which I do, and you put a verse like that there, you say well what kind of king would come to a world that he had made and allow himself to be rejected? So I think the showing of mercy is not just because the Lord feels sorry for us, which I'm sure he does, but I think it's because he's trying to reveal something about the inner life of God. Mercy has got to be connected to the triune life. And the Trinity, from my perspective from eternity, the King himself, the Father, Son and Holy Spirit, the King of all the Universe, is a God who three-in-one is giving himself one to another, Father to Son, Son to Father, Spirit to the other two, in this self-giving. So that when Jesus comes to show mercy to sinners, he's expressing that self-giving love, which is the King's self-revelation. He will judge. He will eventually condemn those that don't love him. But when he comes to the earth, he comes to people who have been abused, who have been warped by all kinds of wrong powers and the Devil himself, and this king comes and he says, I'm not going to demand anything of you. First, I'm going to come and give myself to you. So all of his acts of mercy are acts of the Triune God's heart in the world to give oneself away. But that's how our King works. He comes without a demand. He comes with a self-giving. And I think mercy is a marvelous expression of that self-giving love that starts in the heart of God, in the incarnation offered to people wherever Jesus went. And, of course, its climax is on the cross, his mercy to us, the King who would die giving his life away that we might receive the mercy of God for salvation. So he is the only truly merciful King, and he describes what that mercy is in his kingship. [Dr. Bill Ury]
+> 
+
+> Jesus comes and shows mercy because he's the merciful one. I'm thinking right now, however, of his beatitudes. There is a couple of them that strike me. The second beatitude went like this: Blessed are those who mourn for they shall be comforted. To me that means blessed are those whose heart is broken over the things that break the heart of God. So when God takes on human flesh and he comes here, he looks around about his world and he sees things that make him sad. And instead of just crying, he says, not only will I shed a tear, but I'll move towards those situations mercifully. It's interesting that Barclay would suggest that the word mercy in the New Testament Greek means to get inside the skin of. So this whole understanding of compassion means that I can feel something of what they're feeling right now. And instead of just saying I'm glad I'm not there, I'm going to be there. I'm going to move towards them, and I'm going to be to them what I believe God the Father wants me to be for them in this moment and this time. [Dr. Matt Friedeman]
+> 
+
+We'll look at the way Jesus demonstrated his mercy in two spheres, beginning with the international arena. On an international level, the king was to apply mercy to the nations and people that submitted to God. And Jesus did this in several ways. For one thing, he provided miraculous healing for many Gentiles, who were outside the nation of Israel. For example, he healed the daughter of a Canaanite woman in Matthew 15:28. He healed the servant of a Roman centurion in Matthew 8:13. And he exorcised a legion of demons from a man in the Gentile region of the Decapolis in Mark 5:1-20.
+
+Moreover, Jesus ministered in several Gentile areas, including Tyre, Sidon and the Decapolis, so that his message and works became a light of revelation to the Gentiles, as Simeon had prophesied would happen in Luke 2:32.
+
+But even more obvious than his international mercy was the royal mercy that Jesus displayed on a national level. As the king, Jesus was responsible to treat God's people in the same way that God would have treated them. And this meant treating them mercifully. The ideal king was a merciful one that reflected God's own pattern of care. Jesus showed tremendous mercy to Israel as their king. He spent years patiently instructing and exhorting them. He performed countless miracles — healing their diseases, casting out demons, creating food for the hungry, and even raising the dead.
+
+But perhaps the miracle that best showcases his royal mercy is the healing of the paralytic man, which is recorded in Matthew 9:1-7, Mark 2:1-11, and Luke 5:17-25. In that instance, Jesus not only healed the man's paralysis, but he actually forgave his sins. And he did something similar in Luke 7:36-50, where he forgave the sins of the woman who anointed his feet with perfume.
+
+> It's very, very important to answer the question rightly: Why is it only God that can forgive sins? The biblical answer is, it's because that is the one who we've sinned against. He is the Lord. He is the Creator. He is the one who has made us. We owe him everything. And our sin is first and foremost against him. Now, there's implications of sin for one another. There's implications of sin upon the universe. But first and foremost in our relationship as image bearers before God, our rebellion against him is sin against him. Only he can forgive sins. You think of Psalm 51 where David says, "Against you and you only have I sinned." You think of David's life, I mean, he has sinned against a lot of other people. He's affected the nation; he's affected Uriah; he's affected Bathsheba; he's affected his son. But David rightly sees that ultimately he has sinned before God. Our problem, and the human problem that people fail to realize, is that it's only God who can forgive. It's only God who can solve the problem of our sin. [Dr. Stephen Wellum]
+> 
+
+> When I sin against someone or someone sins against me, and the request for forgiveness is made and received, between humans what is happening is one party is saying, "I will not allow the offense that you made against me to be a relational impediment to our ongoing relationship," which is important, which we must do to one another as a reflection of our understanding of how we've been forgiven by God. But when God forgives, he forgives in such a way that actually cancels the objective debt of my guilt, and that's something that I can do for no one else and that no one else can do for me. So God forgives in a way that cancels the objective debt of my guilt. This is divine forgiveness, which makes it very interesting, for example then in Mark 2 when Jesus is healing the paralytic and says to him, "My son, your sins are forgiven." The scribes are sitting there observing this, and in their hearts, we're told, they're sort of silently thinking to themselves, "Who is this man claiming to forgive sins because no one can do this but God alone," which is sort of precisely the point. They hear Jesus saying that he's forgiving this man in a way that only God can forgive, and they're troubled by this; they assume he's blaspheming. It means they've heard him correctly and they've responded to him wrongly. This is one impressive piece of evidence in the Gospels for the deity of Jesus. That in his own self-understanding, his own self-claim, is a claim to forgive sins, not just merely in removing relational offenses — presumably he's never seen this paralytic before — but to forgive sins in a way that actually cancels their objective guilt in the way that only God can. [Dr. Robert Lister]
+> 
+
+All sin is a transgression and offense against God, who is himself the ultimate standard of righteousness. Moreover, since God alone is the highest king and final judge, he is the only one who has authority to forgive these offenses against him. Only he has the authority to demonstrate mercy on this level. But since Jesus was God's perfectly righteous vassal King, God delegated to him the authority to grant forgiveness, so that Jesus could also apply God's mercy to his people.
+
+The third way Jesus fulfilled the function of a king was by executing God's law in a way that promoted faithfulness to God.
+
+### Faithfulness
+
+As we did with justice and mercy, we'll consider Jesus' promotion of faithfulness in two parts, beginning with the international arena. The most direct way Jesus promoted heartfelt worship and obedience to God was by preaching the kingdom of God to the Gentile nations. We see this in Matthew 4:13-25, 24:14, Luke 24:47, and especially in Jesus' commissions to his disciples in Matthew 28:18-20 and Acts 1:8. In both of these commissions, Jesus commanded his followers to make disciples of all nations, and to be his witnesses to the ends of the earth.
+
+And of course, Jesus also promoted faithfulness on a national level. As with his international work among the Gentiles, Jesus promoted faithfulness within the nation of Israel especially through his preaching of the gospel. As he went from town to town, he commanded the people to repent, to turn away from their sin and become loyal to God, because God's kingdom was at hand. Listen to the way Matthew summarized Jesus' preaching in Matthew 4:17:
+
+> From that time on Jesus began to preach, "Repent, for the kingdom of heaven is near" (Matthew 4:17).
+> 
+
+We see similar summaries in Mark 1:15, and Luke 5:32 and 10:13. And we find examples of this kind of preaching in many places throughout the Gospels.
+
+> Jesus placed such a strong emphasis on faithfulness to God. He did this because faithfulness is an expression of trust. It's an expression of realizing God really does deserve our faithfulness, our trust, our obedience, our devotion, above all else. When you disobey doctor's orders, you're not just saying something about the orders; you're saying something about the doctor. And when you disobey God, you're not just saying something about his commands that you're disregarding, you're saying something about the God who gave those commands. And so faithfulness is an expression of trust. It's an expression of seeing God for who he is, and then of course, doing what he says. So, faithfulness to God is an expression of obedience. It's an expression of daily devotion and trust in who he is. Paul in Romans talks about the Christian life in his apostolic ministry as one that should lead to the obedience of faith. It's a beautiful expression which in some ways summarizes the Christian life. We see God for who he is, we put our faith in him, and that naturally leads to obedience. We obey the God that we trust. [Dr. K. Erik Thoennes]
+> 
+
+> Faithfulness is what Jesus offered to us as the joy of walking with him, knowing him intimately. But he also wants my responsiveness daily to him. He's not forcing me to obey him. He's not making me follow a law. He says, I need a faithful heart no matter what your emotions are today, no matter what you feel is going on in the world, badly or good, I need a faithful bride. I need a faithful servant, a faithful lover of my own heart. And that's what I think he was getting at with guys like me who tend to look at the world in terms of how I can define spirituality. The Lord says there's something much deeper than that. I want a faithful heart. Just like a married couple, that's the foundation of true love. Faithfulness no matter what comes down the road. So the Lord requires faithfulness, but he also enables faithfulness by his Holy Spirit's presence. [Dr. Bill Ury]
+> 
+
+Having considered Jesus' royal qualifications and his function in the office of king, we're ready to see how he fulfilled the Old Testament expectations for the future messianic king.
+
+## Expectations
+
+Throughout Israel's history, the frailties and sinfulness of its kings prevented them from fulfilling their responsibilities before God. Even faithful leaders like Moses, Joshua and David, who submitted themselves to God's law and cared for his people, weren't able to do all that God required. At best, they provided peace and security for a short time. But the requirements of the law were too great for them to meet on a perpetual basis. The law is simply too difficult for any fallen human being to fulfill to God's satisfaction. Moreover, even the best leaders were limited by age and death. Problems like these are identified in several places in the Bible, including Zechariah 4:6, Acts 13:34-39, Hebrews 4:8, and Romans 8:3-4.
+
+The kings that ruled God's people in the Old Testament never achieved God's greatest blessings for his people. They couldn't. They were frail, fallen human beings. But their failures created the hope that God would eventually honor his covenant with David by sending a righteous son of David to rescue his people. This king would be especially empowered by God's Spirit so that he wouldn't have the normal limits of human frailty. He would be the one that kept God's law perfectly as the redeemer for the past failures of the line of David, and of the nation of Israel, and of the human race. And this is exactly the kind of king God sent in Jesus. Through Jesus — the righteous son of David, the Messiah — God finally did for humanity what we couldn't do for ourselves.
+
+We'll consider the way Jesus fulfilled these Old Testament expectations by focusing on four aspects of his kingship. First, we'll see that Jesus restored the Davidic dynasty. Second, we'll focus on the freedom and victory he gave to his people. Third, we'll consider the everlasting kingdom that Jesus brought. And fourth, we'll focus on the worldwide nature of that kingdom. Let's begin with the fact that Jesus restored the Davidic dynasty.
+
+### Davidic Dynasty
+
+On many occasions in the New Testament, Jesus is specifically identified as the prophesied son of David who restores David's dynasty. Inspired writers drew this connection in passages like Matthew 1:1, Luke 3:31, and Romans 1:3. The Apostle Paul proclaimed it in Acts 13:22-23. And Jesus himself claimed to be the messianic son of David in Matthew 21:15-16, and Revelation 3:7 and 22:16. This evidence demonstrates that Jesus really was the prophesied son of David, the future messianic king that would fulfill God's kingdom purposes for all creation.
+
+As the heir to David's throne, Jesus began to fulfill God's kingdom purposes first by restoring a faithful remnant within national Israel, namely, his faithful apostles and disciples. Then, as Jesus commanded in Matthew 28:19-20, these followers expanded their ranks by evangelizing and discipling both Jews and Gentiles in every nation they could reach. And their disciples moved even further into the world making still more disciples. This process has continued ever since, with the result that God's earthly kingdom now includes a huge percentage of the world's population, and is present to some degree in nearly every tribe and country on earth.
+
+Jesus also met Old Testament expectations by giving freedom and victory to those who were faithful to him.
+
+### Freedom and Victory
+
+During his life on earth, Jesus acted decisively to give his people freedom through victory over their spiritual enemies, such as sin, death, and demons. Listen to these words from Matthew 1:21-23:
+
+> [The angel of the Lord said to Joseph,] "She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins." All this took place to fulfill what the Lord had said through the prophet: "The virgin will be with child and will give birth to a son, and they will call him Immanuel" — which means, "God with us" (Matthew 1:21-23).
+> 
+
+In this passage, Matthew compared Jesus' birth to the Immanuel child mentioned in Isaiah 7:14.
+
+In the context of Isaiah's prophecy, the Immanuel child was a sign that God was the warrior king that was with his people in battle. He would fight for them and defeat their enemies, bringing them freedom from oppression through victory in war. And this is what made Jesus so special. He was the prophesied king God would use to fight and defeat the greatest enemy of all: sin. We see this same theme in John 8:36, where Jesus said that only he could give true freedom from sin.
+
+Jesus also gave his people victory over death. Paul talked about this in Romans 6:4-9, and 1 Corinthians 15:54-57, where he assured us that Jesus' resurrection defeated both sin and death on our behalf. Now, in some sense, sin and death are still problems for us, since we still sin and our bodies still die. But we already have victory over these enemies because they no longer have the power to control and condemn us.
+
+And something similar is true of the demons. As our great King, Jesus has defeated them, and given us the victory. They still trouble and tempt us. And they can even harm us physically. But they have no power to hold us in bondage or to damage our souls. Listen to how Paul described Jesus' victory over the demons in Colossians 2:15:
+
+> Having disarmed the powers and authorities, he made a public spectacle of them, triumphing over them by the cross (Colossians 2:15).
+> 
+
+When Jesus returns, he will completely defeat every enemy that opposes him and his people. But even now, he has executed preliminary judgment against those that would do us the most harm, in order to secure our freedom from their mastery.
+
+The third Old Testament expectation of kings that Jesus fulfilled was that he established an everlasting kingdom.
+
+### Everlasting Kingdom
+
+The Old Testament foretold that the promised king would usher in a kingdom that would exist forever. It would be heaven on earth, and it would endure for all time under its Davidic king. And the New Testament affirms that Jesus' rule as king will last forever in passages like Matthew 19:28-29 and 25:34, Luke 1:33, and Hebrews 1:8-13. But where is this kingdom now? Did Jesus really fulfill this expectation? Or are we still waiting for him to do it?
+
+> One of the things that Jesus accomplished during his earthly ministry was to establish the kingdom of God on earth. Now, what that appears to mean is that, in an act of divine power, Jesus established a beachhead in hostile territory, and inaugurated an invasion initiative that is destined to restore this planet to its rightful creator and owner and king. This initial assault on hostile territory manifested itself in a number of dramatic ways: challenging systemic evil, challenging demonic evil, dispelling deception with light and truth. It was a powerful introduction of an alternative allegiance. This campaign is still underway. There remains mopping up operations, cleaning up, last holdouts to be eliminated. And the final enemy that remains to be overcome is death. And so, even as we participate in the power of the Spirit in this ongoing kingdom campaign we pray, "your kingdom come, your will be done." There's still something we need supernatural aid to see achieved. [Dr. Glen Scorgie]
+> 
+
+> In fulfillment of Old Testament expectation, God's saving rule has broken into this world in Jesus Christ, culminating in his death, his resurrection, his resurrection demonstrating that his death has been victorious. Sin has been dealt with. Death as the consequence of sin has been defeated. And not just in the resurrection. His glorious ascension — he is now seated at God's right hand. Pentecost — he has poured out the Spirit. All of that is part of the coming of the kingdom. The, what we call, the "inauguration of the kingdom," it is now here. Yet, our Lord Jesus Christ has also told us that there is still the future. We still pray. Think of the Lord's Prayer, that we pray, "Your kingdom come." Well, the kingdom has come. He has won victory. It is still awaiting its consummation. [Dr. Stephen Wellum]
+> 
+
+> One of the most difficult things for people to understand, especially Jewish people, to understand, is the relationship between the first and second coming of Jesus the Messiah. It's understandable that people would say, well, how could Jesus be the Messiah and have fulfilled messianic expectations when we don't see lions lying down with lambs. We don't see people beating their swords into plowshares. We don't see peace on earth, good will toward men. So how is it that the Messiah has come? What we call it is inaugurated eschatology. This idea that end-time realities have been brought into history with the first coming of Jesus. They've been inaugurated, they've been initiated and begun in a decisive way, but they still are being worked out to the point where there will ultimately be a consummation of these realities. It's been called "the now and not yet" of the kingdom. That the kingdom has come, Jesus has brought it. He's delivered the decisive blow in the battle. But the battle still rages and it awaits a future, ultimate fulfillment in coming. [Dr. K. Erik Thoennes]
+> 
+
+Jesus clearly established his messianic kingdom before he ascended to his throne in heaven. We see this in passages like Matthew 12:28, where Jesus said that his power to exorcise demons proved that he had already brought the kingdom of God. Exorcism was not a sign that the kingdom was on its way. Instead, it was proof that the kingdom was already present in power, and that its king was casting down his enemies. And while some scholars object that the kingdom didn't come in the visible way many expected, Jesus insisted that it was a mistake to look for its physical manifestations in the sense of traditional political power. As he told the Pharisees in Luke 17:20-21:
+
+> The kingdom of God does not come with your careful observation, nor will people say, "Here it is," or "There it is," because the kingdom of God is within you" (Luke 17:20-21).
+> 
+
+Finally, the fourth Old Testament expectation for the Davidic king that Jesus fulfilled was that he established a worldwide kingdom.
+
+### Worldwide Kingdom
+
+When Jesus returns, the entire new earth will be part of his kingdom. And his physical power and rule will replace all earthly governments. For now, his universal reign is primarily spiritual, as we see in Ephesians 1:21-22. But when he returns, it will also be physical. Revelation 21–22 paint a glorious picture of the new heavens and earth, where Jesus reigns as king from his capital in the New Jerusalem.
+
+The New Testament makes it clear that Jesus really is the long-awaited messianic King, the son of David who came to bring God's kingdom to earth. He didn't fulfill all the Old Testament prophecies and expectations during his earthly ministry. But he fulfilled so many of them that he proved he is the true King, and he has assured us that he will come again to finish what he started. On that day, his kingdom will perfectly fulfill God's original purposes for creation. The entire world will be God's earthly kingdom, free from sin and suffering, secure in peace and prosperity, and blessed by the fellowship and presence of God.
+
+So far in our lesson on Jesus the King, we've explored the Old Testament background to Jesus' kingly office and the fulfillment of this office in Christ. So, now we're ready to turn to our last major topic: the modern application of Jesus' role as king.
+
+# MODERN APPLICATION
+
+While there are many ways to describe the modern implications of Jesus' kingship, one helpful model can be found in Question and Answer 26 of the Westminster Shorter Catechism. In answer to the question,
+
+> Q. How does Jesus execute the office of a king?
+> 
+
+The catechism answers,
+
+> A. Christ executeth the office of a king, in subduing us to himself, in ruling and defending us, and in restraining and conquering all his and our enemies.
+> 
+
+This answer describes the ways Jesus' kingship impacts our lives in terms of three traditional categories from systematic theology. First, Jesus subdues us to himself, that is, he brings us into his kingdom, so that we are no longer his enemies but his beloved citizens. Second, he governs his kingdom by ruling and defending us. And third, he restrains and ultimately conquers all his and our enemies.
+
+Following the emphasis of the Westminster Shorter Catechism, we'll discuss the modern application of Jesus' office of king in three parts: First, we'll see that Jesus builds his kingdom. Second, we'll consider the fact that he governs his people. And third, we'll focus on the way he conquers his enemies. Let's look first at how Jesus builds his kingdom.
+
+## Builds His Kingdom
+
+We'll consider how Jesus builds his kingdom from three perspectives: first, the goal of his work; second, the manifestation of his kingdom in the world; and third, the methods Jesus is using to build his kingdom. Let's begin with the goal of Jesus' work.
+
+### Goal
+
+Scripture teaches that God plans to turn the entire world into his earthly kingdom, so that his rule on earth reflects his rule in heaven. We see this in places like Matthew 6:10, where Jesus taught us to pray that God's kingdom would come, and that his will would be done on earth in the same way that it is already done in heaven. And we see it in the picture of the new heaven and new earth described in Revelation 21–22. So, broadly speaking, the goal of Jesus' kingdom building is to turn the world into God's earthly kingdom, fit for him to inhabit, and full of people who are completely loyal to him.
+
+But if the goal is for God to have an earthly kingdom, what role does Jesus play? Well, even though God is the supreme King over all creation, he has appointed Jesus to rule it in a more direct fashion, so that God's kingdom is also rightly called Jesus' kingdom. In this regard, God is like an ancient Near-Eastern suzerain, and Jesus is his vassal king. And because Jesus wants to please his suzerain, he has dedicated himself to accomplishing God's goal. Listen to how Paul described Jesus' submission to God the Father in 1 Corinthians 15:24, 28:
+
+> Then the end will come, when [Christ] hands over the kingdom to God the Father after he has destroyed all dominion, authority and power… When he has done this, then the Son himself will be made subject to him who put everything under him, so that God may be all in all (1 Corinthians 15:24, 28).
+> 
+
+As God's supreme vassal king, Jesus has authority over God's kingdom, and even over creation. And he is using that authority to conquer everything that opposes God, and to subject everything to God, in order to accomplish God's purposes for his creation.
+
+But what does this goal mean for us? How should modern Christians respond to the idea that Jesus' goal is to turn the entire world into God's kingdom? Well, the simple answer is that we should make God's kingdom the main goal for our lives, too. Whatever other goals we have — making a living, providing for our families, staying healthy, getting an education — they should all be pursued in ways that further the kingdom of God. As Jesus taught in Matthew 6:33:
+
+> Seek first [God's] kingdom and his righteousness, and all these things will be given to you as well (Matthew 6:33).
+> 
+
+The second aspect of the way Jesus builds his kingdom we'll mention is the kingdom's manifestation in the world.
+
+### Manifestation
+
+Many theologians throughout the ages have noticed that when the New Testament talks about the present manifestation of Jesus' kingdom, it often associates the kingdom with the church. The relationship between the kingdom and the church is described in many places throughout Scripture, including passages like Ephesians 1:19–2:20; and Revelation 1:4-6. As just one example, listen to this discussion between Peter and Jesus in Matthew 16:16-19:
+
+> Simon Peter answered, "You are the Christ, the Son of the living God." Jesus replied, "Blessed are you, Simon son of Jonah, for this was not revealed to you by man, but by my Father in heaven. And I tell you that you are Peter, and on this rock I will build my church, and the gates of Hades will not overcome it. I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven" (Matthew 16:16-19).
+> 
+
+This passage says at least three things that closely associate the kingdom with the church. First, Jesus said, "I will build my church." And then he followed this statement by saying that he would give Peter "the keys of the kingdom of heaven." Notice the connection here: Peter, an apostle and part of the foundation of the *church*, would have power over the "kingdom" of heaven.
+
+A second detail that highlights the relationship between the kingdom and the church is the fact that Peter applied the title Christ to Jesus. The word "Christ" means "anointed one." It was a specific reference to the fact that kings were anointed with oil to mark their claim to the throne. So, by calling Jesus "Christ," Peter was identifying Jesus as the prophesied Davidic King. And it was in his role as king that Jesus was going to build a church.
+
+And a third detail in Matthew 16:16-19 that points to a close connection between the kingdom and the church is that Jesus intended the church to participate in the warfare between Hades or "hell" and the kingdom of heaven.
+
+These details all point to the fact that both Jesus and Peter thought of the church and the kingdom as very closely related concepts. But as closely related as the church and kingdom are, they're not precisely identical in the New Testament. The majority of scholars agree that the kingdom is a much larger concept than the church.
+
+> The relationship between the church and the kingdom of God is a very interesting one. The kingdom of God is the macro-vision of the restoration of all things to a willing submission to the perfect will of God. A vision that is all encompassing for the entire universe, certainly this planet and human life. It's a submission to the king that will create an incredible shalom of life as it was intended for God's glory and our great joy. The church is one of the principal instruments God has chosen for the advance of this macro-vision. It's important not to equate the church, and certainly not religious ecclesiastical structures, with the kingdom; they are not one in the same, but the one is a means to the end. And also, the church should, as a city set on a hill, so to speak, already be manifesting in its own interior life and social dynamics, the very dynamics that will one day characterize God's entire creation from sea to sea. We are to be the prototype of the kingdom as well as agents of the kingdom [Dr. Glen Scorgie]
+> 
+
+> Both the concepts of the kingdom of God and the church are indispensable for a full Christian understanding of how we are to live in any part of our lives. But I think it's important for there to be a distinction between the two. I think many Christians, including me for years, thought well, the church is sort of like the climax of the kingdom, so we're kind of the most important thing going. But the kingdom concept in all of Scripture is much larger than the church. So the way I view, and I think the Bible does too, views the church as an irreplaceable part of the kingdom, but it's a sub part or a piece of the kingdom work. God's kingdom, his rulership, has always been the base of reality. He is the reigning Lord of the universe, of all creation, of us. He is Lord of all peoples, all nations, all kings, all tribes. Now most don't know that, but he is. So the kingdom of God, the reign of God, is an overarching theme in all of Scripture. The church, hopefully, are those people who have submitted to the lordship of Jesus, recognize his sovereign lordship and have submitted themselves to being his agents in the world. [Dr. Bill Ury]
+> 
+
+The New Testament teaches that the final glorious stage of God's reign over creation began at Christ's first coming. Since that time God's kingdom on earth has continued to grow and to bring many facets of human culture under submission to God. And when Christ returns, God's kingdom will be entirely unopposed and thoroughly manifested throughout every aspect of nature and human culture.
+
+But how does the church fit into that outline of history? Essentially, the church is the core of God's kingdom on earth in the present age. We devote ourselves to furthering the kingdom of God now. And when Christ returns, we'll inherit the full blessings of the kingdom. Until that time, we spread the gospel of Christ by teaching everything he commanded, in order to extend God's manifest reign into every dimension of human society, to the greatest degree possible, prior to the return of Christ.
+
+> It's very important that the church understand its place in the kingdom. When we are going to be with him in the future, when he comes again, I don't think we're going to be referred to as the church. I think that will be the kingdom. The bride will be produced for her bridegroom, that other very important picture in Scripture. So why I'm saying it this way, I think that sometimes we as a church have too high a view of ourselves. We think we're the only answer, or God's only purpose. And we're very, very important. He died for the church. He died to offer himself. But he also died for the world. So the best way for me to view myself as a member of the church of Jesus Christ is to say, I've got one goal and that's to be the body of Christ. I am called to be his hands, his feet, his arms to the world just like he would be if he were here. That's my king's command to me and to us as the church. The sad thing is I think sometimes the church says, "Well, we're the climax of the kingdom, therefore we're the end of what he's come to do and therefore we are going to sit and do nothing or just enjoy his presence until he comes again." I think that's a wrong view and we need to correct ourselves and get back into the business of connecting the church's purpose with the kingly purposes of our Lord and Savior. [Dr. Bill Ury]
+> 
+
+Now that we've considered the goal for which Jesus builds his kingdom, and the manifestation of his kingdom, we should turn to the methods Jesus uses to build his kingdom.
+
+### Methods
+
+Jesus' builds his kingdom in two primary ways, both of which directly involve the church: he adds more *people* to the church, and he expands its *geographical borders*. In the New Testament, Jesus began gathering people primarily from Israel. But at his ascension he instructed the church to expand his kingdom from Judea, to Samaria, to the ends of the earth, as we read in Acts 1:6-8. Jesus is building his kingdom by expanding the church to include the entire human race and cover the whole world.
+
+But how do we, the church, respond to and participate in this work? In general terms, the answer is found in these words from the Great Commission in Matthew 28:19-20:
+
+> Go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you (Matthew 28:19-20).
+> 
+
+As we can see here, the primary methods Jesus uses to build his kingdom are evangelism, baptism and biblical teaching. And rather than carrying out these methods single-handedly, Jesus has assigned the church to perform them on his behalf. Evangelism brings people to faith. Baptism joins them to the church. And teaching helps them grow in ways that strengthen the church and lead to its further expansion.
+
+> The challenge at the end of the Gospels is that we should go into all nations, proclaiming the good news and making disciples. The language of discipleship implies more than just being a learner. It implies more than just being a believer. But it also implies being in a relationship with God. Yes, the God who will teach us. Yes, the God who will lead us, but the challenge to make disciples is to have people who will be in a lifetime's apprenticeship, relationship, with God. And, therefore that needs to be well-modeled, so I think that people need to be in relationship with other believers who can show them how to live the Christian life well. It needs, obviously, teaching as well. People need to understand God's requirements of his followers and his disciples. But I think also it needs to be embedded in the church because it is there that God has put in place the structures for people to grow as Christians and indeed to be lifelong learners, to use that phrase, those who are in relationship with God and following him faithfully. [Dr. Simon Vibert]
+> 
+
+Having looked at the modern applications of the idea that Jesus builds his kingdom, let's turn to the fact that he governs his people within that kingdom.
+
+## Governs His People
+
+We'll consider two aspects of the way Jesus governs his people. First, we'll focus on the fact that he rules them for their good. And second, we'll see that he defends them from their enemies. Let's look first at how Jesus rules his people.
+
+### Rules
+
+Jesus' rule is focused on securing our eternal good, those blessings that we will enjoy with him forever. Everyone that comes to him receives mercy and pardon, as we see in passages like John 6:35-37, 7:37, and 10:28-29; and Acts 5:31. He adopts us as heirs of God, and shares with us all the covenant blessings he has earned through his perfect obedience. We read about these aspects of Jesus' rule in Acts 13:34-39; Romans 8:17, 32; and Hebrews 2:13. Moreover, he grants us all these blessings as a gift of grace, as we read in John 1:16, Ephesians 2:8-9, and many other places.
+
+Christ's loving rule also provides us with temporal good in the present world. He gives us his presence through the Holy Spirit, as we see in Acts 2:33, Galatians 4:6, and Philippians 1:19. He gives us clear direction in the Bible, so that we can serve him faithfully, as we see in 1 Corinthians 9:21, Galatians 6:2, and Colossians 3:16. And he appoints leadership for the church, delegating to them authority and power to minister to his people, as we read in 1 Corinthians 12:28, and Ephesians 4:11-12.
+
+King Jesus is not a harsh dictator; he is a loving king that cares and provides for us. Far from being a source of trouble, his rule is a benevolent blessing that benefits us both now and forever. And our response to this rule should be obvious. In order to receive the blessings our king has for us, we need to submit to his rule. We should be obedient to his law and trust in his mercy and power to overcome our failures and difficulties. And, of course, we should be thankful for his leadership, and praise him for his goodness to us.
+
+Now that we've talked about the implications of the fact that Jesus rules his people, let's turn to the idea that he also defends us.
+
+### Defends
+
+There are many ways that Jesus defends believers, but for our purposes in this lesson we'll focus on just three. First, Jesus defends us against the temptation to sin.
+
+As our king, Jesus defends us against temptation in many ways. For example, he warns us of temptations ahead of time, as we read in Matthew 6:13. He strengthens us to resist sin, as we read in Hebrews 2:16. And he protects us from situations that would overwhelm us or trap us, always making sure that we have a way to avoid sin, as we see in 1 Corinthians 10:13 and 2 Timothy 4:18.
+
+Second, when we do give in to temptation, Jesus defends us from the corruption of sin. One way Jesus defends us against corruption is by disciplining and correcting us when we sin, so that we don't subject ourselves to sin's mastery. We see this in Jeremiah 46:28, Hebrews 12:5-11, Revelation 3:19, and many other passages. And another way he defends us against corruption is by granting us forgiveness and cleansing from sin when we repent, as we see in 1 John 1:9.
+
+Third, Jesus defends us against accusations of sin. All Christians are prone to sin. And when we do, Satan tries to persuade God to condemn us, as we read in places like Revelation 12:10. But Jesus defends us against these accusations, so that God counts us as perfectly righteous. Although Scripture often speaks of Christ's intercession for us in terms of his priestly office, Romans 8:34 indicates that it's also an aspect of his kingship. As the great vassal king, Jesus defends his people against accusations by interceding for us with the great suzerain.
+
+Because Jesus defends us so strongly, we can have great confidence in our battles with sin. If we rely on his strength to resist temptation, and on his forgiveness to cleanse us from sin's effects, and on his advocacy to protect us from sin's consequences, nothing can harm us. Jesus is the great and powerful warrior king that leads us into battle against sin. And even if we don't fight well, we still can't lose — because he won't let us. He will always preserve and protect us, forgive and cleanse us, defend and acquit us. And eventually, he'll bring us into the unfailing blessings of his eternal kingdom.
+
+Now that we've looked at the ways Jesus governs his people, we're ready to turn to the fact that he also conquers his enemies.
+
+## Conquers His Enemies
+
+When God's law is violated, many people are often hurt. We see this every day when crimes are committed. There are victims who have been robbed, or swindled, or beaten, or betrayed, or even killed. And in the language of Scripture, the criminals that commit these crimes have made themselves the enemies of both their victims and God. And the proper response of the government is to catch and punish these criminals. Their judgment is supposed to be both an appropriate penalty for their crimes, and a way to protect their victims and the rest of society from further crimes. Scripture speaks of this in places like Proverbs 20:8 and 25:5.
+
+And something similar is true of the judgment that Jesus brings. He punishes his and our enemies according to justice, in order to exact retribution for their crimes. But he also punishes them as an act of blessing and benevolence toward us, in order to protect us from their sin and violence, and to purify and protect the world he is making for us. This is why the judgment and destruction of sinners is a critical part of Jesus' mission of turning the world into God's earthly kingdom. In order for the world to be pleasing to God and fit for him to inhabit, and in order for us to enjoy its everlasting blessings, the corruption of sin must be completely removed from it.
+
+As we saw earlier in this lesson, Jesus began executing judgment against many of his and our enemies during his earthly ministry. These enemies included sin, death and the demons. Jesus' victory over these enemies is secure, but he hasn't finished punishing them yet. So, in the present age, Jesus continues to execute judgment against them, and he will complete their judgment only when he returns. This fact is taught in 2 Peter 2:4; Jude verse 6; and Revelation 20:10, 14.
+
+But Jesus and his church also have other enemies. Every sinner who hasn't submitted himself to Christ is a citizen of the kingdom of Satan and an enemy of God. Scripture makes this clear in Matthew 13:37-43; Luke 19:27; and Ephesians 2:1-3.
+
+At the present time, Jesus executes partial judgment against some of these enemies during their earthly lives, as when Herod was struck dead in Acts 12:23 because he allowed the people to treat him as a god. But for the most part, Jesus forbears in his judgment against his enemies, patiently withholding his judgment until he returns.
+
+> It's very interesting that future judgment is often expressed as part of the gospel as presented in the New Testament. This may seem like a curious element of what would otherwise be good news. But the truth is that this is part of the good news. And the reason it's part of the Good News, is it's God's assurance that just as suffering will not endure forever, but be addressed with healing, injustice will not be permitted to continue indefinitely, but wrong will be made right. There is something of a deep longing in every human heart that injustice will not prevail, or be dismissed as unimportant because we are moving on. This is God's assuring promise to those who suffer that this will not be tolerated. They have an advocate, and that they do not need to go out with some sort of revengeful vigilante justice and take it into their own hands but to entrust themselves to a faithful judge who will do right. [Dr. Glen Scorgie]
+> 
+
+The apostles were clear that Jesus' rule as king would include a future day of judgment, when everyone would answer to his rule and his law. This judgment on the last day is mentioned in places like Acts 17:31, Romans 14:10-12, and Hebrews 10:26-31. The coming Day of Judgment is a central part of Christ's work as king because it will satisfy his justice toward sinners, his mercy toward believers, and his faithfulness to the Father as he purifies his kingdom.
+
+Although the doctrine of the last judgment can be terrifying for those who haven't received Christ as Lord, this isn't a bad thing. These warnings provide an opportunity for the unfaithful to repent of their sin, and to receive forgiveness, mercy and grace from our king Jesus Christ. Yes, they're strongly worded. But at their core, they're offers of blessing to those who repent. In fact, this is why gospel presentations in the Bible often contain a warning of future judgment. For example, we see this in Matthew 21:32-44 and Acts 17:30-31.
+
+> I think many Christians are perplexed sometimes by the description and presentation of the Gospel in Scripture, which also includes a very clear message about the devastating eternal punishment of the unrepentant, those who are not in Christ, those who die in their sins. You know, I think I understood a little bit better when I had a doctor look me in the face and say, "We found a tumor in you." Now, that doesn't sound like good news, but you know, it really was good news. It was good news that he found it. It was good news that he told me about it. What if he thought it wasn't nice to tell me I had a tumor in me? Well, that wouldn't be loving; that wouldn't be gracious. That wouldn't be good. He found that tumor, and he told me, "Here's the reality. You've got a tumor, and it'll kill you. But we can do something about it." So, there's the good news. You know, the Scripture presents so clearly the judgment that is to come and the consequences of sin. That's good news that we know that. It's good news also because it displays the glory of God. We're not told that there's a judgment coming and, by the way, this is something God just can't prevent from happening. We're told that this is the outpouring of God's righteousness and his justice, his holiness. So, it's good that we know that in order that we would flee to Christ in order to avoid the destruction that is to come, the judgment that is to come. But, you know, the Bible also is very honest when you come to the closing chapters of the New Testament in the book of Revelation that the glory of God is in the salvation of the redeemed and in the judgment that is poured out upon the unrepentant. Now, when we look at that, we have to recognize that God's glory is most quintessentially, infinitely seen when he displays his righteousness, both to those who are in Christ and have their sins forgiven in Christ by no merit of their own, and to those who, to the end, obstinately refused him. You know, the reality is that we need to know this. The gospel is good news first of all because it tells us how we can flee the destruction that is to come, how we can trust Christ and be found in him and find everlasting life. But it's also good news because we need to know the rest of the story. That's part of the gospel too. [Dr. R. Albert Mohler, Jr.]
+> 
+
+The Bible's teaching about the last judgment should actually be very encouraging for believers. It assures us that our suffering is not in vain. Every wrong will be set right, as we read in James 5:7-8, and 2 Thessalonians 1:4-10. Christ's judgment is reason for praise, because it will destroy the presence, corruption and influence of every form of evil, and result in the purged and perfect world that we will inherit and inhabit forever. As the angel proclaimed in Revelation 14:7:
+
+> Fear God and give him glory, because the hour of his judgment has come. Worship him who made the heavens, the earth, the sea and the springs of water (Revelation 14:7).
+> 
+
+# CONCLUSION
+
+In this lesson, we've explored Jesus' office of king. We've considered the Old Testament background of his office in terms of its qualifications and functions, and the expectations for its future. We've also seen the fulfillment of each of these aspects of the office of king in Jesus. And we've explored the modern application of Jesus' kingship in terms of the way Jesus builds his kingdom, governs his people and conquers his enemies.
+
+In this series, we've surveyed the riches of the doctrine of Christ. We've seen Jesus as the redeemer throughout all history; we've considered his life and ministry; and we've explored his offices as prophet, priest and king. Our knowledge of Jesus, however, should never be purely academic. But when we grasp who he is, and comprehend what he has revealed about himself, we will then love and follow him throughout our lives, in all that we do, in our homes, our work, our churches.
+
+# CONTRIBUTORS
+
+**Dr. Dan Doriani (Host)** is Vice President of Strategic Academic Initiatives and Professor of Theology at Covenant Theological Seminary. He previously served as Senior Pastor of Central Presbyterian Church in Clayton, Missouri. In addition to his extensive teaching and pastoral experience, Dr. Doriani has been involved with both the Presbyterian Church in America (PCA) and the Evangelical Presbyterian Church (EPC) in several planning and study committees. He earned his M.Div. and Ph.D. at Westminster Theological Seminary and his Master of Sacred Theology from Yale Divinity School. He has authored numerous articles and publications, including *Putting the Truth to Work: The Theory and Practice of Biblical Application* (P&R, 2001); *Women and Ministry* (Crossway, 2003); and *The New Man: Becoming a Man After God's Heart* (Crossway, 2001/new edition P&R, 2015)
+
+**Dr. Matt Friedeman** is Professor of Evangelism and Discipleship at Wesley Biblical Seminary.
+
+**Dr. Mark Gignilliat** is Associate Professor of Divinity in Old Testament at Beeson Divinity School.
+
+**Rev. Michael Glodo** is Associate Professor of Biblical Studies at Reformed Theological Seminary in Orlando, Florida.
+
+**Dr. Jonathan Kuttab** is a leading human rights lawyer and Co-founder of the Palestinian Center for the Study of Nonviolence, Al-Haq, and the Mandela Institute for Political Prisoners.
+
+**Dr. Rob Lister** is Associate Professor of Biblical and Theological Studies at the Talbot School of Theology.
+
+**Dr. R. Albert Mohler, Jr.**  is President of The Southern Baptist Theological Seminary.
+
+**Dr. Thomas Schreiner** is the James Buchanan Harrison Professor of New Testament Interpretation and Associate Dean of Scripture and Interpretation at The Southern Baptist Theological Seminary.
+
+**Dr. Glen Scorgie** is Professor of Theology at Bethel Seminary, San Diego.
+
+**Dr. Mark Strauss** is Professor of New Testament at Bethel Seminary, San Diego.
+
+**Dr. K. Erik Thoennes** is Professor of Biblical and Theological Studies at Biola University's Talbot School of Theology and is Chair of the Biblical and Theological Studies Theology Department.
+
+**Dr. Bill Ury** is Professor of Systematic and Historical Theology at Wesley Biblical Seminary.
+
+**Dr. Simon Vibert** is the former Vicar of St. Luke's Church, Wimbledon Park, UK, and is presently the Vice Principal of Wycliffe Hall, Oxford, and Director of the School of Preaching.
+
+**Dr. Peter Walker** is Professor of Biblical Studies at Trinity School for Ministry (formerly tutor in Biblical Studies and Associate Vice-Principal at Wycliffe Hall, Oxford University).
+
+**Dr. Stephen Wellum** is Professor of Christian Theology at The Southern Baptist Theological Seminary.
+
+# GLOSSARY
+
+**Christ** – From the Greek word "*christos*" meaning "the anointed" or "anointed one"; closely tied to the Old Testament Hebrew term "messiah"
+
+**church** – The covenant people of God; his congregation; the visible manifestation of the kingdom of God on earth
+
+**Cyrus** – Persian emperor from 559-530 B.C. who decreed that the Israelites could return to the Promised Land
+
+**David** – Second Old Testament king of Israel who received the promise that his descendant would sit on the throne and reign forever
+
+**exilic period** – Era of Israel's exile from the Promised Land
+
+**faithfulness** – Loyalty to God, demonstrated through heartfelt trust and obedience
+
+**Great Commission** – Christ's appointment of the eleven faithful apostles as his authoritative representatives and his charge to spread the kingdom of God throughout the whole world (Matthew 28:19-20)
+
+**Immanuel** – Name meaning "God with us"; used in reference to Jesus
+
+**Judah** – One of the twelve tribes of Israel; Jacob's fourth son from whose offspring the promised Messiah was to come; name of the southern kingdom after the nation of Israel was divided
+
+**justice** – Judging every person as he deserves, in accordance with God's law
+
+**king** – A human being established by God to exercise rule on God's behalf over his kingdom
+
+**last judgment** – Also called final judgment; the eschatological event when God will formally declare the guilt of his enemies and pronounce their everlasting punishment, and formally declare the innocence of those who are in Christ and pronounce their everlasting rewards
+
+**mercy** – The imitation of God's compassion toward his creatures
+
+**monarchical period** – Era when kings ruled Israel
+
+**Moses** – Old Testament prophet and deliverer who led the Israelites out of Egypt; man with whom God made a national "covenant of law" and who administered the Ten Commandments and the Book of the Covenant to the Israelites; also appeared with Elijah at Jesus' transfiguration
+
+**pre-monarchical period** – Era before kings arose in Israel
+
+**Rehoboam** – Son of King Solomon who reigned after him and mistreated the northern tribes of Israel, leading to the divided kingdom
+
+**restoration period** – Era after Israel returned from exile to their ancestral land; also called "post-exilic" period
+
+**Saul** – First king anointed by God to rule over the nation of Israel
+
+**Solomon** – Son of King David and third king of Israel who was known for his wisdom and wealth; expanded Israel's borders and built the first temple in Jerusalem
+
+**suzerain** – A powerful emperor or king that ruled over smaller nations; the more powerful party of a covenant, the one to whom it was necessary to submit
+
+**vassal** – A king or nation that must submit to a more powerful emperor or king (suzerain)
+
+**vice-regent** – A person who acts in place of a regent or other ruler
+
+**Westminster Shorter Catechism** – A traditional Protestant summary of Christian teaching, originally published in 1647
+
+Reference: <a href = "https://thirdmill.org/seminary/lesson.asp/vid/132/ft/a" target="_blank" rel="noopener noreferrer">Third Millium | The King</a>
+</div>
+
+<div id="chinese" class="tabcontent">
+
 一、介绍
 
 人类的历史常是按着有权势的君王在位统治的年代来写的。我们都听过那些曾经统管过亚洲、欧洲、非洲和拉丁美洲各地的君王大名，他们当中有些人征服了许多仇敌，以致他们的帝国似乎延伸到天涯海角。然而他们至少有个共同点：他们都已经离世，不再辉煌，他们不再统领自己的帝国；他们精壮的军队消失的无影无踪，他们的权势也如烟消云散。
@@ -658,3 +1343,5 @@ toc: true
 
 
 Reference: <a href = "http://cplayer.thirdmill.org/player/lessons/cJES5text.html" target="_blank" rel="noopener noreferrer">Third Millenium | 我们相信耶稣：君王</a>
+</div>
+
