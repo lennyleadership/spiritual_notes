@@ -31,7 +31,7 @@ a) Jesus was conceived by the Holy Spirit, therefore, is 100% God and 100% man.
 He shall build a house for My name, and he shall be My son, and I will be his Father; and I will establish the throne of his kingdom over Israel forever.'</span> and also would make Jesus ineligible to the throne, as he was the descendant of Jechonias.  
 <br>But, since Jesus was only an adopted son and not biological son of Joseph, the curse did not affect his right to the throne as he was not of Jechonias' seed. This curse also indicates that the Messiah cannot have a human father since then the curse would pass onto him too.
 <br>
-<br>c) Jesus was the first-born.  
+<br>c) Jesus was the first-born<label for="mom" class="margin-toggle sidenote-number"></label><span class="sidenote">Angel did not tell Mary that Jesus will be died some day?</span>.  
 <br>
 <br>Conclusion: Jesus was the perfect sacrifice.</li>  
 <li>3) Matthew 1:21. The meaning of Jesus, for He will save His people from their sins.
@@ -49,3 +49,9 @@ Hebrews 9:11-12. Jesus Christ came as High Pries. He bypassed the sacrifices con
 <p>Salvation ends the old nature, sinful nature, and starts the new life.</p>   
 
 <p>Jesus is the head of royal priesthood. 1 Peter 2:9 We are a chosen generation, a royal priesthood, a holy nation, His own special people, that you may proclaim the praises of Him who called you out of darkness into His marvelous light.</p>
+
+<p>
+Revelation 1:6 NKJV
+and has made us <b>kings and priests</b> to His God and Father, to Him be glory and dominion forever and ever. Amen.
+
+</p>
