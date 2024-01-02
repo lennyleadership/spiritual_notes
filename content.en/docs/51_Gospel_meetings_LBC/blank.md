@@ -1,13 +1,13 @@
 ---
 weight: 
-title: 2023- Tuesday Meeting
+title: 2024- Tuesday Meeting
 authors:
 categories: null
 tags:
 description: 
 draft: false
-date: "2023-03-04"
-lastmod: "2023-03-04"
+date: "2024-"
+lastmod: "2024-"
 series: null
 toc: true
 ---
