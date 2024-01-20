@@ -141,7 +141,7 @@ toc: true
 <iframe width="80" height="60" src="https://www.youtube.com/embed/EiRfNeqpdtQ" title="Thou Life of my Life, Blessed Jesus (A Thousand, A Thousand Thanksgivings)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -240,8 +240,10 @@ toc: true
 
 
 # 3. Ah, Lord God
+<iframe width="80" height="60" src="https://www.youtube.com/embed/1ATbTCoWgqw" title="Ah Lord God | Piano Instrumental With Lyrics | Devotional Worship | Don Moen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -261,14 +263,6 @@ toc: true
 <br>And the earth by thy great power
 <br>Ah, Lord God, Thou has made the heavens
 <br>And the earth by Thine outstretched arm
-<br>
-<br>2
-<br>Nothing is too difficult for Thee
-<br>Nothing is too difficult for Thee
-<br>Great and mighty God
-<br>Great in counsel and mighty in deed
-<br>Nothing, nothing, absolutely nothing
-<br>Nothing is too difficult for Thee
     </p></td>
     <td style = "border-style: none"><p>
 1
@@ -276,23 +270,42 @@ toc: true
 <br>你用你的大能创造了天地 
 <br>啊，主上帝
 <br>你用你伸出的臂膀创造了天地
-<br>
-<br>2
+    </p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2
+<br>Nothing is too difficult for Thee
+<br>Nothing is too difficult for Thee
+<br>Great and mighty God
+<br>Great in counsel and mighty in deed
+<br>Nothing, nothing, absolutely nothing
+<br>Nothing is too difficult for Thee
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2
 <br>在你没有难成的事
 <br>在你没有难成的事
 <br>伟大而全能的神
 <br>运筹帷幄，行诸般奇事
 <br>在你没有难成的事
 <br>在你没有难成的事
-    </p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
 
 
 # 4. All hail King Jesus
+
+<iframe width="80" height="60" src="https://www.youtube.com/embed/CCsP0wOEaxY" title="All Hail King Jesus - Emmanuel (piano solo version)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -326,6 +339,9 @@ All hail, King Jesus
 
 
 # 5. All heaven declares
+
+<iframe width="80" height="60" src="https://www.youtube.com/embed/08PkEG9KAkA" title="All Heaven Declares Karaoke English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <div class = "row">
   <div id = "column1">
 1
@@ -369,7 +385,7 @@ All hail, King Jesus
 
 # 6. All I have is Christ
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -393,32 +409,6 @@ All hail, King Jesus
 <br>A rebel to Your will
 <br>And if You had not loved me first
 <br>I would refuse You still
-<br>
-<br>2
-<br>But as I ran my hell-bound race
-<br>Indifferent to the cost
-<br>You looked upon my helpless state
-<br>And led me to the cross
-<br>And I beheld God’s love displayed
-<br>You suffered in my place
-<br>You bore the wrath reserved for me
-<br>Now all I know is grace
-<br>
-<br><i>Chorus
-<br>Hallelujah! All I have is Christ
-<br>Hallelujah! Jesus is my life
-<br>Hallelujah! All I have is Christ
-<br>Hallelujah! Jesus is my life</i>
-<br>
-<br>3
-<br>Now, Lord, I would be Yours alone
-<br>And live so all might see
-<br>The strength to follow Your commands
-<br>Could never come from me
-<br>O Father, use my ransomed life
-<br>In any way You choose
-<br>And let my song forever be
-<br>My only boast is You
     </p>
     </td>
     <td style = "border-style: none"><p>
@@ -431,8 +421,25 @@ All hail, King Jesus
 <br>竟蒙愛今屬祢
 <br>若不是祢先愛了我
 <br>我依然拒絕祢
-<br>
-<br>2
+    </p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2
+<br>But as I ran my hell-bound race
+<br>Indifferent to the cost
+<br>You looked upon my helpless state
+<br>And led me to the cross
+<br>And I beheld God’s love displayed
+<br>You suffered in my place
+<br>You bore the wrath reserved for me
+<br>Now all I know is grace
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2
 <br>當我直奔地獄絕路
 <br>漠視昂貴代價
 <br>祢竟憐卹我的無助
@@ -441,14 +448,46 @@ All hail, King Jesus
 <br>祢為我受痛苦
 <br>神的忿怒祢為我擔
 <br>今我知恩典深
-<br>
-<br><i>[合唱]
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+<i>Chorus
+<br>Hallelujah! All I have is Christ
+<br>Hallelujah! Jesus is my life
+<br>Hallelujah! All I have is Christ
+<br>Hallelujah! Jesus is my life</i>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+<i>[合唱]
 <br>哈列路亞！基督，我所有
 <br>哈列路亞！耶穌，我生命
 <br>哈列路亞！基督，我所有
 <br>哈列路亞！耶穌，我生命</i>
-<br>
-<br>3
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+3
+<br>Now, Lord, I would be Yours alone
+<br>And live so all might see
+<br>The strength to follow Your commands
+<br>Could never come from me
+<br>O Father, use my ransomed life
+<br>In any way You choose
+<br>And let my song forever be
+<br>My only boast is You
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+3
 <br>主，我今後願單屬祢
 <br>為祢活，榮耀祢
 <br>遵行祢命非我所能
@@ -457,7 +496,8 @@ All hail, King Jesus
 <br>聽憑祢旨意行
 <br>讓我的口永遠歌頌
 <br>我獨誇的是祢
-    </p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -465,7 +505,7 @@ All hail, King Jesus
 
 # 7. Be exalted, O God
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -593,7 +633,7 @@ All hail, King Jesus
 
 # 9. Before the throne of God above
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -778,7 +818,7 @@ Christ is all
 
 # 11. Christ the sure and steady anchor
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -893,7 +933,7 @@ Christ is all
 
 # 12. Come behold the wondrous mystery
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -996,7 +1036,7 @@ Christ is all
 
 # 13. Crown Him with many crowns
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -1177,7 +1217,7 @@ Down from His glory
 
 # 15. Emmanuel
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -1440,7 +1480,7 @@ For those tears I died
 
 # 19. Forever grateful
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -1481,7 +1521,7 @@ You did not wait for me to draw nigh to You
 
 # 20. Give thanks
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -1526,7 +1566,7 @@ Give thanks with a grateful heart
 
 # 21. God is so good
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -1567,7 +1607,7 @@ God is so good (x3)
 
 # 22. God will make a way
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -1650,7 +1690,7 @@ God is so good (x3)
 
 # 23. Grace of God
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -1690,7 +1730,7 @@ Grace of God reaching me
 
 # 24. Hallelujah, what a Saviour
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -1773,7 +1813,7 @@ Grace of God reaching me
 
 # 25. He looked beyond my faults
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -1839,7 +1879,7 @@ Grace of God reaching me
 
 # 26. Here is Love
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -1942,7 +1982,7 @@ Grace of God reaching me
 
 # 27. His mercy is more
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -2029,7 +2069,7 @@ Grace of God reaching me
 
 # 28. His name is wonderful
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -2090,7 +2130,7 @@ Grace of God reaching me
 
 # 29. How deep the Father’s love
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -2173,7 +2213,7 @@ Grace of God reaching me
 
 # 30. How great Thou art
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -2280,7 +2320,7 @@ Grace of God reaching me
 
 # 31. Hosanna
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -2339,7 +2379,7 @@ Hosanna, Hosanna
 
 # 32. My Saviour’s love
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -2422,7 +2462,7 @@ Hosanna, Hosanna
 
 # 33. I stand in awe of You
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -2493,7 +2533,7 @@ You are beautiful beyond description
 
 # 34. I will sing of my Redeemer
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -2576,7 +2616,7 @@ You are beautiful beyond description
 
 # 35. I will sing of the mercies of the Lord
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -2643,7 +2683,7 @@ You are beautiful beyond description
 
 # 36. In Christ alone
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -2764,7 +2804,7 @@ You are beautiful beyond description
 
 # 37. Jesus, name above all names
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -2797,7 +2837,7 @@ Jesus, name above all names
 
 # 38. Lamb of God
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -2886,7 +2926,7 @@ Jesus, name above all names
 
 # 39. Living hope
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -2996,7 +3036,7 @@ Jesus, name above all names
 
 # 40. Majesty
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -3039,7 +3079,7 @@ Majesty, worship His Majesty
 
 # 41. Meekness and majesty
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -3124,7 +3164,7 @@ Meekness and majesty
 
 # 42. My heart is filled with thankfulness
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -3208,7 +3248,7 @@ My heart is filled with thankfulness  </p>
 
 # 43. My tribute
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -3279,7 +3319,7 @@ How can I say thanks
 
 # 44. Never in a million years
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -3354,7 +3394,7 @@ No, we cannot comprehend why Jesus cared
 
 # 45. Oh, how He loves you and me
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -3405,7 +3445,7 @@ Oh, how He loves you and me
 
 # 46. Praise the name of Jesus
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -3442,7 +3482,7 @@ Praise the name of Jesus
 
 # 47. Speak, O Lord
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -3528,7 +3568,7 @@ Speak, O Lord
 
 # 48. To God be the glory
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -3619,7 +3659,7 @@ To God be the glory
 
 # 49. The love of God
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -3733,7 +3773,7 @@ The love of God
 
 # 50. The power of the Cross
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -3818,7 +3858,7 @@ The power of the Cross
 
 # 51. The Servant King
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -3905,7 +3945,7 @@ The Servant King
 
 # 52. The steadfast love of the Lord
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -3943,7 +3983,7 @@ The steadfast love of the Lord never ceases
 
 # 53. Thank you for the Cross
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -4002,7 +4042,7 @@ Thank You for the cross
 
 # 54. Thank you, Lord
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -4037,7 +4077,7 @@ Thank you, Lord, for saving my soul
 
 # 55. Thanks to God
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -4121,7 +4161,7 @@ Thanks to God
 
 # 56. There is a Redeemer
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -4193,7 +4233,7 @@ There is a Redeemer
 
 # 57. There was no other way
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -4302,7 +4342,7 @@ There was no other way
 
 # 58. There’s just something about that name
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -4343,7 +4383,7 @@ Jesus, Jesus, Jesus
 
 # 59. This is my Father’s world
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -4426,7 +4466,7 @@ Jesus, Jesus, Jesus
 
 # 60. What a friend we have in Jesus
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -4529,7 +4569,7 @@ Jesus, Jesus, Jesus
 
 # 61. What grace is mine
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -4596,7 +4636,7 @@ What grace is mine to know His breath alive in me
 
 # 62. When I look into Your holiness
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -4667,7 +4707,7 @@ When I've found the joy of reaching Your heart
 
 # 63.Yet not I but through Christ in Me
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -4828,7 +4868,7 @@ When I've found the joy of reaching Your heart
 
 # 64. Let the beauty of Jesus 
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -4861,7 +4901,7 @@ Let the beauty of Jesus be seen in me
 
 # 65. Amazing Grace 
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -4967,7 +5007,7 @@ Let the beauty of Jesus be seen in me
 
 # 66. O Christ What Burdens Bowed Thy Head
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -5086,7 +5126,7 @@ Let the beauty of Jesus be seen in me
 
 # 67. I shall know Him
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -5218,7 +5258,7 @@ Let the beauty of Jesus be seen in me
 
 # 68. Wonder of It All
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -5384,7 +5424,7 @@ Wonder of It All
 
 # 70. In shady green pastures 
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -5491,7 +5531,7 @@ Wonder of It All
 
 # 71. The crowning day is coming
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -5627,7 +5667,7 @@ The crowning day is coming
 
 # 72. He touched me
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -5716,7 +5756,7 @@ The crowning day is coming
 
 # 73. Day by day
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -5811,7 +5851,7 @@ The crowning day is coming
 
 # 74. There is a fountain
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -5958,7 +5998,7 @@ The crowning day is coming
 
 # 75. Calvary covers it all
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -6130,7 +6170,7 @@ Calvary covers it all
 
 # 76. Christ the True and Better Adam
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -6287,7 +6327,7 @@ Calvary covers it all
 
 # 77. In Christ Alone will I glory
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -6399,7 +6439,7 @@ Calvary covers it all
 
 # 78. King Of My Life
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -6523,7 +6563,7 @@ Calvary covers it all
 
 # 79. Sweet Hour Of Prayer
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -6616,7 +6656,7 @@ Calvary covers it all
 
 # 80. I don’t Know About Tomorrow
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -6729,7 +6769,7 @@ Calvary covers it all
 
 # 81. A Wonderful Saviour is Jesus
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -6839,7 +6879,7 @@ Calvary covers it all
 
 # 
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
