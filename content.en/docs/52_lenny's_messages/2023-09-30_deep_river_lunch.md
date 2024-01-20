@@ -1,10 +1,19 @@
 ---
-weight: 2
-title: 2023-09-30 Chinese Lunch at Deep River
-author: Lenny Lin
-date: 2023-09-28
-linktitle: 
+weight: 999
+title: blank
+authors: null
+categories: null
+tags: null
+series: null
+description: 
+draft: false
+date: "2023-09-30"
+lastmod: "2023-09-30"
+toc: true
 ---
+2023-09-30 Chinese Lunch at Deep River/ Thanksgiving
+
+<!--more-->
 
 我能站在这里见证上帝是一个神迹。我先卖个关子。最后再讲。
 
