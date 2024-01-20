@@ -16,8 +16,10 @@ toc: true
 
 # 1. purple robe
 
+<iframe width="80" src="https://www.youtube.com/embed/hPKY8Xg49mM" title="紫色的袍 A Purple Robe 诗歌钢琴伴奏(Hymn Accompaniment Piano Cover) 歌词 WorshipTogether V026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
@@ -33,34 +35,10 @@ toc: true
   <tr>
     <td style = "border-style: none"><p>
 1
-<br>A purple robe, a crown of thorn
-<br>A reed in his right hand
+<br>A purple robe, a crown of thorns
+<br>A reed in His right hand
 <br>Before the soldiers' spite and scorn 
 <br>I see my Saviour stand
-<br>
-<br>2
-<br>He bears between the Roman guard
-<br>The weight of all our woe
-<br>A stumbling figure bowed and scarred 
-<br>I see my Saviour go
-<br>
-<br>3
-<br>Fast to the cross spreading span
-<br>High in the sunlit air
-<br>All the unnumbered sins of man
-<br>I see my Saviour bear
-<br>
-<br>4
-<br>He hangs, by whom the world was made
-<br>Beneath the darkened sky
-<br>The everlasting ransom paid
-<br>I see my Saviour die
-<br>
-<br>5
-<br>He shares on high His Father's throne
-<br>Who once in mercy came
-<br>For all His love to sinners shown
-<br>I sing my Saviour's name
     </p></td>
     <td style = "border-style: none"><p>
 1
@@ -68,31 +46,87 @@ toc: true
 <br>蘆葦杖在右手；
 <br>兵丁唾面，嘲笑譏諷，
 <br>我見救主站立；
-<br>
-<br>2
+    </p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2
+<br>He bears between the Roman guard
+<br>The weight of all our woes
+<br>A stumbling figure bowed and scarred 
+<br>I see my Saviour go
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2
 <br>祂在羅馬守衛面前，
 <br>承受我們罪責，
 <br>鞭打刑罰，令人掩面，
 <br>我見救主前行。
-<br>
-<br>3
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+3
+<br>Fast to the cross spreading span
+<br>High in the sunlit air
+<br>All the unnumbered sins of man
+<br>I see my Saviour bear
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+3
 <br>急步奔向巨大十架，
 <br>高懸在烈日下，
 <br>人類數不盡的罪惡，
 <br>我見我救主擔當；
-<br>
-<br>4
+  </p>  
+  </td>
+  </tr>  
+  <tr>
+  <td style = "border-style: none">
+  <p>
+4
+<br>He hangs by whom the world was made
+<br>Beneath the darkened sky
+<br>The everlasting ransom paid
+<br>I see my Saviour die
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+4
 <br>懸在十架是創造主，
 <br>天色漸漸昏暗；
 <br>永遠的贖價已償還，
 <br>我見救主逝去；
-<br>
-<br>5
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+5
+<br>He shares on high His Father's throne
+<br>Who once in mercy came
+<br>For all His love to sinners shown
+<br>I sing my Saviour's name
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+5
 <br>祂曾懷憐憫到世上，
 <br>現在高天掌權，
 <br>因為祂對罪人的愛，
 <br>我歌頌祂的名。
-    </p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
