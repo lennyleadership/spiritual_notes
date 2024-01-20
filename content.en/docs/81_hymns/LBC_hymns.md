@@ -16,7 +16,7 @@ toc: true
 
 # 1. purple robe
 
-<iframe width="80" src="https://www.youtube.com/embed/hPKY8Xg49mM" title="紫色的袍 A Purple Robe 诗歌钢琴伴奏(Hymn Accompaniment Piano Cover) 歌词 WorshipTogether V026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="80", height = "40",  src="https://www.youtube.com/embed/hPKY8Xg49mM" title="紫色的袍 A Purple Robe 诗歌钢琴伴奏(Hymn Accompaniment Piano Cover) 歌词 WorshipTogether V026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <table>
 <colgroup><col style="width: 55%" /><col style="width: 45%" />
