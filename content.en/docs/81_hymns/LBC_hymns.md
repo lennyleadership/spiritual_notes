@@ -384,6 +384,9 @@ All hail, King Jesus
 </div>
 
 # 6. All I have is Christ
+
+<iframe width="80" height="60" src="https://www.youtube.com/embed/z9ZZBPBDla4" title="All I Have Is Christ | WORSHIP WITH ME Piano Accompaniment and Lyrics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <table>
 <colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
@@ -1981,6 +1984,9 @@ Grace of God reaching me
 
 
 # 27. His mercy is more
+
+<iframe width="80" height="60" src="https://www.youtube.com/embed/oOW_FAMWw7w" title="His Mercy Is More | WORSHIP WITH ME Piano Accompaniment and Lyrics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <table>
 <colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
@@ -3163,6 +3169,8 @@ Meekness and majesty
 
 
 # 42. My heart is filled with thankfulness
+<iframe width="80" height="60" src="https://www.youtube.com/embed/lMQP1OXKFiU" title="My Heart Is Filled with Thankfulness | WORSHIP WITH ME Piano Accompaniment and Lyrics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <table>
 <colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
@@ -4706,6 +4714,8 @@ When I've found the joy of reaching Your heart
 
 
 # 63.Yet not I but through Christ in Me
+<iframe width="80" height="60" src="https://www.youtube.com/embed/BxDucQx6bZw" title="Yet Not I But Through Christ In Me | WORSHIP WITH ME Piano Accompaniment and Lyrics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <table>
 <colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
