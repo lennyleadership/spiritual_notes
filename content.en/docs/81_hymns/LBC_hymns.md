@@ -1609,6 +1609,8 @@ God is so good (x3)
 
 
 # 22. God will make a way
+<iframe width="80" height="60" src="https://www.youtube.com/embed/ceFDFjngLss" title="God Will Make A Way  | Piano Instrumental With Lyrics | Devotional Worship | Don Moen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <table>
 <colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
@@ -2349,15 +2351,6 @@ Hosanna, Hosanna
 <br>With hearts full of praise
 <br>Be exalted oh Lord my God
 <br>Hosanna in the highest
-<br>
-<br>Glory, Glory
-<br>Glory to the King of Kings
-<br>Glory, Glory,
-<br>Glory to the King of Kings
-<br>Lord we lift up Your name
-<br>With hearts full of praise
-<br>Be exalted oh Lord my God
-<br>Glory to the King of Kings
     </p></td>
     <td style = "border-style: none"><p>
 和散那 和散那，
@@ -2368,16 +2361,33 @@ Hosanna, Hosanna
 <br>心中充满赞美
 <br>被高举哦主
 <br>和散那在最高处
-<br>
-<br>荣耀，荣耀 
+</p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+Glory, Glory
+<br>Glory to the King of Kings
+<br>Glory, Glory,
+<br>Glory to the King of Kings
+<br>Lord we lift up Your name
+<br>With hearts full of praise
+<br>Be exalted oh Lord my God
+<br>Glory to the King of Kings
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+荣耀，荣耀 
 <br>荣耀归于万王之王
 <br>荣耀，荣耀，
 <br>荣耀归于万王之王主
 <br>我们高举你的名
 <br>心中充满赞美
 <br>被高举哦主
-<br>荣耀归于万王之王    
-</p></td>
+<br>荣耀归于万王之王
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -2688,6 +2698,8 @@ You are beautiful beyond description
 
 
 # 36. In Christ alone
+<iframe width="80" height="60" src="https://www.youtube.com/embed/RNv1hcB8o7I" title="In Christ Alone | Piano Instrumental With Lyrics | Devotional Worship | Keith Getty / Stuart Townend" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <table>
 <colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
@@ -3041,6 +3053,8 @@ Jesus, name above all names
 
 
 # 40. Majesty
+<iframe width="80" height="60" src="https://www.youtube.com/embed/zkuYUFUDQgc" title="Majesty  | Piano Instrumental With Lyrics | Devotional Worship | Jack Hayford / Michael W Smith" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <table>
 <colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
