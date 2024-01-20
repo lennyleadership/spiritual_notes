@@ -16,7 +16,7 @@ toc: true
 
 # 1. purple robe
 
-<iframe width="80", height = "40",  src="https://www.youtube.com/embed/hPKY8Xg49mM" title="紫色的袍 A Purple Robe 诗歌钢琴伴奏(Hymn Accompaniment Piano Cover) 歌词 WorshipTogether V026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="80", height = "60",  src="https://www.youtube.com/embed/hPKY8Xg49mM" title="紫色的袍 A Purple Robe 诗歌钢琴伴奏(Hymn Accompaniment Piano Cover) 歌词 WorshipTogether V026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <table>
 <colgroup><col style="width: 55%" /><col style="width: 45%" />
@@ -138,6 +138,8 @@ toc: true
 
 
 # 2. A Thousand, A Thousand Thanksgivings
+<iframe width="80" height="60" src="https://www.youtube.com/embed/EiRfNeqpdtQ" title="Thou Life of my Life, Blessed Jesus (A Thousand, A Thousand Thanksgivings)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <table>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
@@ -163,26 +165,6 @@ toc: true
 <br>That I might forever go free
 <br>A thousand, a thousand thanksgivings
 <br>I bring, blessed Savior, to Thee
-<br>
-<br>2
-<br>For me Thou hast borne the reproaches
-<br>The mockery, hate and disdain
-<br>The blows and the spitting of sinners
-<br>The scourging, the shame and the pain
-<br>To save me from bondage and judgment
-<br>Thou gladly hast suffered for me
-<br>A thousand, a thousand thanksgivings
-<br>I bring, blessed Savior, to Thee
-<br>
-<br>3
-<br>O Lord, from my heart I do thank Thee
-<br>For all Thou hast borne in my room
-<br>Thine agony, dying, unsolaced
-<br>Alone in the darkness of doom
-<br>That I, in the glory of heaven
-<br>Forever and ever might be
-<br>A thousand, a thousand thanksgivings
-<br>I bring, blessed Savior, to Thee
     </p></td>
     <td style = "border-style: none"><p>
 1
@@ -194,8 +176,25 @@ toc: true
 <br>我可以永远自由
 <br>无尽的感恩
 <br>我将感恩带到你面前，感谢耶稣！
-<br>
-<br>2
+    </p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2
+<br>For me Thou hast borne the reproaches
+<br>The mockery, hate and disdain
+<br>The blows and the spitting of sinners
+<br>The scourging, the shame and the pain
+<br>To save me from bondage and judgment
+<br>Thou gladly hast suffered for me
+<br>A thousand, a thousand thanksgivings
+<br>I bring, blessed Savior, to Thee
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2
 <br>你为我忍受了给罪人的辱骂、
 <br>嘲笑、仇恨和蔑视 
 <br>打击和唾沫 
@@ -204,8 +203,26 @@ toc: true
 <br>你欣然为我受苦 ，
 <br>无尽的感恩
 <br>我将感恩带到你面前，感谢耶稣！
-<br>
-<br>3
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+3
+<br>O Lord, from my heart I do thank Thee
+<br>For all Thou hast borne in my room
+<br>Thine agony, dying, unsolaced
+<br>Alone in the darkness of doom
+<br>That I, in the glory of heaven
+<br>Forever and ever might be
+<br>A thousand, a thousand thanksgivings
+<br>I bring, blessed Savior, to Thee
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+3
 <br>主啊，我从心里感谢你
 <br>因为，在黑暗的墓穴中
 <br>你为我背负了
@@ -214,7 +231,8 @@ toc: true
 <br>永远
 <br>无尽的感恩
 <br>我将感恩带到你面前，感谢耶稣！
-    </p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
