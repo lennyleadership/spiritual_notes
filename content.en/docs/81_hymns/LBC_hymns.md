@@ -566,6 +566,8 @@ All hail, King Jesus
 
 
 # 8. Because He lives
+<iframe width="80" height="60" src="https://www.youtube.com/embed/roI6tTd0vtw" title="Because He Lives Hymn (Piano Accompaniment)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <div class = "row">
   <div id = "column1">
 1 
@@ -634,7 +636,10 @@ All hail, King Jesus
   </div>  
 </div>
 
+
 # 9. Before the throne of God above
+<iframe width="80" height="60" src="https://www.youtube.com/embed/P-J5uJ7dOVw" title="&quot;Before the Throne of God Above&quot; Piano Accompaniment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <table>
 <colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
@@ -661,28 +666,6 @@ All hail, King Jesus
 <br>I know that while in heaven He stands
 <br>No tongue can bid me thence depart 
 <br>No tongue can bid me thence depart
-<br>
-<br>2 
-<br>When Satan tempts me to despair
-<br>And tells me of the guilt within
-<br>Upward I look and see Him there
-<br>Who made an end of all my sin
-<br>Because the sinless Savior died
-<br>My sinful soul is counted free
-<br>For God the Just is satisfied
-<br>To look on Him and pardon me
-<br>To look on Him and pardon me
-<br>
-<br>3 
-<br>Behold Him there, the risen Lamb
-<br>My perfect, spotless Righteousness
-<br>The great unchangeable I AM
-<br>The King of glory and of grace
-<br>One with Himself, I cannot die
-<br>My soul is purchased by His blood
-<br>My life is hid with Christ on high
-<br>With Christ my Savior and my God
-<br>With Christ my Savior and my God
     </p></td>
     <td style = "border-style: none"><p>
 1 
@@ -695,8 +678,26 @@ All hail, King Jesus
 <br>因祂站立在天庭裡 
 <br>無何人可將我離棄
 <br>無何人可將我離棄
-<br>
-<br>2 
+</p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2 
+<br>When Satan tempts me to despair
+<br>And tells me of the guilt within
+<br>Upward I look and see Him there
+<br>Who made an end of all my sin
+<br>Because the sinless Savior died
+<br>My sinful soul is counted free
+<br>For God the Just is satisfied
+<br>To look on Him and pardon me
+<br>To look on Him and pardon me
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2 
 <br>當撒旦前來試探我 
 <br>控告我罪令我絶望 
 <br>我當抬頭仰望恩主
@@ -706,8 +707,27 @@ All hail, King Jesus
 <br>那公義之神得滿足 
 <br>因祂愛子我得赦免
 <br>因祂愛子我得赦免
-<br>
-<br>3 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+3 
+<br>Behold Him there, the risen Lamb
+<br>My perfect, spotless Righteousness
+<br>The great unchangeable I AM
+<br>The King of glory and of grace
+<br>One with Himself, I cannot die
+<br>My soul is purchased by His blood
+<br>My life is hid with Christ on high
+<br>With Christ my Savior and my God
+<br>With Christ my Savior and my God
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+3 
 <br>看哪復活主神羔羊  
 <br>我完美無瑕之公義 
 <br>那偉大不變之永有 
@@ -717,7 +737,8 @@ All hail, King Jesus
 <br>我生命藏於祂高處 
 <br>救主基督我主我神
 <br>救主基督我主我神
-</p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -820,6 +841,8 @@ Christ is all
 
 
 # 11. Christ the sure and steady anchor
+<iframe width="80" height="60" src="https://www.youtube.com/embed/zRzcqm2H7F4" title="Christ the Sure and Steady Anchor | Piano with Lyrics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <table>
 <colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
@@ -845,42 +868,6 @@ Christ is all
 <br>When my sinking hopes are few
 <br>I will hold fast to the anchor
 <br>It <a class ="red">will (or shall?)</a> never be removed
-<br>
-<br>2 
-<br>Christ the sure and steady anchor
-<br>While the tempest rages on
-<br>When temptation claims the battle
-<br>And it seems the night has won
-<br>Deeper still then goes the anchor
-<br>Though I justly stand accused
-<br>I will hold fast to the anchor
-<br>It shall never be removed
-<br>
-<br>3 
-<br>Christ the sure and steady anchor
-<br>Through the floods of unbelief
-<br>Hopeless somehow, O my soul, now
-<br>Lift your eyes to Calvary
-<br>This my ballast of assurance
-<br>See his love forever proved
-<br>I will hold fast to the anchor
-<br>It <a class ="red">will (or shall?)</a> never be removed
-<br>
-<br>4 
-<br>Christ the sure and steady anchor
-<br>As we face the wave of death
-<br>When these trials give way to glory
-<br>As we draw our final breath
-<br>We will cross that great horizon
-<br>Clouds behind and life secure
-<br>And the calm will be the better
-<br>For the storms that we endure
-<br>
-<br>5 
-<br>Christ the sure of our salvation
-<br>Ever faithful, ever true
-<br>We will hold fast to the anchor
-<br>It shall never be removed
 </p></td>
     <td style = "border-style: none"><p>
 1 
@@ -892,8 +879,25 @@ Christ is all
 <br>当盼望沉寂渺茫
 <br>我要专心，依靠这锚，
 <br>祂稳固永不动摇
-<br>
-<br>2 
+</p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2 
+<br>Christ the sure and steady anchor
+<br>While the tempest rages on
+<br>When temptation claims the battle
+<br>And it seems the night has won
+<br>Deeper still then goes the anchor
+<br>Though I justly stand accused
+<br>I will hold fast to the anchor
+<br>It shall never be removed
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2 
 <br>基督是锚，坚固牢靠，
 <br>虽航程骇浪惊涛
 <br>世间诱惑，得势猖狂，
@@ -902,8 +906,26 @@ Christ is all
 <br>尽管我该受控告
 <br>我要专心，依靠这锚，
 <br>祂稳固永不动摇
-<br>
-<br>3 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+3 
+<br>Christ the sure and steady anchor
+<br>Through the floods of unbelief
+<br>Hopeless somehow, O my soul, now
+<br>Lift your eyes to Calvary
+<br>This my ballast of assurance
+<br>See his love forever proved
+<br>I will hold fast to the anchor
+<br>It <a class ="red">will (or shall?)</a> never be removed
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+3 
 <br>基督是锚，坚固牢靠，
 <br>虽不信如洪涛涛
 <br>我的心哪，无助绝望，
@@ -912,8 +934,26 @@ Christ is all
 <br>永远显明主大爱
 <br>我要专心，依靠这锚，
 <br>祂稳固永不动摇
-<br>
-<br>4 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+4 
+<br>Christ the sure and steady anchor
+<br>As we face the wave of death
+<br>When these trials give way to glory
+<br>As we draw our final breath
+<br>We will cross that great horizon
+<br>Clouds behind and life secure
+<br>And the calm will be the better
+<br>For the storms that we endure
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+4 
 <br>基督是锚，坚固牢靠，
 <br>当死亡波浪环绕
 <br>我们走完，人生道路，
@@ -922,19 +962,35 @@ Christ is all
 <br>出黑云生命得保
 <br>忍受试炼，历经风暴，
 <br>那宁静将更美好
-<br>
-<br>5 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+5 
+<br>Christ the sure of our salvation
+<br>Ever faithful, ever true
+<br>We will hold fast to the anchor
+<br>It shall never be removed
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+5 
 <br>基督，我们得救保障，
 <br>永远诚信，永真实！
 <br>我们专心依靠这锚，
 <br>祂稳固永不动摇
-</p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
 
 
 # 12. Come behold the wondrous mystery
+<iframe width="80" height="60" src="https://www.youtube.com/embed/nveJlwbXL-4" title="Come Behold the Wondrous Mystery - Piano Instrumental Cover With Lyrics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <table>
 <colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
@@ -960,36 +1016,6 @@ Christ is all
 <br>Now the light of life has come
 <br>Look to Christ, who condescended
 <br>Took on flesh to ransom us
-<br>
-<br>2 
-<br>Come behold the wondrous mystery
-<br>He the perfect Son of Man
-<br>In His living, in His suffering
-<br>Never trace nor stain of sin
-<br>See the true and better Adam
-<br>Come to save the hell-bound man
-<br>Christ the great and sure fulfillment
-<br>Of the law; in Him we stand
-<br>
-<br>3 
-<br>Come behold the wondrous mystery
-<br>Christ the Lord upon the tree
-<br>In the stead of ruined sinners
-<br>Hangs the Lamb in victory
-<br>See the price of our redemption
-<br>See the Father’s plan unfold
-<br>Bringing many sons to glory
-<br>Grace unmeasured, love untold
-<br>
-<br>4 
-<br>Come behold the wondrous mystery
-<br>Slain by death the God of life
-<br>But no grave could ever restrain Him
-<br>Praise the Lord; He is alive!
-<br>What a foretaste of deliverance
-<br>How unwavering our hope
-<br>Christ in power resurrected
-<br>As we will be when He comes
 </p></td>
     <td style = "border-style: none"><p>
 1 
@@ -1001,8 +1027,25 @@ Christ is all
 <br>生命之光已臨至，
 <br>看啊！基督屈尊降世，
 <br>肉身獻作贖罪祭。
-<br>
-<br>2 
+</p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2 
+<br>Come behold the wondrous mystery
+<br>He the perfect Son of Man
+<br>In His living, in His suffering
+<br>Never trace nor stain of sin
+<br>See the true and better Adam
+<br>Come to save the hell-bound man
+<br>Christ the great and sure fulfillment
+<br>Of the law; in Him we stand
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2 
 <br>來看看哪驚人奧秘：
 <br>祂，是完全的人子，
 <br>多受痛苦，常經憂患，
@@ -1011,8 +1054,26 @@ Christ is all
 <br>來拯救要下地獄的人，
 <br>圣哉！基督，經上所寫都得應驗，
 <br>基督裡面我们站立。
-<br>
-<br>3 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+3 
+<br>Come behold the wondrous mystery
+<br>Christ the Lord upon the tree
+<br>In the stead of ruined sinners
+<br>Hangs the Lamb in victory
+<br>See the price of our redemption
+<br>See the Father’s plan unfold
+<br>Bringing many sons to glory
+<br>Grace unmeasured, love untold
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+3 
 <br>來看看哪驚人奧秘：
 <br>基督，十架上的主，
 <br>祂成为罪人的羔羊，
@@ -1021,8 +1082,26 @@ Christ is all
 <br>看啊！父神計劃已展示，
 <br>帶領子民進榮耀裡，
 <br>恩典慈愛無邊際。
-<br>
-<br>4 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+4 
+<br>Come behold the wondrous mystery
+<br>Slain by death the God of life
+<br>But no grave could ever restrain Him
+<br>Praise the Lord; He is alive!
+<br>What a foretaste of deliverance
+<br>How unwavering our hope
+<br>Christ in power resurrected
+<br>As we will be when He comes
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+4 
 <br>來看看哪驚人奧秘：
 <br>生命之主尝死味，
 <br>但阴间卻不能留住祂，
@@ -1030,8 +1109,9 @@ Christ is all
 <br>拯救預言何等真實，
 <br>信心堅定志不移，
 <br>基督復活顯大能力，
-<br>等主再來我也是。    
-</p></td>
+<br>等主再來我也是。 
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -1252,6 +1332,8 @@ Emmanuel, Emmanuel
 
 
 # 16. Fairest Lord Jesus
+
+<iframe width="80" height="60" src="https://www.youtube.com/embed/UKeQxMh06xU" title="Fairest Lord Jesus 美哉主耶穌 - Piano" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div class = "row">
   <div id = "column1">
@@ -1987,7 +2069,7 @@ Grace of God reaching me
 
 # 27. His mercy is more
 
-<iframe width="80" height="60" src="https://www.youtube.com/embed/oOW_FAMWw7w" title="His Mercy Is More | WORSHIP WITH ME Piano Accompaniment and Lyrics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="80" height="60" src="https://www.youtube.com/embed/hpo8DxYNicw" title="His Mercy is More 祂憐憫更多 - Piano" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <table>
 <colgroup><col style="width: 55%" /><col style="width: 45%" />
@@ -3183,7 +3265,7 @@ Meekness and majesty
 
 
 # 42. My heart is filled with thankfulness
-<iframe width="80" height="60" src="https://www.youtube.com/embed/lMQP1OXKFiU" title="My Heart Is Filled with Thankfulness | WORSHIP WITH ME Piano Accompaniment and Lyrics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="80" height="60" src="https://www.youtube.com/embed/tdlVm-Myy38" title="My Heart is Filled with Thankfulness 我的心充滿了感恩 - Instrumental" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <table>
 <colgroup><col style="width: 55%" /><col style="width: 45%" />
@@ -5779,6 +5861,9 @@ The crowning day is coming
 
 
 # 73. Day by day
+
+<iframe width="80" height="60" src="https://www.youtube.com/embed/GnXzGziXJn0" title="Day by Day 每一天 - Piano" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <table>
 <colgroup><col style="width: 55%" /><col style="width: 45%" />
 </colgroup>
