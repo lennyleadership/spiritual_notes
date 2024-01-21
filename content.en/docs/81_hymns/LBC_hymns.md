@@ -1143,36 +1143,6 @@ Christ is all
 <br>Of Him Who died for thee
 <br>And hail Him as thy matchless King
 <br>Through all eternity
-<br>
-<br>2 
-<br>Crown Him the Lord of love
-<br>Behold His hands and side
-<br>Rich wounds, yet visible above
-<br>In beauty glorified
-<br>No angel in the sky
-<br>Can fully bear that sight
-<br>But downward bends His wondering eye
-<br>At mysteries so bright
-<br>
-<br>3 
-<br>Crown Him the Lord of life
-<br>Who triumphed o’er the grave
-<br>Who rose victorious in the strife
-<br>For those He came to save
-<br>His glories now we sing
-<br>Who died, and rose on high
-<br>Who died eternal life to bring
-<br>And lives that death may die
-<br>
-<br>4 
-<br>Crown Him the Lord of heaven
-<br>One with the Father known
-<br>One with the Spirit through Him given
-<br>From yonder glorious throne
-<br>To Thee be endless praise
-<br>For Thou for us hast died
-<br>Be Thou, O Lord, through endless days
-<br>Adored and magnified
 </p></td>
     <td style = "border-style: none"><p>
 1 
@@ -1184,8 +1154,25 @@ Christ is all
 <br>颂主为我受死，
 <br>欢呼祂为至大君王，
 <br>千秋万岁无疆。
-<br>
-<br>2 
+</p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2 
+<br>Crown Him the Lord of love
+<br>Behold His hands and side
+<br>Rich wounds, yet visible above
+<br>In beauty glorified
+<br>No angel in the sky
+<br>Can fully bear that sight
+<br>But downward bends His wondering eye
+<br>At mysteries so bright
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2 
 <br>拥戴我主为王，祂是仁爱之王，
 <br>祂手、祂肋旁，
 <br>受伤，今仍显明天上，
@@ -1194,8 +1181,26 @@ Christ is all
 <br>不敢仰视，
 <br>一同俯首
 <br>颂扬。
-<br>
-<br>3 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+3 
+<br>Crown Him the Lord of life
+<br>Who triumphed o’er the grave
+<br>Who rose victorious in the strife
+<br>For those He came to save
+<br>His glories now we sing
+<br>Who died, and rose on high
+<br>Who died eternal life to bring
+<br>And lives that death may die
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+3 
 <br>拥戴我主为王，祂是生命之王，
 <br>胜过阴间权势，
 <br>死里复活得胜，
@@ -1204,8 +1209,26 @@ Christ is all
 <br>祂死后升天，
 <br>祂带给我们永生，
 <br>让该死的灵魂得活。
-<br>
-<br>4 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+4 
+<br>Crown Him the Lord of heaven
+<br>One with the Father known
+<br>One with the Spirit through Him given
+<br>From yonder glorious throne
+<br>To Thee be endless praise
+<br>For Thou for us hast died
+<br>Be Thou, O Lord, through endless days
+<br>Adored and magnified
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+4 
 <br>拥戴我主为王，祂是天国之王，
 <br>是祂，我们得以认识上帝，
 <br>是祂，赐下圣灵，
@@ -1214,7 +1237,8 @@ Christ is all
 <br>皆因祂为我们而死。
 <br>甚愿你永作我们的主
 <br>我们敬拜你、传扬你。
-</p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -1837,30 +1861,6 @@ Grace of God reaching me
 <br>for the Son of God, who came
 <br>ruined sinners to reclaim
 <br>Hallelujah, what a Savior
-<br>
-<br>2 
-<br>Bearing shame and scoffing rude
-<br>in my place condemned he stood
-<br>sealed my pardon with his blood
-<br>Hallelujah, what a Savior
-<br>
-<br>3 
-<br>Guilty, helpless, lost were we
-<br>blameless Lamb of God was he
-<br>sacrificed to set us free
-<br>Hallelujah, what a Savior
-<br>
-<br>4 
-<br>He was lifted up to die
-<br>"It is finished" was his cry
-<br>now in heaven exalted high
-<br>Hallelujah, what a Savior
-<br>
-<br>5 
-<br>When he comes, our glorious King
-<br>all his ransomed home to bring
-<br>then anew this song we'll sing
-<br>Hallelujah, what a Savior
 </p></td>
     <td style = "border-style: none"><p>
 1 
@@ -1868,31 +1868,87 @@ Grace of God reaching me
 <br>上帝之子，他来
 <br>拯救被毁坏的罪人
 <br>哈利路亚！何等的救主！
-<br>
-<br>2 
+    </p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2 
+<br>Bearing shame and scoffing rude
+<br>in my place condemned he stood
+<br>sealed my pardon with his blood
+<br>Hallelujah, what a Savior
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2 
 <br>忍受羞辱和粗鲁的嘲笑，
 <br>他站在我的位置上被定罪；
 <br>以祂的宝血封印了我的赦免。
 <br>哈利路亚！何等的救主！
-<br>
-<br>3 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+3 
+<br>Guilty, helpless, lost were we
+<br>blameless Lamb of God was he
+<br>sacrificed to set us free
+<br>Hallelujah, what a Savior
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+3 
 <br>有罪、卑鄙和无助的我们；
 <br>无瑕疵的上帝羔羊是他；
 <br>“彻底赎罪！” 是真的吗？
 <br>哈利路亚！何等的救主！
-<br>
-<br>4 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+4 
+<br>He was lifted up to die
+<br>"It is finished" was his cry
+<br>now in heaven exalted high
+<br>Hallelujah, what a Savior
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+4 
 <br>祂被举起来要死；
 <br>“完成了！” 是他的呼喊；
 <br>现在在天堂崇高。
 <br>哈利路亚！何等的救主！
-<br>
-<br>5 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+5 
+<br>When he comes, our glorious King
+<br>all his ransomed home to bring
+<br>then anew this song we'll sing
+<br>Hallelujah, what a Savior
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+5 
 <br>当祂来，我们荣耀的君王，
 <br>带回祂赎回的家园，
 <br>然后我们将重新唱祂的歌：
 <br>哈利路亚！何等的救主！
-    </p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -1990,36 +2046,6 @@ Grace of God reaching me
 <br>Who can cease to sing His praise
 <br>He can never be forgotten
 <br>Throughout heaven’s eternal days
-<br>
-<br>2 
-<br>On the Mount of Crucifixion
-<br>Fountains opened deep and wide
-<br>Through the floodgates of God’s mercy
-<br>Flowed a vast and gracious tide
-<br>Grace and love like mighty rivers
-<br>Poured incessant from above
-<br>Heaven’s peace and perfect justice
-<br>Kissed a guilty world in love
-<br>
-<br>3 
-<br>In Thy truth Thou dost direct me
-<br>By Thy Spirit through Thy Word
-<br>And Thy grace my need is meeting
-<br>As I trust in Thee, my Lord
-<br>Of Thy fullness Thou art pouring
-<br>Thy great love and power on me
-<br>Without measure, full and boundless
-<br>Drawing out my heart to Thee
-<br>
-<br>4 
-<br>Let me, all Thy love accepting
-<br>Love Thee, ever all my days
-<br>Let me seek Thy kingdom only
-<br>And my life be to Thy praise
-<br>Thou alone shalt be my glory
-<br>Nothing in the world I see
-<br>Thou hast cleansed and sanctified me
-<br>Thou Thyself hast set me free
 </p></td>
     <td style = "border-style: none"><p>
 1 
@@ -2031,8 +2057,25 @@ Grace of God reaching me
 <br>谁能停止赞美他 
 <br>我一生仰望跟随主 
 <br>从今时直到永远 
-<br>
-<br>2 
+</p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2 
+<br>On the Mount of Crucifixion
+<br>Fountains opened deep and wide
+<br>Through the floodgates of God’s mercy
+<br>Flowed a vast and gracious tide
+<br>Grace and love like mighty rivers
+<br>Poured incessant from above
+<br>Heaven’s peace and perfect justice
+<br>Kissed a guilty world in love
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2 
 <br>加略山上，主牺牲的爱 
 <br>长阔高深如江河 
 <br>神怜悯如波涛汹涌  
@@ -2041,8 +2084,26 @@ Grace of God reaching me
 <br>从天浇灌永不息 
 <br>属天平安完全公义 
 <br>今以爱救我罪人 
-<br>
-<br>3 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+3 
+<br>In Thy truth Thou dost direct me
+<br>By Thy Spirit through Thy Word
+<br>And Thy grace my need is meeting
+<br>As I trust in Thee, my Lord
+<br>Of Thy fullness Thou art pouring
+<br>Thy great love and power on me
+<br>Without measure, full and boundless
+<br>Drawing out my heart to Thee
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+3 
 <br>在真理中，你引导我
 <br>籍着圣灵，透过你的话
 <br>又因你的恩典，你满足了我的需要
@@ -2051,8 +2112,26 @@ Grace of God reaching me
 <br>你的爱、你的权柄都给了我
 <br>无法测量，充满，没有限量
 <br>你吸引我心
-<br>
-<br>4 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+4 
+<br>Let me, all Thy love accepting
+<br>Love Thee, ever all my days
+<br>Let me seek Thy kingdom only
+<br>And my life be to Thy praise
+<br>Thou alone shalt be my glory
+<br>Nothing in the world I see
+<br>Thou hast cleansed and sanctified me
+<br>Thou Thyself hast set me free
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+4 
 <br>你的爱完全包容我 
 <br>爱你主直到永远 
 <br>我呼求你国度降临 
@@ -2060,8 +2139,9 @@ Grace of God reaching me
 <br>唯有你 是我的荣耀 
 <br>远胜过世上一切 
 <br>你宝血使我得洁净
-<br>释放我自由生命    
-</p></td>
+<br>释放我自由生命 
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -2183,15 +2263,6 @@ Grace of God reaching me
 <br>Master of everything
 <br>His name is wonderful
 <br>Jesus my Lord
-<br>
-<br>2 
-<br>He's the Great Shepherd
-<br>The Rock of all ages
-<br>Almighty God is He
-<br>Bow down before Him
-<br>Love and adore Him
-<br>His name is wonderful
-<br>Jesus my Lord
     </p></td>
     <td style = "border-style: none"><p>
 1 
@@ -2204,7 +2275,25 @@ Grace of God reaching me
 <br>祂名稱為奇妙，
 <br>耶穌我主。
 <br>
-<br>2 
+<br>
+</p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2 
+<br>He's the Great Shepherd
+<br>The Rock of all ages
+<br>Almighty God is He
+<br>Bow down before Him
+<br>Love and adore Him
+<br>His name is wonderful
+<br>Jesus my Lord
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2 
 <br>祂是大牧者，
 <br>是萬古的磐石，
 <br>祂是全能的神，
@@ -2212,7 +2301,8 @@ Grace of God reaching me
 <br>敬愛崇拜祂，
 <br>祂名稱為奇妙，
 <br>耶穌我主。
-</p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -2244,26 +2334,6 @@ Grace of God reaching me
 <br>The Father turns His face away
 <br>As wounds which mar the Chosen One
 <br>Bring many sons to glory
-<br>
-<br>2 
-<br>Behold the man upon a cross
-<br>My sin upon His shoulders
-<br>Ashamed, I hear my mocking voice
-<br>Call out among the scoffers
-<br>It was my sin that held Him there
-<br>Until it was accomplished
-<br>His dying breath has brought me life
-<br>I know that it is finished
-<br>
-<br>3 
-<br>I will not boast in anything
-<br>No gifts, no power, no wisdom
-<br>But I will boast in Jesus Christ
-<br>His death and resurrection
-<br>Why should I gain from His reward?
-<br>I cannot give an answer
-<br>But this I know with all my heart
-<br>His wounds have paid my ransom
     </p></td>
     <td style = "border-style: none"><p>
 1 
@@ -2275,8 +2345,25 @@ Grace of God reaching me
 <br>彻骨痛楚怎忍受？
 <br>伤痕烙印爱子身上，
 <br>带众子进荣耀中。
-<br>
-<br>2 
+</p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2 
+<br>Behold the man upon a cross
+<br>My sin upon His shoulders
+<br>Ashamed, I hear my mocking voice
+<br>Call out among the scoffers
+<br>It was my sin that held Him there
+<br>Until it was accomplished
+<br>His dying breath has brought me life
+<br>I know that it is finished
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2 
 <br>看哪耶稣在十架上，
 <br>担我罪在他面前，
 <br>我随众人嘲笑毁谤，
@@ -2285,8 +2372,26 @@ Grace of God reaching me
 <br>使我完全得释放，
 <br>主受死赐我新生命，
 <br>彻底战胜了死亡。
-<br>
-<br>3 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+3 
+<br>I will not boast in anything
+<br>No gifts, no power, no wisdom
+<br>But I will boast in Jesus Christ
+<br>His death and resurrection
+<br>Why should I gain from His reward?
+<br>I cannot give an answer
+<br>But this I know with all my heart
+<br>His wounds have paid my ransom
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+3 
 <br>没有什么我能自夸，
 <br>智慧能力全放下，
 <br>只夸永活耶稣基督，
@@ -2295,7 +2400,8 @@ Grace of God reaching me
 <br>我哑口不能回答，
 <br>深知主爱我爱到底，
 <br>他受死付我赎价。
-</p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -2497,30 +2603,6 @@ Glory, Glory
 <br>Of Jesus the Nazarene
 <br>And wonder how He could love me
 <br>A sinner condemned, unclean
-<br>
-<br><i>Chorus
-<br>How marvelous! How wonderful
-<br>And my song shall ever be
-<br>How marvelous! How wonderful
-<br>Is my Savior’s love for me</i>
-<br>
-<br>2 
-<br>For me it was in the garden,
-<br>He prayed, not My will, but Thine
-<br>He had no tears for His own griefs
-<br>But sweat drops of blood for mine
-<br>
-<br>3 
-<br>He took my sins and my sorrows
-<br>He made them His very own
-<br>He bore the burden to Calvary
-<br>And suffered and died alone.
-<br>
-<br>4 
-<br>When with the ransomed in glory
-<br>His face I at last shall see
-<br>It will be my joy through the ages
-<br>To sing of His love for me
     </p></td>
     <td style = "border-style: none"><p>
 1 
@@ -2528,31 +2610,87 @@ Glory, Glory
 <br>我站立心便愕然；
 <br>希奇祂也把我爱怜，
 <br>我罪讁竟蒙赦免。
-<br>
-<br><i>[合唱]
+</p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+<i>Chorus
+<br>How marvelous! How wonderful
+<br>And my song shall ever be
+<br>How marvelous! How wonderful
+<br>Is my Savior’s love for me</i>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+<i>[合唱]
 <br>何等希奇，何等奥妙，
 <br>我要永远唱此歌。
 <br>何等希奇，何等奥妙，
 <br>主慈爱竟临到我。</i>
-<br>　　　
-<br>2 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2 
+<br>For me it was in the garden,
+<br>He prayed, not My will, but Thine
+<br>He had no tears for His own griefs
+<br>But sweat drops of blood for mine
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2 
 <br>主為我在园中恳求，
 <br>但愿父旨意成就；
 <br>非為自己流泪担忧，
 <br>血汗点点為我流。
-<br>
-<br>3 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+3 
+<br>He took my sins and my sorrows
+<br>He made them His very own
+<br>He bore the burden to Calvary
+<br>And suffered and died alone.
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+3 
 <br>祂担当我罪孽苦愁，
 <br>自己肩负不怨尤；
 <br>為我走上加略山头，
 <br>独自受死苦备受。
-<br>
-<br>4 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+4 
+<br>When with the ransomed in glory
+<br>His face I at last shall see
+<br>It will be my joy through the ages
+<br>To sing of His love for me
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+4 
 <br>得赎子民在荣耀中，
 <br>一同朝见主圣容；
 <br>高唱救主恩爱丰满，
 <br>欢欣快乐世无穷。
-</p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -2583,21 +2721,6 @@ You are beautiful beyond description
 <br>Who can fathom the depth of Your love?
 <br>You are beautiful beyond description
 <br>Majesty, enthroned above
-<br>
-<br><i>Chorus
-<br>And I stand, I stand in awe of You
-<br>I stand, I stand in awe of You
-<br>Holy God, to whom all praise is due
-<br>I stand in awe of You</i>
-<br>
-<br>You are beautiful beyond description
-<br>Yet God crushed You for my sin
-<br>In agony and deep affliction
-<br>Cut off that I might enter in
-<br>Who can grasp such tender compassion?
-<br>Who can fathom this mercy so free?
-<br>You are beautiful beyond description
-<br>Lamb of God who died for me
     </p></td>
     <td style = "border-style: none"><p>
 主啊你的荣美无法形容
@@ -2608,14 +2731,44 @@ You are beautiful beyond description
 <br>谁能测透你爱的深处
 <br>主啊你的荣美无法形容
 <br>主威严在宝座上
-<br>
-<br><i>[合唱]
+</p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+<i>Chorus
+<br>And I stand, I stand in awe of You
+<br>I stand, I stand in awe of You
+<br>Holy God, to whom all praise is due
+<br>I stand in awe of You</i>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+<i>[合唱]
 <br>我敬畏敬畏你我的主
 <br>敬畏敬畏你我的主
 <br>圣洁神配得所有赞美
 <br>敬畏你我的主</i>
-<br>
-<br>主啊你的荣美无法形容
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+You are beautiful beyond description
+<br>Yet God crushed You for my sin
+<br>In agony and deep affliction
+<br>Cut off that I might enter in
+<br>Who can grasp such tender compassion?
+<br>Who can fathom this mercy so free?
+<br>You are beautiful beyond description
+<br>Lamb of God who died for me
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+主啊你的荣美无法形容
 <br>却为我罪压伤
 <br>被上帝欺压深受苦痛
 <br>被弃绝使我能亲近
@@ -2623,7 +2776,8 @@ You are beautiful beyond description
 <br>谁能测度白白的恩典
 <br>主啊你的荣美无法形容
 <br>神羔羊为我受死  
-</p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -2651,30 +2805,6 @@ You are beautiful beyond description
 <br>And His wondrous love to me
 <br>On the cruel cross He suffered
 <br>From the curse to set me free
-<br>
-<br><i>Chorus
-<br>Sing, oh, sing of my Redeemer
-<br>With His blood He purchased me
-<br>On the cross He sealed my pardon
-<br>Paid the debt and made me free</i>
-<br>
-<br>2 
-<br>I will tell the wondrous story
-<br>How my lost estate to save
-<br>In His boundless love and mercy
-<br>He the ransom freely gave
-<br>
-<br>3 
-<br>I will praise my dear Redeemer
-<br>His triumphant power I’ll tell
-<br>How the victory He giveth
-<br>Over sin, and death, and hell
-<br>
-<br>4 
-<br>I will sing of my Redeemer
-<br>And His heavenly love to me
-<br>He from death to life hath brought me
-<br>Son of God with Him to be
     </p></td>
     <td style = "border-style: none"><p>
 1 
@@ -2682,31 +2812,87 @@ You are beautiful beyond description
 <br>並祂救我的奇愛；
 <br>祂在十架受盡咒詛，
 <br>為要將我贖出來。
-<br>
-<br><i>[合唱]
+</p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+<i>Chorus
+<br>Sing, oh, sing of my Redeemer
+<br>With His blood He purchased me
+<br>On the cross He sealed my pardon
+<br>Paid the debt and made me free</i>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+<i>[合唱]
 <br>歌頌，歌頌我救贖主！
 <br>祂的寶血為我流；
 <br>十字架上受盡痛苦，
 <br>還清罪債把我贖。</i>
-<br>
-<br>2 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2 
+<br>I will tell the wondrous story
+<br>How my lost estate to save
+<br>In His boundless love and mercy
+<br>He the ransom freely gave
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2 
 <br>我要歌頌我救贖主，
 <br>祂已贖盡我罪愆；
 <br>祂有豐富慈愛憐憫，
 <br>今將我罪全赦免。
-<br>
-<br>3 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+3 
+<br>I will praise my dear Redeemer
+<br>His triumphant power I’ll tell
+<br>How the victory He giveth
+<br>Over sin, and death, and hell
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+3 
 <br>我要歌頌我救贖主，
 <br>祂的大能我傳达；
 <br>祂使我能得勝歡呼，
 <br>勝過罪死和陰府。
-<br>
-<br>4 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+4 
+<br>I will sing of my Redeemer
+<br>And His heavenly love to me
+<br>He from death to life hath brought me
+<br>Son of God with Him to be
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+4 
 <br>我要歌頌我救贖主，
 <br>豐滿救恩祂賞賜；
 <br>使我重生得享天福，
 <br>與祂同作神後嗣。
-</p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -3205,28 +3391,6 @@ Meekness and majesty
 <br>Lord of eternity
 <br>Dwells in humanity
 <br>Kneels in humility and washes our feet
-<br>
-<br><i>Chorus
-<br>O what a mystery
-<br>Meekness and majesty
-<br>Bow down and worship
-<br>For this is your God</i>
-<br>
-<br>2 
-<br>Father's pure radiance
-<br>Perfect in innocence
-<br>Yet learns obedience to death on a cross
-<br>Suffering to give us life
-<br>Conquering through sacrifice
-<br>And as they crucify prays Father forgive
-<br>
-<br>3 
-<br>Wisdom unsearchable
-<br>God the invisible
-<br>Love indestructible in frailty appears
-<br>Lord of infinity
-<br>Stooping so tenderly
-<br>Lifts our humanity to the heights of His throne
     </p></td>
     <td style = "border-style: none"><p>
 1 
@@ -3236,29 +3400,75 @@ Meekness and majesty
 <br>永恆不滅的主，
 <br>降臨人間居住，
 <br>為人謙卑洗腳，竟屈尊下跪。
-<br>
-<br><i>[合唱]
+    </p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+<i>Chorus
+<br>O what a mystery
+<br>Meekness and majesty
+<br>Bow down and worship
+<br>For this is your God</i>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+<i>[合唱]
 <br>噢，榮耀主
 <br>竟屈尊，奧秘奇妙高深！
 <br>屈膝敬拜祂，
 <br>神！我們的神！</i>
-<br>
-<br>2 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2 
+<br>Father's pure radiance
+<br>Perfect in innocence
+<br>Yet learns obedience to death on a cross
+<br>Suffering to give us life
+<br>Conquering through sacrifice
+<br>And as they crucify prays Father forgive
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2 
 <br>祂是天父光華，
 <br>完善、清潔、無瑕，
 <br>竟學謙卑、順服，被釘在十架；
 <br>受難，親賜生命；
 <br>受死，犧牲得勝，
 <br>使殘害祂的人，求天父赦免。
-<br>
-<br>3 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+3 
+<br>Wisdom unsearchable
+<br>God the invisible
+<br>Love indestructible in frailty appears
+<br>Lord of infinity
+<br>Stooping so tenderly
+<br>Lifts our humanity to the heights of His throne
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+3 
 <br>智慧深奧難尋，
 <br>眼看不見的神，
 <br>永不熄滅的愛，藏卑微肉身；
 <br>無限高超的神，
 <br>降世屈尊為人，
 <br>使人類得尊貴，藉祂登寶座。
-    </p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -3293,26 +3503,6 @@ My heart is filled with thankfulness  </p>
 <br>And clothed me in His light
 <br>And wrote His law of righteousness
 <br>With power upon my heart
-<br>
-<br>2 
-<br>My heart is filled with thankfulness
-<br>To Him who walks beside
-<br>Who floods my weaknesses with strength
-<br>And causes fears to fly
-<br>Whose every promise is enough
-<br>For every step I take
-<br>Sustaining me with arms of love
-<br>And crowning me with grace
-<br>
-<br>3 
-<br>My heart is filled with thankfulness
-<br>To Him who reigns above
-<br>Whose wisdom is my perfect peace
-<br>Whose every thought is love
-<br>For every day I have on earth
-<br>Is given by the King
-<br>So I will give my life, my all
-<br>To love and follow Him
     </p></td>
     <td style = "border-style: none"><p>
 1 
@@ -3324,8 +3514,25 @@ My heart is filled with thankfulness  </p>
 <br>給我披上真光，
 <br>將公義律法書我心，
 <br>祂能力改變我。
-<br>
-<br>2 
+    </p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2 
+<br>My heart is filled with thankfulness
+<br>To Him who walks beside
+<br>Who floods my weaknesses with strength
+<br>And causes fears to fly
+<br>Whose every promise is enough
+<br>For every step I take
+<br>Sustaining me with arms of love
+<br>And crowning me with grace
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2 
 <br>我的心充滿了感恩，
 <br>因主伴我同行，
 <br>祂力量勝過我軟弱，
@@ -3334,8 +3541,26 @@ My heart is filled with thankfulness  </p>
 <br>助我行每一步。
 <br>以慈愛膀臂扶持我，
 <br>賜我恩典冠冕。
-<br>
-<br>3 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+3 
+<br>My heart is filled with thankfulness
+<br>To Him who reigns above
+<br>Whose wisdom is my perfect peace
+<br>Whose every thought is love
+<br>For every day I have on earth
+<br>Is given by the King
+<br>So I will give my life, my all
+<br>To love and follow Him
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+3 
 <br>我的心充滿了感恩，
 <br>致我天上君王；
 <br>祂智慧是我真平安，
@@ -3344,7 +3569,8 @@ My heart is filled with thankfulness  </p>
 <br>皆我王所賞賜。
 <br>獻上我生命、我一切，
 <br>愛慕主、跟隨主。
-    </p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -3375,21 +3601,6 @@ How can I say thanks
 <br>Could not express my gratitude
 <br>All that I am and ever hope to be
 <br>I owe it all to Thee
-<br>
-<br><i>Chorus
-<br>To God be the glory
-<br>To God be the glory
-<br>To God be the glory
-<br>For the things He has done
-<br>With His blood He has saved me
-<br>With His power He has raised me
-<br>To God be the glory
-<br>For the things He has done</i>
-<br>
-<br>Just let me live my life
-<br>Let it pleasing, Lord to Thee
-<br>And if I gain any praise
-<br>Let it go to Calvary
     </p></td>
     <td style = "border-style: none"><p>
 怎可表感激，
@@ -3400,8 +3611,25 @@ How can I say thanks
 <br>仍未唱出心中感谢
 <br>愿我尽将内心希冀梦想…
 <br>永远尽忠于你！
-<br>
-<br><i>[合唱]
+</p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+<i>Chorus
+<br>To God be the glory
+<br>To God be the glory
+<br>To God be the glory
+<br>For the things He has done
+<br>With His blood He has saved me
+<br>With His power He has raised me
+<br>To God be the glory
+<br>For the things He has done</i>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+<i>[合唱]
 <br>荣美尽献父神
 <br>万口也当赞颂
 <br>上主配得称赞
@@ -3410,12 +3638,26 @@ How can I say thanks
 <br>获复兴靠祂赐力，
 <br>荣美尽献父神，
 <br>上主配得称赞。</i>
-<br>
-<br>今将生命托付，
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+Just let me live my life
+<br>Let it pleasing, Lord to Thee
+<br>And if I gain any praise
+<br>Let it go to Calvary
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+今将生命托付，
 <br>完全地献与主所用。
 <br>如能获到人颂赞，
 <br>荣耀也归钉十架的主。
-</p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -3519,13 +3761,6 @@ Oh, how He loves you and me
 <br>Oh, how He loves you
 <br>Oh, how he loves me
 <br>Oh, how he loves you and me
-<br>
-<br>Jesus to Calvary did go
-<br>His love for sinners to show
-<br>What He did there brought hope from despair
-<br>Oh, how He loves you
-<br>Oh, how he loves me
-<br>Oh, how he loves you and me
     </p></td>
     <td style = "border-style: none"><p>
 哦，祂何等爱你和我， 
@@ -3534,14 +3769,29 @@ Oh, how He loves you and me
 <br>哦，祂何等爱你；
 <br>哦，祂何等爱我；
 <br>哦，祂何等爱你和我。
-<br>
-<br>耶稣曾到加略山，
+</p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+Jesus to Calvary did go
+<br>His love for sinners to show
+<br>What He did there brought hope from despair
+<br>Oh, how He loves you
+<br>Oh, how he loves me
+<br>Oh, how he loves you and me
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+耶稣曾到加略山，
 <br>向罪人表明祂的爱。
 <br>祂在那里所做的一切从绝望中带来了希望。
 <br>哦，祂何等爱你；
 <br>哦，祂何等爱我；
 <br>哦，祂何等爱你和我。
-</p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -3612,26 +3862,6 @@ Speak, O Lord
 <br>In our acts of love and our deeds of faith
 <br>Speak, O Lord, and fulfill in u
 <br>All Your purposes for Your glory
-<br>
-<br>2 
-<br>Teach us, Lord, full obedience
-<br>Holy reverence, true humility
-<br>Test our thoughts and our attitudes
-<br>In the radiance of Your purity
-<br>Cause our faith to rise; cause our eyes to see
-<br>Your majestic love and authority
-<br>Words of power that can never fail
-<br>Let their truth prevail over unbelief
-<br>
-<br>3 
-<br>Speak, O Lord, and renew our minds
-<br>Help us grasp the heights of Your plans for us
-<br>Truths unchanged from the dawn of time
-<br>That will echo down through eternity
-<br>And by grace we'll stand on Your promises
-<br>And by faith we'll walk as You walk with us
-<br>Speak, O Lord, till Your church is built
-<br>And the earth is filled with Your glory
     </p></td>
     <td style = "border-style: none"><p>
 1 
@@ -3643,8 +3873,25 @@ Speak, O Lord
 <br>彰顯基督真光照亮世人間，
 <br>懇求主，在我生命中，
 <br>榮耀、成全祢美善的旨意。
-<br>
-<br>2 
+    </p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2 
+<br>Teach us, Lord, full obedience
+<br>Holy reverence, true humility
+<br>Test our thoughts and our attitudes
+<br>In the radiance of Your purity
+<br>Cause our faith to rise; cause our eyes to see
+<br>Your majestic love and authority
+<br>Words of power that can never fail
+<br>Let their truth prevail over unbelief
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2 
 <br>主教導，全然地信服，
 <br>聖潔的虔敬，純正的謙卑，
 <br>在祢晈潔的聖光中，
@@ -3653,8 +3900,26 @@ Speak, O Lord
 <br>祢無比的愛和尊榮的權柄，
 <br>全備聖言永不落空，
 <br>真理必征服不足的信心。
-<br>
-<br>3 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+3 
+<br>Speak, O Lord, and renew our minds
+<br>Help us grasp the heights of Your plans for us
+<br>Truths unchanged from the dawn of time
+<br>That will echo down through eternity
+<br>And by grace we'll stand on Your promises
+<br>And by faith we'll walk as You walk with us
+<br>Speak, O Lord, till Your church is built
+<br>And the earth is filled with Your glory
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+3 
 <br>主啊，請說，更新堅定我，
 <br>容我們追隨祢崇高旨意，
 <br>從亙古真理永不變，
@@ -3664,7 +3929,8 @@ Speak, O Lord
 <br>憑信心，我們與祢每步同行，
 <br>主啊，請說，建立祢教會，
 <br>直到全地充滿祢的榮光。
-    </p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -3899,30 +4165,6 @@ The power of the Cross
 <br>Christ on a road to Calvary
 <br>Tried by sinful men, torn and beaten then
 <br>Nailed to the cross of wood
-<br>
-<br><i>Chorus
-<br>This the power of the cross
-<br>Christ became sin for us
-<br>Took the blame, bore the wrath
-<br>We stand forgiven at the cross</i>
-<br>
-<br>2 
-<br>Oh, to see the pain written on your face
-<br>Bearing the awesome weight of sin
-<br>Every bitter thought, every evil deed
-<br>Crowning your blood stain brow
-<br>
-<br>3 
-<br>Now the day light flees, now the ground beneath
-<br>Quakes as its maker bows his head
-<br>Curtain torn in two, dead are raised to life
-<br>Finished! The victory cry
-<br>
-<br>4 
-<br>Oh, to see my name written in Your wounds
-<br>For through your suffering I am free
-<br>Dead are crushed to death, life is mine to live
-<br>Won through Your selfless love
     </p></td>
     <td style = "border-style: none"><p>
 1 
@@ -3930,31 +4172,87 @@ The power of the Cross
 <br>基督正走向加略山，
 <br>受罪人审判，主遍体鳞伤
 <br>悬挂在十架上。
-<br>
-<br><i>[合唱]
+    </p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+<i>Chorus
+<br>This the power of the cross
+<br>Christ became sin for us
+<br>Took the blame, bore the wrath
+<br>We stand forgiven at the cross</i>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+<i>[合唱]
 <br>这十架有能力，
 <br>为我们成为罪，
 <br>祂受苦难，担神怒！
 <br>我们得赦免靠十架。</i>
-<br>
-<br>2 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2 
+<br>Oh, to see the pain written on your face
+<br>Bearing the awesome weight of sin
+<br>Every bitter thought, every evil deed
+<br>Crowning your blood stain brow
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2 
 <br>啊！满带忧伤，
 <br>忍受痛苦楚，甘心背起沉重罪尤。
 <br>一切恶思想，所有恶行为，
 <br>冠在祢额头上。
-<br>
-<br>3 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+3 
+<br>Now the day light flees, now the ground beneath
+<br>Quakes as its maker bows his head
+<br>Curtain torn in two, dead are raised to life
+<br>Finished! The victory cry
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+3 
 <br>白昼已隐蔽，大地在震荡，
 <br>创造主低下祂的头。
 <br>幔子裂两半；死人都起来；
 <br>胜利之声：“成了！”
-<br>
-<br>4 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+4 
+<br>Oh, to see my name written in Your wounds
+<br>For through your suffering I am free
+<br>Dead are crushed to death, life is mine to live
+<br>Won through Your selfless love
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+4 
 <br>啊！祢受鞭伤除去我的罪，
 <br>祢受痛苦我得自由！
 <br>祢死胜死亡；令我得永生，
 <br>无私的爱得胜！
-    </p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -3984,31 +4282,6 @@ The Servant King
 <br>Entered our world, your glory veiled
 <br>Not to be served but to serve
 <br>And give Your life that we might live
-<br>
-<br><i>Chorus
-<br>This is our God, 
-<br>The Servant King
-<br>He calls us now to follow Him
-<br>To bring our lives as a daily offering
-<br>Of worship to The Servant King</i>
-<br>
-<br>2 
-<br>There in the garden of tears
-<br>My heavy load he chose to bear
-<br>His heart with sorrow was torn
-<br>'Yet not My will but Yours, ' He said
-<br>
-<br>3 
-<br>Come see His hands and His feet
-<br>The scars that speak of sacrifice
-<br>Hands that flung stars into space
-<br>To cruel nails surrendered
-<br>
-<br>4 
-<br>So let us learn how to serve
-<br>And in our lives enthrone Him
-<br>Each other's needs to prefer
-<br>For it is Christ we're serving
     </p></td>
     <td style = "border-style: none"><p>
 1 
@@ -4016,32 +4289,89 @@ The Servant King
 <br>隐藏荣耀甘心入世，
 <br>谦卑舍己服事人，
 <br>因你所赐我得永生。
-<br>
-<br><i>[合唱]
+    </p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+<i>Chorus
+<br>This is our God, 
+<br>The Servant King
+<br>He calls us now to follow Him
+<br>To bring our lives as a daily offering
+<br>Of worship to The Servant King</i>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+<i>[合唱]
 <br>这是我神，
 <br>仆人君王，
 <br>他召我现在跟随他，
 <br>领我生命每一日献上自己，
 <br>敬拜这位仆人君王。</i>
-<br>
-<br>2 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2 
+<br>There in the garden of tears
+<br>My heavy load he chose to bear
+<br>His heart with sorrow was torn
+<br>'Yet not My will but Yours, ' He said
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2 
 <br>在那流泪园子里，
 <br>我的重担他全背起，
 <br>祂悲痛流下泪说，
 <br>惟照你旨不照我意。
-<br>
-<br>3 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+3 
+<br>Come see His hands and His feet
+<br>The scars that speak of sacrifice
+<br>Hands that flung stars into space
+<br>To cruel nails surrendered
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+3 
 <br>来，看他手脚钉痕，
 <br>只要能够明白他的救恩，
 <br>造穹苍星辰的手，
 <br>甘心被钉为我受苦。
-<br>
-<br>4 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+4 
+<br>So let us learn how to serve
+<br>And in our lives enthrone Him
+<br>Each other's needs to prefer
+<br>For it is Christ we're serving
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+4 
 <br>让我们学习为何样式，
 <br>生活举止以主为是，
 <br>彼此所需替代，
 <br>为着基督我们服事。
-    </p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -4110,16 +4440,6 @@ Thank You for the cross
 <br>And every day we’re changed
 <br>Into Your image more and more
 <br>Yes by the cross, we’ve truly been transformed
-<br>
-<br><i>Chorus
-<br>And we’re so amazed
-<br>And we give You praise
-<br>That You would save us
-<br>At such a cost
-<br>We’re so amazed
-<br>And we give You praise
-<br>For the power of the cross
-<br>For the power of the cross</i>
     </p></td>
     <td style = "border-style: none"><p>
 主我为十架感谢祢
@@ -4128,8 +4448,25 @@ Thank You for the cross
 <br>在每一天祢更新我们
 <br>能够更像祢
 <br>靠主十架我们生命被改变
-<br>
-<br><i>[合唱]
+    </p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+<i>Chorus
+<br>And we’re so amazed
+<br>And we give You praise
+<br>That You would save us
+<br>At such a cost
+<br>We’re so amazed
+<br>And we give You praise
+<br>For the power of the cross
+<br>For the power of the cross</i>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+<i>[合唱]
 <br>何等奇妙恩
 <br>我们赞美祢
 <br>祢救赎我们
@@ -4138,7 +4475,8 @@ Thank You for the cross
 <br>我们赞美祢
 <br>因为十架的大能
 <br>因为十架的大能</i>
-    </p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -4206,26 +4544,6 @@ Thanks to God
 <br>And for rest when shadows fall
 <br>Thanks for love of friend and neighbor
 <br>And your goodness to us all
-<br>
-<br>2 
-<br>Thanks for thorns as well as roses
-<br>Thanks for weakness and for health
-<br>Thanks for clouds as well as sunshine
-<br>Thanks for poverty and wealth
-<br>Thanks for pain as well as pleasure
-<br>All you send us day by day
-<br>And your Word, our dearest treasure
-<br>Shedding light upon our way
-<br>
-<br>3 
-<br>Thanks, O God, for home and family
-<br>Where we share our daily bread
-<br>Thanks for hours of sweet communion
-<br>When by you our souls are fed
-<br>Thanks for grace in times of sorrow
-<br>And for joy and peace so free
-<br>Thanks for hope today, tomorrow
-<br>And for all eternity
     </p></td>
     <td style = "border-style: none"><p>
 1 
@@ -4237,8 +4555,25 @@ Thanks to God
 <br>为夜晚的栖息感谢上帝
 <br>为朋友邻里的爱感谢上帝
 <br>为你预备给我们的好处感谢上帝
-<br>
-<br>2 
+    </p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2 
+<br>Thanks for thorns as well as roses
+<br>Thanks for weakness and for health
+<br>Thanks for clouds as well as sunshine
+<br>Thanks for poverty and wealth
+<br>Thanks for pain as well as pleasure
+<br>All you send us day by day
+<br>And your Word, our dearest treasure
+<br>Shedding light upon our way
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2 
 <br>为荆棘和玫瑰感谢上帝
 <br>为体弱和健康感谢上帝
 <br>为乌云和阳光感谢上帝
@@ -4247,8 +4582,26 @@ Thanks to God
 <br>为你每日供应的话语感谢上帝
 <br>这宝贵的灵粮
 <br>照亮前面的道路
-<br>
-<br>3 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+3 
+<br>Thanks, O God, for home and family
+<br>Where we share our daily bread
+<br>Thanks for hours of sweet communion
+<br>When by you our souls are fed
+<br>Thanks for grace in times of sorrow
+<br>And for joy and peace so free
+<br>Thanks for hope today, tomorrow
+<br>And for all eternity
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+3 
 <br>为住处和家人感谢上帝
 <br>一家人在一起得到饱足
 <br>为每天路上的顺利感谢上帝
@@ -4256,7 +4609,8 @@ Thanks to God
 <br>为忧伤时得到你的慈爱感谢上帝
 <br>为无价的喜乐和平安感谢上帝
 <br>为今天、明天、将来的盼望感谢上帝
-    </p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -4286,24 +4640,6 @@ There is a Redeemer
 <br>Jesus, God's own Son
 <br>Precious Lamb of God, Messiah
 <br>Holy One
-<br>
-<br>2 
-<br>Jesus, my redeemer
-<br>Name above all names
-<br>Precious Lamb of God, Messiah
-<br>Oh, for sinners slain
-<br>
-<br><i>Chorus
-<br>Thank you, oh my Father
-<br>For giving <u class = "red">us</u> Your Son
-<br>And leaving Your Spirit
-<br>'Til the work on Earth is done</i>
-<br>
-<br>3 
-<br>When I stand in glory
-<br>I will see His face
-<br>And there I'll serve my King forever
-<br>In that holy place
     </p></td>
     <td style = "border-style: none"><p>
 1 
@@ -4311,25 +4647,67 @@ There is a Redeemer
 <br>是神子耶酥
 <br>宝贵羔羊，祂是弥赛亚
 <br>圣洁无瑕
-<br>
-<br>2 
+    </p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2 
+<br>Jesus, my redeemer
+<br>Name above all names
+<br>Precious Lamb of God, Messiah
+<br>Oh, for sinners slain
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2 
 <br>耶稣，我救主
 <br>超乎万名之上
 <br>宝贵羔羊，祂是弥赛亚
 <br>为我罪受死
-<br>
-<br><i>[合唱]
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+<i>Chorus
+<br>Thank you, oh my Father
+<br>For giving <u class = "red">us</u> Your Son
+<br>And leaving Your Spirit
+<br>'Til the work on Earth is done</i>
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+<i>[合唱]
 <br>感谢你，噢，我们的天父
 <br>赐你儿子给我们
 <br>并赐圣惠师
 <br>直到我们见主面</i>
-<br>
-<br>3 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+3 
+<br>When I stand in glory
+<br>I will see His face
+<br>And there I'll serve my King forever
+<br>In that holy place
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+3 
 <br>当我在荣耀中
 <br>我见主荣耀面
 <br>在那里我要永远服事你
 <br>那个圣洁之处
-    </p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -4511,26 +4889,6 @@ Jesus, Jesus, Jesus
 <br>I rest me in the thought
 <br>Of rocks and trees, of skies and seas
 <br>His hand the wonders wrought
-<br>
-<br>2 
-<br>This is my Father's world
-<br>The birds their carols raise
-<br>The morning light, the lily white
-<br>Declare their maker's praise
-<br>This is my Father's world
-<br>He shines in all that's fair
-<br>In the rustling grass, I hear him pass
-<br>He speaks to me everywhere
-<br>
-<br>3 
-<br>This is my Father's world
-<br>Oh, let me never forget
-<br>That though the wrong seems oft so strong
-<br>God is the ruler yet
-<br>This is my Father's world
-<br>The battle is not done
-<br>Jesus who died shall be satisfied
-<br>And earth and heaven be one
     </p></td>
     <td style = "border-style: none"><p>
 1 
@@ -4542,8 +4900,25 @@ Jesus, Jesus, Jesus
 <br>我心滿有安甯;
 <br>樹木花草，蒼天碧海，
 <br>萬物主手造成。
-<br>
-<br>2 
+    </p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2 
+<br>This is my Father's world
+<br>The birds their carols raise
+<br>The morning light, the lily white
+<br>Declare their maker's praise
+<br>This is my Father's world
+<br>He shines in all that's fair
+<br>In the rustling grass, I hear him pass
+<br>He speaks to me everywhere
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2 
 <br>這是天父世界：
 <br>小鳥讚美歌聲，
 <br>清晨明亮, 好花美麗，
@@ -4552,8 +4927,26 @@ Jesus, Jesus, Jesus
 <br>衪愛普及萬千;
 <br>風吹之草, 將衪表現，
 <br>天父充滿世間。
-<br>
-<br>3 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+3 
+<br>This is my Father's world
+<br>Oh, let me never forget
+<br>That though the wrong seems oft so strong
+<br>God is the ruler yet
+<br>This is my Father's world
+<br>The battle is not done
+<br>Jesus who died shall be satisfied
+<br>And earth and heaven be one
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+3 
 <br>這是天父世界：
 <br>求主叫我不忘，
 <br>罪惡雖然好像得勝，
@@ -4562,7 +4955,8 @@ Jesus, Jesus, Jesus
 <br>我心不必憂傷;
 <br>上主是王，天地同唱，
 <br>歌聲充滿萬方。
-    </p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -4594,36 +4988,6 @@ Jesus, Jesus, Jesus
 <br>Oh, what needless pain we bear
 <br>All because we do not carry
 <br>Everything to God in prayer
-<br>
-<br>2 
-<br>Have we trials and temptations?
-<br>Is there trouble anywhere?
-<br>We should never be discouraged
-<br>Take it to the Lord in prayer
-<br>Can we find a friend so faithful
-<br>Who will all our sorrows share?
-<br>Jesus knows our every weakness
-<br>Take it to the Lord in prayer
-<br>
-<br>3 
-<br>Are we weak and heavy-laden
-<br>Cumbered with a load of care?
-<br>Precious Savior, still our refuge
-<br>Take it to the Lord in prayer
-<br>Do thy friends despise, forsake thee?
-<br>Take it to the Lord in prayer
-<br>In His arms He’ll take and shield thee
-<br>Thou wilt find a solace there
-<br>
-<br>4 
-<br>Blessed Saviour, Thou hast promised
-<br>Thou wilt all our burdens bear
-<br>May we ever, Lord, be bringing
-<br>All to Thee in earnest prayer
-<br>Soon in glory bright, unclouded
-<br>There will be no need for prayer
-<br>Rapture, praise, and endless worship
-<br>Will be our sweet portion there
     </p></td>
     <td style = "border-style: none"><p>
 1 
@@ -4635,8 +4999,25 @@ Jesus, Jesus, Jesus
 <br>多少痛苦白白受
 <br>皆因我們未將萬事
 <br>帶到主恩座前求
-<br>
-<br>2 
+    </p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2 
+<br>Have we trials and temptations?
+<br>Is there trouble anywhere?
+<br>We should never be discouraged
+<br>Take it to the Lord in prayer
+<br>Can we find a friend so faithful
+<br>Who will all our sorrows share?
+<br>Jesus knows our every weakness
+<br>Take it to the Lord in prayer
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2 
 <br>是否煩惱壓著心頭
 <br>是否遇試煉引誘
 <br>我們切莫灰心失望
@@ -4645,8 +5026,26 @@ Jesus, Jesus, Jesus
 <br>分擔一切苦與憂
 <br>我們弱點主都知透
 <br>放心到主座前求
-<br>
-<br>3 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+3 
+<br>Are we weak and heavy-laden
+<br>Cumbered with a load of care?
+<br>Precious Savior, still our refuge
+<br>Take it to the Lord in prayer
+<br>Do thy friends despise, forsake thee?
+<br>Take it to the Lord in prayer
+<br>In His arms He’ll take and shield thee
+<br>Thou wilt find a solace there
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+3 
 <br>勞苦多愁軟弱不堪
 <br>掛慮重擔壓肩頭
 <br>主是你我避難處所
@@ -4655,8 +5054,26 @@ Jesus, Jesus, Jesus
 <br>來到主恩座前求
 <br>在主懷中必蒙護佑
 <br>與主同在永無憂
-<br>
-<br>4 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+4 
+<br>Blessed Saviour, Thou hast promised
+<br>Thou wilt all our burdens bear
+<br>May we ever, Lord, be bringing
+<br>All to Thee in earnest prayer
+<br>Soon in glory bright, unclouded
+<br>There will be no need for prayer
+<br>Rapture, praise, and endless worship
+<br>Will be our sweet portion there
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+4 
 <br>宝贵救主，你已应许
 <br>你要负担我的重担
 <br>我要籍殷切祷告
@@ -4665,7 +5082,8 @@ Jesus, Jesus, Jesus
 <br>从此不再需要祷告
 <br>愿被提、赞美、无尽的敬拜
 <br>成为我们的职分
-    </p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -5027,41 +5445,6 @@ Let the beauty of Jesus be seen in me
 <br>That saved a wretch like me!
 <br>I once was lost, but now am found;
 <br>Was blind, but now I see.
-<br>
-<br>2 
-<br>’Twas grace that taught my heart to fear,
-<br>And grace my fears relieved;
-<br>How precious did that grace appear
-<br>The hour I first believed.
-<br>
-<br>3 
-<br>Through many dangers, toils, and snares,
-<br>I have already come;
-<br>’Tis grace hath brought me safe thus far,
-<br>And grace will lead me home.
-<br>
-<br>4 
-<br>The Lord has promised good to me,
-<br>His Word my hope secures;
-<br>He will my Shield and Portion be,
-<br>As long as life endures.
-<br>
-<br>5 
-<br>Yea, when this flesh and heart shall fail,
-<br>And mortal life shall cease,
-<br>I shall possess, within the veil,
-<br>A life of joy and peace.
-<br>
-<br>The earth shall soon dissolve like snow,
-<br>The sun forbear to shine;
-<br>But God, who called me here below,
-<br>Will be forever mine.
-<br>
-<br>6 
-<br>When we’ve been there ten thousand years,
-<br>Bright shining as the sun,
-<br>We’ve no less days to sing God’s praise
-<br>Than when we’d first begun.
     </p></td>
     <td style = "border-style: none"><p>
 1 
@@ -5069,43 +5452,127 @@ Let the beauty of Jesus be seen in me
 <br>拯救了像我这般无助的人
 <br>我曾迷失，如今已被找回
 <br>曾经盲目，如今又能看见
-<br>
-<br>2 
+    </p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2 
+<br>’Twas grace that taught my heart to fear,
+<br>And grace my fears relieved;
+<br>How precious did that grace appear
+<br>The hour I first believed.
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2 
 <br>神迹教我心存敬畏
 <br>减轻我心中的恐惧
 <br>神迹的出现何等珍贵
 <br>那是我第一次相信神的时刻
-<br>
-<br>3 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+3 
+<br>Through many dangers, toils, and snares,
+<br>I have already come;
+<br>’Tis grace hath brought me safe thus far,
+<br>And grace will lead me home.
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+3 
 <br>历经无数险阻陷阱
 <br>我已走了过来
 <br>上帝保我安全无虞至今
 <br>神迹将指引我回到家
-<br>
-<br>4 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+4 
+<br>The Lord has promised good to me,
+<br>His Word my hope secures;
+<br>He will my Shield and Portion be,
+<br>As long as life endures.
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+4 
 <br>上帝给我美好应许
 <br>祂的话给我希望
 <br>祂将给予我庇护之地
 <br>让我得着永生
-<br>
-<br>4 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+5 
+<br>Yea, when this flesh and heart shall fail,
+<br>And mortal life shall cease,
+<br>I shall possess, within the veil,
+<br>A life of joy and peace.
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+5 
 <br>是的，躯体和心将朽坏
 <br>道德生活也将无有
 <br>但在幔内，我将拥有
 <br>喜乐和平安
-<br>
-<br>5 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+6
+<br>The earth shall soon dissolve like snow,
+<br>The sun forbear to shine;
+<br>But God, who called me here below,
+<br>Will be forever mine.
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+6 
 <br>这个地球将会像雪一样消融
 <br>太阳不再发光
 <br>但那呼召我的上帝
 <br>将永远属我
-<br>
-<br>6 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+7 
+<br>When we’ve been there ten thousand years,
+<br>Bright shining as the sun,
+<br>We’ve no less days to sing God’s praise
+<br>Than when we’d first begun.
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+7 
 <br>我们在此已千年
 <br>光芒如太阳一样耀眼
 <br>和最初相比
 <br>我们能赞美上帝的时日并未减少
-    </p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
@@ -5135,46 +5602,6 @@ Let the beauty of Jesus be seen in me
 <br>Didst bear all ill for me.
 <br>A victim led; Thy blood was shed;
 <br>Now there's no load for me.
-<br>
-<br>2 
-<br>Death and the curse were in our cup,
-<br>O Christ, 'twas full for Thee!
-<br>But Thou hast drained the last dark drop—
-<br>'Tis empty now for me.
-<br>That bitter cup—love drank it up;
-<br>Now blessings' draught for me.
-<br>
-<br>3 
-<br>Jehovah lifted up His rod,
-<br>O Christ, it fell on Thee!
-<br>Thou wast sore stricken of Thy God;
-<br>There's not one stroke for me.
-<br>Thy tears, Thy blood, beneath it flowed;
-<br>Thy bruising healeth me.
-<br>
-<br>4 
-<br>The tempest's awful voice was heard,
-<br>O Christ, it broke on Thee!
-<br>Thy open bosom was my ward,
-<br>It braved the storm for me.
-<br>Thy form was scarred, Thy visage marred;
-<br>Now cloudless peace for me.
-<br>
-<br>5 
-<br>Jehovah bade His sword awake,
-<br>O Christ, it woke 'gainst Thee!
-<br>Thy blood the flaming blade must slake;
-<br>Thy heart its sheath must be—
-<br>All for my sake, my peace to make;
-<br>Now sleeps that sword for me.
-<br>
-<br>6 
-<br>For me, Lord Jesus, Thou hast died,
-<br>And I have died in Thee;
-<br>Thou'rt ris'n: my bands are all untied,
-<br>And now Thou liv'st in me.
-<br>When purified, made white, and tried,
-<br>Thy glory then for me!
     </p></td>
     <td style = "border-style: none"><p>
 1 
@@ -5184,47 +5611,127 @@ Let the beauty of Jesus be seen in me
 <br>  忍受了所有的病痛。
 <br>代罪人死了；你的血流了；
 <br>  现在我没有重担了。
-<br>
-<br>2 
+    </p></td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+2 
+<br>Death and the curse were in our cup,
+<br>O Christ, 'twas full for Thee!
+<br>But Thou hast drained the last dark drop—
+<br>'Tis empty now for me.
+<br>That bitter cup—love drank it up;
+<br>Now blessings' draught for me.
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+2 
 <br>死亡和咒诅曾在我们的杯中，
 <br>  噢基督，已盛满！
 <br>但已饮干了最后一滴黑汁
 <br>  现在杯已空。
 <br>那苦杯——爱把它喝尽；
 <br>  现在祝福倾倒给我。
-<br>
-<br>3 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+3 
+<br>Jehovah lifted up His rod,
+<br>O Christ, it fell on Thee!
+<br>Thou wast sore stricken of Thy God;
+<br>There's not one stroke for me.
+<br>Thy tears, Thy blood, beneath it flowed;
+<br>Thy bruising healeth me.
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+3 
 <br>耶和华举起祂的杖，
 <br>  噢基督，落在你身上！
 <br>你被父神击打；
 <br>  我却没有一次。
 <br>你的眼泪，你的血，在杖下流淌；
 <br>  你的伤痛医治了我。
-<br>
-<br>4 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+4 
+<br>The tempest's awful voice was heard,
+<br>O Christ, it broke on Thee!
+<br>Thy open bosom was my ward,
+<br>It braved the storm for me.
+<br>Thy form was scarred, Thy visage marred;
+<br>Now cloudless peace for me.
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+4 
 <br>隆隆暴风雨，
 <br>  噢基督，它向你袭来！
 <br>你拥我入怀，
 <br>  为我抵挡风暴。
 <br>你的身躯伤痕累累，你的容貌受损；
 <br>  雨过天晴一般的平安临到我。
-<br>
-<br>5 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+5 
+<br>Jehovah bade His sword awake,
+<br>O Christ, it woke 'gainst Thee!
+<br>Thy blood the flaming blade must slake;
+<br>Thy heart its sheath must be—
+<br>All for my sake, my peace to make;
+<br>Now sleeps that sword for me.
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+5 
 <br>耶和华唤醒祂的刀剑，
 <br>  噢基督，来攻击你！
 <br>你的鲜血必熄灭燃烧的刀刃；
 <br>  你的心成为剑鞘——
 <br>为要建立和平；
 <br>  现在刀剑已沉睡。
-<br>
-<br>6 
+  </p>  
+  </td>
+  </tr>
+  <tr>
+  <td style = "border-style: none">
+  <p>
+6 
+<br>For me, Lord Jesus, Thou hast died,
+<br>And I have died in Thee;
+<br>Thou'rt ris'n: my bands are all untied,
+<br>And now Thou liv'st in me.
+<br>When purified, made white, and tried,
+<br>Thy glory then for me!
+  </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+6 
 <br>为我，主耶稣，你死了，
 <br>  我也死在你里面；
 <br>你已复活：我的捆绑全部解开，
 <br>  现在你住在我里面。
 <br>当被洁净，变得洁白，并经过考验时，
 <br>  你的荣耀将归于我！
-    </p></td>
+  </p>  
+  </td>
   </tr>
 </tbody>
 </table>
