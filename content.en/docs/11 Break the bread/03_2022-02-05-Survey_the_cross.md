@@ -4,13 +4,14 @@ title: When I Survey the Wondrous Cross
 authors: null
 categories: null
 tags: null
-series: null
+series: 
 description: 
 draft: false
 date: "2022-02-05"
 lastmod: "2022-02-05"
 toc: true
 ---
+Shared at Pinawa Alliance Church
 
 <!--more-->
 
@@ -48,7 +49,7 @@ I assume we have not sung this hymn for a long time.  This hymn includes many po
 The theme in the first stanza aligns with the scriptures of Jeremiah 9:23-24 KJV. Allow me to read it to you.
 
 <div class = "quote">
-‪Jeremiah‬ 9:23-24 NLT
+Jeremiah 9:23-24 NLT
 <br>23 This is what the Lord says: “Don’t let the wise boast in their wisdom, or the powerful boast in their power, or the rich boast in their riches.    
 <br>24 But those who wish to boast should boast in this alone: that they truly know me and understand that I am the Lord who demonstrates unfailing love and who brings justice and righteousness to the earth, and that I delight in these things. I, the Lord, have spoken!
 </div>
@@ -93,13 +94,13 @@ I want to remind us that we were sealed with the holy spirit upon we trust Him (
 He based this hymn on the Scriptural reference of Galatians 6:14 ASV.  
 
 <div class = "quote">
-Galatians ‬6:14 NLT
+Galatians 6:14 NLT
 <br>14 As for me, may I never boast about anything except the cross of our Lord Jesus Christ. Because of that cross, my interest in this world has been crucified, and the world’s interest in me has also died.
 </div>
 
 <br>
 <div class = "quote">
-‪Ephesians‬1:3-14 NLT
+Ephesians 1:3-14 NLT
 <br>3 All praise to God, the Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly realms because we are united with Christ.   
 <br>4 Even before he made the world, God loved us and chose us in Christ to be holy and without fault in his eyes.   
 <br>5 God decided in advance to adopt us into his own family by bringing us to himself through Jesus Christ. This is what he wanted to do, and it gave him great pleasure.   
