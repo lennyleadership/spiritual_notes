@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 12
 title: Bible Verses Recitation
 authors:
 categories: null

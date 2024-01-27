@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 13
 title: Bible Verses for Tough Time
 authors:
 categories: null
