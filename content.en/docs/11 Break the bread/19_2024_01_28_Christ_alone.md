@@ -70,14 +70,14 @@ Oh love that will not let me go
       </p></td>
     <td><p>
 Oh love that will not let me go
-I rest my weary soul in thee
-I give thee back the life I owe
+I <b>rest</b> my <b>weary soul</b> in thee
+I give thee back the <b>life</b> I owe
 That in thine ocean depths its flow
 May richer, fuller be
 
 Oh light that followest all my way
-I yield my flickering torch to thee
-My heart restores its borrowed ray
+I <b>yield</b> <b>my flickering torch</b> to thee
+My heart <b>restores</b> its borrowed ray
 That in thy sunshine's blaze its day
 May brighter, fairer be
 
