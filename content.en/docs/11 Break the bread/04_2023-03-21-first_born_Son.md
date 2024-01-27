@@ -67,7 +67,7 @@ Six times in scripture the Lord Jesus is declared to be the first-born of God (R
 
 <div class = "quote">
 
-‪Colossians‬1:9-23 NLT  
+Colossians 1:9-23 NLT  
 9 So we have not stopped praying for you since we first heard about you. We ask God to give you complete knowledge of his will and to give you spiritual wisdom and understanding.   
 10 Then the way you live will always honor and please the Lord, and your lives will produce every kind of good fruit. All the while, you will grow as you learn to know God better and better.  
 11 We also pray that you will be strengthened with all his glorious power so you will have all the endurance and patience you need. May you be filled with joy,   
