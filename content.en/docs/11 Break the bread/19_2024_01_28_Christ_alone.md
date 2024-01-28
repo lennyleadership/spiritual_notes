@@ -24,7 +24,9 @@ Linda, Winston, Jeff, May, Suekey, Jasper, Eline, Jim, Mark, Ling, 10
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/-MrcSKkqVUs?list=RD-MrcSKkqVUs" title="不忍弃我的爱 / O Love That Wilt Not Let Me Go" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-不少基督徒从这首歌里听到激励，安慰。我则从这首歌里听到耶稣是那么的有魅力！祂一直用各样的机会给我显出祂的大能和不离不弃的爱。
+
+
+My words fail me to express my appreciation to Jesus' love.  The hymn is much better.  不少基督徒从这首歌里听到激励，安慰。我则从这首歌里听到耶稣是那么的有魅力！祂一直用各样的机会给我显出祂的大能和不离不弃的爱。  
 
 <table >
 <caption style="text-align:left", align = "top"><b></b></caption>
