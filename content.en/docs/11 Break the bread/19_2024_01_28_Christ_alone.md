@@ -67,7 +67,7 @@ Oh love that will not let me go
 生世荣华，终归尘土，  
 埋葬了让红花开遍，  
 生命永无止息。  
-      </p></td>
+    </p></td>
     <td><p>
 Oh love that will not let me go  
 I <b>rest</b> my <b>weary soul</b> in thee<label for="weary" class="margin-toggle sidenote-number"></label><span class="sidenote">different reasons in journey.</span>    
