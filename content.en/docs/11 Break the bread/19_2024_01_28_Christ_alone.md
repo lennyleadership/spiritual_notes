@@ -71,25 +71,25 @@ Oh love that will not let me go
 生命永无止息。  
     </p></td>
     <td><p>
-Oh love that will not let me go  
+Oh <b>love</b> that will not let me go  
 I <b>rest</b> my <b>weary soul</b> in thee<label for="weary" class="margin-toggle sidenote-number"></label><span class="sidenote">different reasons in journey.</span>    
 I give thee back the <b>life</b> I owe    
 That in thine ocean depths its flow    
 May richer, fuller be   
 
-Oh light that followest all my way  
+Oh <b>light</b> that followest all my way  
 I <b>yield</b> <b>my flickering torch</b> to thee<label for="flickering" class="margin-toggle sidenote-number"></label><span class="sidenote">on our own efforts</span>  
 My heart <b>restores</b> its borrowed ray  
 That in thy sunshine's blaze its day  
 May brighter, fairer be  
 
-Oh joy that seekest me through pain<label for="joy" class="margin-toggle sidenote-number"></label><span class="sidenote">Only God can we find joy in.</span>  
+Oh <b>joy</b> that seekest me through pain<label for="joy" class="margin-toggle sidenote-number"></label><span class="sidenote">Only God can we find joy in.</span>  
 I cannot close my heart to thee  
 I trace the rainbow through the rain  
 And feel the promise is not vain  
 That morn shall tearless be  
 
-Oh cross that liftest up my head<label for="lift-up" class="margin-toggle sidenote-number"></label><span class="sidenote">I am weak, but he is strong.</span>  
+Oh <b>cross</b> that liftest up my head<label for="lift-up" class="margin-toggle sidenote-number"></label><span class="sidenote">I am weak, but he is strong.</span>  
 I dare not ask to fly from thee  
 I lay in dust's life's glory dead  
 And from the ground there blossoms red  
