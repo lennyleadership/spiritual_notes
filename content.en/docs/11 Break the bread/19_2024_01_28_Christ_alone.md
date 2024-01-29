@@ -30,7 +30,7 @@ Linda, Winston, Jeff, May, Suekey, Jasper, Eline, Jim, Mark, Ling, 10
 [4] And my speech and my preaching were not with persuasive words of human wisdom, but in demonstration of the Spirit and of power,   
 [5] that your faith should not be in the wisdom of men but in the power of God.
 
-哥林多前书 2:1-5 和合本
+哥林多前书 2:1-5 和合本  
 1 弟兄们，从前我到你们那里去，并没有用高言大智对你们宣传　神的奥秘。   
 2 因为我曾定了主意，在你们中间不知道别的，只知道耶稣基督并他钉十字架。   
 3 我在你们那里，又软弱，又惧怕又甚战兢。   
