@@ -1,6 +1,6 @@
 ---
 weight: 31
-title: "Fruits of Life in Jesus"
+title: "Signs of Life in Jesus"
 authors: 
 categories: null
 description: 
