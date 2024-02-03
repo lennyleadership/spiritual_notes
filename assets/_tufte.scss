@@ -36,6 +36,7 @@ body{
 .sidenote-number:after {/*define the numbering index in the body*/
     content: counter(sidenote-counter);
     font-size: 1rem;
+    color: darkred;
     top: -0.5rem;
     left: 0.3rem;
 }
