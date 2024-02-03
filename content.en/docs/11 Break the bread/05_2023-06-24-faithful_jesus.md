@@ -3,7 +3,7 @@ weight: 05
 title: Faithful to God the Father
 authors: null
 categories: null
-tags: [Jesus qualities, Faithfulness]
+tags: ["Sign of life in Jesus", Faithfulness]
 series: null
 description: 
 draft: false

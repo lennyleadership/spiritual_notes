@@ -1,6 +1,6 @@
 ---
 weight: 31
-title: Jesus' Life
+title: "Signs of Life in Jesus"
 authors: 
 categories: null
 description: 
