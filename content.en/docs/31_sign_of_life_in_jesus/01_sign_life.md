@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: Jesus's Life Quality
+title: Sign of Life in Jesus
 authors: null
 categories: null
 tags: null
