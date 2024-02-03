@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: Sign of Life in Jesus
+title: Fruits of Life in Jesus
 authors: null
 categories: null
 tags: null
@@ -17,7 +17,7 @@ toc: true
 
 The beauty of Jesus' Life:
 
-patience, obedience, joy, perseverance, humbleness (meekness  ),
+patience, obedience, joy, perseverance, humbleness (meekness),
 
 <blockquote>
 圣灵所结的果子、就是仁爱、喜乐、和平、忍耐、恩慈、良善、信实、温柔、节制。(加5:22-23)    
