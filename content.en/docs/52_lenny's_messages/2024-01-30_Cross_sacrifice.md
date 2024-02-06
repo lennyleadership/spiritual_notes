@@ -12,6 +12,8 @@ lastmod: "2024-02-06"
 toc: true
 ---
 
+Colleagues Luncheon
+
 <!--more-->
 
 Understand Jesus's sacrifice on the Cross in the context of sacrifice system in the old testament.
