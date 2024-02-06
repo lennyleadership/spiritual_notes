@@ -1,8 +1,8 @@
 ---
 weight: 
-title: "2023-09-30 Thanksgiving Lunch at Deep River"
-authors: null
-categories: null
+title: "2023-09-30 The Meaning of Hebrews"
+authors: Lenny Lin
+categories: [Deep River Fellowship]
 tags: null
 series: null
 description: 
