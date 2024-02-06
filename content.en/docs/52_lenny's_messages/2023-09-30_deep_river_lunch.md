@@ -1,6 +1,6 @@
 ---
-weight: 999
-title: blank
+weight: 
+title: "2023-09-30 Thanksgiving Lunch at Deep River"
 authors: null
 categories: null
 tags: null
