@@ -40,11 +40,11 @@ Did Satan want Jesus crucified or not?
 
 Yes, Satan did want Jesus to be crucified.
 
-But it is significant to note that he didn’t want it for the same reasons as those he used as tools did. As the ultimate betrayer, Satan made it look to others like <b>serving Satan’s interests was serving their own</b><label for="interest" class="margin-toggle sidenote-number"></label><span class="sidenote">self-centered mind-sets</span>.
+But it is significant to note that he didn’t want it for the same reasons as those he used as tools did. As the ultimate betrayer, Satan made it look to others like <b>serving Satan’s interests was serving their own</b><label for="reasons" class="margin-toggle sidenote-number"></label><span class="sidenote">self-centered mind-sets</span>.
 
 <b>Judas Iscariot</b>
 
-Judas wanted money (see Luke 22:5-6). He may have wanted fame too. His additional motives have been explored in a variety of ways (I asked a question about this here. My personal view, however, is that whatever else may have occurred to Judas, his principal motivation was greed. From John 12:
+<b>Judas wanted money</b> (see Luke 22:5-6). <b>He may have wanted fame</b> too<label for="reasons" class="margin-toggle sidenote-number"></label><span class="sidenote">self-centered mind-sets</span>. His additional motives have been explored in a variety of ways (I asked a question about this here. My personal view, however, is that whatever else may have occurred to Judas, his principal motivation was greed. From John 12:
 
 > 5 Why was not this ointment sold for three hundred pence, and given to the poor?
 > 
@@ -66,13 +66,13 @@ The Sanhedrin (or at least many members thereof) was:
 
 <b>Peter</b>
 
-Peter did not want Jesus crucified. I suggest that Satan’s temptation of Peter noted in the OP, while it may have been designed by Satan to play on Jesus’ love for His closest disciples, was particularly geared towards tearing down Peter himself. As noted by Jesus:
+Peter did not want Jesus crucified. I suggest that Satan’s temptation of Peter noted in the OP, while it may have been designed by Satan to play on Jesus’ love for His closest disciples, was particularly geared towards <b>tearing down Peter himself</b><label for="reasons" class="margin-toggle sidenote-number"></label><span class="sidenote">Satan's mind-sets</span>. As noted by Jesus:
 
 > <i>Simon, Simon, behold, Satan hath desired to have you, that he may sift you as wheat: (Luke 22:31)</i>
 
 Satan would have loved to see Peter:
 
-•   Lose faith in Jesus and apostatize OR
+•   Lose faith in Jesus and apostatize OR  
 •   Go all the way the other direction and get himself killed at the same time as Jesus
 
 But of course Satan was attacking Jesus at the same time. Like Dumbledore's trust in Snape (over and against the arrogant blindness of Voldemort), Jesus knew who Peter was and what he would ultimately be able to do:
@@ -81,7 +81,7 @@ But of course Satan was attacking Jesus at the same time. Like Dumbledore's trus
 
 <b>Satan</b>
 
-The architect of the treachery here wanted Jesus to be crucified for a very different reason. As noted in other responses, Satan wanted Jesus to fail as Savior. Satan knew full well who Jesus was.
+The architect of the treachery here wanted Jesus to be crucified for a very different reason. As noted in other responses, <b>Satan wanted Jesus to fail as Savior</b><label for="reasons" class="margin-toggle sidenote-number"></label><span class="sidenote">Satan's mind-sets</span>. Satan knew full well who Jesus was.
 
 From Satan’s followers:
 
@@ -103,7 +103,7 @@ Satan’s goal hadn’t really changed since before he was cast out of heaven. U
 > 
 > 27 For the Lord of hosts hath purposed, and who shall disannul it? and his hand is stretched out, and who shall turn it back?
 
-Satan wanted to disannul God’s purposes and make Him fail in His word. Satan wanted to rule, to smite people down, he wanted the glory and the power, he wanted to be better than everyone else—and he thought he could outsmart God.
+<b>Satan wanted to disannul God’s purposes and make Him fail in His word. Satan wanted to rule, to smite people down, he wanted the glory and the power, he wanted to be better than everyone else—and he thought he could outsmart God</b><label for="reasons" class="margin-toggle sidenote-number"></label><span class="sidenote">Satan's mind-sets</span>.
 
 <b>Satan’s end-game</b>
 
