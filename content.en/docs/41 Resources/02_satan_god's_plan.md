@@ -20,10 +20,9 @@ Reference:  Matthew 16:21-23 vs Luke 22:3-6
 Many interpret Jesus' words in Matthew 16:23 as evidence that Satan manipulated Peter into attempting to dissuade Jesus from going to the cross (see the top answers to this related question for examples of people holding this view). Matthew 16:21-23 (ESV) below for reference:
 
 <div class = "quote">
+
 21 From that time Jesus began to show his disciples that he must go to Jerusalem and suffer many things from the elders and chief priests and scribes, and be killed, and on the third day be raised.  
-
 22 And Peter took him aside and began to rebuke him, saying, “Far be it from you, Lord! This shall never happen to you.”   
-
 23 <b>But he turned and said to Peter, “Get behind me, Satan!</b> You are a hindrance to me. For you are not setting your mind on the things of God, but on the things of man.”
 </div>
 
@@ -41,7 +40,7 @@ Did Satan want Jesus crucified or not?
 
 Yes, Satan did want Jesus to be crucified.
 
-But it is significant to note that he didn’t want it for the same reasons as those he used as tools did. As the ultimate betrayer, Satan made it look to others like serving Satan’s interests was serving their own.
+But it is significant to note that he didn’t want it for the same reasons as those he used as tools did. As the ultimate betrayer, Satan made it look to others like <b>serving Satan’s interests was serving their own</b><label for="interest" class="margin-toggle sidenote-number"></label><span class="sidenote">self-centered mind-sets</span>.
 
 <b>Judas Iscariot</b>
 
@@ -55,7 +54,7 @@ Judas wanted money (see Luke 22:5-6). He may have wanted fame too. His additiona
 
 The Sanhedrin (or at least many members thereof) was:
 
-•   Envious of Jesus’ popularity (see Matthew 27:18 & discussion on this site [here](https://hermeneutics.stackexchange.com/questions/58594/why-did-pilate-refer-to-jesus-as-christ-messiah)  
+•   Envious of Jesus’ popularity (see Matthew 27:18 & discussion on this site [here](https://hermeneutics.stackexchange.com/questions/58594/why-did-pilate-refer-to-jesus-as-christ-messiah))  
 •   They saw Him as a risk to their power (see John 11:47-53)  
 •   They did not like His teachings, such as:
 
@@ -63,7 +62,7 @@ The Sanhedrin (or at least many members thereof) was:
 > 
 > 14 Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows’ houses, and for a pretence make long prayer: therefore ye shall receive the greater damnation. (Matthew 23:13-14)</i>
 
-They wanted Jesus out of the way and thought that by killing Him they would succeed. In particular, having Him publicly killed by the Romans would be especially excruciating and humiliating, and it would (they thought) scare off His followers by showing them that Jesus was an enemy to Rome.
+<b>They wanted Jesus out of the way</b><label for="" class="margin-toggle sidenote-number"></label><span class="sidenote">self-centered mind-sets</span> and thought that by killing Him they would succeed. In particular, having Him publicly killed by the Romans would be especially excruciating and humiliating, and it would (they thought) scare off His followers by showing them that Jesus was an enemy to Rome.
 
 <b>Peter</b>
 
