@@ -18,32 +18,13 @@ Matthew 16:15 Who do you say that I am?
 
 Linda, Winston, Jeff, May, Suekey, Jasper, Eline, Jim, Mark, Ling, 10
 
-这个问题我有一个切身的经历。在2023年圣诞节的主日，掰饼聚会后大家围坐在一起交通。牧者翻到这节经文，问大家同样的问题，给每个人五分钟的时间分享。并且附加一个要求，大家都认同的回答不算，必须是你个人的回答。有一位慕道友的分享给我很深的印象。她说，她因为眼疾，人很顾虑，受一位朋友的邀请来教会。来了一个月后，她说感受到上帝在这里，自己不再忧虑，心里经历到平静、安稳。
+这个问题我有一个切身的经历。在2023年圣诞节的主日，掰饼聚会后大家围坐在一起交通。牧者翻到这节经文，问大家同样的问题。并且附加一个要求，大家都认同的回答不算，必须是你个人的回答。有一位慕道友的分享给我很深的印象。她说，她因为眼疾，人很顾虑，受一位朋友的邀请来教会。来了一个月后，她说感受到上帝在这里，自己不再忧虑，心里经历到平静、安稳。
 
-分享虽然很短，但是从她的分享里，我找到了我的答案。那就是上帝的大能。这两年，最初教会以英文为母语的，可是陆陆续续有华人来。先是两位慕道友，后来有八位，这是大家始料不及。这些慕道友来教会单单听福音，观察弟兄姐妹看看主的生命到底在是什么？上帝的大能不仅仅体现在使教会加添不少人，更是使慕道友经历到生命改变。我的感受如此深刻，是因为哥林多前书 2:1-5的经文被打开了。
-第一：教会的现状使我对上帝的话将信将疑。圣经上说，耶稣是一切！如今活着的不再是我，乃是基督在我里面活着。可是，我访问过一些的教会，牧者讲听众顺耳的东西，讲道的内容掺杂着“心灵鸡汤”、“积极人生”。这让我想起，当保罗去雅典传福音的时候见到雅典人供奉未识之神 （使徒行傳 17:22-31）。其实，基督教圈子里照样在敬拜着许许多多的“未识之神”。挺可悲的！然而，这位慕道友的分享让我真切地体会到上帝话语的大能，体会到关于生命的一切道理都在耶稣里。我们在教会里不需要传别的，唯独基督！
-
-1 Corinthians 2:1-5 NKJV  
-[1] And I, brethren, when I came to you, did not come with excellence of speech or of wisdom declaring to you the testimony of God.   
-[2] For I determined not to know anything among you except Jesus Christ and Him crucified.   
-[3] I was with you in weakness, in fear, and in much trembling.   
-[4] And my speech and my preaching were not with persuasive words of human wisdom, but in demonstration of the Spirit and of power,   
-[5] that your faith should not be in the wisdom of men but in the power of God.
-
-哥林多前书 2:1-5 和合本  
-1 弟兄们，从前我到你们那里去，并没有用高言大智对你们宣传　神的奥秘。   
-2 因为我曾定了主意，在你们中间不知道别的，只知道耶稣基督并他钉十字架。   
-3 我在你们那里，又软弱，又惧怕又甚战兢。   
-4 我说的话、讲的道，不是用智慧委婉的言语，乃是用圣灵和大能的明证，   
-5 叫你们的信不在乎人的智慧，只在乎　神的大能。
-
-结论：增加了我的信心！
+分享虽然很短，但是从她的分享里，我找到了我的答案。那就是上帝的大能。这两年，最初教会以英文为母语的，可是陆陆续续有华人来。先是两位慕道友，后来有八位，这是大家始料不及。这些慕道友来教会单单听福音，观察弟兄姐妹看看主的生命到底在是什么？上帝的大能不仅仅体现在使教会加添不少人，更是使慕道友经历到生命改变。我访问过一些的教会，牧者讲听众顺耳的东西，讲道的内容掺杂着“心灵鸡汤”、“积极人生”。这让我想起，当保罗去雅典传福音的时候见到雅典人供奉未识之神 （使徒行傳 17:22-17:31）。其实，基督教圈子里照样在敬拜着许许多多的“未识之神”。挺可悲的！然而，这位慕道友的分享让我真切地体会到上帝的大能，体会到关于生命的一切道理都在耶稣里。我们在教会里不需要传别的，唯独基督！
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/-MrcSKkqVUs?list=RD-MrcSKkqVUs" title="不忍弃我的爱 / O Love That Wilt Not Let Me Go" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-
-My words fail me to express my appreciation to Jesus' love.  The hymn is much better.  不少基督徒从这首歌里听到激励，安慰。我则从这首歌里听到耶稣是那么的有魅力！祂一直用各样的机会给我显出祂的大能和不离不弃的爱。  
+不少基督徒从这首歌里听到激励，安慰。我则从这首歌里听到耶稣是那么的有魅力！祂一直用各样的机会给我显出祂的大能和不离不弃的爱。
 
 <table >
 <caption style="text-align:left", align = "top"><b></b></caption>
@@ -59,60 +40,58 @@ Oh love that will not let me go
   </tr>
   <tr>
     <td><p>
-    
-第一节  
-仁爱，不忍弃我的爱，  
-疲劳灵魂因祢得安；  
-虚逝残生，我今归献，  
-愿如潦水流入渊洋，  
-翻作壮阔波澜。  
+第一节
+仁爱，不忍弃我的爱，
+疲劳灵魂因祢得安；
+虚逝残生，我今归献，
+愿如潦水流入渊洋，
+翻作壮阔波澜。
 
-第二节  
-真光，照我全程的光，  
-将残的灯，移来就祢；  
-我心复得所失之光，  
-在祢阳光和煦之中，  
-便觉明亮辉煌。  
+第二节
+真光，照我全程的光，
+将残的灯，移来就祢；
+我心复得所失之光，
+在祢阳光和煦之中，
+便觉明亮辉煌。
 
-第三节  
-欢乐，祢来苦中找我，  
-我心岂忍将你拒绝？  
-我在雨中踪迹彩虹，  
-知道应许不会落空，  
-天明不再有泪。  
+第三节
+欢乐，祢来苦中找我，
+我心岂忍将你拒绝？
+我在雨中踪迹彩虹，
+知道应许不会落空，
+天明不再有泪。
 
-第四节  
-使我抬头的十字架，  
-不皈依祢，我复何往？  
-生世荣华，终归尘土，  
-埋葬了让红花开遍，  
-生命永无止息。  
-    </p></td>
+第四节
+使我抬头的十字架，
+不皈依祢，我复何往？
+生世荣华，终归尘土，
+埋葬了让红花开遍，
+生命永无止息。
+      </p></td>
     <td><p>
+Oh love that will not let me go
+I <b>rest</b> my <b>weary soul</b> in thee
+I give thee back the <b>life</b> I owe
+That in thine ocean depths its flow
+May richer, fuller be
 
-Oh <b>love</b> that will not let me go  
-I <b>rest</b> my <b>weary soul</b> in thee<label for="weary" class="margin-toggle sidenote-number"></label><span class="sidenote">different reasons in journey.</span>    
-I give thee back the <b>life</b> I owe    
-That in thine ocean depths its flow    
-May richer, fuller be   
+Oh light that followest all my way
+I <b>yield</b> <b>my flickering torch</b> to thee
+My heart <b>restores</b> its borrowed ray
+That in thy sunshine's blaze its day
+May brighter, fairer be
 
-Oh <b>light</b> that followest all my way  
-I <b>yield</b> <b>my flickering torch</b> to thee<label for="flickering" class="margin-toggle sidenote-number"></label><span class="sidenote">on our own efforts</span>  
-My heart <b>restores</b> its borrowed ray  
-That in thy sunshine's blaze its day  
-May brighter, fairer be  
+Oh joy that seekest me through pain
+I cannot close my heart to thee
+I trace the rainbow through the rain
+And feel the promise is not vain
+That morn shall tearless be
 
-Oh <b>joy</b> that seekest me through pain<label for="joy" class="margin-toggle sidenote-number"></label><span class="sidenote">Only God can we find joy in.</span>  
-I cannot close my heart to thee  
-I trace the rainbow through the rain  
-And feel the promise is not vain  
-That morn shall tearless be  
-
-Oh <b>cross</b> that liftest up my head<label for="lift-up" class="margin-toggle sidenote-number"></label><span class="sidenote">I am weak, but he is strong.</span>  
-I dare not ask to fly from thee  
-I lay in dust's life's glory dead  
-And from the ground there blossoms red  
+Oh cross that liftest up my head
+I dare not ask to fly from thee
+I lay in dust's life's glory dead
+And from the ground there blossoms red
 Life that shall endless be
   </p></td>
   </tr>
-</table>  
+</table>
