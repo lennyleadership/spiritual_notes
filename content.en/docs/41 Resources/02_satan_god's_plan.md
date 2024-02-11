@@ -19,16 +19,18 @@ Reference:  Matthew 16:21-23 vs Luke 22:3-6
 
 Many interpret Jesus' words in Matthew 16:23 as evidence that Satan manipulated Peter into attempting to dissuade Jesus from going to the cross (see the top answers to this related question for examples of people holding this view). Matthew 16:21-23 (ESV) below for reference:
 
-><i>21 From that time Jesus began to show his disciples that he must go to Jerusalem and suffer many things from the elders and chief priests and scribes, and be killed, and on the third day be raised.  
+<div class = "quote">
+21 From that time Jesus began to show his disciples that he must go to Jerusalem and suffer many things from the elders and chief priests and scribes, and be killed, and on the third day be raised.  
 22 And Peter took him aside and began to rebuke him, saying, “Far be it from you, Lord! This shall never happen to you.”   
-23 <b>But he turned and said to Peter, “Get behind me, Satan!</b> You are a hindrance to me. For you are not setting your mind on the things of God, but on the things of man.”</i>
+23 <b>But he turned and said to Peter, “Get behind me, Satan!</b> You are a hindrance to me. For you are not setting your mind on the things of God, but on the things of man.”
+</div>
 
 However, Luke 22:3-6 (ESV) is very explicit in telling us that Satan entered into Judas Iscariot, using him as an instrument to betray Jesus and ultimately have him crucified:
 
->3 <b>Then Satan entered into Judas called Iscariot</b>, who was of the number of the twelve.   
+><i>3 <b>Then Satan entered into Judas called Iscariot</b>, who was of the number of the twelve.   
 4 He went away and conferred with the chief priests and officers <b>how he might betray him to them</b>.   
 5 And they were glad, and agreed to give him money.   
-6 <b>So he consented and sought an opportunity to betray him</b> to them in the absence of a crowd.
+6 <b>So he consented and sought an opportunity to betray him</b> to them in the absence of a crowd.</i>
 
 Did Satan want Jesus crucified or not?
 
@@ -48,13 +50,13 @@ Judas wanted money (see Luke 22:5-6). He may have wanted fame too. His additiona
 
 The Sanhedrin (or at least many members thereof) was:
 
-•   Envious of Jesus’ popularity (see Matthew 27:18 & discussion on this site here
-•   They saw Him as a risk to their power (see John 11:47-53)
+•   Envious of Jesus’ popularity (see Matthew 27:18 & discussion on this site [here](https://hermeneutics.stackexchange.com/questions/58594/why-did-pilate-refer-to-jesus-as-christ-messiah)  
+•   They saw Him as a risk to their power (see John 11:47-53)  
 •   They did not like His teachings, such as:
 
-> 13 But woe unto you, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in yourselves, neither suffer ye them that are entering to go in.
+> <i>13 But woe unto you, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in yourselves, neither suffer ye them that are entering to go in.
 > 
-> 14 Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows’ houses, and for a pretence make long prayer: therefore ye shall receive the greater damnation. (Matthew 23:13-14)
+> 14 Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows’ houses, and for a pretence make long prayer: therefore ye shall receive the greater damnation. (Matthew 23:13-14)</i>
 
 They wanted Jesus out of the way and thought that by killing Him they would succeed. In particular, having Him publicly killed by the Romans would be especially excruciating and humiliating, and it would (they thought) scare off His followers by showing them that Jesus was an enemy to Rome.
 
@@ -62,7 +64,7 @@ They wanted Jesus out of the way and thought that by killing Him they would succ
 
 Peter did not want Jesus crucified. I suggest that Satan’s temptation of Peter noted in the OP, while it may have been designed by Satan to play on Jesus’ love for His closest disciples, was particularly geared towards tearing down Peter himself. As noted by Jesus:
 
-> Simon, Simon, behold, Satan hath desired to have you, that he may sift you as wheat: (Luke 22:31)
+> <i>Simon, Simon, behold, Satan hath desired to have you, that he may sift you as wheat: (Luke 22:31)</i>
 
 Satan would have loved to see Peter:
 
