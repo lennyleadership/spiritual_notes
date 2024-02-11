@@ -36,7 +36,7 @@ Yes, Satan did want Jesus to be crucified.
 
 But it is significant to note that he didn’t want it for the same reasons as those he used as tools did. As the ultimate betrayer, Satan made it look to others like serving Satan’s interests was serving their own.
 
-Judas Iscariot
+<b>Judas Iscariot</b>
 
 Judas wanted money (see Luke 22:5-6). He may have wanted fame too. His additional motives have been explored in a variety of ways (I asked a question about this here. My personal view, however, is that whatever else may have occurred to Judas, his principal motivation was greed. From John 12:
 
@@ -44,7 +44,7 @@ Judas wanted money (see Luke 22:5-6). He may have wanted fame too. His additiona
 > 
 > 6 This he said, not that he cared for the poor; but because he was a thief, and had the bag, and bare what was put therein.
 
-The Sanhedrin
+<b>The Sanhedrin</b>
 
 The Sanhedrin (or at least many members thereof) was:
 
@@ -58,7 +58,7 @@ The Sanhedrin (or at least many members thereof) was:
 
 They wanted Jesus out of the way and thought that by killing Him they would succeed. In particular, having Him publicly killed by the Romans would be especially excruciating and humiliating, and it would (they thought) scare off His followers by showing them that Jesus was an enemy to Rome.
 
-Peter
+<b>Peter</b>
 
 Peter did not want Jesus crucified. I suggest that Satan’s temptation of Peter noted in the OP, while it may have been designed by Satan to play on Jesus’ love for His closest disciples, was particularly geared towards tearing down Peter himself. As noted by Jesus:
 
@@ -73,7 +73,7 @@ But of course Satan was attacking Jesus at the same time. Like Dumbledore's trus
 
 > But I have prayed for thee, that thy faith fail not: (Luke 22:32)
 
-Satan
+<b>Satan</b>
 
 The architect of the treachery here wanted Jesus to be crucified for a very different reason. As noted in other responses, Satan wanted Jesus to fail as Savior. Satan knew full well who Jesus was.
 
@@ -99,7 +99,7 @@ Satan’s goal hadn’t really changed since before he was cast out of heaven. U
 
 Satan wanted to disannul God’s purposes and make Him fail in His word. Satan wanted to rule, to smite people down, he wanted the glory and the power, he wanted to be better than everyone else—and he thought he could outsmart God.
 
-Satan’s end-game
+<b>Satan’s end-game</b>
 
 What ultimately was Satan hoping to accomplish through the betrayal of Judas, the envy of the Sanhedrin, and the misplaced devotion of Peter? Luke understood:
 
@@ -111,7 +111,7 @@ Talmage put it poignantly well:
 
 Satan wanted Jesus to be crucified so he could put Him in that terrible, tempting situation--in hopes of getting Him to do something that would disqualify Him from His perfect salvific role.
 
-Conclusion
+<b>Conclusion</b>
 
 Satan, like the supervillains of literature, didn’t let his minions in on his master plan—he much preferred they didn’t see the big picture. Jesus was open about His mission and brought people to see.
 
