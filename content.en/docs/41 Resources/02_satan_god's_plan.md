@@ -54,7 +54,8 @@ But it is significant to note that he didn’t want it for the same reasons as t
 
 The Sanhedrin (or at least many members thereof) was:
 
-•   Envious of Jesus’ popularity (see Matthew 27:18 & discussion on this site [here](https://hermeneutics.stackexchange.com/questions/58594/why-did-pilate-refer-to-jesus-as-christ-messiah))  
+•   Envious of Jesus’ popularity (see Matthew 27:18 & discussion on 
+<a href = "https://hermeneutics.stackexchange.com/questions/58594/why-did-pilate-refer-to-jesus-as-christ-messiah" target="_blank" rel="noopener noreferrer">this site here</a>)  
 •   They saw Him as a risk to their power (see John 11:47-53)  
 •   They did not like His teachings, such as:
 
@@ -124,3 +125,5 @@ Satan, like the supervillains of literature, didn’t let his minions in on his 
 Satan wanted to disrupt the plan of God by getting Jesus to fail in His mission. There was only one Christ (the Anointed One); there was no backup Savior. God gave His Only Begotten Son. The atonement of Christ was the showdown between the Greatest that God sent and the worst Satan could muster. Satan was blinded by his arrogance then as he was before; God had Satan beat since before the foundation of the world.
 
 The plan of salvation was anchored in faith from the very beginning—the Father trusted the Son and knew Him well enough to know He would not fail.
+
+Reference: <a href = "https://hermeneutics.stackexchange.com/questions/59643/did-satan-want-jesus-crucified-or-not-matthew-1621-23-vs-luke-223-6" target="_blank" rel="noopener noreferrer">Biblical Hermeneutics Stack Exchange | Did Satan want Jesus crucified or not?</a>
