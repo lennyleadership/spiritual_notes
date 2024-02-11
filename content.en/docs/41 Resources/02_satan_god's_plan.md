@@ -2,7 +2,7 @@
 weight: 02
 title: "Did Satan want Jesus crucified or not?"
 authors: null
-categories: null
+categories: ["Biblical Hermeneutics"]
 tags: null
 series: null
 description: 
