@@ -29,10 +29,13 @@ Many interpret Jesus' words in Matthew 16:23 as evidence that Satan manipulated 
 
 However, Luke 22:3-6 (ESV) is very explicit in telling us that Satan entered into Judas Iscariot, using him as an instrument to betray Jesus and ultimately have him crucified:
 
-><i>3 <b>Then Satan entered into Judas called Iscariot</b>, who was of the number of the twelve.   
+<div class = "quote">
+
+3 <b>Then Satan entered into Judas called Iscariot</b>, who was of the number of the twelve.   
 4 He went away and conferred with the chief priests and officers <b>how he might betray him to them</b>.   
 5 And they were glad, and agreed to give him money.   
-6 <b>So he consented and sought an opportunity to betray him</b> to them in the absence of a crowd.</i>
+6 <b>So he consented and sought an opportunity to betray him</b> to them in the absence of a crowd.
+</div>
 
 Did Satan want Jesus crucified or not?
 
