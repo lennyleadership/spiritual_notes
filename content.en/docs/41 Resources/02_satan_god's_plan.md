@@ -19,15 +19,15 @@ Reference:  Matthew 16:21-23 vs Luke 22:3-6
 
 Many interpret Jesus' words in Matthew 16:23 as evidence that Satan manipulated Peter into attempting to dissuade Jesus from going to the cross (see the top answers to this related question for examples of people holding this view). Matthew 16:21-23 (ESV) below for reference:
 
->21 From that time Jesus began to show his disciples that he must go to Jerusalem and suffer many things from the elders and chief priests and scribes, and be killed, and on the third day be raised.
-22 And Peter took him aside and began to rebuke him, saying, “Far be it from you, Lord! This shall never happen to you.” 
+>21 From that time Jesus began to show his disciples that he must go to Jerusalem and suffer many things from the elders and chief priests and scribes, and be killed, and on the third day be raised.  
+22 And Peter took him aside and began to rebuke him, saying, “Far be it from you, Lord! This shall never happen to you.”   
 23 <b>But he turned and said to Peter, “Get behind me, Satan!</b> You are a hindrance to me. For you are not setting your mind on the things of God, but on the things of man.”
 
 However, Luke 22:3-6 (ESV) is very explicit in telling us that Satan entered into Judas Iscariot, using him as an instrument to betray Jesus and ultimately have him crucified:
 
->3 <b>Then Satan entered into Judas called Iscariot</b>, who was of the number of the twelve. 
-4 He went away and conferred with the chief priests and officers <b>how he might betray him to them</b>. 
-5 And they were glad, and agreed to give him money. 
+>3 <b>Then Satan entered into Judas called Iscariot</b>, who was of the number of the twelve.   
+4 He went away and conferred with the chief priests and officers <b>how he might betray him to them</b>.   
+5 And they were glad, and agreed to give him money.   
 6 <b>So he consented and sought an opportunity to betray him</b> to them in the absence of a crowd.
 
 Did Satan want Jesus crucified or not?
