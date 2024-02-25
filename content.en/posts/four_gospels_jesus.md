@@ -1,11 +1,12 @@
-+++
-title = "四福音的侧重点"
-description = ""
-tags = [旷野吗哪]
-date = "2024-02-24"
-categories = []
-menu = "main"
-+++
+---
+weight: 
+title: "四福音的侧重点"
+tags: [旷野吗哪]
+categories: []
+author: Lenny Lin
+date: "2024-02-24"
+linktitle: 
+---
 
 
 
