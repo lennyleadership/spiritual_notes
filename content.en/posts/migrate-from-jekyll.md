@@ -6,7 +6,7 @@ menu:
     parent: tutorials
 prev: /tutorials/mathjax
 title: Migrate to Hugo from Jekyll
-weight: 10
+weight: 103
 ---
 
 ## Move static content to `static`
