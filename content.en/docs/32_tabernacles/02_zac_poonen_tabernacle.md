@@ -15,11 +15,9 @@ toc: true
 <!--more-->
 
 
-Written by :   Zac Poonen 
-
 (Summary of Bible-studies given at a Conference in Bangalore India - December 26 to 28, 2000)  
 Reading: Exodus chapters 25 to 31; and 35 to 40.  
-Zac Poonen and Ian Robson in front of 16 DaCosta Square
+
 
 The Old Testament tabernacle was to be a sanctuary where God could dwell in the midst of Israel (Exod.25:8).
 
@@ -27,26 +25,26 @@ It was also a picture of Jesus Who came in the flesh and 'tabernacled' among men
 
 # Exactly According To The Pattern
 
-God was very particular that every part of the tabernacle should be made exactly according to the pattern that He gave Moses (Exod.25:9). God gave Moses specific instructions about the sizes of the different parts of the tabernacle and the materials to be used for each. Many Christians do not realize the need to do everything in the church and in their lives exactly as the Lord has commanded in His Word. They allow their human understanding to decide how far to obey God and where to modify His commands.
+God was very particular that every part of the tabernacle should be made exactly according to the pattern that He gave Moses (Exod.25:9). God gave Moses specific instructions about the sizes of the different parts of the tabernacle and the materials to be used for each. <b>Many Christians do not realize the need to do everything in the church and in their lives exactly as the Lord has commanded in His Word. They allow their human understanding to decide how far to obey God and where to modify His commands</b><label for="" class="margin-toggle sidenote-number"></label><span class="sidenote">Problem #1</span>.
 
-Moses had seen the construction of magnificent pyramids in Egypt. But he did not modify God's simple pattern of the tabernacle to make it more appealing to human eyes. In every detail, he constructed it exactly as the Lord had commanded him (Exod.39:1-40:33).That was why the glory of God filled it. If Moses had been given this pattern when he was 40 years old, he would perhaps have tried to 'improve' on God's pattern with his Egyptian wisdom! The tabernacle may have looked better then - but the glory of God would have been absent. This is what has happened in many churches.
+Moses had seen the construction of magnificent pyramids in Egypt. But he did not modify God's simple pattern of the tabernacle to make it more appealing to human eyes. In every detail, he constructed it exactly as the Lord had commanded him (Exod.39:1-40:33).That was why the glory of God filled it. If Moses had been given this pattern when he was 40 years old, he would perhaps have tried to 'improve' on God's pattern with <b>his Egyptian wisdom</b>! <b>The tabernacle may have looked better then - but the glory of God would have been absent. This is what has happened in many churches</b><label for="" class="margin-toggle sidenote-number"></label><span class="sidenote">Problem #2</span>.
 
-God's thoughts and ways are far higher than ours (Isa.55:8,9). Those who do not realize this will always add their human ideas to God's commandments. Only those who are eager for the glory of God to be manifested will be able to find God's perfect pattern and will for their lives.
+God's thoughts and ways are far higher than ours (Isa.55:8,9). Those who do not realize this will always <b>add their human ideas to God's commandments</b>. Only those who are eager for the glory of God to be manifested will be able to find God's perfect pattern and will for their lives.
 
 Our Lord lived His entire life on earth fulfilling minute details of Old Testament prophecies that had been made concerning His birth, life and death. He was careful at all times to fulfill everything that was written "in the Book" concerning Him (Heb.10:7).
 
-There are many things we can learn from the way that Jesus - the first "body of Christ" - lived on earth. For example, He was born in an ugly cowshed and grew up in simplicity, having nothing about Him that was attractive to man (Isa.53:2). The second body of Christ (the church) is to be the same. Those in the church today who try to attract people through impressive buildings and music and programs etc., have not realized this truth.
+There are many things we can learn from the way that Jesus - <b>the first "body of Christ"</b> - lived on earth. For example, He was born in an ugly cowshed and grew up in simplicity, having nothing about Him that was attractive to man (Isa.53:2). <b>The second body of Christ (the church)</b> is to be the same. <b>Those in the church today who try to attract people through impressive buildings and music and programs etc., have not realized this truth</b><label for="" class="margin-toggle sidenote-number"></label><span class="sidenote">Problem #3</span>.
 
-At the end of our Lord's life on earth, He could say that He had finished the work that the Father had given Him to do (Jn.17:4;19:30). Paul too lived in such a way that he was able to complete the entire course of God's plan for his life (2 Tim.4:7). If Christians don't bother to find out what the Lord wants them to do, but instead plan their lives, according to their own wisdom, the glory of God will not rest on their lives or their ministry.
+At the end of our Lord's life on earth, He could say that He had finished the work that the Father had given Him to do (Jn.17:4;19:30). Paul too lived in such a way that he was able to complete the entire course of God's plan for his life (2 Tim.4:7). If Christians don't bother to find out what the Lord wants them to do, but instead plan their lives, according to <b>their own wisdom</b>, the glory of God will not rest on their lives or their ministry.
 
-While human wisdom would have started with outlining the dimensions of the tabernacle first, before going into the smaller details, God began first of all by giving Moses the pattern for the ark of the covenant. The ark was a small piece of furniture to be placed in the smallest room of the tabernacle - the most holy place (Exod.25:10). But that room was where the glory of God was going to be present. And so that had to come first. This teaches us that everything in our lives must begin with God - even as the Bible itself begins with the words, In the beginning God¦...". We must consider God first in every decision that we take.
+While <b>human wisdom</b> would have started with outlining the dimensions of the tabernacle first, before going into the smaller details, God began first of all by giving Moses the pattern for the ark of the covenant. The ark was a small piece of furniture to be placed in the smallest room of the tabernacle - the most holy place (Exod.25:10). But that room was where the glory of God was going to be present. And so that had to come first. This teaches us that everything in our lives must begin with God - even as the Bible itself begins with the words, In the beginning God¦...". We must consider God first in every decision that we take.
 
 It was when Moses was alone with God on the mountain, fasting and praying for forty days that he saw the pattern for the tabernacle (Exod.25:40). People who are in too much of a hurry to wait on God or who care more for the opinions of men will never be able to understand the will of God.
 
 God called Bezalel and Oholiab to build the tabernacle and He gave them supernatural abilities through the Holy Spirit to do this task (Exod.31:1-3). The power of the Holy Spirit is what we need too, to build the church today.
 
 # The Parts Of The Tabernacle
-Zac Poonen and Ian Robson in front of 16 DaCosta Square
+
 
 The outer court of the tabernacle was 150 feet long by 75 feet wide. A sheet of fine white linen - symbolizing the righteousness of Christ - enclosed it. That which separates those inside the church from those outside is not a different level of human righteousness, but the fact that those inside are clothed with the righteousness of Christ. The white linen also symbolizes the simplicity that should characterize the church. Babylon the harlot, on the other hand, is depicted in the book of Revelation as being grand and pompous in many ways “ quite a contrast to the simplicity of the Bride of Christ (cf. Rev.17:4 with 19:8).
 
@@ -65,10 +63,10 @@ All Israelites were permitted to enter the outer court. But only the priests cou
 Into the most holy place, only the high priest could enter “ and that too, only once a year, on the day of atonement, with the blood of the sacrifice. There the ark of the covenant was kept, covered by the mercy seat, and the glory of God was visibly present.
 
 # The Tent And Its Boards
-Zac Poonen and Ian Robson in front of 16 DaCosta Square
+
 
 The tent was 45 feet long, 15 feet wide and 15 feet high. Inside it, the holy place was 30 feet long and 15 feet wide. The most holy place was 15-feet square.
-Zac Poonen and Ian Robson in front of 16 DaCosta Square
+
 
 The tent was constructed with boards made of cheap acacia wood overlaid with gold. This symbolized Jesus being both God (gold) and Man (wood). It also symbolizes the members of the Body of Christ today who although human, have also been made partakers of the Divine nature (2 Pet.1:4).
 
@@ -89,7 +87,7 @@ Those who belong to Jesus will go to Him "outside the camp of this world " and "
 To go outside the camp means to be rejected by the world. If Jesus was misunderstood and called the prince of devils by people in His day, we the members of His family will be called by even worse names (See Matt.10:24). The reason why most Christians are popular with the world (unlike Jesus) is because they seek to please men and are diplomatic and compromising. It was not the worldly Romans or Greeks who opposed Jesus but religious Jews. The Jews hated Jesus because He stood for God's truth without compromise. Opposition for Christians today too will come primarily from religious people - religious Christians and other religious people.
 
 # The Bronze Altar of Sacrifice
-Zac Poonen and Ian Robson in front of 16 DaCosta Square
+
 
 The first item in the outer court of the tabernacle was the altar of sacrifice, which was a hollow bronze enclosure placed on the ground. The sacrifices had to be placed on the ground inside the altar, for God had said that His altar was always to be one of earth (created by God and not constructed by any man - symbolizing Calvary's cross, an altar made by God Himself - Exod.20:24,25).
 
@@ -102,7 +100,7 @@ Most Christians have seen only the external sufferings of Jesus on the cross. Th
 The altar had four horns in the corners to which the sacrificial animals were tied, before they were slain. This speaks of the steadfastness with which Jesus set His mind to go to the cross (Lk.9:51). This steadfastness must be found in all of us too, to take up the cross every day (Ps.118:27).
 
 # The Bronze Laver
-Zac Poonen and Ian Robson in front of 16 DaCosta Square
+
 
 The laver of water in the outer court symbolizes the cleansing we receive by the word of God - as we hear and obey it (Eph.5:26). It also symbolizes water baptism.
 
@@ -115,7 +113,7 @@ If we allow the Holy Spirit to lead us, He will show us even deeper levels of ad
 Washing by the word from external sins in the outer court will give us a good testimony before people. But if we do not go into the most holy place and let the fire of God cleanse us inwardly, we will never become truly spiritual. We will only remain as religious people.
 
 # The Golden Table of Bread
-Zac Poonen and Ian Robson in front of 16 DaCosta Square
+
 
 Inside the holy place there was a table on which 12 loaves of bread representing the twelve tribes of Israel were kept, which only the priests were allowed to eat. They ate the bread on behalf of all of Israel's tribes.
 
@@ -126,7 +124,7 @@ There were twelve separate loaves in the old covenant, because Israel could not 
 We are all to partake of this bread, because each of us is to live by Christ our Head, through direct contact with Him, and not through leaders as it was under the old covenant.
 
 # The Golden Lampstand
-Zac Poonen and Ian Robson in front of 16 DaCosta Square
+
 
 The lampstand inside the holy place symbolizes the testimony of our life as well as of the local church.
 
@@ -143,7 +141,7 @@ Each lamp in the lampstand (symbolizing each member of a local church) was to bu
 It is only as we follow God's pattern exactly that His glory can fill a local church.
 
 # The Golden Altar of Incense
-Zac Poonen and Ian Robson in front of 16 DaCosta Square
+
 
 The altar of incense inside the holy place represents prayer in Jesus' Name (Rev.5:8). Prayer is an expression of our dependence on God, and prayer in Jesus' Name (like this incense) is to rise up from our hearts to God at all times (Exod.30:8; Luke 18:1). Our prayers ascend as a fragrance unto the Lord.
 
@@ -192,14 +190,14 @@ Jesus has inaugurated this new and living way now for us - so that we can walk o
 This is not a door through which we enter, once for all. It is a way on which we have to walk all through our life. Only thus can we live in the most holy place at all times.
 
 # The Golden Ark of The Covenant
-Zac Poonen and Ian Robson in front of 16 DaCosta Square
+
 
 The most holy place contained the golden ark with the mercy seat as a lid on it. The ark of the covenant and the mercy-seat were together a picture of Christ as the Mediator of the new covenant between God and Man.
 
 The mercy seat was where the blood was sprinkled on the day of atonement. It had two golden cherubs on it. Cherubs were the ones who guarded the tree of life in Eden with a flaming sword (Ge.3:24). That sword first fell on Jesus, when He died on the cross. But that sword fell on us too, for we too were crucified with Him (Gal.2:20). The only way for us to come to the tree of life (Christ) now, is by accepting this sword and allowing our self-will to be slain.
 
 Inside the ark were kept the two tablets of stone (with the ten commandments written on them), a golden pot (with some manna) and Aaron's rod (that had come to life and budded).
-Zac Poonen and Ian Robson in front of 16 DaCosta Square
+
 
 Even though the manna came from heaven, when some Israelites kept it overnight, it bred worms and stank. But when the same manna was kept in the presence of God, it did not stink throughout the forty years in the wilderness. We learn from this that if we hold God's truth only in our minds, it will bring death. But if we hold it in humility in God's presence, it will remain fresh perpetually. There is an anointing and a freshness when a man who lives in God's presence preaches God's Word. But the same message, if copied and spoken by another, can be as dry as dead bones.
 
@@ -210,7 +208,7 @@ In the days of Samuel, some curious Israelites once lifted this mercy seat to se
 #The High Priest's Dress
 
 Aaron the high priest symbolizes Jesus our High Priest. His outward dress consisted of three items.
-Zac Poonen and Ian Robson in front of 16 DaCosta Square
+
 
 First of all, a tunic made of fine white linen symbolizing the righteousness of Christ.
 
@@ -220,7 +218,7 @@ On top of this robe, he had to wear an ephod, which was a multi-colored apron. T
 (1) Two shoulder-plates having the names of the twelve tribes of Israel
 (2) A breastplate having 12 stones that represented the twelve tribes of Israel
 (3) The "Urim and Thummim" placed in a pocket of the ephod.
-Zac Poonen and Ian Robson in front of 16 DaCosta Square
+
 
 These three items symbolize Christ's power supporting us, His love caring for us, and His wisdom guiding us. These three are brought together in 2 Tim.1:7 as the virtues that the Spirit of God communicates to us today, gifts of the Spirit - both of which we need if we are to serve God.
 
@@ -261,7 +259,7 @@ The three parts of the tabernacle - outer court, holy place and most holy place 
 <b>Three levels of Christian maturity</b>:  
 (1) babes; (2) young men; (3) fathers.
 
-(Babes are dependent on others. Young men are zealous. Fathers are full of wisdom - 1 Jn.2:12-14 ).
+(Babes are dependent on others. Young men are zealous. <b>Fathers are full of wisdom</b> - 1 Jn.2:12-14 ).
 
 The way into the most holy place is through the rent curtain of the flesh that our Lord has inaugurated for us (Heb.10:20). The curtain does not have to be rent today, for it has already been rent. But every day we have many opportunities to walk this way and to live in the most holy place.
 
