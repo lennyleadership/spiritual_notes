@@ -31,7 +31,7 @@ John 2:21 但耶稣这话是以他的身体为殿。
 <colgroup><col style="width: 40%" /><col style="width: 60%" />
 </colgroup>
   <tr>
-    <th><p>旧约的记载
+    <th><p>旷野的帐幕
       </p></th>
     <th><p>属灵的意义
       </p></th>
