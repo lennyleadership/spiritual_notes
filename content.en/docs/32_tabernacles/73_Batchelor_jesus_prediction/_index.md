@@ -13,7 +13,7 @@ toc: true
 bookCollapseSection: true
 ---
 
-
+Refer the message with care because Pastor Doug is a pastor in Seventh-day Adventist.
 
 
 
