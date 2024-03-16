@@ -1,12 +1,12 @@
 ---
 weight: 32
-title: The Temple and the Tabernacle of God
+title: "Spark - The Temple and The Tabernacle"
 authors: T. Austin-Sparks
 categories: null
 description: 
 draft: false
 date: "2024-02-26"
-lastmod: "2024-02-26"
+lastmod: "2024-03-16"
 series: null
 tags:
 toc: true

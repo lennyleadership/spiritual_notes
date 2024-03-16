@@ -13,7 +13,9 @@ toc: true
 ---
 
 <!--more-->
-
+####
+###
+##
 # Chapter 1
 
 "And David said, Solomon my son is young and tender, and the house that is to be builded for the LORD must be exceeding magnifical, of fame and of glory throughout all countries: I will therefore now make preparation for it. So David prepared abundantly before his death." 1 Chron. 22:5.
@@ -87,9 +89,10 @@ We will come back to this later but we have gone thus far in order to indicate w
 There is a power about this divine humility which is capable of bringing the pride of Satan to the dust and destroying all the works of the Devil. “He was crucified through weakness.” But what that crucifixion wrought in the universe! “He humbled himself.” But to what effect! Satan has surely to rue the day that he participated in the humiliation of the Son of God. There is something mighty about humility and something terrible about pride.
 
 
-<hr>
 
-
+####
+###
+##
 # Chapter 2 - Humility
 
 "Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence am base among you, but being absent am bold toward you" 2 Cor. 10:1.
@@ -150,10 +153,12 @@ You see what the tabernacle of God is. It is God’s dwelling place. It is where
 
 There are other things, but that is where we begin. May the Lord teach us His own lesson of humility.
 
-<hr>
 
 
 
+####
+###
+##
 # Chapter 3 - Power in Witness
 
 "Let this mind be in you, which was also in Christ Jesus: Who, being in the form of God, thought it not robbery to be equal with God: but made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men: and being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross. Wherefore God also hath highly exalted him, and given him a name which is above every name: That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth; and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father." Phil. 2:5-11
@@ -200,14 +205,36 @@ May the Lord teach our hearts anew with His Word.
 
 I am quite sure that the emphasis is a very necessary one upon the matter of humility, as the way of exaltation, the basis of divine power. May the Lord speak it to our hearts.
 
-<hr>
 
 
+####
+###
+##
 # Chapter 4
 
-<i>"And David consulted with the captains of thousands and hundreds, and with every leader. And David said unto all the congregation of Israel, If it seem good unto you, and that it be of the LORD our God, let us send abroad unto our brethren every where, that are left in all the land of Israel, and with them also to the priests and Levites which are in their cities and suburbs, that they may gather themselves unto us: and let us bring again the ark of our God to us: for we enquired not at it in the days of Saul. And all the congregation said that they would do so: for the thing was right in the eyes of all the people. So David gathered all Israel together, from Shihor of Egypt even unto the entering of Hemath, to bring the ark of God from Kirjathjearim. And David went up, and all Israel, to Baalah, that is, to Kirjathjearim, which belonged to Judah, to bring up thence the ark of God the LORD, that dwelleth between the cherubims, whose name is called on it. And they carried the ark of God in a new cart out of the house of Abinadab: and Uzza and Ahio drave the cart. And David and all Israel played before God with all their might, and with singing, and with harps, and with psalteries, and with timbrels, and with cymbals, and with trumpets. And when they came unto the threshingfloor of Chidon, Uzza put forth his hand to hold the ark; for the oxen stumbled. And the anger of the LORD was kindled against Uzza, and he smote him, because he put his hand to the ark: and there he died before God. And David was displeased, because the LORD had made a breach upon Uzza: wherefore that place is called Perezuzza to this day. And David was afraid of God that day, saying, How shall I bring the ark of God home to me? So David brought not the ark home to himself to the city of David, but carried it aside into the house of Obededom the Gittite. And the ark of God remained with the family of Obededom in his house three months. And the LORD blessed the house of Obededom, and all that he had." 1 Chron. 13</i>.
+<i>1 Chron. 13  
+13:1 And David consulted with the captains of thousands and hundreds, and with every leader.  
+13:2 And David said unto all the congregation of Israel, If it seem good unto you, and that it be of the LORD our God, let us send abroad unto our brethren every where, that are left in all the land of Israel, and with them also to the priests and Levites which are in their cities and suburbs, that they may gather themselves unto us:  
+13:3 And let us bring again the ark of our God to us: for we enquired not at it in the days of Saul.  
+13:4 And all the congregation said that they would do so: for the thing was right in the eyes of all the people.  
+13:5 So David gathered all Israel together, from Shihor of Egypt even unto the entering of Hemath, to bring the ark of God from Kirjathjearim.  
+ 
+13:6 And David went up, and all Israel, to Baalah, that is, to Kirjathjearim, which belonged to Judah, to bring up thence the ark of God the LORD, that dwelleth between the cherubims, whose name is called on it.  
+13:7 And they carried the ark of God in a new cart out of the house of Abinadab: and Uzza and Ahio drave the cart.  
+13:8 And David and all Israel played before God with all their might, and with singing, and with harps, and with psalteries, and with timbrels, and with cymbals, and with trumpets.  
+13:9 And when they came unto the threshingfloor of Chidon, Uzza put forth his hand to hold the ark; for the oxen stumbled.  
+13:10 And the anger of the LORD was kindled against Uzza, and he smote him, because he put his hand to the ark: and there he died before God.  
+ 
+13:11 And David was displeased, because the LORD had made a breach upon Uzza: wherefore that place is called Perezuzza to this day.  
+13:12 And David was afraid of God that day, saying, How shall I bring the ark of God home to me?  
+13:13 So David brought not the ark home to himself to the city of David, but carried it aside into the house of Obededom the Gittite.  
+13:14 And the ark of God remained with the family of Obededom in his house three months. And the LORD blessed the house of Obededom, and all that he had.  </i>.
 
-<i>"Then David said, None ought to carry the ark of God but the Levites: for them hath the LORD chosen to carry the ark of God, and to minister unto him for ever... And said unto them, Ye are the chief of the fathers of the Levites: sanctify yourselves, both ye and your brethren, that ye may bring up the ark of the LORD God of Israel unto the place that I have prepared for it. For because ye did it not at the first, the LORD our God made a breach upon us, for that we sought him not after the due order." 1 Chron. 15:2,12-13</i>.
+<i>1 Chron. 15:2, 12-13   
+15:2 Then David said, None ought to carry the ark of God but the Levites: for them hath the LORD chosen to carry the ark of God, and to minister unto him for ever.  
+15:12 And said unto them, Ye are the chief of the fathers of the Levites: sanctify yourselves, both ye and your brethren, that ye may bring up the ark of the LORD God of Israel unto the place that I have prepared for it.  
+15:13 For because ye did it not at the first, the LORD our God made a breach upon us, for that we sought him not after the due order.  
+"Then David said, None ought to carry the ark of God but the Levites: for them hath the LORD chosen to carry the ark of God, and to minister unto him for ever... And said unto them, Ye are the chief of the fathers of the Levites: sanctify yourselves, both ye and your brethren, that ye may bring up the ark of the LORD God of Israel unto the place that I have prepared for it. For because ye did it not at the first, the LORD our God made a breach upon us, for that we sought him not after the due order." </i>
 
 The whole of this incident, with all its meaning, has as its pivot the fragment in verse 6 of chapter 13: “...the ark of God Jehovah, that sitteth above the cherubim, that is called by the Name”. That last clause is the pivotal point of the whole matter. The margin gives a slightly different rendering, but whether it should read “that is called by the Name” or as the margin has it “where the Name is called on”, the practical issue is not in the least affected. What is meant is that it is the place where the Name is in supreme control, where the Name is the supreme factor. It is because of the Name having its seat there, because it is there that the Name of Jehovah is found, that everything converges at that point, and it becomes the pivotal point of the whole incident.
 
