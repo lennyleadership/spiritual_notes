@@ -1,6 +1,6 @@
 ---
-weight: 01
-title: Tabernacle
+weight: 02
+title: Self Study Note
 authors: null
 categories: null
 tags: null
@@ -8,7 +8,7 @@ series: null
 description: 
 draft: false
 date: "2024-02-26"
-lastmod: "2024-02-26"
+lastmod: "2024-03-25"
 toc: true
 ---
 

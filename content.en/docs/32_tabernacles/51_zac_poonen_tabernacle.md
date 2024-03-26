@@ -1,5 +1,5 @@
 ---
-weight: 02
+weight: 51
 title: The Meaning Of The Tabernacle
 authors: Zac Poonen
 categories: null
