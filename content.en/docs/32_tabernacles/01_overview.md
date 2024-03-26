@@ -15,6 +15,6 @@ toc: true
 <!--more-->
 
 <figure>
-  <img width = "640" src = "/docs/images/temple_01.jpg"/>
+  <img width = "720" src = "/docs/images/temple_01.jpg"/>
   <figcaption class = "bottom">Overview: Temple</figcaption>
 </figure>
