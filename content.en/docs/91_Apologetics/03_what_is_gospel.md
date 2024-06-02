@@ -26,6 +26,7 @@ toc: true
 [3] 我 当 日 所 领 受 又 传 给 你 们 的 ： 第 一 ， 就 是 基 督 照 圣 经 所 说 ， 为 我 们 的 罪 死 了 ，   
 [4] 而 且 埋 葬 了 ； 又 照 圣 经 所 说 ， 第 三 天 复 活 了 ，
 
+----
 
 ‪Romans‬1:1-4 NKJV  
 1 Paul, a bondservant of Jesus Christ, called to be an apostle, separated to <b>the gospel of God</b>   
