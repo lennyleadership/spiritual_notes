@@ -52,3 +52,5 @@ I pray to God this day to make me an extraordinary Christian. --Whitefield.
   
   我今天求上帝叫我作一個超凡的基督人。──惠特費（Whitefield）
 </div>
+
+Source: <a href = "https://www.glorypress.com/devotional/FaithAndLifeOneYearBook.asp?bid=1&rdate=7/18" target="_blank" rel="noopener noreferrer">大光有聲荒漠甘泉</a>
