@@ -3,7 +3,7 @@ weight: 07
 title: Sin Definition
 authors: Lenny Lin
 categories: null
-tags: null
+tags: [Sin]
 series: null
 description: 
 draft: false
