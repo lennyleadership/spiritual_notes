@@ -25,6 +25,8 @@ And you were dead in the trespasses and sins
 <!--more-->
 -----
 
+Romans 1:18-32  We used to be unrighteous, and were deserving of death.
 
+Romans 2:12 We will perish [sinful, but against the law], we will be judged [sinful and against the law].
 
 
