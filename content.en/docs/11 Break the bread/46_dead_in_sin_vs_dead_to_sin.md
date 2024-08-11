@@ -1,0 +1,50 @@
+---
+weight: 46
+title: "Dead in Sin vs. Dead to Sin"
+authors: null
+categories: null
+tags: null
+series: null
+description: 
+draft: false
+date: "2024-08-10"
+lastmod: "2024-08-10"
+toc: true
+---
+
+
+
+
+<!--more-->
+-----
+
+We were dead in sin before we believed in Jesus; and we were dead to sin after we believed in Jesus.  I want you to pay attention to the preposition "in" and "to".  
+
+Apostle Paul described the difference very clearly.  We were separated from God; we said <b>NO</b>, we <b>rejected</b> to God's grace, God's love, and the new life in God.
+
+The definition of dead is: separation, no life, no response.  However Jesus made our life different.  Once we were dead in sin, and now we are dead to sin.  Prayer ...
+
+Apostle Paul stated clearly in the beginning of Chapter 2. We, Gentiles, were dead.
+> Ephesians 2:1 ESV  
+And you were dead in the trespasses and sins
+
+and he went on explaining what dead meant in verse 11-12.  
+> Ephesians 2:11-12 NKJV  
+[11] Therefore remember that you, once Gentiles in the flesh-who are called Uncircumcision by what is called the Circumcision made in the flesh by hands-   
+[12] that at that time you were without Christ, being aliens from the commonwealth of Israel and strangers from the covenants of promise, having no hope and without God in the world.
+
+But God intervened in sinner's life. Jesus came down from the glory to the earth.  verse 13 says we have been brought near to God by the blood of Christ.  We were saved.  
+> Ephesians 2:13 NKJV  
+But now in Christ Jesus you who once were far off have been brought near by the blood of Christ.
+
+What happened?  Apostle Paul explained in Romans chapter 6.  We have new life (verse 4), and we were dead to sin (verse 11).  It means it became possible to not respond to sin, our desires, our ambitions, Satan's temptations. It means it became possible to separate from sin, and live a holy life.  It means Satan may remind us sins we made before and deceit us that God will remember our sins, but we can defeat Satan and declare that the old things passed away, new things have come (2 Corinthians 5:17).  We are new creatures and we have new life.
+
+Prayer:
+
+God, there is life in you, and the life is the light of men (John 1:4).
+
+
+
+note: There is an italic portion in Ephesians 2:1 in NKJV translation.
+
+
