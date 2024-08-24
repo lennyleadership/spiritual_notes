@@ -13,6 +13,7 @@ toc: true
 ---
 Salvation in is past, present, and future in 1 Peter.
 <!--more-->
+---
 
 At the present time we are "foreigners" (1 Peter 1:1, 17) living in alienation and rejection in a world that killed Christ and persecutes us. But we also live in the certain expectation of vindication and deliverance from this evil world.
 
@@ -22,9 +23,7 @@ The basic meaning of "ransom" is rescue or deliverance from danger, here from si
 
 This salvation is "the result of the "ransom" paid by Christ that saved us via his "precious blood" as the "sinless, spotless Lamb of God" (1 Peter 1:18-19), who also is yet to be "revealed," bringing our final "gracious salvation" (1 Peter 1:13).
 
-When Christ is revealed on the last day (1 Peter 1:13-note), our eternal salvation will also be made visible to all.
-
-When Christ is revealed on the last day (1 Peter 1:13-note), our eternal salvation will also be made visible to all. The "last day" is the eschaton—the final events inaugurated by Jesus' return and final judgment (cf. Rev 19-20).
+When Christ is revealed on the last day (1 Peter 1:13), our eternal salvation will also be made visible to all. The "last day" is the eschaton—the final events inaugurated by Jesus' return and final judgment (cf. Rev 19-20).
 
 The "great expectation" is faith in the certainly that our final "inheritance" and "salvation" are a secure promise awaiting us.
 

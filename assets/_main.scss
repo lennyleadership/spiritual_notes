@@ -8,6 +8,9 @@ body {
   min-width: $body-min-width;
   color: var(--body-font-color);
   background: var(--body-background);
+  
+  text-align: justify;
+  text-justify: inter-word;
 
   letter-spacing: 0.33px;
   font-weight: $body-font-weight;
