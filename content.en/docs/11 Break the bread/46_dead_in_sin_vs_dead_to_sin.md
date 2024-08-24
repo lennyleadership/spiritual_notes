@@ -2,8 +2,8 @@
 weight: 46
 title: "Dead in Sin vs. Dead to Sin"
 authors: null
-categories: null
-tags: null
+categories: [Sin]
+tags: ["Dead in Sin","Dead to Sin"]
 series: null
 description: 
 draft: false
@@ -41,7 +41,7 @@ What happened?  Apostle Paul explained in Romans chapter 6.  We have new life (v
 
 Prayer:
 
-God, there is life in you, and the life is the light of men (John 1:4).
+God, there is life in you, and the life is the light of men (John 1:4).  We were used to dead in sin, but we are dead to sin now.
 
 
 
