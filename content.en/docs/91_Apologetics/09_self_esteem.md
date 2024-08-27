@@ -38,13 +38,13 @@ Those of us who struggle with insecurities <a class = "blue">feel immense pressu
 
 When I looked to God’s Word, I found a view of humanity that is nuanced and complex. Surprisingly, there is no biblical category for a person who does not love himself or herself. Instead, humanity is portrayed as naturally selfish. We are never told to love ourselves more because this is not a problem known to humanity. When Jesus was asked to define the greatest commandment, he told the Pharisees that the greatest command had two parts, including a directive to “love your neighbor as yourself” ([Matthew 22:39](https://www.biblegateway.com/passage/?search=Matthew+22:39&version=ESV)). Apparently He assumed that you already love yourself.
 
-I don’t think this means that we all love ourselves correctly, as God does. But I do think that Jesus was alluding to our natural tendency to put our own needs and desires ahead of those of others. When we don’t keep this innate selfishness in check, it manifests itself in one of two ugly ways: arrogance or insecurity.
+I don’t think this means that we all love ourselves correctly, as God does. But I do think that Jesus was alluding<label class="margin-toggle sidenote-number"></label><span class="sidenote">call attention to indirectly</span> to our natural tendency to put our own needs and desires ahead of those of others. When we don’t keep this innate selfishness in check, it manifests itself in one of two ugly ways: arrogance or insecurity.
 
-It may surprise you to think of insecurity as a distortion of self-love, but like arrogance, it is self-focused and self-obsessing in nature.
+It may surprise you to think of <a class = "blue">insecurity as a distortion of self-love, but like arrogance, it is self-focused and self-obsessing in nature</a>.
 
 ### Humility and insecurity don’t mix
 
-Many well-meaning Christians mislabel insecurity as humility, but there is a significant difference between the two. A humble person does not spend an inordinate amount of time thinking about his or her own flaws.
+Many well-meaning Christians mislabel insecurity as humility, but <a class = "blue">there is a significant difference between the two [humility vs. insecurity]</a>. A humble person does not spend an inordinate amount of time thinking about his or her own flaws.
 
 In his book [*Mere Christianity*](http://family.christianbook.com/mere-christianity-c-s-lewis/9780060652920/pd/2926X?event=ESRCG), C.S. Lewis gives a surprising description of a humble person when he states:
 
@@ -57,17 +57,17 @@ A humble person does not need to undervalue or disparage himself. He is far too 
 
 The Merriam-Webster dictionary describes navel-gazing as “useless or excessive self-contemplation”. And let’s be honest, no one is immune to this mutation of self-love — at least not since Adam and Eve ate that forbidden fruit in the garden.
 
-A periodic self-checkup may be helpful, but we need to take a break from self-analyzing. There is only so far we can go before our thoughts become repetitive and banal, so the cure for low self-esteem comes with a shift in our focus. We need to shift our eyes God-ward.
+A periodic self-checkup may be helpful, but we need to <a class = "blue">take a break from self-analyzing</a>. There is only so far we can go before our thoughts become repetitive and banal, so the cure for low self-esteem comes with a shift in our focus<label class="margin-toggle sidenote-number"></label><span class="sidenote">the problem of low self-esteem is self-focus</span>. We need to shift our eyes God-ward.
 
-According to Jesus, the most important thing we can do is to “love the Lord your God with all your heart and with all your soul and with all your mind” ([Matthew 22:37](https://www.biblegateway.com/passage/?search=Matthew+22:37&version=ESV)). Although many of us struggle to take our eyes off ourselves long enough to actually do this, as we study Scripture, listen to preaching and spend time in prayer, our feelings of insecurity can diminish. This happens when our thoughts are elevated to something better than that of our fallen experience.
+According to Jesus, the most important thing we can do is to “love the Lord your God with all your heart and with all your soul and with all your mind” ([Matthew 22:37](https://www.biblegateway.com/passage/?search=Matthew+22:37&version=ESV)). Although many of us struggle to take our eyes off ourselves long enough to actually do this, as we study Scripture, listen to preaching and spend time in prayer, our feelings of insecurity can diminish. This happens when our thoughts are elevated to something better than that of our fallen experience<label class="margin-toggle sidenote-number"></label><span class="sidenote">The author provides solution in this paragraph</span>.
 
 The second part of the greatest commandment is similar to the first. We are to love our neighbor like we love ourselves ([Matthew 22:39](https://www.biblegateway.com/passage/?search=matthew+22:39&version=ESV)). If our insecurities get in the way of our ability to love the people God has placed in our lives, then we have a problem.
 
 God’s Word challenges us to rearrange our hearts’ desires. Instead of spending the majority of our time contemplating our flaws and worrying about other people’s opinions of us, we need to love God and our neighbor.
 
-The 19th century Scottish pastor Robert Murray M’Cheyne once wrote, “For every look at yourself, take 10 looks at Christ.” This would be a good benchmark for us because, if we’re honest, for every 10 looks we take at ourselves, we might take one look at Christ. Maybe.
+The 19th century Scottish pastor Robert Murray M’Cheyne once wrote, “For every look at yourself, take 10 looks at Christ.<label class="margin-toggle sidenote-number"></label><span class="sidenote">Faith talks.</span>” This would be a good benchmark for us because, if we’re honest, for every 10 looks we take at ourselves, we might take one look at Christ. Maybe.
 
-The first step to recovery from low self-esteem does not include loving ourselves more. The first step is to love God more and then to love our neighbor as ourselves.
+<a class = "blue">The first step to</a> recovery from low self-esteem does not include loving ourselves more. The first step is to love God more and then to love our neighbor as ourselves.
 
 ### The only real judge
 
