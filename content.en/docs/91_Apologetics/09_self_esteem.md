@@ -71,7 +71,7 @@ The 19th century Scottish pastor Robert Murray M’Cheyne once wrote, “For eve
 
 ### The only real judge
 
-We need to understand how God intersects with our life. More specifically, how the gospel of Jesus Christ <a class = "blue">transforms our identity and our self-worth</a><label class="margin-toggle sidenote-number"></label><span class="sidenote">It is not I who live in me anymore, but Christ.  Old self need self-esteem, new self (Christ life does not need self-esteem.)</span>.
+We need to understand how God intersects with our life. More specifically, how the gospel of Jesus Christ <a class = "blue">transforms our identity and our self-worth</a><label class="margin-toggle sidenote-number"></label><span class="sidenote">It is not I who live in me anymore, but Christ.  <br><br>Old self need self-esteem, new self (Christ life does not need self-esteem.)</span>.
 
 God has taken action on our behalf and those who put their trust in Him are literally transformed by His love. Look at these words in Romans 8:31-34:
 
