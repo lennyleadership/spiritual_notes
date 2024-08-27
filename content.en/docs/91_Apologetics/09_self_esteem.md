@@ -30,9 +30,9 @@ Now I understand that there can be a difference between being shy and [being ins
 
 Many insecure people still wonder if it’s really worth exerting the effort to change because, by all appearances, low self-esteem seems innocuous. But here’s the rub — Jesus didn’t die to make innocuous<label class="margin-toggle sidenote-number"></label><span class="sidenote">innocuous: not harmful or offensive</span> people. He died to make us more. He died to “present you holy and blameless and above reproach before him” ([Colossians 1:22](https://www.biblegateway.com/passage/?search=Colossians+1:22&version=ESV)).
 
-Those of us who struggle with insecurities feel immense pressure to conform to the expectations of others, and we avoid public criticism at all costs. By contrast, Christ tells us not to “fear those who kill the body but cannot kill the soul” ([Matthew 10:28](https://www.biblegateway.com/passage/?search=Matthew+10:28&version=ESV)).
+Those of us who struggle with insecurities <a class = "blue">feel immense pressure to conform to the expectations of others</a>, and we <a class = "blue">avoid public criticism</a> at all costs. By contrast, Christ tells us not to “fear those who kill the body but cannot kill the soul” ([Matthew 10:28](https://www.biblegateway.com/passage/?search=Matthew+10:28&version=ESV)).
 
-[First John 4:18](https://www.biblegateway.com/passage/?search=1+john+4:18&version=ESV) and [Romans 12:2](https://www.biblegateway.com/passage/?search=romans+12:2&version=ESV) seem to confirm that the apostles John and Paul taught against people-pleasing and the fear of punishment. But psychology today teaches that the cure to insecurity is to love and trust ourselves more. I’m afraid this prescription may not be the miracle cure it has been puffed up to be.
+[First John 4:18](https://www.biblegateway.com/passage/?search=1+john+4:18&version=ESV) and [Romans 12:2](https://www.biblegateway.com/passage/?search=romans+12:2&version=ESV) seem to confirm that the apostles John and Paul taught against people - pleasing and the fear of punishment. But psychology today teaches that <a class = "blue">the cure to insecurity is to love and trust ourselves more</a>. I’m afraid this prescription may not be the miracle cure it has been puffed up to be.
 
 ### The real culprit
 
