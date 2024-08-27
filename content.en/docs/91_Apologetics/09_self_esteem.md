@@ -24,11 +24,11 @@ Click [here](https://youtu.be/hVdrmtoPORY) to listen to this article.
 
 What comes to mind when you think of a person with low self-esteem? Maybe it’s the man who is always defensive and insecure. He refuses to try anything new because failure is not an option. Maybe it’s the woman who is easily flustered, quick to put herself down and afraid to speak in public.
 
-I remember that my 5-year-old self was shy to the core — I was very insecure. Eye contact was hard and conversation was even harder. By age 15, I could sing for an audience and pirouette on stage like the rest of the ballerinas, but if you asked me to speak in public, sheer terror would overwhelm me. If only my shyness reflected a simple personality trait rather than exposing a deep-rooted attitude about my self-worth. But it didn’t, so I put my hope in thinking that adulthood would magically wipe away all my insecurities. I would soon be disappointed.
+I remember that my 5-year-old self was shy to the core — I was very insecure. Eye contact was hard and conversation was even harder. By age 15, I could sing for an audience and pirouette on stage like the rest of the ballerinas, but if you asked me to speak in public, sheer terror would overwhelm me. If only my shyness reflected a simple personality trait rather than exposing a deep-rooted attitude about my self-worth. But it didn’t, so I put my hope in thinking that adulthood would magically wipe away all my insecurities. I would soon be disappointed <label class="margin-toggle sidenote-number"></label><span class="sidenote">symptoms: Outlook: shyness, fear of speaking in public.<br><br>Feeling: insecure, not confident</span>.
 
 Now I understand that there can be a difference between being shy and [being insecure](https://www.boundless.org/adulthood/facing-insecurity-finding-friendship/), but as one who’s lived with low self-esteem, I know how uncomfortable, even torturous, it can be. But change is possible.
 
-Many insecure people still wonder if it’s really worth exerting the effort to change because, by all appearances, low self-esteem seems innocuous. But here’s the rub — Jesus didn’t die to make innocuous people. He died to make us more. He died to “present you holy and blameless and above reproach before him” ([Colossians 1:22](https://www.biblegateway.com/passage/?search=Colossians+1:22&version=ESV)).
+Many insecure people still wonder if it’s really worth exerting the effort to change because, by all appearances, low self-esteem seems innocuous. But here’s the rub — Jesus didn’t die to make innocuous<label class="margin-toggle sidenote-number"></label><span class="sidenote">innocuous: not harmful or offensive</span> people. He died to make us more. He died to “present you holy and blameless and above reproach before him” ([Colossians 1:22](https://www.biblegateway.com/passage/?search=Colossians+1:22&version=ESV)).
 
 Those of us who struggle with insecurities feel immense pressure to conform to the expectations of others, and we avoid public criticism at all costs. By contrast, Christ tells us not to “fear those who kill the body but cannot kill the soul” ([Matthew 10:28](https://www.biblegateway.com/passage/?search=Matthew+10:28&version=ESV)).
 
@@ -95,3 +95,5 @@ I still have a long way to go when it comes to self-esteem, but I’ve learned t
 [Christel Humfrey](https://www.boundless.org/people/humfrey-christel/)
 
 Christel Humfrey is a pastor’s wife and mother. She has a B.A. in music with a minor in ballet. Against all odds, she fell in love with a cowboy. Together they have three sons and minister in Calgary, Canada.
+
+Source: <a href = "https://www.boundless.org/adulthood/the-surprising-truth-about-low-self-esteem/" target="_blank" rel="noopener noreferrer">Boundless | The Surprising Truth About Low Self-Esteem</a>
