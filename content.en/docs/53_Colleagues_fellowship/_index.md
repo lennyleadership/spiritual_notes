@@ -1,12 +1,12 @@
 ---
-weight: 99
-title: 
+weight: 53
+title: Colleagues Luncheon Fellowship
 authors: 
 categories: null
 description: 
-draft: true
-date: "2024-"
-lastmod: "2024-"
+draft: false
+date: "2024-08-27"
+lastmod: "2024-08-27"
 series: null
 tags:
 toc: true
@@ -14,6 +14,6 @@ bookCollapseSection: true
 ---
 
 
-change the draft status from true to false
+c
 
 
