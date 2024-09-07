@@ -3,7 +3,7 @@ weight: 08
 title: Three Tenses of Salvation
 authors: Lenny Lin
 categories: [Sin]
-tags: [Salvation, "1 Peter 1:15"]
+tags: [Salvation, "1 Peter 1:5"]
 series: null
 description: 
 draft: false
