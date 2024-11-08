@@ -53,5 +53,15 @@ Psalm 135:5-7 CSB
 [7] He causes the clouds to rise from the ends of the earth. He makes lightning for the rain and brings the wind from his storehouses.
 
 
-Matthew 10:29  
-2Chr 20:6
+馬 太 福 音 10:29 CUVS  
+两 个 麻 雀 不 是 卖 一 分 银 子 麽 ？ 若 是 你 们 的 父 不 许 ， 一 个 也 不 能 掉 在 地 上 ；
+
+Matthew 10:29 CSB  
+Aren't two sparrows sold for a penny? Yet not one of them falls to the ground without your Father's consent.
+
+
+歷 代 志 下 20:6 CUVS  
+说 ： 耶 和 华 ─ 我 们 列 祖 的 　 神 啊 ， 你 不 是 天 上 的 　 神 麽 ？ 你 不 是 万 邦 万 国 的 主 宰 麽 ？ 在 你 手 中 有 大 能 大 力 ， 无 人 能 抵 挡 你 。
+
+2 Chronicles 20:6 CSB  
+He said: LORD, God of our ancestors, are you not the God who is in heaven, and do you not rule over all the kingdoms of the nations? Power and might are in your hand, and no one can stand against you.
