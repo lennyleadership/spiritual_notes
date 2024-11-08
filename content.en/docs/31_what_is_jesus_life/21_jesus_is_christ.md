@@ -1,5 +1,5 @@
 ---
-weight: 11
+weight: 21
 title: Verses on Jesus is Christ
 authors: Lenny Lin
 categories: null
