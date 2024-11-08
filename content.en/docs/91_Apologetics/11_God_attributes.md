@@ -15,6 +15,7 @@ toc: true
 <!--more-->
 
 <h1>Sovereignty </h1>
+
 但 以 理 書 4:35 CUVS  
 世 上 所 有 的 居 民 都 算 为 虚 无 ； 在 天 上 的 万 军 和 世 上 的 居 民 中 ， 他 都 凭 自 己 的 意 旨 行 事 。 无 人 能 拦 住 他 手 ， 或 问 他 说 ， 你 做 甚 麽 呢 ？
 
@@ -41,12 +42,12 @@ In him we have also received an inheritance, because we were predestined accordi
 Proverbs 16:33 CSB  
 The lot is cast into the lap, but its every decision is from the LORD.
 
-詩 篇 135:5-7 CUVS
+詩 篇 135:5-7 CUVS  
 [5] 原 来 我 知 道 耶 和 华 为 大 ， 也 知 道 我 们 的 主 超 乎 万 　 神 之 上 。   
 [6] 耶 和 华 在 天 上 ， 在 地 下 ， 在 海 中 ， 在 一 切 的 深 处 ， 都 随 自 己 的 意 旨 而 行 。   
 [7] 他 使 云 雾 从 地 极 上 腾 ， 造 电 随 雨 而 闪 ， 从 府 库 中 带 出 风 来 。
 
-Psalm 135:5-7 CSB
+Psalm 135:5-7 CSB  
 [5] For I know that the LORD is great; our Lord is greater than all gods.   
 [6] The LORD does whatever he pleases in heaven and on earth, in the seas and all the depths.   
 [7] He causes the clouds to rise from the ends of the earth. He makes lightning for the rain and brings the wind from his storehouses.
