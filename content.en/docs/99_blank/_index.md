@@ -3,12 +3,12 @@ weight: 99
 title: 
 authors: 
 categories: null
+tags:
+series: null
 description: 
 draft: true
-date: "2024-"
-lastmod: "2024-"
-series: null
-tags:
+date: "2024"
+lastmod: "2024"
 toc: true
 bookCollapseSection: true
 ---
