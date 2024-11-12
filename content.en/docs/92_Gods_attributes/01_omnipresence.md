@@ -41,13 +41,13 @@ Jeremiah 23:23-24 CSB
 [24] Can a person hide in secret places where I cannot see him?"-the LORD's declaration. "Do I not fill the heavens and the earth?"-the LORD's declaration.
 
 
-詩 篇 139:7-10 CUVS
+詩 篇 139:7-10 CUVS  
 [7] 我 往 哪 里 去 躲 避 你 的 灵 ？ 我 往 哪 里 逃 、 躲 避 你 的 面 ？   
 [8] 我 若 升 到 天 上 ， 你 在 那 里 ； 我 若 在 阴 间 下 榻 ， 你 也 在 那 里 。   
 [9] 我 若 展 开 清 晨 的 翅 膀 ， 飞 到 海 极 居 住 ，   
 [10] 就 是 在 那 里 ， 你 的 手 必 引 导 我 ； 你 的 右 手 也 必 扶 持 我 。
 
-Psalm 139:7-10 CSB
+Psalm 139:7-10 CSB  
 [7] Where can I go to escape your Spirit? Where can I flee from your presence?   
 [8] If I go up to heaven, you are there; if I make my bed in Sheol, you are there.   
 [9] If I fly on the wings of the dawn and settle down on the western horizon,   

@@ -1,5 +1,5 @@
 ---
-weight: 02
+weight: 12
 title: Holiness
 authors: null
 categories: null
