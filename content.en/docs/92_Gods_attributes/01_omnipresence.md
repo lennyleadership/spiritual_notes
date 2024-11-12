@@ -21,7 +21,7 @@ toc: true
 But will God indeed live on earth? Even heaven, the highest heaven, cannot contain you, much less this temple I have built.
 
 
-約 伯 記 11:7-9 CUVS<label class="margin-toggle sidenote-number"></label><span class="sidenote">笼罩全地</span>   
+約 伯 記 11:7-9 CUVS     
 [7] 你 考 察 就 能 测 透 神 吗 ？ 你 岂 能 尽 情 测 透 全 能 者 吗 ？   
 [8] 他 的 智 慧 高 於 天 ， 你 还 能 做 甚 麽 ？ 深 於 阴 间 ， 你 还 能 知 道 甚 麽 ？   
 [9] 其 量 比 地 长 ， 比 海 宽 。
@@ -32,7 +32,7 @@ Job 11:7-9 CSB
 [9] Their measure is longer than the earth and wider than the sea.
 
 
-耶 利 米 書 23:23-24 CUVS   
+耶 利 米 書 23:23-24 CUVS<label class="margin-toggle sidenote-number"></label><span class="sidenote">无处不在</span>   
 [23] 耶 和 华 说 ： 我 岂 为 近 处 的 　 神 呢 ？ 不 也 为 远 处 的 　 神 麽 ？   
 [24] 耶 和 华 说 ： 人 岂 能 在 隐 密 处 藏 身 ， 使 我 看 不 见 他 呢 ？ 耶 和 华 说 ： 我 岂 不 充 满 天 地 麽 ？
 
