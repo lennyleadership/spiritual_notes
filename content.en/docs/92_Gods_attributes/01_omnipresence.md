@@ -21,7 +21,7 @@ toc: true
 But will God indeed live on earth? Even heaven, the highest heaven, cannot contain you, much less this temple I have built.
 
 
-約 伯 記 11:7-9 CUVS  
+約 伯 記 11:7-9 CUVS<label class="margin-toggle sidenote-number"></label><span class="sidenote">笼罩全地</span>   
 [7] 你 考 察 就 能 测 透 神 吗 ？ 你 岂 能 尽 情 测 透 全 能 者 吗 ？   
 [8] 他 的 智 慧 高 於 天 ， 你 还 能 做 甚 麽 ？ 深 於 阴 间 ， 你 还 能 知 道 甚 麽 ？   
 [9] 其 量 比 地 长 ， 比 海 宽 。
@@ -41,7 +41,7 @@ Jeremiah 23:23-24 CSB
 [24] Can a person hide in secret places where I cannot see him?"-the LORD's declaration. "Do I not fill the heavens and the earth?"-the LORD's declaration.
 
 
-詩 篇 139:7-10 CUVS  
+詩 篇 139:7-10 CUVS<label class="margin-toggle sidenote-number"></label><span class="sidenote">跨越空间</span>   
 [7] 我 往 哪 里 去 躲 避 你 的 灵 ？ 我 往 哪 里 逃 、 躲 避 你 的 面 ？   
 [8] 我 若 升 到 天 上 ， 你 在 那 里 ； 我 若 在 阴 间 下 榻 ， 你 也 在 那 里 。   
 [9] 我 若 展 开 清 晨 的 翅 膀 ， 飞 到 海 极 居 住 ，   
@@ -54,11 +54,11 @@ Psalm 139:7-10 CSB
 [10] even there your hand will lead me; your right hand will hold on to me.
 
 
-詩 篇 90:1-2 CUVS  
-[1]（ 　 神 人 摩 西 的 祈 祷 ） 主 啊 ， 你 世 世 代 代 作 我 们 的 居 所 。 
+詩 篇 90:1-2 CUVS<label class="margin-toggle sidenote-number"></label><span class="sidenote">跨越时间</span>   
+[1]（ 　 神 人 摩 西 的 祈 祷 ） 主 啊 ， 你 世 世 代 代 作 我 们 的 居 所 。   
 [2] 诸 山 未 曾 生 出 ， 地 与 世 界 你 未 曾 造 成 ， 从 亘 古 到 永 远 ， 你 是 神 。
 
-Psalm 90:1-2 CSB  
+Psalm 90:1-2 CSB   
 [1] Lord, you have been our refuge in every generation.   
 [2] Before the mountains were born, before you gave birth to the earth and the world, from eternity to eternity, you are God.
 

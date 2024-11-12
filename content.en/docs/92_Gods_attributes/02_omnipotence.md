@@ -1,6 +1,6 @@
 ---
 weight: 02
-title: Omnipotence 全能
+title: Omnipotence 无所不能
 authors: null
 categories: null
 tags: null
