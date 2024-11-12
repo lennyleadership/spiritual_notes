@@ -42,7 +42,7 @@ Isaiah 6:3 CSB
 And one called to another: Holy, holy, holy is the LORD of Armies; his glory fills the whole earth.
 
 
-SALIENT POINTS:  
+<a href = "https://www.blueletterbible.org/faq/attributes.cfm" target="_blank" rel="noopener noreferrer">SALIENT POINTS:</a>   
 Holiness is synonymous with God's total purity and separation from the rest of creation. Holiness is a moral purity, and different from Adam's holiness, God's is eternally incorruptible. 
 This holiness so sets God apart from fallen man that in his natural state, no man may approach the incorruptible God (for man is tarnished, dirty, and corrupt, and True holiness cannot bear such) — this is evidenced by the special commands to those who would approach God (cf. Exodus 3:4-6, Isaiah 6:1-6). God's holiness is one of the primary reasons why the advent of Christ is so incredible: it allows men who were once unable to come before God the ability to kneel before the throne of God and worship forever and ever (Revelation 4:9-11, 5:14).
 
