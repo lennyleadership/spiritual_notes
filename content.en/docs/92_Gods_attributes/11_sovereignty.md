@@ -81,15 +81,17 @@ Matthew 10:29 CSB
 Aren't two sparrows sold for a penny? Yet not one of them falls to the ground without your Father's consent.
 
 
-羅 馬 書 11:33-35 CUVS
+羅 馬 書 11:33-36 CUVS
 [33] 深 哉 ， 神 丰 富 的 智 慧 和 知 识 ！ 他 的 判 断 何 其 难 测 ！ 他 的 踪 迹 何 其 难 寻 ！   
 [34] 谁 知 道 主 的 心 ？ 谁 作 过 他 的 谋 士 呢 ？   
-[35] 谁 是 先 给 了 他 ， 使 他 後 来 偿 还 呢 ？
+[35] 谁 是 先 给 了 他 ， 使 他 後 来 偿 还 呢 ？   
+[36] 因 为 万 有 都 是 本 於 他 ， 倚 靠 他 ， 归 於 他 。 愿 荣 耀 归 给 他 ， 直 到 永 远 。 阿 们 ！
 
-Romans 11:33-35 CSB
+Romans 11:33-36 CSB
 [33] Oh, the depth of the riches and the wisdom and the knowledge of God! How unsearchable his judgments and untraceable his ways!   
-[34] For who has known the mind of the Lord? Or who has been his counselor? 
-[35] And who has ever given to God, that he should be repaid?
+[34] For who has known the mind of the Lord? Or who has been his counselor?   
+[35] And who has ever given to God, that he should be repaid?   
+[36] For from him and through him and to him are all things. To him be the glory forever. Amen.
 
 
 <a href = "https://www.blueletterbible.org/faq/attributes.cfm" target="_blank" rel="noopener noreferrer">SALIENT POINTS:</a>
