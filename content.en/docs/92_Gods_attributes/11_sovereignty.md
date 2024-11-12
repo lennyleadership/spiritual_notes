@@ -1,6 +1,6 @@
 ---
-weight: 11
-title: God's Attributes
+weight: 01
+title: Sovereignty
 authors: Lenny Lin
 categories: null
 tags: null
