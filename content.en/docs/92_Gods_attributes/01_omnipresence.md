@@ -32,11 +32,11 @@ Job 11:7-9 CSB
 [9] Their measure is longer than the earth and wider than the sea.
 
 
-耶 利 米 書 23:23-24 CUVS  
+耶 利 米 書 23:23-24 CUVS   
 [23] 耶 和 华 说 ： 我 岂 为 近 处 的 　 神 呢 ？ 不 也 为 远 处 的 　 神 麽 ？   
 [24] 耶 和 华 说 ： 人 岂 能 在 隐 密 处 藏 身 ， 使 我 看 不 见 他 呢 ？ 耶 和 华 说 ： 我 岂 不 充 满 天 地 麽 ？
 
-Jeremiah 23:23-24 CSB
+Jeremiah 23:23-24 CSB  
 [23] "Am I a God who is only near"-this is the LORD's declaration-"and not a God who is far away?   
 [24] Can a person hide in secret places where I cannot see him?"-the LORD's declaration. "Do I not fill the heavens and the earth?"-the LORD's declaration.
 

@@ -1,6 +1,6 @@
 ---
 weight: 02
-title: Holyness
+title: Holiness
 authors: null
 categories: null
 tags: null
@@ -29,10 +29,12 @@ Exodus 3:5-6 CSB
 There is no one holy like the LORD. There is no one besides you! And there is no rock like our God.
 
 詩 篇 99:2-3 CUVS  
-耶 和 华 在 锡 安 为 大 ； 他 超 乎 万 民 之 上 。 [3] 他 们 当 称 赞 他 大 而 可 畏 的 名 ； 他 本 为 圣 ！
+[2] 耶 和 华 在 锡 安 为 大 ； 他 超 乎 万 民 之 上 。   
+[3] 他 们 当 称 赞 他 大 而 可 畏 的 名 ； 他 本 为 圣 ！
 
 Psalm 99:2-3 CSB  
-The LORD is great in Zion; he is exalted above all the peoples. [3] Let them praise your great and awe-inspiring name. He is holy.
+[2] The LORD is great in Zion; he is exalted above all the peoples.   
+[3] Let them praise your great and awe-inspiring name. He is holy.
 
 
 以 賽 亞 書 6:3 CUVS  
