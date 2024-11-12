@@ -1,6 +1,6 @@
 ---
 weight: 01
-title: Omnipresence
+title: Omnipresence 无所不在
 authors: null
 categories: null
 tags: null
