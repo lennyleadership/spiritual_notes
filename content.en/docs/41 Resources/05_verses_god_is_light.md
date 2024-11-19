@@ -1,6 +1,6 @@
 ---
 weight: 05
-title: Verses on God is Light
+title: Verses on "God is Light"
 authors: null
 categories: null
 tags: null
@@ -14,7 +14,7 @@ toc: true
 
 <!--more-->
 
-约翰福音 1:5 
+约翰福音 1:5  
 光照在黑暗里，黑暗却不接受光。[*黑暗]
 
 约翰福音 3:19  
