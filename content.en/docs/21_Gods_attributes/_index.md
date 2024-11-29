@@ -1,5 +1,5 @@
 ---
-weight: 92
+weight: 21
 title: God's Attributes
 authors: 
 categories: null
