@@ -26,8 +26,8 @@ blessing is that is brought from heaven by the Holy Spirit and with which He can
 There is one fact which makes the great event of the day of Pentecost doubly instructive this 
 namely, that we have learned to know very intimately the men who were then filled with the Spirit, by 
 their fellowship for three years with the Lord Jesus. Their infirmities and defects, their sins and 
-perversities, all stand open to our view. But the blessing of Pentecost wrought a complete
- transformation. They became entirely new men, so that one might say of them with truth: "Old things
+perversities, all stand open to our view. But <u class = "red">the blessing of Pentecost wrought a complete
+ transformation</u>. They became entirely new men, so that one might say of them with truth: "Old things
  are passed away; behold, all things are become new" (2 Cor. 5:17). Close study of them and their
  example helps us in more than one way. It shows us to what weak and sinful men the Spirit will
 come. It teaches us how they were prepared for the blessing.
@@ -220,3 +220,5 @@ If you would taste the happiness, if you would know by personal experience the u
 
 From The Full Blessing Of Pentecost by Andrew Murray.
 
+
+Reference: <a href = "https://www.sermonindex.net/modules/articles/index.php?view=article&aid=28434" target="_blank" rel="noopener noreferrer">seromnindex.net | The Glorious Filling Of The Holy Spirit By Andrew Murray</a>
