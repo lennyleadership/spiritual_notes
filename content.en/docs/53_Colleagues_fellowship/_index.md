@@ -1,6 +1,6 @@
 ---
 weight: 53
-title: "Colleagues Luncheon Fellowship"
+title: Colleagues Luncheon Fellowship
 authors: 
 categories: null
 description: 
