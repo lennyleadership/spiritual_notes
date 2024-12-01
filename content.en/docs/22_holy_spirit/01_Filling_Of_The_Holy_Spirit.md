@@ -19,40 +19,35 @@ Text Sermons : Classic Christian Writings : The Glorious Filling Of The Holy Spi
 
 "They were all filled with the Holy Spirit" (Acts 2:4).  
 
-Whenever we speak of being filled with the Holy Spirit, and desire to know what it precisely is, our 
-thoughts always turn back to the day of Pentecost. There we see as in a mirror how glorious the 
-blessing is that is brought from heaven by the Holy Spirit and with which He can fill the hearts of men.
+Whenever we speak of being filled with the Holy Spirit, and desire to know what it precisely is, our thoughts always turn back to the day 
+of Pentecost. There we see as in a mirror how glorious the blessing is that is brought from heaven by the Holy Spirit and with which 
+He can fill the hearts of men.
 
-There is one fact which makes the great event of the day of Pentecost doubly instructive this 
-namely, that we have learned to know very intimately the men who were then filled with the Spirit, by 
-their fellowship for three years with the Lord Jesus. Their infirmities and defects, their sins and 
-perversities, all stand open to our view. But <u class = "red">the blessing of Pentecost wrought a complete
- transformation</u>. They became entirely new men, so that one might say of them with truth: "Old things
- are passed away; behold, all things are become new" (2 Cor. 5:17). Close study of them and their
- example helps us in more than one way. It shows us to what weak and sinful men the Spirit will
-come. It teaches us how they were prepared for the blessing.
+There is one fact which makes the great event of the day of Pentecost doubly instructive this namely, that we have learned to know 
+very intimately the men who were then filled with the Spirit, by their fellowship for three years with the Lord Jesus. Their infirmities 
+and defects, their sins and perversities, all stand open to our view. But <u class = "red">the blessing of Pentecost wrought a complete
+transformation</u>. They became entirely new men, so that one might say of them with truth: "Old things are passed away; behold, 
+all things are become new" (2 Cor. 5:17). Close study of them and their example helps us in more than one way. It shows us to what weak 
+and sinful men the Spirit will come. It teaches us how they were prepared for the blessing.
 
-It teaches us also  and this is the principal thing  how mighty and complete the revolution is that is
-brought to pass when the Holy Spirit is received in His fullness. It lets us see how glorious the grace 
-that awaits us is if we press on to the full blessing of Pentecost.
+It teaches us also and this is the principal thing  how mighty and complete <u class = "red">the revolution</u> is that is brought to pass 
+when the Holy Spirit is received in His fullness. It lets us see how glorious the grace that awaits us is if we press on to the full 
+blessing of Pentecost.
 
 The ever-abiding presence and indwelling of the Lord Jesus.
 
-In this we have the first and principal blessing of the Pentecostal life. In the course of our Lords 
-dealings with His disciples on earth He spared no pains to teach and train them, to renew and sanctify 
-them. In most respects, however, they remained just what they were. The reason was that up to this
- point He was nothing more than an external Christ who stood outside of them and from without
- sought to work upon them by His word and His personal influence. With the advent of Pentecost this
- condition was entirely changed.
+In this we have the first and principal blessing of the Pentecostal life. In the course of our Lords dealings with His disciples on earth
+He spared no pains to teach and train them, to renew and sanctify them. In most respects, however, they remained just what they were. 
+The reason was that up to this point He was nothing more than an external Christ who stood outside of them and from without
+ sought to work upon them by His word and His personal influence. With the advent of Pentecost this condition was entirely changed.
 
 
-In the Holy Spirit He came down as the inward, indwelling Christ, to become in the very innermost 
-recesses of their being the life of their life. This is what He Himself had promised in the words: "I will
- not leave you comfortless: I will come to you. At that day ye shall know that I am in My Father, and
- ye in Me, and I in you" (John 14:18,20).
+In the Holy Spirit He came down as the inward, indwelling Christ, to become in the very innermost recesses of their being 
+the life of their life. This is what He Himself had promised in the words: "I will not leave you comfortless: I will come to you. 
+At that day ye shall know that I am in My Father, and ye in Me, and I in you" (John 14:18,20).
 
-This was the source of all the other blessings that came with Pentecost. Jesus Christ, the crucified, the
-glorified, the Lord from heaven, came in spiritual power, by the Spirit, to impart to them that ever-
+This was the source of all the other blessings that came with Pentecost. Jesus Christ, the crucified, the glorified, the Lord from heaven, 
+came in spiritual power, by the Spirit, to impart to them that ever-
 abiding presence of their Lord that had been promised to them. And that was in a way that was most
  intimate, all-powerful, and wholly divine: by the indwelling which makes Him in truth their life. Him
  whom they had had in the flesh, living with them on earth, they now received by the Spirit in His
@@ -68,7 +63,7 @@ in this change. We know how often the Lord had to rebuke them for their pride an
 
 The outward teaching of the outward Christ, whatever other influences it may have exercised, was not
  sufficient to redeem them from the power of indwelling sin. This could be achieved only by the
- indwelling Christ. Only when Jesus descended into them by the Holy Spirit did they undergo a
+ <u class = "red">indwelling Christ</u>. Only when Jesus descended into them by the Holy Spirit did they undergo a
  complete change. They received Him in His heavenly humility and subjection to the Father, and in His
  self-sacrifice for others, as their life. Henceforth all was changed. From that moment onwards they
  were animated by the spirit of the meek and lowly Jesus.
