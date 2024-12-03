@@ -1,6 +1,6 @@
 ---
 weight: 02
-title: 
+title: 圣灵如何在我们生命中动工？
 authors: 白帆
 categories: null
 tags: null
