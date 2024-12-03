@@ -14,9 +14,10 @@ toc: true
 
 <!--more-->
 <figure>
-  <figcaption>内在生活网 |【主日信息】圣灵如何在我们生命中动工？（10-10-21）</figcaption>
+  <figcaption><a href = "https://innerlife.top/archives/17175" target="_blank" rel="noopener noreferrer">内在生活网 |【主日信息】圣灵如何在我们生命中动工？（10-10-21）</a></figcaption>
   <audio controls  src="http://innerlife.top/wp-content/uploads/2021/10/%E4%B8%BB%E6%97%A5%E4%BF%A1%E6%81%AF%EF%BC%8810-10-21%EF%BC%89.mp3"></audio>
 </figure>
+
 
 们，弟兄姐妹平安。好，我们今天我们又来到主日哈，我们安静一下，我们做一个祷告，吃的住啊。今天这个主日求是智慧和启示的灵，大的开启我们的心。
 因为主啊，我们需要你需要你明白在讲台上面借着你的话借着我们分享你的话语，我们更多地开启，更多的能够将我们的生命连接于你是吧？
