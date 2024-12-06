@@ -14,7 +14,6 @@ toc: true
 
 <!--more-->
 <figure>
-  <figcaption><a href = "https://innerlife.top/archives/17175" target="_blank" rel="noopener noreferrer">内在生活网 |【主日信息】圣灵如何在我们生命中动工？（10-10-21）</a></figcaption>
   <audio controls  src="http://innerlife.top/wp-content/uploads/2021/10/%E4%B8%BB%E6%97%A5%E4%BF%A1%E6%81%AF%EF%BC%8810-10-21%EF%BC%89.mp3"></audio>
 </figure>
 
@@ -23,8 +22,10 @@ toc: true
 因为主啊，我们需要你需要你明白在讲台上面借着你的话借着我们分享你的话语，我们更多地开启，更多的能够将我们的生命连接于你是吧？
 
 
-我渴望圣灵至今天，从前今天开始，但你自由做工在我们的身心灵、意志、情感和思想上是的主，让我们<u class = "red">能够来主观的来经历你</u>，
-我们要来领受你的你的话语、领受你的开启。谢谢主，你听我们每个人有声无声的祷告。乃是感谢那是奉我主基督耶稣的圣明。
+我渴望圣灵至今天，从前今天开始，但你<u class = "red">自由做工</u><label class="margin-toggle sidenote-number"></label><span class="sidenote">这是讲员的观点：自由做工</span>
+在我们的身心灵、意志、情感和思想上是的主，让我们<u class = "red">能够来主观的来经历你</u><label class="margin-toggle sidenote-number">
+</label><span class="sidenote">这是讲员的观点：主观上的经历</span>，我们要来领受你的话语、领受你的开启。
+谢谢主，你听我们每个人有声无声的祷告。乃是感谢那是奉我主基督耶稣的圣名。
 
 
 amani。好，我们今天又是主日哈，我们来一起来分享神的话语。我自己刚在那坐着等跟跟大家一起等候神的时候，我就在想说主啊，怎么样子分享出？
@@ -42,23 +43,24 @@ amani。好，我们今天又是主日哈，我们来一起来分享神的话语
 
 然后我就是天天<u class = "red">享受在感觉里面</u>，然后我就是感觉嘛啊就是我今天<u class = "red">倒地</u>哈，我今天怎么怎么样。
 好，那些<u class = "red">只是一个圣灵在你身上的一个现象</u>。好，你不要停止在那个地方那圣灵实际上我们。很多时候当我们与被圣灵充满，
-我们更多的是<u class = "red">要让圣灵在我们生命中间动工</u>。<label class="margin-toggle sidenote-number"></label><span class="sidenote">"要让圣灵在我们生命中间动工"没毛病</span>
+我们更多的是<u class = "red">要让圣灵在我们生命中间动工</u>。<label class="margin-toggle sidenote-number"></label><span class="sidenote">"
+要让圣灵在我们生命中间动工"没毛病</span>
 
 
-好，那所以为什么要<u class = "red">天天与圣灵相交</u><label class="margin-toggle sidenote-number"></label><span class="sidenote">问题：“与圣灵相交”什么意思？</span>，
+好，那所以为什么要<u class = "red">天天与圣灵相交</u><label class="margin-toggle sidenote-number"></label><span class="sidenote">讲员的观点<br><br>问题：“与圣灵相交”什么意思？</span>，
 让我们的生命和这位源头连在一起。所以我在<u class = "red">等候神的聚会</u>中当中，我常常会谈到圣灵，好的，这个每天就讲一点点哈。
-那因为我是知道这个就像马跟与圣灵相交就像吃吗呐那一样的。好那，当你这样子去与圣灵相交，你就发现你的生命在被圣灵在被带被带领<label class="margin-toggle sidenote-number"></label><span class="sidenote">与圣灵相交的时候就被圣灵带领。</span>，
-而且这个这是这是一个过程。
+那因为我是知道这个就像马跟与圣灵相交就像吃吗呐那一样的。好那，当你这样子去与圣灵相交，你就发现你的生命在被圣灵在被带被带领<label class="margin-toggle sidenote-number"></label><span class="sidenote">
+与圣灵相交的时候就被圣灵带领。</span>，而且这个这是这是一个过程。
 
 
 好，这样做被圣灵带领是一个过程，很多人就说啊可是我我都没感觉啊，我都没怎么样啊。好，那这个是这个过程当中你要一点点的说诶就有的人就问我说
-哎你看我今天有<u class = "red">这个感觉</u>，
+哎你看我今天有<u class = "red">这个感觉</u><label class="margin-toggle sidenote-number"></label><span class="sidenote">一方面反对活在感受中，另一方面在讲感受。</span>，
 一个那个感觉神是什么意思啊？好，或者是我里面突然想到一件什么事情，好，那是什么意思啊？
 
 
 我说那当你神给你开启的时候，你不明白，你可以仔细的问。所以圣灵为什么要这样做，<u class = "red">他想跟你是一问一答</u>，让你生命当中一点一点的去把你往前，
 啊这往把你往前领。好，那今天的话我们就要所以我们要知道这个这个被圣灵带领我们最主要的有<u class = "red">两大要素</u>哈，
-一个是我们要<u class = "red">用一意志的选择来降服于圣灵</u>，还另外一个呢你要<u class = "red">让圣灵自由自由自由工作在你的身上</u>。
+一个是我们要<u class = "red">用意志的选择来降服于圣灵</u>，还另外一个呢你要<u class = "red">让圣灵自由自由自由工作在你的身上</u>。
 
 
 好，那我们接我们先看看powerpopint PPT。好。<u class = "red">我们今天的主日信息是圣灵如何在我们生命中做工</u>。
@@ -86,8 +88,9 @@ amani。好，我们今天又是主日哈，我们来一起来分享神的话语
 很多很多教会就说你看我们有圣经就好啦，你就按照圣经里面的做呀。
 
 
-是的，我们是可以按照你<u class = "red">按照克己复礼这种方法</u>啊是可以做到一定部分的。说哎呀圣经说不要这样好，那我们就不要这样，
-圣经说不要那样圣经里面说不要那样，我们就竭力不要那样，我们可以也可以走这条路。但是走得非常有限，因为我们人是是一个就是这个立志、立志这个为善是。
+是的，我们是可以按照你<u class = "red">按照克己复礼这种方法</u><label class="margin-toggle sidenote-number"></label><span class="sidenote">以偏概全了。</span>
+啊是可以做到一定部分的。说哎呀圣经说不要这样好，那我们就不要这样，圣经说不要那样圣经里面说不要那样，我们就竭力不要那样，我们可以也可以走这条路。
+但是走得非常有限，因为我们人是是一个就是这个立志、立志这个为善是。
 
 
 我们是可以的，但是我们行不出来。好，这个是在圣经里面保罗的一个他的感叹。你又看到这个呃犹太人在旧约的当中里面，他们有很多很多的规规条条，
@@ -116,14 +119,18 @@ amani。好，我们今天又是主日哈，我们来一起来分享神的话语
 我知道很多一个好好的基督徒应该怎么样子，大家都明白。<u class = "red">但是为什么我们就是活不出来？</u>
 
 
-我们的生命为什么会那么软弱呢？那就是<u class = "red">主观经历</u>。所以为什么我们每天我们每每天<u class = "red">最重要的一个聚会会就是与圣灵相交</u>，
-然后呢还有一个灵修，你一定要有个人的灵修，这个客观的客观的原则、圣经的原则，你一定要明白。好，所以为什么我就每天晚上我就把你这两个聚会搞在一起，
-以前面<u class = "red">等候神</u>，后面我们就半个小时的<u class = "red">查经</u>，我就是渴望<u class = "red">把客观的经历能够带到我们主观的生命中间来</u>。
+我们的生命为什么会那么软弱呢？那就是<u class = "red">主观经历</u><label class="margin-toggle sidenote-number"></label>
+<span class="sidenote">这是讲员的观点：认为问题出在这里。</span>。
+所以为什么我们每天我们每每天<u class = "red">最重要的一个聚会会就是与圣灵相交</u><label class="margin-toggle sidenote-number"></label><span class="sidenote">
+讲员另外讲了一些系列，关于等候神的聚会。聚会时放几段背景音乐。</span>，然后呢还有一个灵修，你一定要有个人的灵修，
+这个客观的客观的原则、圣经的原则，你一定要明白。好，所以为什么我就每天晚上我就把你这两个聚会搞在一起，
+以前面<u class = "red">等候神</u>，后面我们就半个小时的<u class = "red">查经</u>，
+我就是渴望<u class = "red">把客观的经历能够带到我们主观的生命中间来</u>。
 
 
 好，这个是那这个呢你要有一个自由的选择，我要这么做。因为你要当你跟人说的时候，他说哎呀可是我做不做啊，我也没时间间呐。
 <u class = "red">这样子你就把这个主观的这一部分砍断了，你觉得你的客观的客观的这个真理会会成型在你的身上吗？</u>
-<label class="margin-toggle sidenote-number"></label><span class="sidenote">这是讲员的观点</span>
+<label class="margin-toggle sidenote-number"></label><span class="sidenote">讲员认为问题出在这里。</span>
 
 
 因为你把主观的这一点、要去经历的这一点好时间都把它砍断了，好，也没有去没有去与神这个<u class = "red">与神亲近</u>。当你没有与神亲近的时候，
@@ -889,3 +896,51 @@ amani。好，我们今天又是主日哈，我们来一起来分享神的话语
 
 
 好，那我们今天就到这里祝福我们各位宝贝睡在神的同在当中，我们明天再见喽。
+
+
+出处：<a href = "https://innerlife.top/archives/17175" target="_blank" rel="noopener noreferrer">内在生活网 |【主日信息】圣灵如何在我们生命中动工？（10-10-21）</a>
+
+
+听道后的感受：
+
+可取之处：  
+<ol>
+指出了教会的问题：  
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+
+讲员的观点
+
+让圣灵自由做工。
+主观上经历圣灵，不是经历上帝。
+天天与圣灵相交。
+
+
+
+讲员一面反对，一面在做：
+天天享受感觉。
+
+
+
+出发点是对的：
+使会众得益处。
+
+
+
+这是一致认同的难点：
+但是讲道跟我有什么关系呢？
+为什么我们就是活不出来？
+我们的生命为什么会那么软弱？
+绝大多数教会都“克己复礼”。
+
+
+讲员认为问题出在没有主观的经历。
+
+
+认同的部分：
+灵、魂、体
+
+
+</ol>
