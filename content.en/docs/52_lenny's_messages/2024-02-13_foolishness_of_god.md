@@ -1,6 +1,6 @@
 ---
 weight: 
-title: "Foolishness of God"
+title: 2024-02-13 Foolishness of God
 authors: null
 categories: null
 tags: null
