@@ -1,6 +1,6 @@
 ---
 weight: 
-title: "2023-09-30 The Meaning of Hebrews"
+title: 2023-09-30 The Meaning of Hebrews
 authors: Lenny Lin
 categories: [Deep River Fellowship]
 tags: null

@@ -1,6 +1,6 @@
 ---
 weight: 
-title: "2024-01-30 What Jesus Did on the Cross"
+title: 2024-01-30 What Jesus Did on the Cross
 authors: null
 categories: [Deep River Fellowship]
 tags: null

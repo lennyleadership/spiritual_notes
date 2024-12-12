@@ -1,14 +1,14 @@
 ---
-weight: 999
-title: blank
+weight: 
+title: 上帝的儿女
 authors: null
 categories: null
 tags: null
 series: null
 description: 
-draft: true
-date: "2024"
-lastmod: "2024"
+draft: false
+date: "2024-12-11"
+lastmod: "2024-12-11"
 toc: true
 ---
 
