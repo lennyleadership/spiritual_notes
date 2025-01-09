@@ -1,5 +1,23 @@
 // paragraph bulletin indent ///////////////////////////////////////////////////////////////////////
 
+ul,
+ol {
+    padding-inline-start: $padding-16 * 2;
+    word-wrap: break-word;
+  }
+
+dl {
+    dt {
+      font-weight: bolder;
+      margin-top: $padding-16;
+    }
+
+    dd {
+      margin-inline-start: 0;
+      margin-bottom: $padding-16;
+    }
+  }
+
 ol,li {
     margin: 0;
     padding: 0;

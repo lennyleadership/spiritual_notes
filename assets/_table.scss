@@ -2,17 +2,24 @@
 
 table{
   width: 100%;
+  
+  overflow: auto;
+  display: block;
+
+  margin-top: $padding-16;
+  margin-bottom: $padding-16;  
 
   border-collapse: collapse; /* single border of table*/
   border-spacing:0;
   /*border: 1px solid #ddd;*/
-}
 
-th, td{
-  padding: 10px 20px; /*row height*/
-  border-collapse: collapse; /* single line of inside*/
-  border: 1px solid #ddd;
-}
+
+tr th,
+tr td {
+      padding: $padding-8 $padding-16;
+      border-collapse: collapse; /* single line of inside*/
+      border: $padding-1 solid var(--gray-200);
+    }
 
 th{
   background-color: lightblue; /*add background color to the header*/
@@ -23,4 +30,9 @@ tr:nth-child(even){
   back-ground-color: #f2f2f2; /*zebra strip*/
 }
 
+tr:nth-child(2n) {
+      background: var(--gray-100);
+    }
+}
 /* end */
+

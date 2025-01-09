@@ -12,6 +12,8 @@ body {
   text-align: justify;
   text-justify: inter-word;
 
+  font-family: 'Calibri'; /*"Sabon Next W01 Regular",'Roboto', sans-serif;*/
+  
   letter-spacing: 0.33px;
   font-weight: $body-font-weight;
   text-rendering: optimizeLegibility;
@@ -354,13 +356,13 @@ body[dir="rtl"] .book-menu {
 
 
 
-  b,
-  optgroup,
-  strong {
+b,
+optgroup,
+strong {
     font-weight: bolder;
   }
 
-  a {
+a {
     text-decoration: none;
 
     &:hover {
@@ -371,19 +373,19 @@ body[dir="rtl"] .book-menu {
     }
   }
 
-  img {
+img {
     max-width: 50%; /*100*/
     height: auto;
   }
 
-  code {
+code {
     padding: 0 $padding-4;
     background: var(--gray-200);
     border-radius: $border-radius;
     font-size: 0.875em;
   }
 
-  pre {
+pre {
     padding: $padding-16;
     background: var(--gray-100);
     border-radius: $border-radius;
@@ -395,11 +397,11 @@ body[dir="rtl"] .book-menu {
     }
   }
 
-  p {
-    word-wrap:break-word;
+p {
+  word-wrap:break-word;
   }
 
-  blockquote {
+blockquote {
     margin: $padding-16 0;
     padding: $padding-8 $padding-16 $padding-8 ($padding-16 - $padding-4); //to keep total left space 16dp
 
@@ -414,7 +416,8 @@ body[dir="rtl"] .book-menu {
     }
   }
 
-  table {
+  
+table {
     overflow: auto;
     display: block;
     border-spacing: 0;
@@ -433,18 +436,19 @@ body[dir="rtl"] .book-menu {
     }
   }
 
-  hr {
+  
+hr {
     height: $padding-1;
     border: none;
     background: var(--gray-200);
   }
 
-  ul,
+ul,
   ol {
     padding-inline-start: $padding-16 * 2;
   }
 
-  dl {
+dl {
     dt {
       font-weight: bolder;
       margin-top: $padding-16;
@@ -457,7 +461,7 @@ body[dir="rtl"] .book-menu {
   }
 
   // Special case for highlighted code with line numbers
-  .highlight table tr {
+.highlight table tr {
     td:nth-child(1) pre {
       margin: 0;
       padding-inline-end: 0;
@@ -468,7 +472,8 @@ body[dir="rtl"] .book-menu {
     }
   }
 
-  details {
+
+details {
     padding: $padding-16;
     border: $padding-1 solid var(--gray-200);
     border-radius: $border-radius;
@@ -485,7 +490,8 @@ body[dir="rtl"] .book-menu {
     }
   }
 
-  figure {
+
+figure {
     margin: $padding-16 0;
     figcaption p {
       margin-top: 0;
