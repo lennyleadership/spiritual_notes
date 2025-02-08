@@ -112,7 +112,7 @@ And the fact that human beings were going to be glorified and they would be abov
 
 Now do you think this might have made Satan jealous? Well, of course. Remember back to the time if you were jealous of someone and the person you were jealous of received some honor? Didn’t that just burn you up? If we’re honest with ourselves, it just burns you up when someone you allow yourself to be jealous of receives some honor. Well, what greater honor than to become the sons of God? What greater honor can these human beings have than to become the sons of God? That just burns Satan up and fills him with jealousy and then anger and then hatred and the desire to murder. It burns him up absolutely, because it means we’re going to be ultimately in a more favored position than the angelic host, and since he was a murderer from the beginning, would it not be logical that he would want to murder or destroy the object of his jealousy? Who is the object of his jealousy? It’s all of us.
 
-<u>That leads directly to the next object of Satan’s jealousy. Satan is jealous of our intimate relationship with God.</u>
+<u>That leads directly to the next object of Satan’s jealousy. Satan is jealous of our intimate relationship with God.</u><label class="margin-toggle"></label><span class="marginnote">Point #3</span>
 
 It is a relationship the angelic host does not have and will not have. You see, we’ve been promised not only to be sons of God, but something else. Let’s go to John, chapter 15. We read this on Passover evening. Christ, when He called the disciples, He would tell them to come and go and do this and that and some went out to preach the gospel and He told them to get in the boat and row across the bay, etc., and they were basically doing His bidding. They were servants. Notice verses 14 and 15. He makes a change in the relationship.
 
@@ -134,7 +134,7 @@ Now what he wants to do is instill in God’s children with that same attitude. 
 
 So, the third big area is that Satan is jealous of this intimate relationship that we have with God.
 
-<u>The third area is: Satan is jealous because we worship God and not him.</u><label class="margin-toggle"></label><span class="marginnote">Point #3</span>
+<u>The third area is: Satan is jealous because we worship God and not him.</u><label class="margin-toggle"></label><span class="marginnote">Point #4</span>
 
 Now think about that. Satan hates it when we put God first in our lives. He just hates that. Why? Because he is not first. When we go astray, we are putting him first. But when we put God at the center of our life, he just hates it.
 
