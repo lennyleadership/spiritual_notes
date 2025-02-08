@@ -34,7 +34,7 @@ So today what we want to do is to better understand the why and the how of Satan
 
 So the title of the sermon, if you like a title, is The Jealousy of Satan. Now what we’re going to do in the first part of the sermon is talk about five objects of Satan’s jealousy. What is his jealousy focused on? We will talk about five of them.
 
-The first one is obvious: Satan was first jealous of God.
+<u>The first one is obvious: Satan was first jealous of God.</u>
 
 When you think about it, until that happened, until Satan became jealous of God, jealousy never existed before. It was created in the mind of Satan. It had never existed until he became jealous of God. The reason is that Satan is a being that wants the exaltation. He wants to be exalted and lifted up.
 
@@ -62,7 +62,7 @@ A seventeenth century French author made a very profound statement regarding the
 
 Satan loved himself more than he loved God and Jesus Christ. So the one who first wanted exaltation is the author of jealousy. Let’s understand that. Any time we feel jealous, remember who the author of jealousy is. So that’s the first point, Satan was jealous of God.
 
-The second point is that Satan is jealous of Christ as the Son of God and he is also jealous of us as sons of God.
+<u>The second point is that Satan is jealous of Christ as the Son of God and he is also jealous of us as sons of God.</u>
 
 Because of this, Satan became a murderer. Let’s go to John 8 and look at verse 44. Ultimately Satan’s jealousy led him to anger and then to hatred and then murder. Christ is talking to the religious leaders of the day who prided themselves in their righteousness and He was bringing them down a notch or two.
 
@@ -112,7 +112,7 @@ And the fact that human beings were going to be glorified and they would be abov
 
 Now do you think this might have made Satan jealous? Well, of course. Remember back to the time if you were jealous of someone and the person you were jealous of received some honor? Didn’t that just burn you up? If we’re honest with ourselves, it just burns you up when someone you allow yourself to be jealous of receives some honor. Well, what greater honor than to become the sons of God? What greater honor can these human beings have than to become the sons of God? That just burns Satan up and fills him with jealousy and then anger and then hatred and the desire to murder. It burns him up absolutely, because it means we’re going to be ultimately in a more favored position than the angelic host, and since he was a murderer from the beginning, would it not be logical that he would want to murder or destroy the object of his jealousy? Who is the object of his jealousy? It’s all of us.
 
-That leads directly to the next object of Satan’s jealousy. Satan is jealous of our intimate relationship with God.
+<u>That leads directly to the next object of Satan’s jealousy. Satan is jealous of our intimate relationship with God.</u>
 
 It is a relationship the angelic host does not have and will not have. You see, we’ve been promised not only to be sons of God, but something else. Let’s go to John, chapter 15. We read this on Passover evening. Christ, when He called the disciples, He would tell them to come and go and do this and that and some went out to preach the gospel and He told them to get in the boat and row across the bay, etc., and they were basically doing His bidding. They were servants. Notice verses 14 and 15. He makes a change in the relationship.
 
@@ -134,7 +134,7 @@ Now what he wants to do is instill in God’s children with that same attitude. 
 
 So, the third big area is that Satan is jealous of this intimate relationship that we have with God.
 
-The third area is: Satan is jealous because we worship God and not him.
+<u>The third area is: Satan is jealous because we worship God and not him.</u>
 
 Now think about that. Satan hates it when we put God first in our lives. He just hates that. Why? Because he is not first. When we go astray, we are putting him first. But when we put God at the center of our life, he just hates it.
 
@@ -198,7 +198,7 @@ Satan hates it when God blesses His people.
 
 You see, what Satan wants to do is destroy that worshipful, obedient, adoring attitude that Job had toward his creator. What he is saying is, “You let me at him and I will turn him against you just as I did with Adam and Eve.” So what I’m saying is that Satan actively does the same with us; seeking whom he may devour. “You let me at him, God, and they will be cursing you by the time I’m through.” So through his deception, Satan wants to turn us from worshipping God to worshipping him, and he is jealous of this worshipful attitude in the fact that we are obedient and we worship God and not him.
 
-That leads us to the fifth and last object we will discuss about Satan’s jealousy. He is insanely jealous when we are forgiven by God, when God removes our sins.
+<u>That leads us to the fifth and last object we will discuss about Satan’s jealousy. He is insanely jealous when we are forgiven by God, when God removes our sins.</u>
 
 Let’s understand, we all sin and we all miss the mark. Romans 3:23: “All have sinned and come short of the glory of God.” When we do sin, we all know and understand that our sins separate us from God, as Isaiah 59:2 says. When we start sinning and get into a mode of sin, we get farther away from God. God doesn’t move, God doesn’t change, but we just get farther away from God. Now this is exactly what Satan wants. This is one reason he provokes us to sin, to separate us from God.
 
