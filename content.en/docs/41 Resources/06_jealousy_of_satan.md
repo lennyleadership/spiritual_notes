@@ -54,7 +54,7 @@ Let’s go to Isaiah 14 and we’re going to read verses 13 and 14. Only God kno
 
 Isaiah 14:13. For you have said in your heart, I will ascent into heaven, I will exalt my throne (his throne) above the stars of God (or the angels of God): I will sit also upon the mount of the congregation (I’m going to sit right up there with God) in the sides of the north:
 
-14) I will ascend above the heights of the clouds (again, exalting himself); I will be like the most High. (KJV)
+<span>14)</span> I will ascend above the heights of the clouds (again, exalting himself); I will be like the most High. (KJV)
 
 He was not content to be anything less than right up there with God Almighty. Satan’s desire to be exalted led to his jealousy of God because he wanted God’s position. He was not content with his own position. That led to his attempt to replace God. We know there was a war in heaven and as we are going to see in a second, he was cast down.
 
