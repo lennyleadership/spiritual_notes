@@ -90,15 +90,15 @@ Now let’s take that understanding and jump to Hebrews, chapter 1 and we’re g
 
 Hebrews 1:4. Being made so much better than the angels, as he has by inheritance obtained a more excellent name than they. (meaning the angels)
 
-5) For unto which of the angels said he at any time, You are my Son, this day I have begotten you? And again, I will be to him a Father, and he shall be to me a Son? (KJV)
+<span>5)</span> For unto which of the angels said he at any time, You are my Son, this day I have begotten you? And again, I will be to him a Father, and he shall be to me a Son? (KJV)
 
 What we’re being told is this was never ever told to the angels.
 
-6) And again, when he brings in the first begotten into the world, he says, And let all the angels of God worship him. (KJV)
+<span>6)</span> And again, when he brings in the first begotten into the world, he says, And let all the angels of God worship him. (KJV)
 
 If Satan wanted to exalt himself, this was something he could not stand and he could not stomach.
 
-13) But to which of the angels said he at any time, “Sit on my right hand, until I make your enemies your footstool?” (KJV)
+<span>13)</span> But to which of the angels said he at any time, “Sit on my right hand, until I make your enemies your footstool?” (KJV)
 
 You see, Satan would never have that position. Just as an aside, these two scriptures that I just read cannot be used in any way to say Christ was a created being because Christ was the Word before then. Let’s understand, Satan would never be in the position of sitting on the right hand of the Father and be called, “This is My Son, THE Son of God.” So you can see that jealousy started when that plan was announced to the angelic host.
 
@@ -106,7 +106,7 @@ But in addition, Satan became jealous of us as potential future sons of God, ete
 
 Romans 8:16. The (Holy) Spirit itself bears witness with our spirit (meaning God’s Spirit in us), that we are (right now) the children of God …
 
-17) And if children, then heirs; heirs of God and joint heirs with Christ (of the same potential, the same future); if so be that we suffer with [him], that we may be also glorified together. (KJV)
+<span>17)</span> And if children, then heirs; heirs of God and joint heirs with Christ (of the same potential, the same future); if so be that we suffer with [him], that we may be also glorified together. (KJV)
 
 And the fact that human beings were going to be glorified and they would be above the angels, put humans in a position that Satan will never have: this family relationship with the Father. They are servants as we will see in a minute, but they are not Sons of the Father.
 
@@ -118,7 +118,7 @@ It is a relationship the angelic host does not have and will not have. You see, 
 
 John 15:14. You are my friends, if you do whatsoever I command you.
 
-15) Henceforth I call you not servants; for the servant knows not what his lord does …
+<span>15)</span> Henceforth I call you not servants; for the servant knows not what his lord does …
 
 Now let’s stop here and understand that the angelic kingdom are servants.
 
@@ -146,27 +146,27 @@ Romans 8 tells us that those who are led by the Spirit are the children of God.
 
 1b) … into the wilderness,
 
-2) Being forty days tempted of the devil. And in those days he did eat nothing: and when they were ended, he afterwards hungered.
+<span>2)</span> Being forty days tempted of the devil. And in those days he did eat nothing: and when they were ended, he afterwards hungered.
 
-3) And the devil said unto him, “If you be the Son of God, command this stone that it be made bread.”
+<span>3)</span> And the devil said unto him, “If you be the Son of God, command this stone that it be made bread.”
 
-4) And Jesus answered him, saying, “It is written, that man shall not live by bread alone, but by every word of God.” (KJV)
+<span>4)</span> And Jesus answered him, saying, “It is written, that man shall not live by bread alone, but by every word of God.” (KJV)
 
 Now that didn’t work. Notice verse 5. Now we get to the crux of it.
 
-5) And the devil, taking him up into a high mountain, showed unto him all the kingdoms of the world in a moment of time. (KJV)
+<span>5)</span> And the devil, taking him up into a high mountain, showed unto him all the kingdoms of the world in a moment of time. (KJV)
 
 He has that ability.
 
-6) And the devil said unto him, “All this power will I give you and the glory of them; for that is delivered unto me and to whomsoever I will I give it.”
+<span>6)</span> And the devil said unto him, “All this power will I give you and the glory of them; for that is delivered unto me and to whomsoever I will I give it.”
 
 What is the catch? What is the big “if?”. That’s verse 7.
 
-7) If you therefore will worship me, all shall be yours. (KJV)
+<span>7)</span> If you therefore will worship me, all shall be yours. (KJV)
 
 Christ is at a crossroads. He could worship the Father or He could worship Satan.
 
-8) And Jesus answered and said unto him, “Get thee behind me, Satan: for it is written, you shall worship the Lord your God and him only (nobody else) shall you serve.” (KJV)
+<span>8)</span> And Jesus answered and said unto him, “Get thee behind me, Satan: for it is written, you shall worship the Lord your God and him only (nobody else) shall you serve.” (KJV)
 
 This is interesting, you see, because Christ is the God of the Old Testament. We understand that. In John 1:3, it tells us that all things were created by Christ. Therefore, Christ created Satan. Don’t know if you ever thought about that. Christ created Satan and in Satan’s twisted mind, he wanted his creator to worship him! He wanted the being that created him to kneel down and worship him, if you can imagine that.
 
@@ -180,7 +180,7 @@ Job 1:1. There was a man in the land of Uz, whose name [was] Job; and that man w
 
 Job was very righteous.
 
-8) Then the Lord said to Satan, “Have you considered My servant Job …
+<span>8)</span> Then the Lord said to Satan, “Have you considered My servant Job …
 
 Now the margin in the King James says, “Have you set your heart on Job?”, just like he set his heart on Adam and Eve, to turn Job just like he did with Adam and Eve.
 
@@ -188,13 +188,13 @@ Now the margin in the King James says, “Have you set your heart on Job?”, ju
 
 One who worships God and obeys God. We should ask, why did Satan set his heart on Job? What was it about Job that Satan wanted to attack? Obviously, the motivation was jealousy. He hates those who worship God, who obey God, who adore God and who put God first in their lives. He also hates those who are blessed by God, and Job had manifold blessings from God. Look at verse 9.
 
-9) So Satan answered the Lord and said, “Does Job fear (reverence or worship) God for nothing?”
+<span>9)</span> So Satan answered the Lord and said, “Does Job fear (reverence or worship) God for nothing?”
 
-10) “Have You not made a hedge around him, around his household, and around all that he has on every side? You have blessed the work of his hands, and his possessions have increased in the land.” (NKJV)
+<span>10)</span> “Have You not made a hedge around him, around his household, and around all that he has on every side? You have blessed the work of his hands, and his possessions have increased in the land.” (NKJV)
 
 Satan hates it when God blesses His people.
 
-11) “But now, stretch out your hand and touch all that he has and he will surely curse You to Your face!” (NKJV)
+<span>11)</span> “But now, stretch out your hand and touch all that he has and he will surely curse You to Your face!” (NKJV)
 
 You see, what Satan wants to do is destroy that worshipful, obedient, adoring attitude that Job had toward his creator. What he is saying is, “You let me at him and I will turn him against you just as I did with Adam and Eve.” So what I’m saying is that Satan actively does the same with us; seeking whom he may devour. “You let me at him, God, and they will be cursing you by the time I’m through.” So through his deception, Satan wants to turn us from worshipping God to worshipping him, and he is jealous of this worshipful attitude in the fact that we are obedient and we worship God and not him.
 
@@ -208,7 +208,7 @@ Revelation 12:10. And I heard a loud voice saying in heaven, “Now is come salv
 
 Satan is our adversary and our accuser. Notice verse 11.
 
-11) And they (the saints) of God; (the firstfruits of God) overcame him (Satan) by the blood of the Lamb …
+<span>11)</span> And they (the saints) of God; (the firstfruits of God) overcame him (Satan) by the blood of the Lamb …
 
 This is very important. They overcame Satan by the blood of Jesus Christ.
 
@@ -228,27 +228,27 @@ John 10:1. “Verily, verily, I say unto you, He that enters not by the door int
 
 Now He is heading in a certain direction with this.
 
-2) “But he that enters in by the door is the shepherd of the sheep,
+<span>2)</span> “But he that enters in by the door is the shepherd of the sheep,
 
-3) “To him the porter (the gatekeeper) opens; and the sheep hear his voice and he calls his own sheep by name and leads them out.
+<span>3)</span> “To him the porter (the gatekeeper) opens; and the sheep hear his voice and he calls his own sheep by name and leads them out.
 
-4) “And when he puts forth his own sheep, he goes before them, and the sheep follow him; for they know his voice.
+<span>4)</span> “And when he puts forth his own sheep, he goes before them, and the sheep follow him; for they know his voice.
 
-5) “And a stranger will they not follow, but will flee from him: for they know not the voice of strangers.
+<span>5)</span> “And a stranger will they not follow, but will flee from him: for they know not the voice of strangers.
 
-6) This parable spoke Jesus unto them: but they understood not what things they were which he spoke unto them. (KJV)
+<span>6)</span> This parable spoke Jesus unto them: but they understood not what things they were which he spoke unto them. (KJV)
 
 In verse 7, He begins to explain.
 
-7) Then said Jesus unto them again, “Verily, verily, I say unto you, I am the door of the sheep.
+<span>7)</span> Then said Jesus unto them again, “Verily, verily, I say unto you, I am the door of the sheep.
 
-8) “All that ever came before me are thieves and robbers: but the sheep did not hear them.
+<span>8)</span> “All that ever came before me are thieves and robbers: but the sheep did not hear them.
 
-9) “ I am the door: by me if any man enter in, he shall be saved and shall go in and out (into the sheepfold and out of the sheepfold) and find pasture.” (KJV)
+<span>9)</span> “ I am the door: by me if any man enter in, he shall be saved and shall go in and out (into the sheepfold and out of the sheepfold) and find pasture.” (KJV)
 
 Now what is he referring to as pasture? That means out in the pasture where the Good Shepherd leads them, they find safety, they find shelter and they find sustenance, whether they are in the sheepfold or they follow the shepherd out in the pasture.
 
-10) “The thief comes not, (here’s what the thief wants to do) but for to (three things) steal, and to kill and to destroy …”
+<span>10)</span> “The thief comes not, (here’s what the thief wants to do) but for to (three things) steal, and to kill and to destroy …”
 
 And Christ says: “Look at the contrast between the thief and Me. I’m not coming to steal and kill and destroy.”
 
@@ -256,11 +256,11 @@ And Christ says: “Look at the contrast between the thief and Me. I’m not com
 
 Now it’s obvious that Satan is the thief that Christ is referring to and Satan began that effort of those three things with the very first two human beings and he succeeded with their children. Now he wants to accomplish three things:
 
-1. He wants to steal us from God. How does he try to do that? We’ve already covered that. He wants to destroy our relationship with God. If he can destroy our relationship with God, then he can steal us from God.
+<span>1</span>. He wants to steal us from God. How does he try to do that? We’ve already covered that. He wants to destroy our relationship with God. If he can destroy our relationship with God, then he can steal us from God.
 
-2. He wants to kill us physically. I am sure when we talk to God in the world tomorrow, we’re going to find out that, “I intervened here and I intervened here and my angels intervened here and you would be dead if we didn’t do this and this and this. Satan wants to physically kill us.
+<span>2</span>. He wants to kill us physically. I am sure when we talk to God in the world tomorrow, we’re going to find out that, “I intervened here and I intervened here and my angels intervened here and you would be dead if we didn’t do this and this and this. Satan wants to physically kill us.
 
-3. He wants to destroy us spiritually. Now the Greek word for “destroy” is Strong’s 622 and it means to destroy fully, to destroy completely, absolutely completely.
+<span>3</span>. He wants to destroy us spiritually. Now the Greek word for “destroy” is Strong’s 622 and it means to destroy fully, to destroy completely, absolutely completely.
 
 So the bottom line, you see, is Satan is jealous of us to the point that he wants us gone forever. Steal: get us away from God; kill us physically and then to completely destroy us in the lake of fire. He wants us gone forever. That is his motivation and he is stoked by jealousy.
 
@@ -274,11 +274,11 @@ Ephesians 4:22. …that you put off (cast off), concerning your former conduct (
 
 Before God called us, that was our situation. Once He called us and once He gives us His Holy Spirit and gives us His word to understand, we have a job to do.
 
-23) and be renewed in the spirit of your mind,
+<span>23)</span> and be renewed in the spirit of your mind,
 
 You have a new Spirit in your mind. Philippians 2:5 says we have to have the mind of Christ.
 
-24) and that you put on the new man which was created according to God, in true righteousness and holiness. (NKJV)
+<span>24)</span> and that you put on the new man which was created according to God, in true righteousness and holiness. (NKJV)
 
 You see we have to become more like God and the only way we can become more like God is to have a close relationship with Him and Jesus Christ so we know who they are, and then we have the power through the Holy Spirit to change ourselves so we become more like them.
 
@@ -292,7 +292,7 @@ Then if that wasn’t enough, another servant runs up and said, “Your seven so
 
 Job 1:21. And said: “Naked came I out of my mother’s womb, and naked shall I return there: the Lord gave and the Lord has taken away; blessed be the name of the Lord.
 
-22) In all this (this horrible, crushing news) Job sinned not, nor charged God foolishly. (KJV)
+<span>22)</span> In all this (this horrible, crushing news) Job sinned not, nor charged God foolishly. (KJV)
 
 What a vision of God. He said, “God, you are supreme and I know you love me and I know whatever you do is for my benefit and for my good. What a vision and what a relationship with God and what trust. Here he is with all this bad news and then later Satan attacks his body. Yes, humanly as James pointed out in his sermon on Job, he was suffering but he learned again that God is sovereign. God is above all and what He does is for our benefit. What a relationship with God; what trust. We need to have that same relationship with God. So the first one is put God always at the center of our lives.
 
@@ -314,7 +314,7 @@ What is the purpose of the armor? Sometimes we can just read right over it.
 
 That is the purpose of the armor. The Greek word for “wiles” means trickery or lying in wait (seeking whom he may devour). So the purpose of the armor is to be able to stand against the trickery, the lying in wait of Satan the devil. Now verse 12 out of the NIV,
 
-12) For our struggle is not against flesh and blood (sometimes we forget that; we focus on the human), but against the rulers, against the authorities, against the powers of this dark world (that’s all physical) and (this is more important) against the spiritual forces of evil in the heavenly realms (referring to Satan and his demons). (NIV)
+<span>12)</span> For our struggle is not against flesh and blood (sometimes we forget that; we focus on the human), but against the rulers, against the authorities, against the powers of this dark world (that’s all physical) and (this is more important) against the spiritual forces of evil in the heavenly realms (referring to Satan and his demons). (NIV)
 
 So we see here that the primary purpose of the whole armor of God is to protect us from Satan.
 
@@ -322,13 +322,13 @@ Saul’s armor didn’t work for David. You can go back to 1 Samuel and see that
 
 We need God’s spiritual armor, God’s spiritual protection. We can do the best we can in our lives, but if we are going to rely on protection from Satan, it comes from God, God protecting us and giving us that spiritual armor.
 
-13) Therefore take unto you the whole armor of God, that you may be able to withstand in the evil day …
+<span>13)</span> Therefore take unto you the whole armor of God, that you may be able to withstand in the evil day …
 
 Now that evil day could be the day Satan really puts the pressure on and attacks us or the evil day could be the last days that we are in.
 
 13b) … and having done all, to stand.
 
-14) Stand therefore, having your loins gird about with truth …(KJV)
+<span>14)</span> Stand therefore, having your loins gird about with truth …(KJV)
 
 The first armor of God is the truth, and we have God’s truth. What a blessing we have God’s truth.
 
@@ -336,11 +336,11 @@ The first armor of God is the truth, and we have God’s truth. What a blessing 
 
 The second one is righteousness. That means putting God’s truth into practice, obeying it.
 
-15) And your feet shod with the preparation of the gospel of (what?) peace;
+<span>15)</span> And your feet shod with the preparation of the gospel of (what?) peace;
 
 If we have peace inside and we don’t allow Satan to tie us into little bitty knots, we can withstand Satan.
 
-16) Above all, taking the shield of faith …
+<span>16)</span> Above all, taking the shield of faith …
 
 If we don’t have faith, God can’t protect us. We’re nowhere. If we don’t have that trust, then we are nowhere.
 
@@ -348,7 +348,7 @@ If we don’t have faith, God can’t protect us. We’re nowhere. If we don’t
 
 No matter what trials come our way; no matter what trials we have, if we have faith that whatever God does or allows in our lives is for our good. That’s going to be the next sermon. Whatever God does, whatever God allows is for our good and not our harm. If we have that faith then we will be able to withstand all the fiery darts of the wicked.
 
-17) And take the helmet of salvation …
+<span>17)</span> And take the helmet of salvation …
 
 That’s something we look forward to; that is something that is a goal for us.
 
@@ -358,7 +358,7 @@ We can trust God’s word. We don’t have to trust men. We don’t have to trus
 
 The seventh is praying.
 
-18) Praying always with all prayer and supplication in the Spirit …
+<span>18)</span> Praying always with all prayer and supplication in the Spirit …
 
 The last is:
 
@@ -432,7 +432,7 @@ Now in conclusion let’s go back to 1 Peter 5:8. We read that in the very begin
 
 We’ve seen now why he wants to devour us and that’s jealousy. Jealousy unchecked leads to anger. Anger unchecked then leads to hatred. Hatred leads to action, based on that hatred and based on that jealousy and based on that anger. It leads to action. Now notice the following verses because it gives us the answer we need to have. God always gives us an answer to our problems. Look at verse 9. I’ll read it out of the NIV.
 
-9) Resist him …
+<span>9)</span> Resist him …
 
 This roaring lion. That’s the key. We must resist. We talked about the whole armor of God and putting God at the center of our lives and being aware of those that God is using to get us off track, etc.
 
@@ -440,7 +440,7 @@ This roaring lion. That’s the key. We must resist. We talked about the whole a
 
 Yes, indeed. In South Africa, Victor Schuler and the family is suffering.
 
-10) (If we resist him) And the God of all grace, who called you to his eternal glory in Christ, after you have suffered a little while, will himself restore you and make you strong, firm and steadfast. (NIV)
+<span>10)</span> (If we resist him) And the God of all grace, who called you to his eternal glory in Christ, after you have suffered a little while, will himself restore you and make you strong, firm and steadfast. (NIV)
 
 The key is to resist and not give in, not give in to the people Satan uses, not give in to the emotions that he broadcasts in our minds or the thoughts he puts into our minds or the words that he attempts to put in our mouths or the actions that he will provoke us to.
 
