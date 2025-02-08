@@ -62,7 +62,7 @@ A seventeenth century French author made a very profound statement regarding the
 
 Satan loved himself more than he loved God and Jesus Christ. So the one who first wanted exaltation is the author of jealousy. Let’s understand that. Any time we feel jealous, remember who the author of jealousy is. So that’s the first point, Satan was jealous of God.
 
-<u>The second point is that Satan is jealous of Christ as the Son of God and he is also jealous of us as sons of God.</u>
+<u>The second point is that Satan is jealous of Christ as the Son of God and he is also jealous of us as sons of God.</u><label class="margin-toggle sidenote-number"></label><span class="marginnote">Point #2</span>
 
 Because of this, Satan became a murderer. Let’s go to John 8 and look at verse 44. Ultimately Satan’s jealousy led him to anger and then to hatred and then murder. Christ is talking to the religious leaders of the day who prided themselves in their righteousness and He was bringing them down a notch or two.
 
@@ -126,7 +126,7 @@ Hebrews 1:14 tells us they are ministering spirits. He is saying to the disciple
 
 15b) … but I have called you friends; for all things that I have heard of my Father I have made known to you. (KJV)
 
-We know that Christ and the Father don’t necessarily tell the angelic host everything, because we read in other scriptures that there are things they desire to look into. The Greek word for “friend” is Strong’s 5384 and it’s the Greek word philos which is a cousin of the word Philadelphia. It means loved; it means dear and it means fond of. Loved, dear and fond of; all of these characteristics apply to God’s view of His children; loved, dear and He is fond of all of us. Again, this is a relationship that Satan never had and the angelic kingdom does not have. As a result, what Satan wants to do is to destroy this special relationship between God and each one of us. He goes after, attacking the relationship between us and the Father.
+We know that Christ and the Father don’t necessarily tell the angelic host everything, because we read in other scriptures that there are things they desire to look into. The Greek word for “friend” is Strong’s 5384 and it’s the Greek word <i>philos</i> which is a cousin of the word <i>Philadelphia</i>. It means <i>loved</i>; it means dear and it means <i>fond of</i>. Loved, dear and fond of; all of these characteristics apply to God’s view of His children; loved, dear and He is fond of all of us. Again, this is a relationship that Satan never had and the angelic kingdom does not have. As a result, what Satan wants to do is to destroy this special relationship between God and each one of us. He goes after, attacking the relationship between us and the Father.
 
 Look at what he did to the first human beings. We won’t turn there. I’ll just paraphrase it. We find this in the beginning of Genesis 3. Remember what it tells us. It says “The serpent was more cunning than any beast that God had made.” Remember what Satan said to Eve; He said, “Hasn’t God said that you shall not eat of every tree in the garden?” And I’m sure Eve was naive and innocent and said, “Oh yes, we can eat of any tree in the garden except this tree in the middle of the garden and God has told us that we can’t touch it and we can’t eat it or we will die.” Remember what Satan said, “Oh, you’re not going to die. God is not telling you the truth. You’re not going to die, because He knows that in the day you eat thereof, you will be like God because it will open your mind and then you will know like God does the differences between good and evil.”  Meaning you can establish your own rules about good and evil. He began to plant seeds of distrust and doubt which led to a lack of faith on their part in God.
 
@@ -220,7 +220,7 @@ Now when that happens, the act of God’s forgiveness of our sins just makes Sat
 
 That is a lesson for us today because this is a caution to all of us. Never, ever go there where we feel God is wrong or we have done nothing wrong and where we know we have sinned but we choose not to repent. That’s about the fastest way I know of to go in the lake of fire and Satan has set us that example. So we should never go there. He is angry and he is jealous with us when we repent because our right relationship with God is restored and, once again, he will never have that. He’s jealous with us because of that.
 
-So far in the sermon we’ve seen five objects of Satan’s jealousy. Let’s understand, because of his jealousy that is the reason he wants to devour us. Remember we read that in 1 Peter 5:8; he wants to swallow us, gulp us down entirely.
+<b>So far in the sermon we’ve seen five objects of Satan’s jealousy. Let’s understand, because of his jealousy that is the reason he wants to devour us. Remember we read that in 1 Peter 5:8; he wants to swallow us, gulp us down entirely.</b>
 
 Now Christ amplifies how he wants to do that. Let’s go to John, chapter 10. This is very instructive. Christ is using an analogy of a sheepfold or a sheep pen. As you remember, sheep pens were made of rock. They didn’t have barbed-wire fences back then. They were made of stacked rock, wider at the base and they angled in at the top just for strength. They were rectangular and at one end they had a gate. Generally there was a gatekeeper. So let’s start in verse 1 of John 10.
 
