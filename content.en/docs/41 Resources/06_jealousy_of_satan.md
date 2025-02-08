@@ -62,7 +62,7 @@ A seventeenth century French author made a very profound statement regarding the
 
 Satan loved himself more than he loved God and Jesus Christ. So the one who first wanted exaltation is the author of jealousy. Let’s understand that. Any time we feel jealous, remember who the author of jealousy is. So that’s the first point, Satan was jealous of God.
 
-<u>The second point is that Satan is jealous of Christ as the Son of God and he is also jealous of us as sons of God.</u><label class="margin-toggle sidenote-number"></label><span class="marginnote">Point #2</span>
+<u>The second point is that Satan is jealous of Christ as the Son of God and he is also jealous of us as sons of God.</u><label class="margin-toggle"></label><span class="marginnote">Point #2</span>
 
 Because of this, Satan became a murderer. Let’s go to John 8 and look at verse 44. Ultimately Satan’s jealousy led him to anger and then to hatred and then murder. Christ is talking to the religious leaders of the day who prided themselves in their righteousness and He was bringing them down a notch or two.
 
