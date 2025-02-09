@@ -1,6 +1,6 @@
 ---
-weight: 999
-title: blank
+weight: 
+title: 
 authors: null
 categories: null
 tags: null
