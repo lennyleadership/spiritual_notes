@@ -1,5 +1,5 @@
 ---
-weight: 
+weight: 04
 title: 2024-02-13 Foolishness of God
 authors: null
 categories: null
