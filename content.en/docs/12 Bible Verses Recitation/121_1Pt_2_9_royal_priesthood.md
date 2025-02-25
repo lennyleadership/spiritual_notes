@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 121
 title: 1 Pt 2:9 Royal Priesthood
 authors:
 categories: null

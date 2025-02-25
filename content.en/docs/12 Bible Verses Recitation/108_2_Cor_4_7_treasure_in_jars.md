@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 108
 title: 2 Corinthians 4:7 Treasures in Earthen Vessels
 authors:
 categories: null

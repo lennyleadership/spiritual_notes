@@ -1,5 +1,5 @@
 ---
-weight: 
+weight: 119
 title: Heb 11:8 Abram First Step in Faith
 authors:
 categories: null

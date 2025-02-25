@@ -1,5 +1,5 @@
 ---
-weight: 
+weight: 109
 title: "Galatians 5:22-23 9 Fruits"
 authors:
 categories: null

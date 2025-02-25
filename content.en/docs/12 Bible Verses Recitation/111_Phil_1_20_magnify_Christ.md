@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 111
 title: Phil 1:20-21 Christ Shall be Magnified
 authors:
 categories: null

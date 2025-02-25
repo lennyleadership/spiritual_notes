@@ -1,5 +1,5 @@
 ---
-weight: 
+weight: 112
 title: Col 2:9 Fullness of God's nature
 authors:
 categories: null

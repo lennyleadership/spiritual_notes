@@ -1,5 +1,5 @@
 ---
-weight: 
+weight: 037
 title: "Haggai 1:9 My House is in ruins"
 authors:
 categories: null
