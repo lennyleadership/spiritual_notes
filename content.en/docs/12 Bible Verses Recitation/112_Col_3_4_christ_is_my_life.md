@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 112
 title: Col 3:3-4 Christ Is Our Life
 authors:
 categories: null
