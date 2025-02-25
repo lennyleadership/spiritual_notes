@@ -12,7 +12,7 @@ series: null
 toc: true
 ---
 
-歌林多後書 4:7 CUVS
+歌林多後書 4:7 CUVS  
 我们有这宝贝放在瓦器里， 要显明这莫大的能力是出於神，不是出於我们。
 
 2 Corinthians 4:7 ESV  
