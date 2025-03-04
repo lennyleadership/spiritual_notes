@@ -1,6 +1,6 @@
 ---
 weight: 109
-title: Gal 2:20 Christ Lives in Me
+title: Galatians 2:20 Christ Lives in Me
 authors:
 categories: null
 tags:
