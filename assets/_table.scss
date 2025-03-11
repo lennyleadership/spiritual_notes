@@ -14,15 +14,16 @@ table{
   /*border: 1px solid #ddd;*/
 
 
-tr th,
+tr thead,
 tr td {
       padding: $padding-8 $padding-16;
       border-collapse: collapse; /* single line of inside*/
       border: $padding-1 solid var(--gray-200);
     }
 
-th{
-  background-color: lightblue; /*add background color to the header*/
+thead{
+  background-color: #3367d6; /*add background color to the header*/
+  color: white;
   border-bottom: double;
 }
 
