@@ -59,7 +59,10 @@ h4,
 h5,
 h6 {
     /*font-weight: normal;*/
-    line-height: 1;
+    text-transform: uppercase;
+    font-weight: $header-font-weight;
+    font-size: 1rem;
+    line-height: 2;
     margin-top: 1.5em;
     margin-bottom: $padding-16;
 
@@ -77,19 +80,42 @@ h6 {
   }
 
 
+h2 {
+  text-indent: 2%;
+}
+
+
+h3{
+    font-style: italic;
+    font-size: .9rem;
+    text-indent: 4%;
+  }
+  
+h4 {
+    font-style: italic;
+    font-size: 0.8em;
+    margin-left: 20px;
+  }
+
+h5 {
+    font-style: italic;
+    font-size: 0.7em;
+  }
+
+h6 {
+    font-style: italic;
+    font-size: 0.6em;
+  }
+
 h4,
 h5,
 h6 {
     font-weight: bolder;
   }
 
-h5 {
-    font-size: 0.875em;
-  }
 
-h6 {
-    font-size: 0.75em;
-  }
+
+
 
 b,
 optgroup,
@@ -128,3 +154,42 @@ blockquote {
       margin-bottom: 0;
     }
   }
+  
+  
+  
+/* spaced overline for h1 */////////////////////////////////////////////////////////////////////////
+.overline {
+  padding-top: 25px;
+  border-top-style: solid;
+  border-top-width: 5px;
+  width: fit-content;
+  border-top-color: orange;
+  }
+ 
+
+h1:before {
+  content:' ';
+  display:block;
+  padding-top: 25px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: lightgrey;
+}
+
+
+/* the end */***************************************************************************************
+
+
+.font_upper {
+  text-transform: uppercase;
+  font-size: 1rem;
+}
+
+
+.aligncenter {
+    text-align: center;
+}
+
+u.red{
+  border-bottom:1px solid red;
+}
