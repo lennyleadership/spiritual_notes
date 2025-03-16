@@ -3,7 +3,7 @@ weight: 04
 title: Life Begins with Submission
 authors: null
 categories: null
-tags: [完全顺服, "Full Surrender","Life Journey"]
+tags: [完全顺服, "Full Surrender","我的转变"]
 series: null
 description: 
 draft: false
