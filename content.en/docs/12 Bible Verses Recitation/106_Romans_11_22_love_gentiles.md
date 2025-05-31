@@ -23,3 +23,5 @@ Romans 11:22-24 ESV
 [22] Note then the kindness and the severity of God: <b>severity toward those who have fallen, but God's kindness to you</b>, provided you continue in his kindness. Otherwise you too will be cut off.   
 [23] And even they, if they do not continue in their unbelief, will be grafted in, for God has the power to graft them in again.   
 [24] For if you were cut from what is by nature a wild olive tree, and grafted, contrary to nature, into a cultivated olive tree, how much more will these, the natural branches, be grafted back into their own olive tree.  
+
+
