@@ -7,8 +7,8 @@ tags: null
 series: null
 description: 
 draft: false
-date: "2024-"
-lastmod: "2024-"
+date: "2024-02-10"
+lastmod: "2024-02-10"
 toc: true
 ---
 Reference:  Matthew 16:21-23 vs Luke 22:3-6
