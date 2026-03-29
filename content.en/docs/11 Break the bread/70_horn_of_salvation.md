@@ -1,0 +1,296 @@
+---
+weight: 
+title: 拯救的角
+authors: null
+categories: null
+tags: null
+series: null
+description: 
+draft: false
+date: "2026-03-25"
+lastmod: "2026-03-25"
+toc: true
+---
+
+<!--more-->
+
+# Preface: another symbol of Jesus
+Jesus is referred to as the "Horn of Salvation" in Luke 1:69.
+
+The horn of <b>salvation</b> is explicitly a Messianic title for Jesus Christ.
+
+The horn of <b>the altar</b> are widely treated as a symbol (or type) of Jesus Christ. They point to key aspects of who He is and what He did.
+
+
+# Introduction: Horn on two alters
+God's design, the purpose/meaning of the horns
+
+King David gradually acknowledged the "horns of salvation" through five deepening stages across his Psalms, moving from personal rescue to Messianic hope.
+
+# Acknowledge power and strength from God. God had delivered him from the hand of all his enemies, and from the hand of Saul.
+Strength, power, and victory
+
+Psalm 18 - Praise for God's deliverance
+
+2 Samuel 22:1 NKJV
+1 Then David spoke to the Lord the words of this song, on the day when the Lord had delivered him from the hand of all his enemies, and from the hand of Saul.
+
+point #1: Bend the bow of bronze
+add-on: the size of the stone when he killed Goliath
+
+Psalms 18:31-34 NKJV  
+31 For who is God, except the Lord?  
+And who is a rock, except our God?  
+32 It is God who arms me with strength,  
+And makes my way perfect.  
+33 He makes my feet like the feet of deer,  
+And sets me on my high places.  
+34 He teaches my hands to make war,  
+So that my arms can bend a bow of bronze.  
+
+point #2: 
+                                                                                                                                                                                                                                                                                                                               
+Conclusion #1: 
+
+
+Psalm 75:4-5, 10 
+Conclusion #2: Recognition: God decides who rises or falls; He crushes evil horns and exalts the righteous.
+
+# Acknoledge God's righteousness. God delivered him from the guilt of bloodshed.  God defeated Satan.
+He must know of history [characters held the horn of the alter, asking for exemption of not been killed.]
+
+context: Horn in Jewish culture
+
+Hebrew word:
+
+קֶרֶן
+qeren
+keh'-ren
+
+point #1: wash away sins
+He wanted to offer the sacrifice of a crushed spirit and a contrite heart.
+
+point #2: the truth of salvation is clear in the OT. the truth of born-again is in the OT. The power that leads whoever believes in God will raise from the death to the life.
+
+约翰福音 3:9-10 和合本  
+9 尼哥底母问他说：“怎能有这事呢？”  
+10 耶稣回答说：“你是以色列人的先生，还不明白这事吗？ 
+
+Psalms 51:10 NKJV  
+10 Create in me a clean heart, O God,  
+And renew a steadfast spirit within me.
+
+ he repended, he tasted the joy of forgiveness
+
+point #3: Now is the time
+Psalm 32:5
+
+
+Conclusion #3:
+
+# Conclusion
+
+Point #1: The progression  
+From "God saves me" (Psalm 18) → "God empowers kings" (Psalms 75, 89, 92) → "God raises David's eternal horn" (Psalm 132), David's view expands from immediate survival to God's Messianic plan fulfilled in Jesus.  
+
+Point #2: Jesus took us out of trouble, problems.  Jesus took us of sinful nature.
+
+Point #3: personal. my Lord, my horn of salvation.
+
+# 补充材料
+## 大卫诗篇中讲述上帝救赎的经历
+
+### 第一阶段：从困苦中解救出来 Youth / early court years (Saul’s service and persecution)
+
+In persecution by Saul / in the wilderness: Psalms 7, 11, 52, 54, 56, 57, 59, 63, 142, etc., often associated with 1 Samuel 19–27 based on superscriptions like “when the Philistines seized him in Gath” (Ps 56) or “when he was in the cave” (Ps 57, 142).
+
+Victory and deliverance: Psalm <b>18</b> is tied to “the day when the Lord delivered him from the hand of all his enemies and from the hand of Saul” (cf. 2 Sam 22).
+
+诗篇18:2：个人拯救大能
+
+“耶和华…是拯救我的角”——大卫回顾扫罗追杀等危难，神像公牛角一样有力救他。
+
+### 第二阶段：建立王权，求上帝看顾以色列全境 Early kingship over all Israel
+神掌管“角”的兴衰，赐王权柄。
+
+诗篇75:4-5,10：神审判与兴起
+
+“不要举角…我必砍下列国的角，高举义人的角”——神掌管谁能“举角”（得势），恶人角被砍，义人角被高举。
+
+诗篇89:17,24：王权柄与保护
+
+“公义如日头为你兴起…我的圣膏者要用角加力”——神赐受膏王（大卫）角的力量，击碎仇敌。
+
+诗篇92:10：个人复兴
+
+“你却高举了我的角，如独角野牛的角”——神复兴大卫的力量与尊荣。
+
+### 第三阶段：从罪中解救
+Commonly linked psalms:
+
+Confession and forgiveness: Psalm 51 explicitly references Nathan’s visit after the Bathsheba incident; timelines often place Psalms 32 and 38 as reflecting ongoing experience of guilt and forgiveness in the same era.
+
+### 第四阶段：盼望弥撒亚的到来
+指向大卫家永恒的“角”——基督。
+
+诗篇132:17：弥赛亚盼望
+
+“我要叫大卫的角在那里发生，为我受膏者预备明灯”——指向大卫后裔的永恒角，即弥赛亚耶稣（路1:69）。
+
+
+这历程从个人拯救→王权拯救→弥赛亚普世拯救，预备新约路1:69。
+
+
+## Example chronological chains from charts
+Different reconstructions produce slightly different sequences, but one representative scheme groups certain psalms with specific Samuel events and approximate years (BC):
+
+Persecution under Saul (c. 1065–1055 BC): Psalms 7, 11, 52, 54, 56, 57, 59, 142, etc.
+
+Enthronement and early victories (c. 1048–1040 BC): Psalms 18, 20, 21, 24, 60, 101, 110, 139.
+
+Bathsheba and repentance (c. 1035–1030 BC): Psalms 51, 32, 38.
+
+Absalom’s revolt (c. 1025–1023 BC): Psalms 3, 63, possibly 55 and 143–144.
+
+## Search Result H7161 Chinese Union Bible (1919) - with Strong’s numbers
+
+
+Total number of matched verses: 68
+
+Ps (12); Dan (8); Lev (8); Exod (8); 1Kgs (5); 1Sam (4); Ezek (4); Zech (3); Jer (2); Amos (2); Lam (2); Hab (1); Mic (1); Gen (1); Isa (1); 2Chr (1); 1Chr (1); 2Sam (1); Josh (1); Deut (1); Job (1);
+
+Gen 22:13:	亞伯拉罕H85舉H5375目H5869觀看H7200，不料，有一隻公羊H352，兩角H7161扣H270在稠密的小樹H5442中，亞伯拉罕H85就取H3947了那隻公羊H352來，獻H5927為燔祭H5930，代替H8478他的兒子H1121。
+
+Exod 27:2:	要在壇的四H702拐角H6438上做H6213四個角H7161，與壇接連一塊，用銅H5178把壇包裹H6823。
+
+Exod 29:12:	要取H3947些公牛H6499的血H1818，用指頭H676抹H5414在壇H4196的四角H7161上，把血H1818都倒H8210在H413壇H4196腳H3247那裡。
+
+Exod 30:2:	這壇要四方H7251的，長H753一肘H520，寬H7341一肘H520，高H6967二肘H520；壇的四角H7161要與壇接連一塊。
+
+Exod 30:3:	要用精H2889金H2091把壇的上面H1406與壇的四圍H7023,H5439，並壇的四角H7161，包裹H6823；又要在壇的四圍H5439鑲上H6213金H2091牙邊H2213。
+
+Exod 30:10:	亞倫H175一年H8141一次H259要在壇的角H7161上行贖罪之禮H3722。他一年H8141一次H259要用贖罪H3725祭牲H2403的血H1818在壇上行贖罪之禮H3722，作為世世代代H1755的定例。這壇在耶和華H3068面前為至H6944聖H6944。
+
+Exod 37:25:	他用皂莢H7848木H6086做H6213香H7004壇H4196，是四方的H7251，長H753一肘H520，寬H7341一肘H520，高H6967二肘H520，壇的四角H7161與壇接連一塊；
+
+Exod 37:26:	又用精H2889金H2091把壇的上面H1406與壇的四面H7023,H5439並壇的四角H7161包裹H6823，又在壇的四圍H5439鑲上H6213金H2091牙邊H2213。
+
+Exod 38:2:	在壇的四H702拐角H6438上做H6213四個角H7161，與壇接連一塊，用銅H5178把壇包裹H6823。
+
+Lev 4:7:	又要把H5414些血H1818抹在會H4150幕H168內、耶和華H3068面前H6440香H5561,H7004壇H4196的四角H7161上，再把公牛H6499所有的血H1818倒H8210在會H4150幕H168門口H6607、燔祭H5930壇H4196的腳H3247那裡。
+
+Lev 4:18:	又要把些血H1818抹H5414在會H4150幕H168內、耶和華H3068面前H6440壇H4196的四角H7161上，再把所有的血H1818倒H8210在會H4150幕H168門H6607口、燔祭H5930壇H4196的腳H3247那裡。
+
+Lev 4:25:	祭司H3548要用指頭H676蘸H3947些贖罪祭H2403牲的血H1818，抹H5414在燔祭H5930壇H4196的四角H7161上，把血H1818倒H8210在燔祭H5930壇H4196的腳H3247那裡。
+
+Lev 4:30:	祭司H3548要用指頭H676蘸H3947些羊的血H1818，抹H5414在燔祭H5930壇H4196的四角H7161上，所有的血H1818都要倒H8210在壇H4196的腳H3247那裡，
+
+Lev 4:34:	祭司H3548要用指頭H676蘸H3947些贖罪祭H2403牲的血H1818，抹H5414在燔祭H5930壇H4196的四角H7161上，所有的血H1818都要倒H8210在壇H4196的腳H3247那裡，
+
+Lev 8:15:	就宰了H7819公牛。摩西H4872用H3947指頭H676蘸血H1818，抹在H5414壇H4196上四角H7161的周圍H5439，使壇H4196潔淨H2398，把血H1818倒在H3332壇H4196的腳H3247那裡，使壇成聖H6942，壇就潔淨了H3722；
+
+Lev 9:9:	亞倫H175的兒子H1121把血H1818奉給H7126他，他就把指頭H676蘸在H2881血H1818中，抹在H5414壇H4196的四角H7161上，又把血H1818倒在H3332壇H4196腳H3247那裡。
+
+Lev 16:18:	他出來H3318，要到耶和華H3068面前H6440的壇H4196那裡，在壇上行贖罪H3722之禮，又要取些H3947公牛H6499的血H1818和公山羊H8163的血H1818，抹在H5414壇上H4196四角H7161的周圍H5439；
+
+Deut 33:17:	他為牛群H7794中頭生的H1060，有威嚴H1926；他的角H7161是野牛H7214的角H7161，用以牴觸H5055萬H3162邦H5971，直到地H776極H657。這角是以法蓮H669的萬萬H7233，瑪拿西H4519的千千H505。
+
+Josh 6:5:	他們吹的角H3104,H7161聲拖長H4900，你們聽見H8085角H7782聲H6963，眾百姓H5971要大H1419聲H8643呼喊H7321，城H5892牆H2346就必塌陷H5307,H8478，各人H5971,H376都要往前直上H5927。
+
+1Sam 2:1:	哈拿H2584禱告H6419說H559：我的心H3820因耶和華H3068快樂H5970；我的角H7161因耶和華H3068高舉H7311。我的口H6310向仇敵H341張開H7337；我因耶和華的救恩H3444歡欣H8055。
+
+1Sam 2:10:	與耶和華H3068爭競的H7378，必被打碎H2865；耶和華H3068必從天上H8064以雷H7481攻擊他，必審判H1777地H776極H657的人，將力量H5797賜與H5414所立H4428的王，高舉H7311受膏者H4899的角H7161。
+
+1Sam 16:1:	耶和華H3068對撒母耳H8050說H559：我既厭棄H3988掃羅H7586作以色列H3478的王H4427，你為他悲傷H56要到幾時呢？你將膏油H8081盛滿了H4390角H7161，我差遣H7971你往伯利恆人H1022耶西H3448那裡去；因為我在他眾子H1121之內，預定H7200一個作王H4428的。
+
+1Sam 16:13:	撒母耳H8050就用H3947角H7161裡的膏油H8081，在他諸兄H251中H7130膏了H4886他。從這日H3117起H4605，耶和華H3068的靈H7307就大大感動H6743大衛H1732。撒母耳H8050起身H6965回H3212拉瑪H7414去了。
+
+2Sam 22:3:	我的神H430，我的磐石H6697，我所投靠H2620的。他是我的盾牌H4043，是拯救H3468我的角H7161，是我的高臺H4869，是我的避難所H4498。我的救主H3467啊，你是救H3467我脫離強暴H2555的。
+
+1Kgs 1:39:	祭司H3548撒督H6659就從帳幕H168中取了H3947盛膏油H8081的角H7161來，用膏膏H4886所羅門H8010。人就吹H8628角H7782，眾民H5971都說H559：願所羅門H8010王H4428萬歲H2421！
+
+1Kgs 1:50:	亞多尼雅H138懼怕H3372所羅門H8010，就起來H6965，去抓住H2388祭壇H4196的角H7161。
+
+1Kgs 1:51:	有人告訴H5046所羅門H8010說H559：亞多尼雅H138懼怕H3372所羅門H8010王H4428，現在抓住H270祭壇H4196的角H7161，說H559：願所羅門H8010王H4428今日H3117向我起誓H7650，必不用刀H2719殺H4191僕人H5650。
+
+1Kgs 2:28:	約押H3097雖然沒有歸從H5186,H310押沙龍H53，卻歸從了H5186,H310亞多尼雅H138。他聽見這風聲H8052，就逃H5127到耶和華H3068的帳幕H168，抓H2388住祭壇H4196的角H7161。
+
+1Kgs 22:11:	基拿拿H3668的兒子H1121西底家H6667造了H6213兩個鐵H1270角H7161，說H559：耶和華H3068如此說H559：你要用這角牴觸H5055亞蘭人H758，直到將他們滅盡H3615。
+
+1Chr 25:5:	這都是希幔H1968的兒子H1121，吹H7311角H7161頌讚。希幔奉神H430之命作王H4428的先見H2374,H1697,H1697。神H430賜給H5414希幔H1968十四H702,H6240個兒子H1121，三H7969個女兒H1323，
+
+2Chr 18:10:	基拿拿H3668的兒子H1121西底家H6667造了H6213兩個鐵H1270角H7161，說H559：耶和華H3068如此說H559：你要用這角牴觸H5055亞蘭人H758，直到將他們滅盡H3615。
+
+Job 16:15:	我縫H8609麻布H8242在我皮膚H1539上，把我的角H7161放在H5953塵土H6083中。
+
+Ps 18:2:	耶和華H3068是我的巖石H5553，我的山寨H4686，我的救主H6403，我的神H410，我的磐石H6697，我所投靠H2620的。他是我的盾牌H4043，是拯救H3468我的角H7161，是我的高臺H4869。
+
+Ps 22:21:	救H3467我脫離獅子H738的口H6310；你已經應允H6030我，使我脫離野牛H7214的角H7161。
+
+Ps 75:4:	我對狂傲H1984人說H559：不要行事狂傲H1984！對兇惡人H7563說：不要舉H7311角H7161！
+
+Ps 75:5:	不要把你們的角H7161高H4791舉H7311；不要挺H6277著頸項H6677說話H1696。
+
+Ps 75:10:	惡人H7563一切的角H7161，我要砍斷H1438；唯有義人H6662的角H7161必被高舉H7311。
+
+Ps 89:17:	你是他們力量H5797的榮耀H8597；因為你喜悅H7522我們，我們的角H7161必被高舉H7311,H7311。
+
+Ps 89:24:	只是我的信實H530和我的慈愛H2617要與他同在；因我的名H8034，他的角H7161必被高舉H7311。
+
+Ps 92:10:	你卻高舉了H7311我的角H7161，如野牛的角H7214；我是被新H7488油H8081膏了的H1101。
+
+Ps 112:9:	他施捨H6340錢財，賙濟H5414貧窮H34；他的仁義H6666存到H5975永遠H5703。他的角H7161必被高舉H7311，大有榮耀H3519。
+
+Ps 118:27:	耶和華H3068是神H410；他光照了H215我們。理當用繩索H5688把祭牲H2282拴住H631，牽到壇H4196角H7161那裡。
+
+Ps 132:17:	我要叫大衛H1732的角H7161在那裡發生H6779,H6779；我為我的受膏者H4899預備H6186明燈H5216。
+
+Ps 148:14:	他將他百姓H5971的角H7161高舉H7311，因此他(或譯：他使)一切聖民H2623以色列H3478人H1121，就是與他相近H7138的百姓H5971，都讚美H8416他！你們要讚美H1984耶和華H3050！
+
+Isa 5:1:	我要為我所親愛的H3039唱歌H7891，是我所愛者H1730的歌H7892，論他葡萄園H3754的事：我所親愛的H3039有葡萄園H3754在肥美的H1121,H8081山崗上H7161。
+
+Jer 17:1:	猶大H3063的罪H2403是用鐵H1270筆H5842、用金鋼H8068鑽H6856記錄的H3789，銘刻H2790在他們的心H3820版H3871上和壇H4196角H7161上。
+
+Jer 48:25:	摩押H4124的角H7161砍斷了H1438，摩押的膀臂H2220折斷了H7665。這是耶和華H3068說H5002的。
+
+Lam 2:3:	他發烈H2750怒H639，把以色列H3478的角H7161全然砍斷H1438，在仇敵H341面前H6440收H7725回H268右手H3225。他像火焰H3852,H784四圍H5439吞滅H398，將雅各H3290燒毀H1197。
+
+Lam 2:17:	耶和華H3068成就了H6213他所定的H2161，應驗了H1214他古H6924時H3117所命定的H6680。他傾覆了H2040，並不顧惜H2550，使你的仇敵H341向你誇耀H8055；使你敵人H6862的角H7161也被高舉H7311。
+
+Ezek 29:21:	當那日H3117，我必使以色列H3478家H1004的角H7161發生H6779，又必使H5414你以西結在他們中間H8432得以開H6610口H6310；他們就知道H3045我是耶和華H3068。
+
+Ezek 34:21:	因為你們用脅H6654用肩H3802擁擠H1920一切瘦弱H2470的，又用角H7161牴觸H5055，以致使他們四散H6327。
+
+Ezek 43:15:	壇上的供臺H741,H2025，高四H702肘H520。供臺H741的四H702拐角H7161上都有角。
+
+Ezek 43:20:	你要取H3947些公牛的血H1818，抹H5414在壇的四H702角H7161和磴臺H5835的四H702拐角H6438，並四圍H5439所起的邊H1366上。你這樣潔淨H2398壇，壇就潔淨H3722了。
+
+Dan 8:3:	我舉H5375目H5869觀看H7200，見有雙角H7161的公綿羊H352站H5975在河H180邊H6440，兩角H7161都高H1364。這H259角高過H1364那角H8145，更高的H1364是後H314長H5927的。
+
+Dan 8:5:	我正思想H995的時候，見有一隻公H5795山羊H6842從西H4628而來H935，遍行全地H776，腳不沾H5060塵H776。這山羊H6842兩眼H5869當中有一非常的H2380角H7161。
+
+Dan 8:6:	它往我所看見H7200、站在H5975河H180邊H6440有H1167雙角H7161的公綿羊H352那裡去H935，大發H3581忿怒H2534，向它直闖H7323。
+
+Dan 8:7:	我見H7200公山羊就近H5060,H681公綿羊H352，向它發烈怒H4843，牴觸H5221它，折斷H7665它的兩H8147角H7161。綿羊H352在它面前H6440站立H5975不住H3581；它將綿羊觸倒H7993在地H776，用腳踐踏H7429，沒有能救H5337綿羊H352脫離它手H3027的。
+
+Dan 8:8:	這山羊H5795極其H3966自高自大H1431，正強盛H6105的時候，那大H1419角H7161折斷了H7665，又在角根上向天H8064的四H702方(原文是：風)H7307長出H5927四個H702非常的角H2380來。
+
+Dan 8:9:	四角之中有一H259角長出H3318一個小H4704角H7161，向南H5045、向東H4217、向榮美H6643之地，漸漸成為H3499強大H1431。
+
+Dan 8:20:	你所看見H7200雙角H7161的公綿羊H352，就是瑪代H4074和波斯H6539王H4428。
+
+Dan 8:21:	那公H8163山羊H6842就是希臘(原文是：雅完H3120；下同)王H4428；兩眼H5869當中的大H1419角H7161就是頭一H7223王H4428。
+
+Amos 3:14:	我討H6485以色列H3478罪H6588的日子H3117，也要討H6485伯特利H1008祭壇H4196的罪；壇H4196角H7161必被砍下H1438，墜落H5307於地H776。
+
+Amos 6:13:	你們喜愛H8056虛浮H3808的事H1697，自誇說H559，我們不是憑自己的力量H2392取了H3947角H7161麼？
+
+Mic 4:13:	錫安H6726的民(原文作：女子)H1323哪，起來H6965踹H1758榖罷！我必使H7760你的角H7161成為鐵H1270，使H7760你的蹄H6541成為銅H5154。你必打碎H1854多H7227國的民H5971，將他們的財H1215獻H2763與耶和華H3068，將他們的貨H2428獻與普天下H776的主H113。
+
+Hab 3:4:	他的輝煌H5051如同日光H216；從他手H3027裡射出<b>光線H7161</b>，在其中藏H2253著他的能力H5797。
+
+Zech 1:18:	我舉H5375目H5869觀看H7200，見有四H702角H7161。
+
+Zech 1:19:	我就問與我說話H1696的天使H4397說H559：這是甚麼意思？他回答H559說：這是打散H2219猶大H3063、以色列H3478，和耶路撒冷H3389的角H7161。
+
+Zech 1:21:	我說H559：他們來H935做H6213甚麼呢？他說H559,H559：這是打散H2219猶大H3063的角H7161，使人H376不敢抬H5375頭H7218；但這些匠人來H935威嚇H2729列國H1471，打掉H3034他們的角H7161，就是舉起H5375打散H2219猶大H3063地H776的角H7161。
