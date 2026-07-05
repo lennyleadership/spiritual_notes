@@ -1,6 +1,6 @@
 ---
 weight: 52
-title: "Lenny's Message"
+title: "Lenny Jotted Notes"
 authors: 
 categories: null
 description: 
