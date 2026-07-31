@@ -1,6 +1,6 @@
 ---
 weight: AI 01
-title: From Emptiness in Adam to Fullness in Jesus
+title: AI_From Emptiness in Adam to Fullness in Jesus
 authors: null
 categories: null
 tags: null
@@ -46,6 +46,6 @@ Let us therefore come with humility:
 
 As we eat the bread and drink the cup, we proclaim not only Christ’s death, but also this great truth: **we are no longer defined by Adam’s failure. In Christ, the last Adam, we receive life, righteousness, and fullness.** [modernreformation](https://www.modernreformation.org/resources/essays/jesus-the-second-and-greater-adam)
 
-### Prayer
+*Prayer*
 
 Lord Jesus, we thank You that You are the true and last Adam. Through Adam came sin and death, but through Your obedience, Your body given, and Your blood shed, You have brought forgiveness and life. Turn our hearts away from self-reliance and fill us with faith in You. As we partake of this bread and cup, help us to remember that all fullness is found in You. Amen.
