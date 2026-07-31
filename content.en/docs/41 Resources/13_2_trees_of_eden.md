@@ -70,7 +70,7 @@ Such a question is the result of knowing good and evil apart from God; and such 
 
 
 <p id="1">[1] 
-<a href="#1_ref">In what follows I am indebted to James B. Jordan, <a href = "https://www.logos.com/product/247646/trees-and-thorns-studies-in-the-first-four-chapters-of-genesis" target="_blank" rel="noopener noreferrer">Trees and Thorns: Studies in the First Four Chapters of Genesis</a> (Monroe, LA: Athanasius Press, 2021), though I diverge from him at certain points.&#8617;</a></p>
+<a href="#1_ref">In what follows I am indebted to James B. Jordan, <a href = "https://www.logos.com/product/247646/trees-and-thorns-studies-in-the-first-four-chapters-of-genesis" target="_blank" rel="noopener noreferrer">Trees and Thorns: Studies in the First Four Chapters of Genesis</a> (Monroe, LA: Athanasius Press, 2021), though I diverge from him at certain points.&#8617; </a></p>
 
 <p id="2">[2] 
-<a href="#2_ref">Jordan, **Trees and Thorns**, 60. &#8617;</a></p>
+<a href="#2_ref">Jordan, <i>Trees and Thorns</i>, 60. &#8617;</a></p>
