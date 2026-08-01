@@ -1,5 +1,5 @@
 ---
-weight: 999
+weight: 01
 title: Exegesis vs. Eisegesis
 authors: null
 categories: null

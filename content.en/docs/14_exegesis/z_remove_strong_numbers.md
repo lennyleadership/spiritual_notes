@@ -6,7 +6,7 @@ categories: null
 tags: null
 series: null
 description: 
-draft: false
+draft: true
 date: "2026-08-01"
 lastmod: "2026-08-01"
 toc: true

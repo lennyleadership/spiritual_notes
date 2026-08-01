@@ -39,23 +39,39 @@ Josh 20:5: 若是報血仇的追了,他來，長老不可將他交在報血仇�
 
 1Kgs 7:14: 他是拿弗他利支派中一個寡婦,的兒子，他父親是推羅人，作銅匠的。戶蘭滿有智慧、聰明、技能<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，善於各樣銅作。他來到所羅門王那裡，做王一切所要做的。   
 
-Job 10:7: 其實，你知道<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>我沒有罪惡，並沒有能救我脫離你手的。   Job 13:2: 你們所知道<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的，我也知道，並非不及你們。   
+Job 10:7: 其實，你知道<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>我沒有罪惡，並沒有能救我脫離你手的。   
 
-Job 15:2: 智慧人豈可用虛空的知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>回答，用東風充滿肚腹呢？   Job 21:14: 他們對神說：離開我們罷！我們不願曉得<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>你的道。   
+Job 13:2: 你們所知道<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的，我也知道，並非不及你們。   
 
-Job 21:22: 神既審判那在高位的，誰能將知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>教訓他呢？   Job 33:3: 我的言語要發明心中所存的正直；我所知道的<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，我嘴唇要誠實地說出。   
+Job 15:2: 智慧人豈可用虛空的知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>回答，用東風充滿肚腹呢？   
 
-Job 34:35: 約伯說話沒有知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，言語中毫無智慧。   Job 35:16: 所以約伯開口說虛妄的話，多發無知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的言語。   
+Job 21:14: 他們對神說：離開我們罷！我們不願曉得<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>你的道。   
 
-Job 36:12: 若不聽從，就要被刀殺滅，無知無識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>而死。   Job 38:2: 誰用無知的<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>言語使我的旨意暗昧不明，   
+Job 21:22: 神既審判那在高位的，誰能將知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>教訓他呢？   
+
+Job 33:3: 我的言語要發明心中所存的正直；我所知道的<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，我嘴唇要誠實地說出。   
+
+Job 34:35: 約伯說話沒有知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，言語中毫無智慧。   
+
+Job 35:16: 所以約伯開口說虛妄的話，多發無知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的言語。   
+
+Job 36:12: 若不聽從，就要被刀殺滅，無知無識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>而死。   
+
+Job 38:2: 誰用無知的<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>言語使我的旨意暗昧不明，   
 
 Job 42:3: 誰用無知<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的言語使你的旨意隱藏呢？我所說的是我不明白的；這些事太奇妙，是我不知道的。   
 
-Ps 19:2: 這日到那日發出言語；這夜到那夜傳出知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>。   Ps 94:10: 管教列邦的，就是叫人得知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的，難道自己不懲治人麼？   
+Ps 19:2: 這日到那日發出言語；這夜到那夜傳出知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>。   
 
-Ps 119:66: 求你將精明,和知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>賜給我，因我信了你的命令。   Ps 139:6: 這樣的知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>奇妙,，是我不能測的，至高，是我不能及的。   
+Ps 94:10: 管教列邦的，就是叫人得知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的，難道自己不懲治人麼？   
 
-Pro 1:4: 使愚人靈明，使少年人有知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>和謀略，   Pro 1:7: 敬畏耶和華是知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的開端；愚妄人藐視智慧和訓誨。   
+Ps 119:66: 求你將精明,和知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>賜給我，因我信了你的命令。   
+
+Ps 139:6: 這樣的知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>奇妙,，是我不能測的，至高，是我不能及的。   
+
+Pro 1:4: 使愚人靈明，使少年人有知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>和謀略，   
+
+Pro 1:7: 敬畏耶和華是知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的開端；愚妄人藐視智慧和訓誨。   
 
 Pro 1:22: 說：你們愚昧人喜愛愚昧，褻慢人喜歡褻慢，愚頑人恨惡知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，要到幾時呢？   
 
