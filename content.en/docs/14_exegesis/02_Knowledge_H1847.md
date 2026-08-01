@@ -13,6 +13,7 @@ toc: true
 ---
 
 <!--more-->
+Pro 2:5: 你就明白敬畏耶和華，得以認識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>神。   
 
 Pro 9:10: 敬畏耶和華是智慧的開端；認識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>至聖者便是聰明。   
 
@@ -76,8 +77,6 @@ Pro 1:7: 敬畏耶和華是知識<sup><mark style="background-color: #A8CD66 ; c
 Pro 1:22: 說：你們愚昧人喜愛愚昧，褻慢人喜歡褻慢，愚頑人恨惡知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，要到幾時呢？   
 
 Pro 1:29: 因為，你們恨惡知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，不喜愛敬畏耶和華，   
-
-Pro 2:5: 你就明白敬畏耶和華，得以認識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>神。   
 
 Pro 2:6: 因為，耶和華賜人智慧；知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>和聰明都由他口而出。   
 
@@ -202,7 +201,7 @@ Mal 2:7: 祭司的嘴裡當存知識<sup><mark style="background-color: #A8CD66 
 
 Chinese Union Bible (1919) - with Strong’s numbers
 
-'<sup><mark style="background-color: #A8CD66 ; color: black;"><sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup></mark></sup>'
+<mark style="background-color: #A8CD66 ; color: black;">H1847</mark>
 Total number of matched verses: 88
 Total number of occurrences: 90
 
