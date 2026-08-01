@@ -14,197 +14,179 @@ toc: true
 
 <!--more-->
 
-Pro 9:10:	敬畏H3374耶和華H3068是智慧H2451的開端H8462；認識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>至聖者H6918便是聰明H998。
+Pro 9:10:\t敬畏耶和華是智慧的開端；認識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>至聖者便是聰明。\n
 
-Hos 4:6:	我的民H5971因無知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>而滅亡H1820。你棄掉H3988知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，我也必棄掉H3988你，使你不再給我作祭司H3547。你既忘H7911了你神H430的律法H8451，我也必忘記H7911你的兒女H1121。
+Hos 4:6:\t我的民因無知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>而滅亡。你棄掉知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，我也必棄掉你，使你不再給我作祭司。你既忘了你神的律法，我也必忘記你的兒女。\n
 
 
 ---
 
+Gen 2:17:\t只是分別<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>善惡樹上的果子，你不可吃，因為你吃的日子必定死！\n
 
+Exod 31:3:\t我也以我的靈充滿了他，使他有智慧，有聰明，有知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，能做各樣的工，\n
 
+Exod 35:31:\t又以神的靈充滿了他，使他有智慧、聰明、知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，能做各樣的工，\n
 
+Num 24:16:\t得聽神的言語，明白至高者的意旨<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，看見全能者的異象，眼目睜開而仆倒的人說：\n
 
+Deut 4:42:\t使那素無,仇恨、無心,<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>殺,了人的，可以逃,到這三城之中的一座城，就得存活：\n
 
+Deut 19:4:\t誤殺人的逃到那裡可以存活，定例乃是這樣：凡素無,仇恨，無心,<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>殺了人的，\n
 
-Gen 2:17:	只是分別<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>善H2896惡H7451樹H6086上的果子，你不可吃H398，因為你吃H398的日子H3117必定H4191死H4191！
+Josh 20:3:\t使那無心<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>而誤殺人的，可以逃到那裡。這些城可以作你們逃避報血仇人的地方。\n
 
-Exod 31:3:	我也以我的靈H7307充滿了H4390他，使他有智慧H2451，有聰明H8394，有知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，能做各樣的工H4399，
+Josh 20:5:\t若是報血仇的追了,他來，長老不可將他交在報血仇的手裡；因為他是素無仇恨,，無心,<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>殺了人的。\n
 
-Exod 35:31:	又以神H430的靈H7307充滿了H4390他，使他有智慧H2451、聰明H8394、知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，能做各樣的工H4399，
+1Kgs 7:14:\t他是拿弗他利支派中一個寡婦,的兒子，他父親是推羅人，作銅匠的。戶蘭滿有智慧、聰明、技能<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，善於各樣銅作。他來到所羅門王那裡，做王一切所要做的。\n
 
-Num 24:16:	得聽H8085神H410的言語H561，明白H3045至高者H5945的意旨<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，看見H2372全能者H7706的異象H4236，眼目H5869睜開H1540而仆倒H5307的人說H5002：
+Job 10:7:\t其實，你知道<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>我沒有罪惡，並沒有能救我脫離你手的。\nJob 13:2:\t你們所知道<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的，我也知道，並非不及你們。\n
 
-Deut 4:42:	使那素無H8543,H8032仇恨H8130、無心H1097,<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>殺H7523,H7523了人H7453的，可以逃H5127,H5127到這H411三城H5892之中的一H259座城，就得存活H2425：
+Job 15:2:\t智慧人豈可用虛空的知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>回答，用東風充滿肚腹呢？\nJob 21:14:\t他們對神說：離開我們罷！我們不願曉得<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>你的道。\n
 
-Deut 19:4:	誤殺人的H7523逃H5127到那裡可以存活H2425，定例H1697乃是這樣：凡素無H8543,H8032仇恨H8130，無心H1097,<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>殺了H5221人H7453的，
+Job 21:22:\t神既審判那在高位的，誰能將知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>教訓他呢？\nJob 33:3:\t我的言語要發明心中所存的正直；我所知道的<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，我嘴唇要誠實地說出。\n
 
-Josh 20:3:	使那無心<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>而誤H7684殺H5221人H5315的，可以逃H5127到那裡。這些城可以作你們逃避H4733報血H1818仇H1350人的地方。
+Job 34:35:\t約伯說話沒有知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，言語中毫無智慧。\nJob 35:16:\t所以約伯開口說虛妄的話，多發無知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的言語。\n
 
-Josh 20:5:	若是報血H1818仇的H1350追了H7291,H310他來，長老不可將他H7523交H5462在報血仇的手H3027裡；因為他是素無仇恨H8543,H8032，無心H1097,<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>殺了H5221人H7453的。
+Job 36:12:\t若不聽從，就要被刀殺滅，無知無識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>而死。\nJob 38:2:\t誰用無知的<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>言語使我的旨意暗昧不明，\n
 
-1Kgs 7:14:	他是拿弗他利H5321支派中H4294一個寡婦H802,H490的兒子H1121，他父親H1是推羅H6876人H376，作銅H5178匠的H2790。戶蘭滿H4390有智慧H2451、聰明H8394、技能<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，善於H6213各樣銅H5178作H4399。他來H935到所羅門H8010王H4428那裡，做H6213王一切所要做的H4399。
+Job 42:3:\t誰用無知<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的言語使你的旨意隱藏呢？我所說的是我不明白的；這些事太奇妙，是我不知道的。\n
 
-Job 10:7:	其實，你知道<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>我沒有罪惡H7561，並沒有能救我脫離H5337你手H3027的。
+Ps 19:2:\t這日到那日發出言語；這夜到那夜傳出知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>。\nPs 94:10:\t管教列邦的，就是叫人得知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的，難道自己不懲治人麼？\n
 
-Job 13:2:	你們所知道<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的，我也知道H3045，並非不及H5307你們。
+Ps 119:66:\t求你將精明,和知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>賜給我，因我信了你的命令。\nPs 139:6:\t這樣的知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>奇妙,，是我不能測的，至高，是我不能及的。\n
 
-Job 15:2:	智慧人H2450豈可用虛空的H7307知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>回答H6030，用東風H6921充滿H4390肚腹H990呢？
+Pro 1:4:\t使愚人靈明，使少年人有知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>和謀略，\nPro 1:7:\t敬畏耶和華是知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的開端；愚妄人藐視智慧和訓誨。\n
 
-Job 21:14:	他們對神H410說H559：離開H5493我們罷！我們不願H2654曉得<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>你的道H1870。
+Pro 1:22:\t說：你們愚昧人喜愛愚昧，褻慢人喜歡褻慢，愚頑人恨惡知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，要到幾時呢？\n
 
-Job 21:22:	神H410既審判H8199那在高位的H7311，誰能將知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>教訓H3925他呢？
+Pro 1:29:\t因為，你們恨惡知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，不喜愛敬畏耶和華，\n
 
-Job 33:3:	我的言語H561要發明心中H3820所存的正直H3476；我所知道的<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，我嘴唇H8193要誠實地H1305說出H4448。
+Pro 2:5:\t你就明白敬畏耶和華，得以認識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>神。\n
 
-Job 34:35:	約伯H347說話H1696沒有知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，言語H1697中毫無智慧H7919。
+Pro 2:6:\t因為，耶和華賜人智慧；知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>和聰明都由他口而出。\n
 
-Job 35:16:	所以約伯H347開H6475口H6310說虛妄的H1892話，多發H3527無H1097知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的言語H4405。
+Pro 2:10:\t智慧必入你心；你的靈要以知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>為美。\n
 
-Job 36:12:	若不聽從H8085，就要被刀H7973殺滅H5674，無知無識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>而死H1478。
+Pro 3:20:\t以知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>使深淵裂開，使天空滴下甘露。\n
 
-Job 38:2:	誰用無知的<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>言語H4405使我的旨意H6098暗昧不明H2821，
+Pro 5:2:\t為要使你謹守謀略，嘴唇保存知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>。\n
 
-Job 42:3:	誰用無知<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的言語使你的旨意H6098隱藏H5956呢？我所說的H5046是我不明白H995的；這些事太奇妙H6381，是我不知道H3045的。
+Pro 8:9:\t有聰明的，以為明顯，得知識的<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，以為正直。\n
 
-Ps 19:2:	這日H3117到那日H3117發出H5042言語H562；這夜H3915到那夜H3915傳出H2331知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>。
+Pro 8:10:\t你們當受我的教訓，不受白銀；寧得知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，勝過黃金,。\n
 
-Ps 94:10:	管教H3256列邦H1471的，就是叫H3925人H120得知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的，難道自己不懲治H3198人麼？
+Pro 8:12:\t我智慧以靈明為居所，又尋得知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>和謀略。\n
 
-Ps 119:66:	求你將精明H2898,H2940和知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>賜給H3925我，因我信了H539你的命令H4687。
+Pro 9:10:\t敬畏耶和華是智慧的開端；認識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>至聖者便是聰明。\n
 
-Ps 139:6:	這樣的知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>奇妙H6383,H6383，是我不能測的，至高H7682，是我不能H3201及的。
+Pro 10:14:\t智慧人積存知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>；愚妄人的口速致敗壞。\n
 
-Pro 1:4:	使H5414愚人H6612靈明H6195，使少年人H5288有知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>和謀略H4209，
+Pro 11:9:\t不虔敬的人用口敗壞鄰舍；義人卻因知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>得救。\n
 
-Pro 1:7:	敬畏H3374耶和華H3068是知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的開端H7225；愚妄人H191藐視H936智慧H2451和訓誨H4148。
+Pro 12:1:\t喜愛管教的，就是喜愛知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>；恨惡責備的，卻是畜類。\n
 
-Pro 1:22:	說：你們愚昧人H6612喜愛H157愚昧H6612，褻慢人H3887喜歡H2530褻慢H3944，愚頑人H3684恨惡H8130知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，要到幾時呢？
+Pro 12:23:\t通達人隱藏知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>；愚昧人的心彰顯愚昧。\n
 
-Pro 1:29:	因為，你們恨惡H8130知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，不喜愛H977敬畏H3374耶和華H3068，
+Pro 13:16:\t凡通達人都憑知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>行事；愚昧人張揚自己的愚昧。\n
 
-Pro 2:5:	你就明白H995敬畏H3374耶和華H3068，得以H4672認識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>神H430。
+Pro 14:6:\t褻慢人尋智慧，卻尋不著；聰明人易得知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>。\n
 
-Pro 2:6:	因為，耶和華H3068賜H5414人智慧H2451；知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>和聰明H8394都由他口H6310而出。
+Pro 14:7:\t到愚昧人面前，不見他嘴中有知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>。\n
 
-Pro 2:10:	智慧H2451必入H935你心H3820；你的靈H5315要以知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>為美H5276。
+Pro 15:2:\t智慧人的舌善發知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>；愚昧人的口吐出愚昧。\n
 
-Pro 3:20:	以知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>使深淵H8415裂開H1234，使天空H7834滴下H7491甘露H2919。
+Pro 15:7:\t智慧人的嘴播揚知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>；愚昧人的心並不如此。\n
 
-Pro 5:2:	為要使你謹守H8104謀略H4209，嘴唇H8193保存H5341知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>。
+Pro 15:14:\t聰明人心求知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>；愚昧人口,吃愚昧。\n
 
-Pro 8:9:	有聰明的H995，以為明顯H5228，得H4672知識的<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，以為正直H3477。
+Pro 17:27:\t寡少言語的，有知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>；性情溫良,的，有聰明。\n
 
-Pro 8:10:	你們當受H3947我的教訓H4148，不受白銀H3701；寧得知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，勝過黃金H977,H2742。
+Pro 18:15:\t聰明人的心得知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>；智慧人的耳求知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>。\n
 
-Pro 8:12:	我智慧H2451以靈明H6195為居所H7931，又尋得H4672知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>和謀略H4209。
+Pro 19:2:\t心無知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的，乃為不善；腳步急快的，難免犯罪。\n
 
-Pro 9:10:	敬畏H3374耶和華H3068是智慧H2451的開端H8462；認識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>至聖者H6918便是聰明H998。
+Pro 19:25:\t鞭打褻慢人，愚蒙人必長見識；責備明哲人，他就明白知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>。\n
 
-Pro 10:14:	智慧人H2450積存H6845知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>；愚妄人H191的口H6310速致H7138敗壞H4288。
+Pro 19:27:\t我兒，不可聽了教訓而又偏離知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的言語。\n
 
-Pro 11:9:	不虔敬的人H2611用口H6310敗壞H7843鄰舍H7453；義人H6662卻因知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>得救H2502。
+Pro 20:15:\t有金子和許多珍珠(或譯：紅寶石)，唯有知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的嘴乃為貴重的珍寶。\n
 
-Pro 12:1:	喜愛H157管教H4148的，就是喜愛H157知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>；恨惡H8130責備H8433的，卻是畜類H1198。
+Pro 21:11:\t褻慢的人受刑罰，愚蒙的人就得智慧；智慧人受訓誨，便得知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>。\n
 
-Pro 12:23:	通達H6175人H120隱藏H3680知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>；愚昧人H3684的心H3820彰顯H7121愚昧H200。
+Pro 22:12:\t耶和華的眼目眷顧聰明人<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，卻傾敗奸詐人的言語。\n
 
-Pro 13:16:	凡通達人H6175都憑知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>行事H6213；愚昧人H3684張揚H6566自己的愚昧H200。
+Pro 22:17:\t你須側耳聽受智慧人的言語，留心領會我的知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>。\n
 
-Pro 14:6:	褻慢人H3887尋H1245智慧H2451，卻尋不著；聰明人H995易H7043得知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>。
+Pro 22:20:\t謀略和知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的美事，我豈沒有寫給你麼？\n
 
-Pro 14:7:	到H3212愚昧H3684人H376面前H5048，不見H3045他嘴H8193中有知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>。
+Pro 23:12:\t你要留心領受訓誨，側耳聽從知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的言語。\n
 
-Pro 15:2:	智慧人H2450的舌H3956善發H3190知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>；愚昧人H3684的口H6310吐出H5042愚昧H200。
+Pro 24:4:\t其中因知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>充滿各樣美好寶貴的財物。\n
 
-Pro 15:7:	智慧人H2450的嘴H8193播揚H2219知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>；愚昧人H3684的心H3820並不如此。
+Pro 24:5:\t智慧人大有能力；有知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的人力上加力。\n
 
-Pro 15:14:	聰明人H995心H3820求H1245知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>；愚昧人H3684口H6310,H6440吃H7462愚昧H200。
+Pro 29:7:\t義人知道查明窮人的案；惡人沒有聰明，就不得而知<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>。\n
 
-Pro 17:27:	寡少H2820言語H561的，有H3045知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>；性情H7307溫良H3368,H7119的，有聰明H8394。
+Pro 30:3:\t我沒有學好智慧，也不認識,<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>至聖者。\n
 
-Pro 18:15:	聰明人H995的心H3820得H7069知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>；智慧人H2450的耳H241求H1245知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>。
+Eccl 1:16:\t我心裡議論說：我得了大智慧，勝過我以前在耶路撒冷的眾人，而且我心中多經歷智慧和知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的事。\n
 
-Pro 19:2:	心H5315無知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的，乃為不善H2896；腳步H7272急快H213的，難免犯罪H2398。
+Eccl 1:18:\t因為多有智慧，就多有愁煩；加增知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的，就加增憂傷。\n
 
-Pro 19:25:	鞭打H5221褻慢H3887人，愚蒙人H6612必長見識H6191；責備H3198明哲H995人，他就明白H995知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>。
+Eccl 2:21:\t因為有人用智慧、知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>、靈巧所勞碌得來的，卻要留給未曾勞碌的人為分。這也是虛空，也是大患。\n
 
-Pro 19:27:	我兒H1121，不可H2308聽了H8085教訓H4148而又偏離H7686知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的言語H561。
+Eccl 2:26:\t神喜悅,誰，就給誰智慧、知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，和喜樂；唯有罪人，神使他勞苦，叫他將所收聚的、所堆積的歸給神所喜悅的人。這也是虛空，也是捕風。\n
 
-Pro 20:15:	有H3426金子H2091和許多H7230珍珠(或譯：紅寶石)H7230，唯有知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的嘴H8193乃為貴重H3366的珍寶H3627。
+Eccl 7:12:\t因為智慧護庇人，好像銀錢護庇人一樣。惟獨智慧能保全智慧人的生命。這就是知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的益處。\n
 
-Pro 21:11:	褻慢的人H3887受刑罰H6064，愚蒙的人H6612就得智慧H2449；智慧人H2450受訓誨H7919，便得H3947知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>。
+Eccl 9:10:\t凡你手所當做的事要盡力去做；因為在你所必去的陰間沒有工作，沒有謀算，沒有知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，也沒有智慧。\n
 
-Pro 22:12:	耶和華H3068的眼目H5869眷顧H5341聰明人<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，卻傾敗H5557奸詐人H898的言語H1697。
+Eccl 12:9:\t再者，傳道者因有智慧，仍將知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>教訓眾人；又默想，又考查，又陳說許多箴言。\n
 
-Pro 22:17:	你須側H5186耳H241聽受H8085智慧人H2450的言語H1697，留心H3820領會H7896我的知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>。
+Isa 5:13:\t所以，我的百姓因無知<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>就被擄去；他們的尊貴人甚是飢餓，群眾極其乾渴,。\n
 
-Pro 22:20:	謀略H4156和知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的美事H7991，我豈沒有寫H3789給你麼？
+Isa 11:2:\t耶和華的靈必住在他身上，就是使他有智慧和聰明的靈，謀略和能力的靈，知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>和敬畏耶和華的靈。\n
 
-Pro 23:12:	你要留H935心H3820領受訓誨H4148，側耳H241聽從知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的言語H561。
+Isa 33:6:\t你一生一世必得安穩有豐盛的救恩，並智慧和知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>；你以敬畏耶和華為至寶。\n
 
-Pro 24:4:	其中H2315因知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>充滿H4390各樣美好H3368寶貴H5273的財物H1952。
+Isa 40:14:\t他與誰商議，誰教導他，誰將公平的路指示他，又將知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>教訓他，將通達的道指教他呢？\n
 
-Pro 24:5:	智慧H2450人H1397大有能力H5797；有知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的人H376力上加H553力H3581。
+Isa 44:19:\t誰心裡也不醒悟，也沒有知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，沒有聰明，能說：我曾拿一分在火中燒了，在炭火上烤過餅；我也烤過肉吃。這剩下的，我豈要作可憎的物嗎？我豈可向木墩子叩拜呢？\n
 
-Pro 29:7:	義人H6662知道查明H3045窮人H1800的案H1779；惡人H7563沒有聰明H995，就不得而知<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>。
+Isa 44:25:\t使說假話的兆頭失效，使占卜的癲狂，使智慧人退後，使他的知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>變為愚拙；\n
 
-Pro 30:3:	我沒有學好H3925智慧H2451，也不認識H3045,<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>至聖者H6918。
+Isa 47:10:\t你素來倚仗自己的惡行，說：無人看見我。你的智慧聰明<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>使你偏邪，並且你心裡說：唯有我，除我以外再沒有別的。\n
 
-Eccl 1:16:	我心裡H3820議論H1696說H559：我得了H3254大H1431智慧H2451，勝過我以前H6440在耶路撒冷H3389的眾人，而且我心中H3820多H7235經歷H7200智慧H2451和知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的事。
+Isa 48:4:\t因為我素來知道<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>你是頑梗的你的頸項是鐵的；你的額是銅的。\n
 
-Eccl 1:18:	因為多有H7230智慧H2451，就多有H7230愁煩H3708；加增H3254知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的，就加增H3254憂傷H4341。
+Isa 53:11:\t他必看見自己勞苦的功效，便心滿意足。有許多人因認識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>我的義僕得稱為義；並且他要擔當他們的罪孽。\n
 
-Eccl 2:21:	因為有H3426人H120用智慧H2451、知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>、靈巧H3788所勞碌H5999得來的，卻要留給H5414未曾勞碌H5998的人H120為分H2506。這也是虛空H1892，也是大H7227患H7451。
+Isa 58:2:\t他們天天尋求我，樂意明白<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>我的道，好像行義的國民，不離棄他們神的典章，向我求問公義的判語，喜悅親近神。\n
 
-Eccl 2:26:	神喜悅H2896,H6440誰H120，就給H5414誰智慧H2451、知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，和喜樂H8057；唯有罪人H2398，神使H5414他勞苦H6045，叫他將所收聚H622的、所堆積H3664的歸給H5414神H430所喜悅H2896的人。這也是虛空H1892，也是捕H7469風H7307。
+Jer 10:14:\t各人都成了畜類，毫無知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>；各銀匠都因他雕刻的偶像羞愧。他所鑄的偶像本是虛假的，其中並無氣息，\n
 
-Eccl 7:12:	因為智慧H2451護庇H6738人，好像銀錢H3701護庇H6738人一樣。惟獨智慧H2451能保全智慧人的生命H2421。這就是知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>的益處H3504。
+Jer 22:16:\t他為困苦和窮乏人伸冤,，那時就得了福樂。認識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>我不在乎此麼？這是耶和華說的。\n
 
-Eccl 9:10:	凡H4672你手H3027所當做H6213的事要盡力H3581去做H6213；因為在你所必去H1980的陰間H7585沒有工作H4639，沒有謀算H2808，沒有知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，也沒有智慧H2451。
+Jer 51:17:\t各人都成了畜類，毫無知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>。各銀匠都因他的偶像羞愧；他所鑄的偶像本是虛假的，其中並無氣息，\n
 
-Eccl 12:9:	再者H3148，傳道者H6953因有智慧H2450，仍將知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>教訓H3925眾人H5971；又默想H239，又考查H2713，又陳說H8626許多H7235箴言H4912。
+Dan 1:4:\t就是年少沒有殘疾,、相貌俊美、通達各樣學問、知識,<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>聰明,俱備、足能侍立在王宮裡的，要教他們迦勒底的文字言語。\n
 
-Isa 5:13:	所以，我的百姓H5971因無知<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>就被擄去H1540；他們的尊貴H3519人H4962甚是飢餓H7458，群眾H1995極其乾渴H6704,H6772。
+Dan 12:4:\t但以理啊，你要隱藏這話，封閉這書，直到末時。必有多人來往奔跑，(或譯：切心研究)知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>就必增長。\n
 
-Isa 11:2:	耶和華H3068的靈H7307必住在H5117他身上，就是使他有智慧H2451和聰明H998的靈H7307，謀略H6098和能力H1369的靈H7307，知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>和敬畏H3374耶和華H3068的靈H7307。
+Hos 4:1:\t以色列人哪，你們當聽耶和華的話。耶和華與這地的居民爭辯，因這地上無誠實，無良善，無人認識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>神。\n
 
-Isa 33:6:	你一生一世H6256必得安穩H530有豐盛H2633的救恩H3444，並智慧H2451和知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>；你以敬畏H3374耶和華H3068為至寶H214。
+Hos 4:6:\t我的民因無知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>而滅亡。你棄掉知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，我也必棄掉你，使你不再給我作祭司。你既忘了你神的律法，我也必忘記你的兒女。\n
 
-Isa 40:14:	他與誰商議H3289，誰教導他H995，誰將公平H4941的路H734指示他H3925，又將知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>教訓他H3925，將通達H8394的道H1870指教他H3045呢？
+Hos 6:6:\t我喜愛良善(或譯：憐恤)，不喜愛祭祀；喜愛認識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>神，勝於燔祭。\n
 
-Isa 44:19:	誰心H3820裡也不醒悟H7725，也沒有知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，沒有聰明H8394，能說H559：我曾拿一分H2677在火H784中H1119燒了H8313，在炭火H1513上烤過H644餅H3899；我也烤過H6740肉H1320吃H398。這剩下的H3499，我豈要作H6213可憎的物H8441嗎？我豈可向木H6086墩子H944叩拜H5456呢？
+Mal 2:7:\t祭司的嘴裡當存知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，人也當由他口中尋求律法，因為他是萬軍之耶和華的使者。\n
 
-Isa 44:25:	使說假話H907的兆頭H226失效H6565，使占卜的H7080癲狂H1984，使智慧人H2450退H7725後H268，使他的知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>變為愚拙H5528；
 
-Isa 47:10:	你素來倚仗H982自己的惡行H7451，說H559：無人看見我H7200。你的智慧H2451聰明<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>使你偏邪H7725，並且你心裡H3820說H559：唯有我，除我以外再沒有H657別的。
-
-Isa 48:4:	因為我素來知道<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>你是頑梗H7186的你的頸項H6203是鐵H1270的；你的額H4696是銅H5154的。
-
-Isa 53:11:	他必看見H7200自己H5315勞苦H5999的功效，便心滿意足H7646。有許多人H7227因認識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>我的義H6662僕H5650得稱為義H6663；並且他要擔當H5445他們的罪孽H5771。
-
-Isa 58:2:	他們天H3117天H3117尋求H1875我，樂意H2654明白<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>我的道H1870，好像行H6213義H6666的國民H1471，不離棄H5800他們神H430的典章H4941，向我求問H7592公義H6664的判語H4941，喜悅H2654親近H7132神H430。
-
-Jer 10:14:	各人H120都成了畜類H1197，毫無知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>；各銀匠H6884都因他雕刻的偶像H6459羞愧H3001。他所鑄的偶像H5262本是虛假的H8267，其中並無氣息H7307，
-
-Jer 22:16:	他為困苦H6041和窮乏人H34伸冤H1777,H1779，那時就得了福樂H2896。認識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>我不在乎此麼？這是耶和華H3068說H5002的。
-
-Jer 51:17:	各人H120都成了畜類H1197，毫無知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>。各銀匠H6884都因他的偶像H6459羞愧H3001；他所鑄的偶像H5262本是虛假的H8267，其中並無氣息H7307，
-
-Dan 1:4:	就是年少H3206沒有殘疾H3971,H3971、相貌H4758俊美H2896、通達H7919各樣學問H2451、知識H3045,<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>聰明H995,H4093俱備、足能H3581侍立H5975在王H4428宮H1964裡的，要教H3925他們迦勒底H3778的文字H5612言語H3956。
-
-Dan 12:4:	但以理H1840啊，你要隱藏H5640這話H1697，封閉H2856這書H5612，直到末H7093時H6256。必有多H7227人來往奔跑H7751，(或譯：切心研究)知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>就必增長H7235。
-
-Hos 4:1:	以色列H3478人H1121哪，你們當聽H8085耶和華H3068的話H1697。耶和華H3068與這地H776的居民H3427爭辯H7379，因這地上H776無誠實H571，無良善H2617，無人認識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>神H430。
-
-Hos 6:6:	我喜愛H2654良善(或譯：憐恤)H2617，不喜愛祭祀H2077；喜愛認識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>神H430，勝於燔祭H5930。
-
-Mal 2:7:	祭司H3548的嘴H8193裡當存H8104知識<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>，人也當由他口H6310中尋求H1245律法H8451，因為他是萬軍H6635之耶和華H3068的使者H4397。
 
 
 Chinese Union Bible (1919) - with Strong’s numbers
 
-'<sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup>'
+'<sup><mark style="background-color: #A8CD66 ; color: black;"><sup><mark style="background-color: #A8CD66 ; color: black;">H1847</mark></sup></mark></sup>'
 Total number of matched verses: 88
 Total number of occurrences: 90
 
