@@ -1,14 +1,274 @@
 // quoting with background *////////////////////////////////////////////////////////////////////////
 .quote {
-  margin: 0;
-  background: #0A7E8C;
-  padding: 0.5em;
-  border-radius: 1em;
-  font-style: italic;
-  color: white;
+  max-width: 42rem;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  background: #f9f8f5;
+  border: 1px solid #ddd;
+  border-radius: 12px;
 }
-.quote figcaption,
+
 .quote blockquote {
-  margin: 1em;
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.6;
+  padding-left: 1rem;
+  border-left: 4px solid #01696f;
 }
+
+.quote figcaption {
+  margin-top: 1rem;
+  text-align: right;
+  font-style: italic;
+  color: #666;
+}
+
+
+.modern-quote {
+  margin: 2rem 0;
+  padding: 1.25rem 1.5rem;
+  border-left: 4px solid #01696f;
+  background: #f7f6f2;
+  border-radius: 12px;
+}
+
+.modern-quote p {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+
+.card-quote {
+  max-width: 36rem;
+  margin: 3rem auto;
+  padding: 2rem;
+  background: white;
+  border-radius: 1rem;
+  box-shadow: 0 10px 30px rgba(0,0,0,.08);
+  text-align: center;
+}
+
+.card-quote blockquote {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.card-quote figcaption {
+  margin-top: 1rem;
+  color: #777;
+}
+
+
+.book-quote {
+  /*max-width: 48rem;*/
+  margin: 2rem auto;
+  padding: 2rem 2.5rem;
+  background: linear-gradient(180deg, #fbfbf9, #f3f0ec);
+  border-radius: 1rem;
+  border: 1px solid #dcd9d5;
+}
+
+.book-quote blockquote {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.7;
+  position: relative;
+}
+
+.book-quote blockquote::before {
+  content: "“";
+  font-size: 4rem;
+  line-height: 0;
+  position: absolute;
+  left: -0.4rem;
+  top: 0.8rem;
+  color: #01696f;
+}
+
+.book-quote figcaption {
+  margin-top: 1rem;
+  font-size: 0.95rem;
+  color: #7a7974;
+}
+
+
+.elegant-quote {
+  max-width: 42rem;
+  margin: 2.5rem auto;
+  padding: 1.5rem 2rem;
+  border-left: 3px solid #01696f;
+  background: #f9f8f5;
+}
+
+.elegant-quote blockquote p {
+  margin: 0;
+  font-size: 1.35rem;
+  line-height: 1.75;
+  font-style: italic;
+}
+
+.elegant-quote figcaption {
+  margin-top: 1rem;
+  font-size: 0.95rem;
+  color: #7a7974;
+}
+
+
+.framed-quote {
+  max-width: 40rem;
+  margin: 3rem auto;
+  padding: 2rem;
+  background: white;
+  border: 1px solid #dcd9d5;
+  border-radius: 1rem;
+  box-shadow: 0 12px 32px rgba(0,0,0,.06);
+}
+
+.framed-quote blockquote {
+  margin: 0;
+  padding-left: 1rem;
+  border-left: 4px solid #d19900;
+}
+
+.framed-quote p {
+  margin: 0;
+  font-size: 1.2rem;
+  line-height: 1.7;
+}
+
+
+.pull-quote {
+  max-width: 48rem;
+  margin: 4rem auto;
+  padding: 0;
+  text-align: center;
+}
+
+.pull-quote p {
+  margin: 0;
+  font-size: clamp(1.6rem, 2vw, 2.5rem);
+  line-height: 1.25;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.pull-quote::before,
+.pull-quote::after {
+  content: "“";
+  color: #01696f;
+  font-size: 3rem;
+}
+
+
+.magazine-quote {
+  max-width: 46rem;
+  margin: 3rem auto;
+  padding: 2rem 2.5rem;
+  background: linear-gradient(180deg, #fbfbf9, #f3f0ec);
+  border-radius: 1.25rem;
+}
+
+.magazine-quote blockquote {
+  margin: 0;
+}
+
+.magazine-quote p {
+  margin: 0;
+  font-size: 1.4rem;
+  line-height: 1.8;
+  font-weight: 400;
+}
+
+.magazine-quote figcaption {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: #7a7974;
+}
+
+
+
+.fancy-quote {
+  position: relative;
+  margin: 2rem 0;
+  padding: 1.5rem 2rem;
+  background: #f9f8f5;
+  border-left: 4px solid #01696f;
+  border-radius: 12px;
+}
+
+.fancy-quote p {
+  margin: 0;
+  font-size: 1.2rem;
+  line-height: 1.7;
+  position: relative;
+}
+
+.fancy-quote p::before {
+  content: "“";
+  font-size: 3rem;
+  color: #01696f;
+  line-height: 0;
+  margin-right: 0.25rem;
+  vertical-align: -0.4rem;
+}
+
+.fancy-quote p::after {
+  content: "”";
+  font-size: 3rem;
+  color: #01696f;
+  line-height: 0;
+  margin-left: 0.15rem;
+  vertical-align: -0.5rem;
+}
+
+
+
+.quote-card {
+  position: relative;
+  max-width: 42rem;
+  margin: 2rem auto;
+  padding: 2rem 2rem 1.5rem 2.5rem;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 16px;
+}
+
+.quote-card blockquote {
+  margin: 0;
+}
+
+.quote-card blockquote::before {
+  content: "“";
+  position: absolute;
+  top: 0.4rem;
+  left: 1rem;
+  font-size: 5rem;
+  color: rgba(1, 105, 111, 0.18);
+  line-height: 1;
+}
+
+/* explain: margin creates empty space outside an element. 1em is usually equal to the current font size, so with a 16px font it is commonly 16px on all four sides: top, right, bottom, and left.*/
+
 //* the end *****************************************************************************************
+
+
+blockquote {
+    margin: $padding-16 0; /*adds vertical space above and below the blockquote, with no left/right margin. */
+    
+    padding: $padding-8 $padding-16 $padding-8 ($padding-16 - $padding-4); /*adds internal space inside the blockquote. The left padding is reduced by the border width*/
+
+    border-inline-start: $padding-4 solid #01696f; /*draws a border on the start side of the line, which means left in left-to-right languages and right in right-to-left languages. */
+    
+    border-radius: $border-radius;
+
+    &:first-child {
+      margin-top: 0;
+    } /*That means it applies to the first child element inside the blockquote, not the blockquote itself. */
+    &:last-child {
+      margin-bottom: 0;
+    }
+}

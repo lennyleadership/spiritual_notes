@@ -152,12 +152,13 @@ section.accordion {
 
 
 
-
+/* Accordion content: expand to its full natural height */
 #accordion .accordion-content {
-  max-height: 1000px;
+  max-height: none;
+  height: auto;
   overflow: hidden;
   opacity: 1;
-  transition: max-height 0.6s ease, opacity 0.3s ease;
+  transition: max-height 0.6s ease, opacity 0.3s ease, padding 0.6s ease; /* keep the expand/collapse animation*/
 }
 
 #accordion input[type="checkbox"]:checked ~ .accordion-content {
@@ -182,6 +183,7 @@ section.accordion {
 #accordion ul li input[type=checkbox]:checked ~ i:before {
   transform: translate(2px, 0) rotate(45deg);
 }
+
 #accordion ul li input[type=checkbox]:checked ~ i:after {
   transform: translate(-2px, 0) rotate(-45deg);
 }
